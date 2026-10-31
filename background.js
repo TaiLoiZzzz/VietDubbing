@@ -44,7 +44,8 @@ function print() { __p += __j.call(arguments, '') }
 
 class vh extends de{
   async doLocalTranslate(texts,fromLang,toLang){
-    const norm = l => {
+    if(!texts || texts.length === 0) return [];
+    const norm = (l) => {
       if(!l) return "auto";
       const s = String(l).trim().toLowerCase();
       if(s.startsWith("zh-cn")||s==="zh") return "zh-CN";
@@ -67,7 +68,7 @@ class vh extends de{
         cur.push({index: i, text: "", empty: true});
         continue;
       }
-      if(cur.length > 0 && (cur.length >= 25 || curLen + t.length > 1200)){
+      if(cur.length > 0 && (cur.length >= 35 || curLen + t.length > 2000)){
         chunks.push(cur);
         cur = [];
         curLen = 0;
@@ -77,42 +78,37 @@ class vh extends de{
     }
     if(cur.length > 0) chunks.push(cur);
     const finalResults = new Array(cleanTexts.length).fill("");
-    for(const chunk of chunks){
+
+    await Promise.all(chunks.map(async (chunk) => {
       const activeItems = chunk.filter(c => !c.empty);
       if(activeItems.length === 0){
         for(const c of chunk) finalResults[c.index] = { text: "" };
-        continue;
+        return;
       }
       const activeTexts = activeItems.map(c => c.text);
-      let geminiRes = await bgTranslateWithGemini(activeTexts, sl, tl);
-      if(geminiRes && geminiRes.length === activeItems.length){
-        for(let j=0; j<activeItems.length; j++){
-          finalResults[activeItems[j].index] = { text: (geminiRes[j] || "").trim() || activeItems[j].text };
-        }
-      } else {
-        const joined = activeTexts.join("\n");
-        try{
-          const url = "https://clients5.google.com/translate_a/t?client=dict-chrome-ex&sl=" + encodeURIComponent(sl) + "&tl=" + encodeURIComponent(tl) + "&q=" + encodeURIComponent(joined);
-          const res = await fetch(url, { headers: { "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" } });
-          if(res.ok){
-            const data = await res.json();
-            const translatedStr = Array.isArray(data) ? data[0] : (typeof data === "string" ? data : "");
-            const lines = translatedStr.split("\n");
-            for(let j=0; j<activeItems.length; j++){
-              const trans = (lines[j] !== undefined && lines[j].trim()) ? lines[j].trim() : activeItems[j].text;
-              finalResults[activeItems[j].index] = { text: trans };
-            }
-          } else {
-            for(const c of activeItems) finalResults[c.index] = { text: c.text };
+      const joined = activeTexts.join("\n");
+      try{
+        const url = "https://clients5.google.com/translate_a/t?client=dict-chrome-ex&sl=" + encodeURIComponent(sl) + "&tl=" + encodeURIComponent(tl) + "&q=" + encodeURIComponent(joined);
+        const res = await fetch(url, { headers: { "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" } });
+        if(res.ok){
+          const data = await res.json();
+          const translatedStr = Array.isArray(data) ? data[0] : (typeof data === "string" ? data : "");
+          const lines = translatedStr.split("\n");
+          for(let j=0; j<activeItems.length; j++){
+            const trans = (lines[j] !== undefined && lines[j].trim()) ? lines[j].trim() : activeItems[j].text;
+            finalResults[activeItems[j].index] = { text: trans };
           }
-        }catch(err){
+        } else {
           for(const c of activeItems) finalResults[c.index] = { text: c.text };
         }
+      }catch(err){
+        for(const c of activeItems) finalResults[c.index] = { text: c.text };
       }
       for(const c of chunk){
         if(c.empty) finalResults[c.index] = { text: "" };
       }
-    }
+    }));
+
     return finalResults;
   }
   async translate(e,t,i,u,s){return await this.doLocalTranslate(e,t,i);}

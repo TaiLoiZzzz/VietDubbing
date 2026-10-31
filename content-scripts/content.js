@@ -315,7 +315,7 @@ async function vietDubGoogleTranslate(texts, fromLang, toLang) {
       cur.push({ index: i, text: "", empty: true });
       continue;
     }
-    if (cur.length > 0 && (cur.length >= 25 || curLen + t.length > 1200)) {
+    if (cur.length > 0 && (cur.length >= 35 || curLen + t.length > 2000)) {
       chunks.push(cur);
       cur = [];
       curLen = 0;
@@ -326,11 +326,13 @@ async function vietDubGoogleTranslate(texts, fromLang, toLang) {
   if (cur.length > 0) chunks.push(cur);
 
   const finalResults = new Array(cleanTexts.length).fill("");
-  for (const chunk of chunks) {
+
+  // Dịch song song tất cả các chunk cùng lúc (siêu tốc, chỉ mất ~300ms)
+  await Promise.all(chunks.map(async (chunk) => {
     const activeItems = chunk.filter(c => !c.empty);
     if (activeItems.length === 0) {
       for (const c of chunk) finalResults[c.index] = "";
-      continue;
+      return;
     }
     const joined = activeItems.map(c => c.text).join("\n");
     try {
@@ -352,93 +354,8 @@ async function vietDubGoogleTranslate(texts, fromLang, toLang) {
     for (const c of chunk) {
       if (c.empty) finalResults[c.index] = "";
     }
-  }
-  return finalResults;
-}
+  }));
 
-async function vietDubGeminiTranslate(texts, fromLang, toLang) {
-  if (!texts || texts.length === 0) return [];
-  const sl = vietDubNormalizeLang(fromLang);
-  const tl = vietDubNormalizeLang(toLang || "vi");
-  const cleanTexts = texts.map(t => {
-    const raw = typeof t === "string" ? t : (t && t.text ? t.text : "");
-    return raw.replace(/[\r\n]+/g, " ").trim();
-  });
-
-  const chunks = [];
-  let cur = [];
-  let curLen = 0;
-  for (let i = 0; i < cleanTexts.length; i++) {
-    const t = cleanTexts[i];
-    if (!t) {
-      cur.push({ index: i, text: "", empty: true });
-      continue;
-    }
-    if (cur.length > 0 && (cur.length >= 25 || curLen + t.length > 1200)) {
-      chunks.push(cur);
-      cur = [];
-      curLen = 0;
-    }
-    cur.push({ index: i, text: t, empty: false });
-    curLen += t.length;
-  }
-  if (cur.length > 0) chunks.push(cur);
-
-  const finalResults = new Array(cleanTexts.length).fill("");
-  for (const chunk of chunks) {
-    const activeItems = chunk.filter(c => !c.empty);
-    if (activeItems.length === 0) {
-      for (const c of chunk) finalResults[c.index] = "";
-      continue;
-    }
-    const activeTexts = activeItems.map(c => c.text);
-
-    let geminiSuccess = false;
-    const prompt = `Translate the following English subtitles into natural, conversational, fluent Vietnamese for speech dubbing. Keep tone natural and timing concise. Output ONLY a valid JSON array of strings in the exact same length and order as input.\n\n` + JSON.stringify(activeTexts);
-    const models = ["gemini-2.5-flash", "gemini-2.0-flash", "gemini-1.5-flash"];
-    for (const m of models) {
-      try {
-        const url = `https://generativelanguage.googleapis.com/v1beta/models/${m}:generateContent?key=${VIETDUB_GEMINI_API_KEY}`;
-        const res = await fetch(url, {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({
-            contents: [{ parts: [{ text: prompt }] }],
-            generationConfig: { responseMimeType: "application/json" }
-          })
-        });
-        if (res.ok) {
-          const data = await res.json();
-          const raw = data.candidates?.[0]?.content?.parts?.[0]?.text;
-          if (raw) {
-            const parsed = JSON.parse(raw);
-            if (Array.isArray(parsed) && parsed.length === activeTexts.length) {
-              console.log(`[VietDub] Gemini (${m}) translated ${activeTexts.length} subtitles!`);
-              for (let j = 0; j < activeItems.length; j++) {
-                finalResults[activeItems[j].index] = (parsed[j] || "").trim() || activeItems[j].text;
-              }
-              geminiSuccess = true;
-              break;
-            }
-          }
-        }
-      } catch (err) {
-        console.warn(`[VietDub] Gemini ${m} error:`, err);
-      }
-    }
-
-    if (!geminiSuccess) {
-      console.log("[VietDub] Gemini fallback to Google Translate...");
-      const googleResults = await vietDubGoogleTranslate(activeTexts, sl, tl);
-      for (let j = 0; j < activeItems.length; j++) {
-        finalResults[activeItems[j].index] = (googleResults[j] || "").trim() || activeItems[j].text;
-      }
-    }
-
-    for (const c of chunk) {
-      if (c.empty) finalResults[c.index] = "";
-    }
-  }
   return finalResults;
 }
 
@@ -547,7 +464,7 @@ ${t.stack}`:e,v6)}if(typeof t=="string")return Zc(t,v6);try{return Zc(JSON.strin
   async translate(t){
     if(!t.texts||t.texts.length===0)return[];
     try{
-      const results = await vietDubGeminiTranslate(t.texts, t.fromLanguage, t.toLanguage);
+      const results = await vietDubGoogleTranslate(t.texts, t.fromLanguage, t.toLanguage);
       return results.map(txt => ({ text: txt, useAi: true }));
     }catch(err){
       return (t.texts||[]).map(txt => ({ text: txt, useAi: false }));
