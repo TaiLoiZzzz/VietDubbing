@@ -1,0 +1,2315 @@
+{
+  "name": {
+    "message": "VietDub AI – Thuyết Minh & Dịch Video YouTube Tức Thì"
+  },
+  "description": {
+    "message": "Một cú nhấp dịch và lồng tiếng video, hiểu ngoại ngữ tức thì, tiếp cận tri thức toàn cầu"
+  },
+  "metadataNotFound": {
+    "message": "Không tìm thấy metadata video, vui lòng làm mới trang và thử lại"
+  },
+  "dubbingMediaNotFoundTitle": {
+    "message": "Không tìm thấy video có thể lồng tiếng"
+  },
+  "dubbingMediaNotFoundText": {
+    "message": "Trang hiện chưa có video hoặc âm thanh khả dụng. Vui lòng chờ video tải xong rồi thử lại, hoặc làm mới trang."
+  },
+  "noSubtitlesFound": {
+    "message": "Video hiện tại không có phụ đề, không hỗ trợ dịch và lồng tiếng"
+  },
+  "liveVideoNotSupported": {
+    "message": "Video trực tiếp chưa hỗ trợ lồng tiếng"
+  },
+  "universalDubbingNotSupported": {
+    "message": "Lồng tiếng phổ quát không được hỗ trợ cho video này trong phiên bản hiện tại. Hỗ trợ được lên kế hoạch cho phiên bản tiếp theo. Vui lòng liên hệ dịch vụ khách hàng để biết chi tiết."
+  },
+  "postLoginTranslationSettings": {
+    "message": "Đăng nhập xong, nhấp ICON để chọn ngôn ngữ và giọng nói."
+  },
+  "noSubtitlesWaitOptimization": {
+    "message": "Video này không có phụ đề (CC) trên YouTube. Tiện ích cần có phụ đề để dịch và thuyết minh. Vui lòng mở video có hỗ trợ phụ đề CC bạn nhé!"
+  },
+  "privateVideoNoSubtitles": {
+    "message": "Video này không có phụ đề và là video riêng tư. Plugin không thể nhận dạng phụ đề cho video này ở chế độ nền. Vui lòng chuyển video sang công khai hoặc thêm phụ đề thủ công rồi thử lại."
+  },
+  "trialMemberDurationLimit": {
+    "message": "Video hiện tại không có phụ đề. Do bạn là thành viên dùng thử, hiện tại chỉ hỗ trợ nhận dạng phụ đề cho video dưới 15 phút. Thành viên chính thức hỗ trợ video dưới 3 giờ."
+  },
+  "premiumMemberDurationLimit": {
+    "message": "Video này không có phụ đề và thời lượng video vượt quá 3 giờ, không hỗ trợ dịch và lồng tiếng. Vui lòng chọn video ngắn hơn hoặc video có phụ đề."
+  },
+  "freeUserNoSubtitles": {
+    "message": "Video này không có phụ đề tích hợp. Vui lòng đăng ký thành viên plugin để nhận dạng phụ đề và tận hưởng tính năng dịch và lồng tiếng."
+  },
+  "freeUserDailyLimit": {
+    "message": "Người dùng miễn phí có thể xem tối đa 5 video mỗi ngày thông qua plugin. Nâng cấp thành viên để mở khóa quyền lợi xem không giới hạn."
+  },
+  "upgradeEntryUpgradeButton": {
+    "message": "Nâng cấp"
+  },
+  "upgradeEntryLaterButton": {
+    "message": "Để sau"
+  },
+  "aiSubtitlesRecognitionInBackground": {
+    "message": "Hiện video này chưa có phụ đề AI. Tiện ích đã bắt đầu nhận dạng ở chế độ nền. Sau khi nghe câu lồng tiếng đầu tiên, bạn có thể đóng trang và chờ email thông báo; khi sẵn sàng, nút lồng tiếng sẽ chuyển sang màu xanh lá và chất lượng dịch sẽ tốt hơn."
+  },
+  "upgradeMembershipForBackgroundRecognition": {
+    "message": "Nâng cấp lên thành viên, tiện ích sẽ nhận dạng phụ đề AI ở chế độ nền. Sau khi nhận được email thông báo, hãy quay lại xem; nút lồng tiếng sẽ chuyển sang màu xanh lá và bản dịch chính xác hơn."
+  },
+  "memberFreeVoiceAzureSuggestion": {
+    "message": "Bạn đang lồng tiếng bằng loại giọng miễn phí. Giọng Azure nghe tự nhiên hơn; hội viên hiện có thể dùng Azure không giới hạn và không cần nạp thêm hạn mức."
+  },
+  "memberAiSubtitlePlatformPrioritySuggestion": {
+    "message": "Hiện đang sử dụng phụ đề do AI nền của tiện ích nhận dạng. Nếu bản dịch có vẻ chưa chính xác, hãy đổi ưu tiên phụ đề sang phụ đề của nền tảng trong Cài đặt cơ bản."
+  },
+  "openBasicSettingsLink": {
+    "message": "Mở Cài đặt cơ bản"
+  },
+  "doNotShowAgainLink": {
+    "message": "Không hiển thị lại"
+  },
+  "loginAndUsePlugin": {
+    "message": "Nhấp ICON đăng nhập trước khi dùng plugin lồng tiếng."
+  },
+  "voiceSettingsMismatch": {
+    "message": "Loại giọng nói và cài đặt giọng nói không khớp. Vui lòng vào trang cài đặt để chọn lại và lưu cài đặt giọng nói."
+  },
+  "contentMenusTitle": {
+    "message": "Bắt đầu phát lồng tiếng"
+  },
+  "videoDetectedDomainTooltip": {
+    "message": "Lĩnh vực được nhận diện của video hiện tại: {domain}"
+  },
+  "dropboxClickCcToTranscribe": {
+    "message": "Video này vẫn chưa được chuyển lời (transcribe). Vui lòng nhấp nút CC ở phía dưới video Dropbox để tạo phụ đề. Sau khi chuyển lời xong, hãy nhấp nút lồng tiếng của tiện ích để dịch và lồng tiếng."
+  },
+  "iosInterceptorConflictTitle": {
+    "message": "Phát hiện xung đột tiện ích"
+  },
+  "iosInterceptorConflictMessage": {
+    "message": "Một tiện ích trình duyệt khác đang chặn việc chặn các yêu cầu phụ đề. Vui lòng tắt tiện ích xung đột, tải lại trang và thử lại."
+  },
+  "login": {
+    "message": "Login"
+  },
+  "logout": {
+    "message": "Đăng xuất"
+  },
+  "subscribe": {
+    "message": "Nâng cấp"
+  },
+  "save_settings": {
+    "message": "Lưu"
+  },
+  "saving": {
+    "message": "Đang lưu..."
+  },
+  "saveSuccessTitle": {
+    "message": "Lưu thành công"
+  },
+  "saveSuccessText": {
+    "message": "Cài đặt đã được lưu"
+  },
+  "saveFailedTitle": {
+    "message": "Lưu thất bại"
+  },
+  "saveFailedText": {
+    "message": "Lưu cài đặt lỗi, thử lại"
+  },
+  "confirmButton": {
+    "message": "Tiếp tục lưu"
+  },
+  "cancelButton": {
+    "message": "Hủy"
+  },
+  "back": {
+    "message": "Quay lại"
+  },
+  "backToSettings": {
+    "message": "Về cài đặt"
+  },
+  "backToVideoLibrary": {
+    "message": "Quay lại thư viện video"
+  },
+  "source_languages": {
+    "message": "Ngôn ngữ gốc:"
+  },
+  "target_languages": {
+    "message": "Ngôn ngữ đích:"
+  },
+  "selectSourceLanguage": {
+    "message": "Chọn ngôn ngữ gốc"
+  },
+  "selectTargetLanguage": {
+    "message": "Chọn ngôn ngữ đích"
+  },
+  "searchSourceLanguage": {
+    "message": "Tìm ngôn ngữ gốc..."
+  },
+  "searchTargetLanguage": {
+    "message": "Tìm ngôn ngữ đích..."
+  },
+  "loading": {
+    "message": "Đang tải"
+  },
+  "sex": {
+    "message": "Giới tính:"
+  },
+  "voices": {
+    "message": "Giọng nói:"
+  },
+  "voicesType": {
+    "message": "Loại giọng:"
+  },
+  "man": {
+    "message": "Nam"
+  },
+  "woman": {
+    "message": "Nữ"
+  },
+  "free": {
+    "message": "Miễn phí"
+  },
+  "memberFree": {
+    "message": "Miễn phí cho hội viên"
+  },
+  "memberFreeRequireMembership": {
+    "message": "Loại giọng này chỉ dành cho hội viên. Nâng cấp để sử dụng miễn phí."
+  },
+  "azureRequireMembership": {
+    "message": "Azure TTS chỉ dành cho hội viên. Nâng cấp để mở khóa giọng Azure chất lượng cao."
+  },
+  "originalAudio": {
+    "message": "Âm gốc"
+  },
+  "translatedAudio": {
+    "message": "Âm dịch"
+  },
+  "backgroundAudio": {
+    "message": "Âm nền"
+  },
+  "textToSpeech": {
+    "message": "Phát âm văn bản:"
+  },
+  "textToSpeechToggle": {
+    "message": "Bong bóng nổi"
+  },
+  "showSubtitle": {
+    "message": "Hiển thị phụ đề:"
+  },
+  "subtitleSize": {
+    "message": "Cỡ chữ"
+  },
+  "subtitles": {
+    "message": "Phụ đề"
+  },
+  "toggleSubtitles": {
+    "message": "Bật/tắt phụ đề"
+  },
+  "subtitleDisplayMode": {
+    "message": "Chế độ hiển thị phụ đề"
+  },
+  "subtitleModeTranslated": {
+    "message": "Chỉ bản dịch"
+  },
+  "subtitleModeBilingual": {
+    "message": "Phụ đề song ngữ"
+  },
+  "subtitleModeOff": {
+    "message": "Tắt phụ đề"
+  },
+  "translateService": {
+    "message": "Dịch vụ dịch:"
+  },
+  "translationEngine": {
+    "message": "Công cụ dịch"
+  },
+  "translationService": {
+    "message": "Dịch vụ dịch thuật"
+  },
+  "translationServiceTitle": {
+    "message": "Dịch vụ dịch"
+  },
+  "advancedSettings": {
+    "message": "Cài đặt nâng cao"
+  },
+  "pauseVideo": {
+    "message": "Tạm dừng video"
+  },
+  "iosOpenOriginVolume": {
+    "message": "Bật âm gốc:"
+  },
+  "voicesAndSubtitles": {
+    "message": "Giọng nói và phụ đề"
+  },
+  "voicesAndSubtitlesTitle": {
+    "message": "Giọng và phụ đề"
+  },
+  "speakerList": {
+    "message": "Danh sách người nói"
+  },
+  "speakersTitle": {
+    "message": "Nhân vật"
+  },
+  "deleteSpeaker": {
+    "message": "Xóa"
+  },
+  "editSpeaker": {
+    "message": "Chỉnh sửa người nói"
+  },
+  "speakerName": {
+    "message": "Tên người nói"
+  },
+  "enterSpeakerName": {
+    "message": "Nhập tên người nói"
+  },
+  "enterVoice": {
+    "message": "Nhập tên giọng nói"
+  },
+  "voice": {
+    "message": "Giọng nói"
+  },
+  "gender": {
+    "message": "Giới tính"
+  },
+  "male": {
+    "message": "Nam"
+  },
+  "female": {
+    "message": "Nữ"
+  },
+  "edit": {
+    "message": "Chỉnh sửa"
+  },
+  "delete": {
+    "message": "Xóa"
+  },
+  "save": {
+    "message": "Lưu"
+  },
+  "cancel": {
+    "message": "Hủy"
+  },
+  "confirmDeleteSpeaker": {
+    "message": "Bạn có chắc chắn muốn xóa người nói này không?"
+  },
+  "noSpeakers": {
+    "message": "Không có người nói"
+  },
+  "memberUser": {
+    "message": "PRO"
+  },
+  "accountBalance": {
+    "message": "Số dư tài khoản:"
+  },
+  "userAccountAriaLabel": {
+    "message": "Tài khoản người dùng"
+  },
+  "membershipExpires": {
+    "message": "Đến"
+  },
+  "shortcutSettings": {
+    "message": "Cài đặt phím tắt"
+  },
+  "subscriptionRecharge": {
+    "message": "Nâng cấp & Nạp tiền"
+  },
+  "membershipIcon": {
+    "message": "Biểu tượng thành viên"
+  },
+  "browserShortcutSettingsTip": {
+    "message": "Cài phím tắt trong phần mở rộng trình duyệt"
+  },
+  "safariShortcutSettingsTip": {
+    "message": "Cài phím tắt trong Safari > Tùy chọn > Mở rộng"
+  },
+  "edgeShortcutSettingsTip": {
+    "message": "Mở trang cài đặt phím tắt Edge"
+  },
+  "firefoxShortcutSettingsTip": {
+    "message": "Mở trang tiện ích Firefox để cài phím tắt"
+  },
+  "dubbingSettings": {
+    "message": "Cài đặt lồng tiếng"
+  },
+  "debugInfo": {
+    "message": "Thông tin gỡ lỗi"
+  },
+  "sourceLanguage": {
+    "message": "Ngôn ngữ nguồn"
+  },
+  "targetLanguage": {
+    "message": "Ngôn ngữ đích"
+  },
+  "vipRequiredTitle": {
+    "message": "Cần thành viên"
+  },
+  "vipRequiredText": {
+    "message": "Bạn cần là thành viên để dùng chức năng này"
+  },
+  "vipAndBalanceRequiredTitle": {
+    "message": "Cần thành viên và hạn mức"
+  },
+  "vipAndBalanceRequiredText": {
+    "message": "Cần thành viên và nạp hạn mức để dùng chức năng"
+  },
+  "balanceRequiredTitle": {
+    "message": "Cần hạn mức"
+  },
+  "balanceRequiredText": {
+    "message": "Số dư không đủ, nạp để dùng chức năng"
+  },
+  "lowBalanceTitle": {
+    "message": "Nhắc nhở số dư thấp"
+  },
+  "lowBalanceText": {
+    "message": "Số dư dưới 1 USD, nạp để dùng tiếp"
+  },
+  "insufficientBalance": {
+    "message": "Số dư không đủ, đã chuyển sang Google dịch."
+  },
+  "insufficientBalanceAlertMsg": {
+    "message": "Hạn mức không đủ, nạp để dùng AI dịch và Azure TTS."
+  },
+  "balanceRunningLow": {
+    "message": "Hạn mức sắp hết, nạp sớm để tránh gián đoạn."
+  },
+  "membershipRequired": {
+    "message": "Cần nạp thành viên để dùng OpenAI dịch."
+  },
+  "membershipRequiredForAI": {
+    "message": "Vui lòng nạp thành viên trước khi sử dụng AI dịch. Nếu không muốn nạp tiền, bạn có thể chọn Google Translate."
+  },
+  "insufficientMembership": {
+    "message": "Thành viên của bạn đã hết hạn. Vui lòng nạp thành viên trước khi sử dụng AI dịch và Azure TTS. Nếu không muốn nạp tiền, bạn có thể chọn Google Translate và loại giọng miễn phí."
+  },
+  "insufficientBalanceAndMembership": {
+    "message": "Vui lòng nạp thành viên và số dư trước khi sử dụng AI dịch và Azure TTS. Nếu không muốn nạp tiền, bạn có thể chọn Google Translate và loại giọng miễn phí."
+  },
+  "freeForVip": {
+    "message": "Miễn phí cho VIP"
+  },
+  "freeOptionTipText": {
+    "message": "Nếu không nạp, chọn tùy chọn miễn phí,"
+  },
+  "translateEngineTipText": {
+    "message": "Đổi dịch vụ sang Google"
+  },
+  "voiceTypeTipText": {
+    "message": "Đổi giọng sang bản miễn phí"
+  },
+  "vipFreeOptionTipText": {
+    "message": "Hội viên dùng miễn phí dịch vụ sau"
+  },
+  "vipTranslateEngineTipText": {
+    "message": "Đổi sang gemini, deepseek, gpt-3.5 miễn phí"
+  },
+  "pay": {
+    "message": "Thanh toán"
+  },
+  "switchModelWarning": {
+    "message": "Đổi giọng/dịch khi phát video sẽ tốn phí thêm."
+  },
+  "selectSpeaker": {
+    "message": "Chọn"
+  },
+  "speaker": {
+    "message": "Nhân vật"
+  },
+  "rechargeLimit": {
+    "message": "Hạn mức + Hội viên"
+  },
+  "tooExpensive": {
+    "message": "Đắt"
+  },
+  "dropdownPlaceholder": {
+    "message": "Chọn"
+  },
+  "dropdownNoOptions": {
+    "message": "Không có tùy chọn"
+  },
+  "dropdownSearch": {
+    "message": "Tìm..."
+  },
+  "swapVolumeSettingsCommand": {
+    "message": "Chuyển đổi cài đặt âm lượng giữa âm thanh gốc và lồng tiếng"
+  },
+  "cycleSubtitleModeCommand": {
+    "message": "Chuyển phụ đề: song ngữ → chỉ bản dịch → tắt"
+  },
+  "trialMemberModelLimit": {
+    "message": "Thành viên dùng thử chỉ có thể sử dụng Gemini và Google Dịch. Để dùng các mô hình khác, vui lòng đăng ký gói thành viên của chúng tôi."
+  },
+  "subtitlesRateLimitedByYouTube": {
+    "message": "Phụ đề của video này hiện đang bị YouTube giới hạn. Vui lòng thử lại sau."
+  },
+  "musicVideoNotSupported": {
+    "message": "Đây là video âm nhạc. Không hỗ trợ dịch và lồng tiếng."
+  },
+  "hideUntilNextVisit": {
+    "message": "Ẩn đến lần truy cập tiếp theo"
+  },
+  "disableGlobally": {
+    "message": "Vô hiệu hóa toàn cục"
+  },
+  "sidebarHideUntilNextVisit": {
+    "message": "Ẩn cho đến lần truy cập tiếp theo"
+  },
+  "sidebarDisableForSite": {
+    "message": "Tắt cho trang web này"
+  },
+  "sidebarDisableGlobally": {
+    "message": "Tắt toàn cục"
+  },
+  "sidebarReenableHint": {
+    "message": "Có thể bật lại trong "
+  },
+  "sidebarSettings": {
+    "message": "Cài đặt"
+  },
+  "sidebarReenableHintSuffix": {
+    "message": " "
+  },
+  "notSupported": {
+    "message": "Không được hỗ trợ"
+  },
+  "multiVideoNotSupported": {
+    "message": "Trang này có nhiều video. Lồng tiếng phổ quát chỉ hỗ trợ các trang có một video duy nhất khi sử dụng luồng HLS."
+  },
+  "mediaSourceNotDetected": {
+    "message": "Không thể phát hiện nguồn video. Trang web này có thể không được hỗ trợ."
+  },
+  "uploadMediaForRecognition": {
+    "message": "Không tìm thấy phụ đề. Bạn có muốn tải video lên để nhận dạng phụ đề bằng AI không?"
+  },
+  "startUpload": {
+    "message": "Bắt đầu tải lên"
+  },
+  "uploadingMedia": {
+    "message": "Đang tải phương tiện lên..."
+  },
+  "downloading": {
+    "message": "Đang tải xuống"
+  },
+  "uploading": {
+    "message": "Đang tải lên"
+  },
+  "completing": {
+    "message": "Đang hoàn tất"
+  },
+  "uploadComplete": {
+    "message": "Tải lên hoàn tất"
+  },
+  "waitingForRecognition": {
+    "message": "Video đã tải lên thành công. Nhận dạng phụ đề AI đang tiến hành. Bạn sẽ nhận được thông báo qua email khi hoàn tất."
+  },
+  "uploadFailed": {
+    "message": "Tải lên thất bại"
+  },
+  "corsNotSupported": {
+    "message": "Trang web này không cho phép tải xuống tệp phương tiện. Lồng tiếng phổ quát không được hỗ trợ."
+  },
+  "mediaDownloadInterrupted": {
+    "message": "Quá trình tải nội dung bị gián đoạn do lỗi mạng (không phải do trang web chặn). Vui lòng thử tải lên lại."
+  },
+  "zoomRecordingDnrNotSupported": {
+    "message": "Trình duyệt của bạn không hỗ trợ nhận dạng tải lên bản ghi Zoom. Vui lòng sử dụng Chrome/Edge."
+  },
+  "zoomRecordingDownloadForbidden403": {
+    "message": "Tải xuống bản ghi Zoom bị cấm (403). Vui lòng phát/làm mới trang để vượt qua xác minh, sau đó thử tải lên lại."
+  },
+  "liveStreamNotSupported": {
+    "message": "Phát trực tiếp không được hỗ trợ cho lồng tiếng phổ quát."
+  },
+  "noAudioTrackFound": {
+    "message": "Không phát hiện bản âm thanh. Video này có vẻ chỉ có hình ảnh không có âm thanh và không thể sử dụng để nhận dạng lồng tiếng."
+  },
+  "universalDubbingMemberOnly": {
+    "message": "Lồng tiếng phổ quát cần sức mạnh tính toán GPU đám mây (chi phí cao), chỉ dành cho VIP."
+  },
+  "videoDurationExceedsLimit": {
+    "message": "Video này dài hơn 3 giờ. Lồng tiếng phổ quát hiện không được hỗ trợ cho video dài hơn 3 giờ."
+  },
+  "videoDrmProtected": {
+    "message": "Video này được bảo vệ bởi DRM và không thể sử dụng để lồng tiếng."
+  },
+  "pleaseClickVideoToPlay": {
+    "message": "Vui lòng nhấp vào video để mở, sau đó sử dụng tính năng lồng tiếng."
+  },
+  "iosUniversalDubbingNotSupported": {
+    "message": "Lồng tiếng phổ quát không được hỗ trợ trên thiết bị iOS. Vui lòng sử dụng trình duyệt máy tính."
+  },
+  "membershipRequiredTitle": {
+    "message": "Yêu cầu thành viên"
+  },
+  "error": {
+    "message": "Lỗi"
+  },
+  "unknownError": {
+    "message": "Đã xảy ra lỗi không xác định. Vui lòng thử lại."
+  },
+  "doNotClosePage": {
+    "message": "Vui lòng không đóng hoặc làm mới trang này trong quá trình tải lên, nếu không quá trình tải lên sẽ bị gián đoạn."
+  },
+  "taskAlreadySubmitted": {
+    "message": "Video này đang được xử lý để nhận dạng phụ đề AI. Vui lòng chờ thông báo qua email."
+  },
+  "sampleAesNotSupported": {
+    "message": "Video này sử dụng mã hóa SAMPLE-AES hiện chưa được hỗ trợ để tải xuống."
+  },
+  "hlsKeyFetchFailed": {
+    "message": "Không thể lấy khóa giải mã cho video này. Video có thể được bảo vệ hoặc máy chủ khóa không khả dụng."
+  },
+  "hlsDecryptionFailed": {
+    "message": "Không thể giải mã nội dung video. Khóa mã hóa có thể không chính xác hoặc định dạng video không tương thích."
+  },
+  "subtitleStyleOptionsTitle": {
+    "message": "Cài đặt kiểu phụ đề"
+  },
+  "subtitleStyleOptionsDesc": {
+    "message": "Các điều chỉnh sẽ được lưu lại và có hiệu lực ngay lập tức."
+  },
+  "subtitleStyleSectionTitle": {
+    "message": "Kiểu phụ đề"
+  },
+  "subtitleStylePreviewTitle": {
+    "message": "Xem trước"
+  },
+  "subtitleStylePreviewTag": {
+    "message": "thời gian thực"
+  },
+  "subtitleStylePreviewText": {
+    "message": "Anh ấy nghĩ chàng trai trẻ này có tiềm năng lớn."
+  },
+  "subtitleStylePosition": {
+    "message": "Vị trí"
+  },
+  "subtitleStylePositionTop": {
+    "message": "Trên"
+  },
+  "subtitleStylePositionMiddle": {
+    "message": "Giữa"
+  },
+  "subtitleStylePositionBottom": {
+    "message": "Dưới"
+  },
+  "subtitleStyleFontFamily": {
+    "message": "Phông chữ"
+  },
+  "subtitleStyleFontSize": {
+    "message": "Cỡ chữ"
+  },
+  "subtitleStyleCustomOption": {
+    "message": "Tùy chỉnh"
+  },
+  "subtitleStyleCustomFont": {
+    "message": "Phông chữ tùy chỉnh"
+  },
+  "subtitleStyleCustomFontPlaceholder": {
+    "message": "Ví dụ: PingFang SC, Arial"
+  },
+  "subtitleStyleTextColor": {
+    "message": "Màu chữ"
+  },
+  "subtitleStyleFontWeight": {
+    "message": "Độ dày phông chữ"
+  },
+  "subtitleStyleBackgroundColor": {
+    "message": "Màu nền"
+  },
+  "subtitleStyleBackgroundOpacity": {
+    "message": "Độ mờ nền"
+  },
+  "subtitleStyleEdgeStyle": {
+    "message": "Kiểu viền"
+  },
+  "subtitleStyleEdgeNone": {
+    "message": "Không"
+  },
+  "subtitleStyleEdgeShadow": {
+    "message": "Đổ bóng"
+  },
+  "subtitleStyleEdgeOutline": {
+    "message": "Viền"
+  },
+  "subtitleStyleFontNone": {
+    "message": "Không"
+  },
+  "subtitleStyleFontDefault": {
+    "message": "Mặc định"
+  },
+  "subtitleStyleFontPingFang": {
+    "message": "PingFang SC"
+  },
+  "subtitleStyleFontYaHei": {
+    "message": "Microsoft YaHei"
+  },
+  "subtitleStyleFontHeiti": {
+    "message": "STHeiti"
+  },
+  "subtitleStyleFontKaiti": {
+    "message": "Kaiti SC"
+  },
+  "subtitleStyleFontSongti": {
+    "message": "STSong"
+  },
+  "subtitleStyleFontFangsong": {
+    "message": "FangSong"
+  },
+  "subtitleStyleFontDongqingHeiti": {
+    "message": "Dongqing Heiti"
+  },
+  "subtitleStyleFontLantingHei": {
+    "message": "Lanting Hei"
+  },
+  "subtitleStyleFontHanyiHeiliu": {
+    "message": "Hanyi Heiliu"
+  },
+  "subtitleStyleFontHanyiZhonghei": {
+    "message": "Hanyi Zhonghei"
+  },
+  "subtitleStyleFontSTSong": {
+    "message": "Songti"
+  },
+  "subtitleStyleFontWawati": {
+    "message": "Wawati"
+  },
+  "subtitleStyleFontWeibei": {
+    "message": "Weibei"
+  },
+  "subtitleStyleFontXingkai": {
+    "message": "Xingkai"
+  },
+  "subtitleStyleFontYuanti": {
+    "message": "Yuanti"
+  },
+  "subtitleStyleFontArialUnicode": {
+    "message": "Arial Unicode MS"
+  },
+  "subtitleStyleFontArial": {
+    "message": "Arial"
+  },
+  "subtitleStyleFontCourierNew": {
+    "message": "Courier New"
+  },
+  "subtitleStyleFontGeorgia": {
+    "message": "Georgia"
+  },
+  "subtitleStyleFontTahoma": {
+    "message": "Tahoma"
+  },
+  "subtitleStyleFontTimesNewRoman": {
+    "message": "Times New Roman"
+  },
+  "subtitleStyleFontTrebuchetMS": {
+    "message": "Trebuchet MS"
+  },
+  "subtitleStyleFontVerdana": {
+    "message": "Verdana"
+  },
+  "subtitleStyleFontHelveticaNeue": {
+    "message": "Helvetica Neue"
+  },
+  "subtitleStyleFontHiraginoMincho": {
+    "message": "Hiragino Mincho ProN"
+  },
+  "subtitleStyleFontHiraginoKaku": {
+    "message": "Hiragino Kaku Gothic ProN"
+  },
+  "subtitleStyleFontKohinoor": {
+    "message": "Kohinoor Devanagari"
+  },
+  "subtitleStyleFontAppleSD": {
+    "message": "Apple SD Gothic Neo"
+  },
+  "subtitleStyleFontNanumGothic": {
+    "message": "Nanum Gothic"
+  },
+  "subtitleStyleFontCustom": {
+    "message": "Tùy chỉnh"
+  },
+  "subtitleStyleColorWhite": {
+    "message": "Trắng"
+  },
+  "subtitleStyleColorYellow": {
+    "message": "màu vàng"
+  },
+  "subtitleStyleColorOrange": {
+    "message": "màu cam"
+  },
+  "subtitleStyleColorGray": {
+    "message": "xám"
+  },
+  "subtitleStyleColorGreen": {
+    "message": "màu xanh lá"
+  },
+  "subtitleStyleColorCyan": {
+    "message": "Xanh lục lam"
+  },
+  "subtitleStyleColorBlue": {
+    "message": "Xanh dương"
+  },
+  "subtitleStyleColorMagenta": {
+    "message": "màu đỏ tươi"
+  },
+  "subtitleStyleColorRed": {
+    "message": "màu đỏ"
+  },
+  "subtitleStyleColorBlack": {
+    "message": "màu đen"
+  },
+  "subtitleStyleEditorViewLabel": {
+    "message": "Chế độ chỉnh sửa kiểu"
+  },
+  "subtitleStyleEditorViewTranslated": {
+    "message": "Chỉ bản dịch"
+  },
+  "subtitleStyleEditorViewBilingual": {
+    "message": "Song ngữ"
+  },
+  "subtitleStyleLayoutSectionTitle": {
+    "message": "Bố cục song ngữ"
+  },
+  "subtitleStyleOrder": {
+    "message": "Thứ tự phụ đề"
+  },
+  "subtitleStyleOrderTranslatedFirst": {
+    "message": "Bản dịch phía trên"
+  },
+  "subtitleStyleOrderOriginalFirst": {
+    "message": "Bản gốc phía trên"
+  },
+  "subtitleStyleLineGap": {
+    "message": "Khoảng cách dòng"
+  },
+  "subtitleStyleTextAlign": {
+    "message": "Căn ngang"
+  },
+  "subtitleStyleTextAlignLeft": {
+    "message": "Trái"
+  },
+  "subtitleStyleTextAlignCenter": {
+    "message": "Giữa"
+  },
+  "subtitleStyleTextAlignRight": {
+    "message": "Phải"
+  },
+  "subtitleStyleTranslatedSectionTitle": {
+    "message": "Kiểu bản dịch"
+  },
+  "subtitleStyleOriginalSectionTitle": {
+    "message": "Kiểu bản gốc"
+  },
+  "subtitleStyleFollowTranslated": {
+    "message": "Theo kiểu bản dịch"
+  },
+  "subtitleStyleUsesCurrentSettings": {
+    "message": "Dùng cài đặt hiện tại"
+  },
+  "subtitleStyleOriginalSizePercent": {
+    "message": "Tỷ lệ cỡ chữ"
+  },
+  "subtitleStyleSharedBackgroundSectionTitle": {
+    "message": "Nền chung"
+  },
+  "subtitleStyleRestoreDefaults": {
+    "message": "Khôi phục mặc định"
+  },
+  "subtitleStylePreviewOriginalText": {
+    "message": "He thought this young man had great potential."
+  },
+  "subtitleStyleColorLightGray": {
+    "message": "Xám nhạt"
+  },
+  "disabledSitesSectionTitle": {
+    "message": "Trang web bị tắt"
+  },
+  "disabledSitesTitle": {
+    "message": "Quản lý trang web bị tắt"
+  },
+  "disabledSitesDescription": {
+    "message": "Quả bóng nổi sẽ không xuất hiện trên các trang web sau. Bạn có thể thêm hoặc xóa các trang web bị tắt tại đây."
+  },
+  "disabledSitesPlaceholder": {
+    "message": "Nhập tên miền, ví dụ youtube.com"
+  },
+  "disabledSitesAdd": {
+    "message": "Thêm"
+  },
+  "disabledSitesDomain": {
+    "message": "Tên miền"
+  },
+  "disabledSitesActions": {
+    "message": "Thao tác"
+  },
+  "disabledSitesDelete": {
+    "message": "Xóa"
+  },
+  "disabledSitesEmpty": {
+    "message": "Không có trang web bị tắt"
+  },
+  "preferencesSectionTitle": {
+    "message": "Cài đặt cơ bản"
+  },
+  "optionsNavPreferencesShort": {
+    "message": "Cơ bản"
+  },
+  "optionsNavSubtitleShort": {
+    "message": "Phụ đề"
+  },
+  "optionsNavAiShort": {
+    "message": "AI"
+  },
+  "optionsNavSitesShort": {
+    "message": "Trang"
+  },
+  "preferenceStatusDisabled": {
+    "message": "Tắt"
+  },
+  "preferencesTitle": {
+    "message": "Cài đặt cơ bản"
+  },
+  "preferencesDescription": {
+    "message": "Quản lý các tùy chọn cơ bản của bạn tại đây."
+  },
+  "emailNotificationLabel": {
+    "message": "Thông báo email"
+  },
+  "emailNotificationDescription": {
+    "message": "Hãy gửi email cho tôi khi nhận diện phụ đề hoàn tất."
+  },
+  "emailNotificationSaveFailed": {
+    "message": "Lưu thất bại. Vui lòng thử lại sau."
+  },
+  "skipTranslationWhenSameLanguageLabel": {
+    "message": "Bỏ qua dịch khi cùng ngôn ngữ"
+  },
+  "skipTranslationWhenSameLanguageDescription": {
+    "message": "Khi bật, nếu ngôn ngữ phụ đề trùng với ngôn ngữ đích, lồng tiếng sẽ bắt đầu trực tiếp mà không cần dịch."
+  },
+  "userSubtitleSegmentationEnabledLabel": {
+    "message": "Ngắt câu thông minh cho phụ đề người dùng"
+  },
+  "userSubtitleSegmentationEnabledDescription": {
+    "message": "Khi bật, phụ đề do bạn chỉnh sửa hoặc tải lên từ máy sẽ tự động được ngắt câu. Khi tắt, hệ thống giữ nguyên cách chia đoạn ban đầu."
+  },
+  "subtitlePriorityTitle": {
+    "message": "Ưu tiên dịch phụ đề"
+  },
+  "subtitlePriorityDescription": {
+    "message": "Chọn nguồn phụ đề nào được ưu tiên để dịch."
+  },
+  "subtitlePriorityAiSubtitle": {
+    "message": "Phụ đề nhận dạng bởi AI của plugin"
+  },
+  "subtitlePriorityAiSubtitleDesc": {
+    "message": "Ưu tiên sử dụng phụ đề được tạo bởi nhận dạng giọng nói AI của plugin để có độ chính xác cao hơn."
+  },
+  "subtitlePriorityPlatformSubtitle": {
+    "message": "Phụ đề tích hợp của nền tảng"
+  },
+  "subtitlePriorityPlatformSubtitleDesc": {
+    "message": "Ưu tiên sử dụng phụ đề gốc do nền tảng video cung cấp."
+  },
+  "subtitlePriorityQuickLabel": {
+    "message": "Phụ đề"
+  },
+  "subtitlePriorityQuickAi": {
+    "message": "AI"
+  },
+  "subtitlePriorityQuickPlatform": {
+    "message": "Nền tảng"
+  },
+  "panelTabVideoSummary": {
+    "message": "Tóm tắt"
+  },
+  "panelTabSubtitleEdit": {
+    "message": "Phụ đề"
+  },
+  "panelSummaryTitle": {
+    "message": "Tóm tắt & dàn ý video"
+  },
+  "panelSummaryDesc": {
+    "message": "Sử dụng các mô hình AI tiên tiến nhất để nhanh chóng nắm bắt nội dung video"
+  },
+  "panelSummaryGenerate": {
+    "message": "Tạo tóm tắt"
+  },
+  "panelSummaryGenerating": {
+    "message": "Đang tạo..."
+  },
+  "panelSummaryReGenerating": {
+    "message": "Đang tạo lại..."
+  },
+  "panelSummarySectionSummary": {
+    "message": "Tóm tắt"
+  },
+  "panelSummarySectionHighlights": {
+    "message": "Điểm nổi bật"
+  },
+  "panelSummaryExpandAll": {
+    "message": "Mở rộng tất cả"
+  },
+  "panelSummaryCollapseAll": {
+    "message": "Thu gọn tất cả"
+  },
+  "panelSummaryExpand": {
+    "message": "Mở rộng"
+  },
+  "panelSummaryCollapse": {
+    "message": "Thu gọn"
+  },
+  "panelSummaryShare": {
+    "message": "Chia sẻ"
+  },
+  "panelSummaryCopy": {
+    "message": "Sao chép"
+  },
+  "panelSummaryReGenerate": {
+    "message": "Tạo lại"
+  },
+  "panelSummaryCopySuccess": {
+    "message": "Đã sao chép"
+  },
+  "panelSummaryPlay": {
+    "message": "Phát"
+  },
+  "panelSummaryPause": {
+    "message": "Tạm dừng"
+  },
+  "panelSummaryPlayFailed": {
+    "message": "Phát thất bại, vui lòng thử lại"
+  },
+  "panelSummaryNoSubtitle": {
+    "message": "Không có phụ đề cho video này"
+  },
+  "panelSummaryError": {
+    "message": "Tạo tóm tắt thất bại, vui lòng thử lại"
+  },
+  "panelSummaryErrorInvalidVideoId": {
+    "message": "Không thể nhận dạng video hiện tại, vui lòng làm mới trang và thử lại"
+  },
+  "panelSummaryErrorMemberRequired": {
+    "message": "Tóm tắt video là tính năng dành riêng cho thành viên, vui lòng đăng ký để sử dụng"
+  },
+  "panelSummaryErrorNoSubtitles": {
+    "message": "Video hiện tại không có phụ đề, không thể tạo tóm tắt"
+  },
+  "panelSummaryErrorServiceError": {
+    "message": "Dịch vụ tóm tắt tạm thời không khả dụng, vui lòng thử lại sau"
+  },
+  "subtitleEditorManualInput": {
+    "message": "Nhập thủ công"
+  },
+  "subtitleEditorSwitchTip": {
+    "message": "Bấm vào đây để chuyển đổi phụ đề"
+  },
+  "subtitleEditorExport": {
+    "message": "Xuất"
+  },
+  "subtitleEditorTrackFallback": {
+    "message": "Nguồn phụ đề"
+  },
+  "subtitleEditorMySubtitles": {
+    "message": "Phụ đề của tôi"
+  },
+  "subtitleEditorNoSourceManual": {
+    "message": "Không có nguồn phụ đề nào (có sẵn đầu vào thủ công)"
+  },
+  "subtitleEditorSaveInvalidVideo": {
+    "message": "Không thể xác định video hiện tại. Lưu không thành công."
+  },
+  "subtitleEditorSaveFailed": {
+    "message": "Lưu không thành công. Vui lòng thử lại sau."
+  },
+  "subtitleEditorValidationEmpty": {
+    "message": "Nội dung phụ đề không được để trống"
+  },
+  "subtitleEditorValidationBlockStructure": {
+    "message": "Khối SRT không hợp lệ. Trình tự, dấu thời gian và nội dung là bắt buộc."
+  },
+  "subtitleEditorValidationSequenceFormat": {
+    "message": "Định dạng số thứ tự SRT không hợp lệ"
+  },
+  "subtitleEditorValidationSequenceIncrement": {
+    "message": "Số thứ tự SRT phải bắt đầu từ 1 và tăng dần lên 1"
+  },
+  "subtitleEditorValidationTimeFormat": {
+    "message": "Định dạng thời gian không hợp lệ. Vui lòng xem lại và sửa nó."
+  },
+  "subtitleEditorValidationEndAfterStart": {
+    "message": "Thời gian kết thúc phải lớn hơn thời gian bắt đầu"
+  },
+  "subtitleEditorValidationContentRequired": {
+    "message": "Mỗi phụ đề phải chứa ít nhất một dòng văn bản"
+  },
+  "subtitleEditorValidationSpeakerPrefix": {
+    "message": "Một số phụ đề bao gồm thẻ người nói. Tất cả phụ đề phải sử dụng tiền tố [speaker]."
+  },
+  "localPlayerTemporaryImportMode": {
+    "message": "Chế độ nhập tạm thời"
+  },
+  "localPlayerLibraryTitle": {
+    "message": "Thư viện video cục bộ"
+  },
+  "localPlayerEntryButton": {
+    "message": "Video cục bộ"
+  },
+  "localPlayerPageTitle": {
+    "message": "Video cục bộ · YouTube Dubbing"
+  },
+  "localPlayerFolderAccessDescription": {
+    "message": "Mở một thư mục sẽ lưu các thẻ điều khiển tệp để có thể khôi phục quyền truy cập sau khi làm mới."
+  },
+  "localPlayerTemporaryImportDescription": {
+    "message": "Trình duyệt này không hỗ trợ File System Access API. Bạn có thể tạm thời thêm video và phụ đề."
+  },
+  "localPlayerOpenFolder": {
+    "message": "Mở thư mục"
+  },
+  "localPlayerAddVideo": {
+    "message": "Thêm video"
+  },
+  "localPlayerAddSubtitle": {
+    "message": "Thêm phụ đề"
+  },
+  "localPlayerVideoList": {
+    "message": "Danh sách video"
+  },
+  "localPlayerFolders": {
+    "message": "Thư mục"
+  },
+  "localPlayerFoldersDescription": {
+    "message": "Duyệt phương tiện đã nhập theo thư mục."
+  },
+  "localPlayerAllVideos": {
+    "message": "Tất cả video"
+  },
+  "localPlayerAllVideosDescription": {
+    "message": "Tìm kiếm và quản lý mọi video đã nhập."
+  },
+  "localPlayerLibraryView": {
+    "message": "Chế độ xem thư viện"
+  },
+  "localPlayerBackToFolders": {
+    "message": "Quay lại thư mục"
+  },
+  "localPlayerFolderSearchPlaceholder": {
+    "message": "Tìm kiếm thư mục, đường dẫn hoặc tệp"
+  },
+  "localPlayerTotalFolders": {
+    "message": "Tổng số {count} thư mục"
+  },
+  "localPlayerMatchedFolders": {
+    "message": "Đã khớp {visibleCount} / tổng số {totalCount} thư mục"
+  },
+  "localPlayerNoFolderMatchesTitle": {
+    "message": "Không có thư mục phù hợp"
+  },
+  "localPlayerNoFolderMatchesText": {
+    "message": "Điều chỉnh tìm kiếm thư mục và thử lại."
+  },
+  "localPlayerRescanAll": {
+    "message": "Quét lại tất cả"
+  },
+  "localPlayerFolderMenuLabel": {
+    "message": "Hành động thư mục"
+  },
+  "localPlayerOpenFolderMenu": {
+    "message": "Mở thư mục"
+  },
+  "localPlayerRescanThisFolder": {
+    "message": "Quét lại thư mục này"
+  },
+  "localPlayerRemoveFromLibrary": {
+    "message": "Xóa khỏi thư viện"
+  },
+  "localPlayerFolderVideoCount": {
+    "message": "{count} video"
+  },
+  "localPlayerFolderAssociatedSubtitleCount": {
+    "message": "{count} phụ đề liên quan"
+  },
+  "localPlayerFolderLastPlayed": {
+    "message": "Chơi lần cuối {time}"
+  },
+  "localPlayerFolderLastScanned": {
+    "message": "Quét lần cuối {time}"
+  },
+  "localPlayerRemoveFolderTitle": {
+    "message": "Xóa thư mục này khỏi thư viện?"
+  },
+  "localPlayerRemoveFolderText": {
+    "message": "Thao tác này chỉ xóa các bản ghi thư viện cho thư mục này. Các tập tin gốc trên đĩa sẽ không bị xóa."
+  },
+  "localPlayerFolderRemoved": {
+    "message": "Đã xóa {folderName}"
+  },
+  "localPlayerRemoveFolderFailed": {
+    "message": "Không xóa được thư mục khỏi thư viện."
+  },
+  "localPlayerRescanFailed": {
+    "message": "Không thể quét lại thư viện địa phương."
+  },
+  "localPlayerRescanFolderUnavailable": {
+    "message": "Không thể quét lại thư mục này vì quyền truy cập vào thư mục đã lưu không khả dụng."
+  },
+  "localPlayerCurrentDirectory": {
+    "message": "Thư mục hiện tại"
+  },
+  "localPlayerNoNewFilesFound": {
+    "message": "Không tìm thấy tập tin mới."
+  },
+  "localPlayerScanComplete": {
+    "message": "Quá trình quét hoàn tất: đã thêm {addedVideoCount} video, {addedSubtitleCount} phụ đề, các tệp {updatedCount} được cập nhật."
+  },
+  "localPlayerNever": {
+    "message": "Không bao giờ"
+  },
+  "localPlayerSearchPlaceholder": {
+    "message": "Tìm kiếm video hoặc đường dẫn file"
+  },
+  "localPlayerFilterAll": {
+    "message": "Tất cả"
+  },
+  "localPlayerFilterWithSubtitle": {
+    "message": "Có phụ đề"
+  },
+  "localPlayerFilterNoSubtitle": {
+    "message": "Không có phụ đề"
+  },
+  "localPlayerSortLastPlayed": {
+    "message": "Video được phát gần đây"
+  },
+  "localPlayerSortName": {
+    "message": "Tên tập tin"
+  },
+  "localPlayerSortDuration": {
+    "message": "Thời lượng video"
+  },
+  "localPlayerNoVideosTitle": {
+    "message": "Chưa có video địa phương nào"
+  },
+  "localPlayerNoMatchesTitle": {
+    "message": "Không có video phù hợp"
+  },
+  "localPlayerNoVideosText": {
+    "message": "Mở thư mục hoặc thêm video để quản lý link phụ đề và lồng tiếng cục bộ tại đây."
+  },
+  "localPlayerNoMatchesText": {
+    "message": "Điều chỉnh tìm kiếm, lọc hoặc sắp xếp và thử lại."
+  },
+  "localPlayerDeleteVideoLabel": {
+    "message": "Xóa {fileName}"
+  },
+  "localPlayerRecognitionSubmitted": {
+    "message": "Nhận dạng phụ đề"
+  },
+  "localPlayerPlay": {
+    "message": "Phát video"
+  },
+  "localPlayerSubtitles": {
+    "message": "Phụ đề"
+  },
+  "localPlayerStartDubbing": {
+    "message": "Bắt đầu lồng tiếng"
+  },
+  "localPlayerFloatingActionsLabel": {
+    "message": "Thao tác nhanh video cục bộ"
+  },
+  "localPlayerOpenSidebar": {
+    "message": "Mở thanh bên"
+  },
+  "localPlayerClose": {
+    "message": "Đóng"
+  },
+  "localPlayerSameDirectorySubtitleSummary": {
+    "message": "Phụ đề cùng thư mục {sameCount} · Liên kết {associatedCount}"
+  },
+  "localPlayerNoManageableSubtitles": {
+    "message": "Không có phụ đề để quản lý"
+  },
+  "localPlayerAssociateAndUseForDubbing": {
+    "message": "Link phụ đề và sử dụng để lồng tiếng"
+  },
+  "localPlayerSetForDubbing": {
+    "message": "Sử dụng phụ đề này để lồng tiếng"
+  },
+  "localPlayerRemoveAssociation": {
+    "message": "Bỏ liên kết phụ đề"
+  },
+  "localPlayerRemoveAllAssociations": {
+    "message": "Bỏ liên kết tất cả phụ đề"
+  },
+  "localPlayerSelectVideoForSubtitleTitle": {
+    "message": "Chọn video để liên kết với phụ đề này"
+  },
+  "localPlayerAssociate": {
+    "message": "Liên kết phụ đề"
+  },
+  "localPlayerInitialStatus": {
+    "message": "Mở thư mục, thêm video hoặc thả tệp để bắt đầu."
+  },
+  "localPlayerAscendingSortTitle": {
+    "message": "Tăng dần; bấm vào để chuyển sang giảm dần"
+  },
+  "localPlayerDescendingSortTitle": {
+    "message": "Giảm dần; bấm vào để chuyển sang tăng dần"
+  },
+  "localPlayerTotalVideos": {
+    "message": "Tổng số {count} video"
+  },
+  "localPlayerMatchedVideos": {
+    "message": "Trùng khớp {visibleCount} / tổng số {totalCount} video"
+  },
+  "localPlayerRouteVideoMissing": {
+    "message": "Video được chỉ định trong URL không có trong thư viện video cục bộ hiện tại."
+  },
+  "localPlayerFolderAccessUnsupported": {
+    "message": "Trình duyệt này không thể mở thư mục. Sử dụng Thêm video/Thêm phụ đề để nhập tạm thời."
+  },
+  "localPlayerImportComplete": {
+    "message": "Đã nhập video {videoCount} và phụ đề {subtitleCount}."
+  },
+  "localPlayerOpenFolderFailed": {
+    "message": "Không mở được thư mục."
+  },
+  "localPlayerAddVideoFailed": {
+    "message": "Không thêm được video."
+  },
+  "localPlayerAddSubtitleFailed": {
+    "message": "Không thêm được phụ đề."
+  },
+  "localPlayerAssociationSaved": {
+    "message": "Đã lưu liên kết phụ đề."
+  },
+  "localPlayerAssociationSavedAndPreferred": {
+    "message": "Đã liên kết phụ đề và thiết lập để lồng tiếng."
+  },
+  "localPlayerPreferredSubtitleSaved": {
+    "message": "Đặt phụ đề cho lồng tiếng."
+  },
+  "localPlayerAssociationRemoved": {
+    "message": "Đã xóa liên kết phụ đề."
+  },
+  "localPlayerRebindSubtitleTitle": {
+    "message": "Đóng lại phụ đề này?"
+  },
+  "localPlayerRebindSubtitleText": {
+    "message": "Phụ đề này đã được liên kết với \"{fromVideo}\". Việc tiếp tục sẽ xóa liên kết đó và liên kết nó với \"{toVideo}\"."
+  },
+  "localPlayerRemoveAllAssociationsTitle": {
+    "message": "Bỏ liên kết tất cả phụ đề?"
+  },
+  "localPlayerRemoveAllAssociationsText": {
+    "message": "Chỉ các liên kết phụ đề cho video này sẽ bị xóa. Bản ghi tập tin phụ đề sẽ không bị xóa."
+  },
+  "localPlayerAllAssociationsRemoved": {
+    "message": "Đã xóa tất cả các liên kết phụ đề."
+  },
+  "localPlayerDeleteVideoTitle": {
+    "message": "Xóa video này?"
+  },
+  "localPlayerDeleteVideoText": {
+    "message": "Thao tác này sẽ xóa liên kết video và phụ đề khỏi thư viện cục bộ. Các tập tin gốc trên đĩa sẽ không bị xóa."
+  },
+  "localPlayerDelete": {
+    "message": "Xóa"
+  },
+  "localPlayerVideoDeleted": {
+    "message": "Đã xóa {fileName}"
+  },
+  "localPlayerDeleteVideoFailed": {
+    "message": "Không xóa được video."
+  },
+  "localPlayerVideoFileAccessLost": {
+    "message": "Không thể khôi phục quyền truy cập vào tệp video này. Vui lòng thêm video lại."
+  },
+  "localPlayerVideoPlayerNotReady": {
+    "message": "Trình phát video chưa sẵn sàng."
+  },
+  "localPlayerNowPlaying": {
+    "message": "Đang phát {fileName}"
+  },
+  "localPlayerDubbingStarted": {
+    "message": "Bắt đầu lồng tiếng địa phương."
+  },
+  "localPlayerDubbingStartFailed": {
+    "message": "Không thể bắt đầu lồng tiếng địa phương."
+  },
+  "localPlayerOpenSidebarFailed": {
+    "message": "Không mở được thanh bên."
+  },
+  "localPlayerVideoFileReadFailed": {
+    "message": "Không thể đọc tệp video cục bộ. Vui lòng thêm video lại."
+  },
+  "localPlayerUploadCancelled": {
+    "message": "Đã hủy tải lên."
+  },
+  "localPlayerSubtitleAssociatedBadge": {
+    "message": "{count} liên kết phụ đề"
+  },
+  "localPlayerNoSubtitleBadge": {
+    "message": "Không có phụ đề được liên kết"
+  },
+  "localPlayerUsedForDubbing": {
+    "message": "Dùng để lồng tiếng"
+  },
+  "localPlayerAssociated": {
+    "message": "Đã liên kết"
+  },
+  "localPlayerAssociatedOutsideFolder": {
+    "message": "Được liên kết bên ngoài thư mục này"
+  },
+  "localPlayerNotAssociated": {
+    "message": "Không liên kết"
+  },
+  "localPlayerNativeSubtitle": {
+    "message": "Phụ đề gốc"
+  },
+  "localPlayerDubbingAlreadyStarted": {
+    "message": "Bắt đầu lồng tiếng"
+  },
+  "localPlayerThumbnailBackfillComplete": {
+    "message": "Đã tạo hình thu nhỏ cho video {count}."
+  },
+  "localPlayerThumbnailGenerationFailed": {
+    "message": "Tạo hình thu nhỏ không thành công: {displayName} ({message})"
+  },
+  "localPlayerFreeUserNoSubtitleMessage": {
+    "message": "Video cục bộ này không có phụ đề được liên kết. Người dùng miễn phí chưa thể sử dụng tính năng nhận dạng phụ đề nền cho video cục bộ. Nâng cấp tư cách thành viên để sử dụng tính năng nhận dạng phụ đề AI hoặc tải tệp phụ đề lên theo cách thủ công trước khi bắt đầu lồng tiếng."
+  },
+  "localPlayerNoSubtitleUploadTitle": {
+    "message": "Video này không có phụ đề"
+  },
+  "localPlayerNoSubtitleUploadText": {
+    "message": "Upload video này lên để nhận dạng phụ đề AI? Việc tải lên chỉ được sử dụng để nhận dạng phụ đề, video sẽ bị xóa ngay sau khi nhận dạng và bạn sẽ được thông báo qua email."
+  },
+  "localPlayerNavigationLabel": {
+    "message": "Thư viện video cục bộ / Phát âm văn bản"
+  },
+  "localPlayerCurrentPageNav": {
+    "message": "Lồng tiếng video"
+  },
+  "localPlayerTextDubbingNav": {
+    "message": "Phát âm văn bản"
+  },
+  "localPlayerTextDubbingTitle": {
+    "message": "Phát âm văn bản"
+  },
+  "localPlayerTextDubbingDescription": {
+    "message": "Phát âm văn bản - Ngôn ngữ đích"
+  },
+  "localPlayerTextDubbingVoiceType": {
+    "message": "Loại giọng"
+  },
+  "localPlayerTextDubbingLanguage": {
+    "message": "Ngôn ngữ đích"
+  },
+  "localPlayerTextDubbingGender": {
+    "message": "Giới tính"
+  },
+  "localPlayerTextDubbingVoice": {
+    "message": "Giọng nói"
+  },
+  "localPlayerTextDubbingInputLabel": {
+    "message": "Nhập thủ công"
+  },
+  "localPlayerTextDubbingInputPlaceholder": {
+    "message": "Nhập thủ công - Phát âm văn bản"
+  },
+  "localPlayerTextDubbingLimitHint": {
+    "message": "Phát âm văn bản: {chars} / {bytes}"
+  },
+  "localPlayerTextDubbingCounter": {
+    "message": "{chars} · {bytes}"
+  },
+  "localPlayerTextDubbingGenerate": {
+    "message": "Phát âm văn bản MP3"
+  },
+  "localPlayerTextDubbingGenerating": {
+    "message": "Đang lưu..."
+  },
+  "localPlayerTextDubbingGenerated": {
+    "message": "Phát âm văn bản MP3 · {seconds}s"
+  },
+  "localPlayerTextDubbingFailed": {
+    "message": "Lưu thất bại"
+  },
+  "localPlayerTextDubbingNoVoice": {
+    "message": "Không có giọng nói nào khả dụng cho lựa chọn này."
+  },
+  "localPlayerTextDubbingEmptyText": {
+    "message": "Nội dung phụ đề không được để trống"
+  },
+  "localPlayerTextDubbingTooLong": {
+    "message": "Văn bản quá dài. Hãy rút ngắn rồi thử lại."
+  },
+  "localPlayerTextDubbingDownload": {
+    "message": "Xuất MP3"
+  },
+  "localPlayerTextDubbingClear": {
+    "message": "Hủy"
+  },
+  "translationDomainGeneral": {
+    "message": "Chung"
+  },
+  "translationDomainWeb3": {
+    "message": "Web3 và tiền mã hóa"
+  },
+  "translationDomainTech": {
+    "message": "Công nghệ"
+  },
+  "translationDomainNews": {
+    "message": "Tin tức và truyền thông"
+  },
+  "translationDomainProgramming": {
+    "message": "Lập trình"
+  },
+  "translationDomainEducation": {
+    "message": "Giáo dục"
+  },
+  "translationDomainFinance": {
+    "message": "Tài chính"
+  },
+  "translationDomainLaw": {
+    "message": "Luật"
+  },
+  "translationDomainAuto": {
+    "message": "Ô tô"
+  },
+  "translationDomainEcommerce": {
+    "message": "Thương mại điện tử"
+  },
+  "translationDomainFashion": {
+    "message": "Thời trang"
+  },
+  "translationDomainFood": {
+    "message": "Ẩm thực và nấu ăn"
+  },
+  "translationDomainGardening": {
+    "message": "Làm vườn"
+  },
+  "translationDomainMedical": {
+    "message": "Y tế và sức khỏe"
+  },
+  "translationDomainMusic": {
+    "message": "Âm nhạc"
+  },
+  "translationDomainPets": {
+    "message": "Thú cưng"
+  },
+  "translationDomainSports": {
+    "message": "Thể thao"
+  },
+  "translationDomainTravel": {
+    "message": "Du lịch"
+  },
+  "translationDomainChess": {
+    "message": "Cờ vua"
+  },
+  "translationDomainGaming": {
+    "message": "Trò chơi"
+  },
+  "translationDomainGolf": {
+    "message": "Golf"
+  },
+  "translationDomainMovies": {
+    "message": "Phim và TV"
+  },
+  "translationDomainPhotography": {
+    "message": "Nhiếp ảnh"
+  },
+  "translationPreferencesSectionTitle": {
+    "message": "Dịch bằng AI"
+  },
+  "translationRulesEnabledLabel": {
+    "message": "Áp dụng bảng thuật ngữ và thay thế văn bản khi dịch bằng AI"
+  },
+  "translationRulesEnabledDescription": {
+    "message": "Khi bật, bản dịch AI sẽ sử dụng các cài đặt bên dưới. Khi tắt, các cài đặt hiện có vẫn được giữ lại."
+  },
+  "glossaryTitle": {
+    "message": "Bảng thuật ngữ"
+  },
+  "glossaryDescription": {
+    "message": "Đặt bản dịch cố định cho thuật ngữ nguồn (ví dụ: Stratagem). Thuật ngữ của bạn được ưu tiên hơn bảng thuật ngữ tích hợp."
+  },
+  "glossaryCreateButton": {
+    "message": "Thêm thuật ngữ cá nhân"
+  },
+  "glossaryEditTitle": {
+    "message": "Chỉnh sửa thuật ngữ cá nhân"
+  },
+  "glossaryEditorDescription": {
+    "message": "Chỉ có thể thêm, chỉnh sửa, bật hoặc xóa thuật ngữ cá nhân."
+  },
+  "glossaryTableTitle": {
+    "message": "Thuật ngữ cho ngôn ngữ hiện tại"
+  },
+  "glossaryCombinedEmpty": {
+    "message": "Chưa có thuật ngữ cá nhân nào cho ngôn ngữ này."
+  },
+  "glossarySearchEmpty": {
+    "message": "Không có thuật ngữ phù hợp."
+  },
+  "glossarySearchPlaceholder": {
+    "message": "Tìm thuật ngữ nguồn"
+  },
+  "glossarySourcePlaceholder": {
+    "message": "Thuật ngữ nguồn"
+  },
+  "glossaryTargetPlaceholder": {
+    "message": "Bản dịch bắt buộc"
+  },
+  "glossarySourceTerm": {
+    "message": "Thuật ngữ nguồn"
+  },
+  "glossaryTargetTerm": {
+    "message": "Bản dịch"
+  },
+  "replacementTitle": {
+    "message": "Sửa lỗi trong văn bản gốc"
+  },
+  "replacementDescription": {
+    "message": "Sửa các lỗi nhận dạng phụ đề lặp lại (ví dụ: cloud code -> Claude Code) trước khi dịch bằng AI."
+  },
+  "replacementCreateButton": {
+    "message": "Thêm thay thế cá nhân"
+  },
+  "replacementEditTitle": {
+    "message": "Chỉnh sửa thay thế cá nhân"
+  },
+  "replacementEditorDescription": {
+    "message": "Chỉ các thay thế văn bản cá nhân được áp dụng trước khi dịch bằng AI."
+  },
+  "replacementFindPlaceholder": {
+    "message": "Văn bản sai, ví dụ: cloud code"
+  },
+  "replacementReplacePlaceholder": {
+    "message": "Thay bằng, ví dụ: claude code"
+  },
+  "replacementFindText": {
+    "message": "Văn bản sai"
+  },
+  "replacementReplaceText": {
+    "message": "Thay bằng"
+  },
+  "replacementEmpty": {
+    "message": "Chưa có quy tắc sửa lỗi nào."
+  },
+  "replacementSearchEmpty": {
+    "message": "Không có thay thế phù hợp."
+  },
+  "replacementSearchPlaceholder": {
+    "message": "Tìm thay thế"
+  },
+  "translatedReplacementTitle": {
+    "message": "Thay thế trong văn bản đã dịch"
+  },
+  "translatedReplacementDescription": {
+    "message": "Thay thế từ hoặc cụm từ trong bản dịch hoàn chỉnh bằng các quy tắc cá nhân."
+  },
+  "translatedReplacementCreateButton": {
+    "message": "Thêm thay thế trong bản dịch"
+  },
+  "translatedReplacementLanguage": {
+    "message": "Ngôn ngữ đích"
+  },
+  "translatedReplacementFindText": {
+    "message": "Văn bản đã dịch"
+  },
+  "translatedReplacementReplaceText": {
+    "message": "Thay thế bằng"
+  },
+  "translatedReplacementSearchPlaceholder": {
+    "message": "Tìm trong văn bản đã dịch"
+  },
+  "translatedReplacementEmpty": {
+    "message": "Chưa có quy tắc thay thế nào cho văn bản đã dịch."
+  },
+  "translatedReplacementSearchEmpty": {
+    "message": "Không có thay thế phù hợp trong văn bản đã dịch."
+  },
+  "translatedReplacementCreateTitle": {
+    "message": "Thêm thay thế trong bản dịch"
+  },
+  "translatedReplacementEditTitle": {
+    "message": "Chỉnh sửa thay thế trong bản dịch"
+  },
+  "translatedReplacementEditorDescription": {
+    "message": "Chỉ bản dịch hoàn chỉnh được thay đổi; văn bản gốc và bộ nhớ đệm bản dịch vẫn giữ nguyên."
+  },
+  "translatedReplacementFindPlaceholder": {
+    "message": "Từ hoặc cụm từ trong văn bản đã dịch"
+  },
+  "translatedReplacementReplacePlaceholder": {
+    "message": "Từ hoặc cụm từ sẽ hiển thị thay thế"
+  },
+  "translatedReplacementEnabledDescription": {
+    "message": "Khi tắt, quy tắc vẫn được lưu nhưng không áp dụng cho văn bản đã dịch."
+  },
+  "preferenceAdd": {
+    "message": "Thêm"
+  },
+  "preferenceDomain": {
+    "message": "Lĩnh vực"
+  },
+  "preferenceLanguage": {
+    "message": "Ngôn ngữ"
+  },
+  "preferenceEnabled": {
+    "message": "Đã bật"
+  },
+  "preferenceActions": {
+    "message": "Thao tác"
+  },
+  "preferenceSource": {
+    "message": "Nguồn"
+  },
+  "preferenceSourceUser": {
+    "message": "Cá nhân"
+  },
+  "preferenceSourceBuiltin": {
+    "message": "Tích hợp"
+  },
+  "preferenceStatus": {
+    "message": "Trạng thái"
+  },
+  "preferenceStatusEnabled": {
+    "message": "Đã bật"
+  },
+  "preferenceEdit": {
+    "message": "Chỉnh sửa"
+  },
+  "preferenceDelete": {
+    "message": "Xóa"
+  },
+  "preferenceAllDomains": {
+    "message": "Tất cả lĩnh vực"
+  },
+  "preferenceSearch": {
+    "message": "Tìm kiếm"
+  },
+  "preferenceClearSearch": {
+    "message": "Xóa tìm kiếm"
+  },
+  "preferencePageLabel": {
+    "message": "Trang {page}"
+  },
+  "preferencePreviousPage": {
+    "message": "Trước"
+  },
+  "preferenceNextPage": {
+    "message": "Tiếp"
+  },
+  "builtinGlossaryDomainsTitle": {
+    "message": "Bộ lĩnh vực tích hợp"
+  },
+  "builtinGlossaryDomainCount": {
+    "message": "{count} thuật ngữ tích hợp"
+  },
+  "builtinGlossaryEmptyHint": {
+    "message": "Không có bảng thuật ngữ tích hợp cho ngôn ngữ đích hiện tại. Bạn vẫn có thể thêm thuật ngữ cá nhân."
+  },
+  "builtinGlossaryEnabledSummary": {
+    "message": "Đã bật {enabled} / {total}"
+  },
+  "builtinGlossaryManageDomains": {
+    "message": "Quản lý lĩnh vực"
+  },
+  "builtinGlossaryManageDomainsTitle": {
+    "message": "Quản lý bộ lĩnh vực tích hợp"
+  },
+  "builtinGlossaryManageDomainsDescription": {
+    "message": "Bật hoặc tắt các lĩnh vực của bảng thuật ngữ tích hợp cho ngôn ngữ đích."
+  },
+  "builtinGlossaryDomainSearchPlaceholder": {
+    "message": "Tìm lĩnh vực"
+  },
+  "builtinGlossaryEnableAllDomains": {
+    "message": "Bật tất cả"
+  },
+  "builtinGlossaryDisableAllDomains": {
+    "message": "Tắt tất cả"
+  },
+  "builtinGlossaryDomainSearchEmpty": {
+    "message": "Không có lĩnh vực phù hợp."
+  },
+  "builtinGlossaryDomainTotal": {
+    "message": "{count} lĩnh vực"
+  },
+  "builtinGlossaryDomainDisabledStatus": {
+    "message": "Lĩnh vực đã tắt"
+  },
+  "builtinGlossaryBlockedStatus": {
+    "message": "Đã loại trừ"
+  },
+  "builtinGlossaryReadOnlyHint": {
+    "message": "Quy tắc tích hợp"
+  },
+  "builtinTextReplacementManageDomainsTitle": {
+    "message": "Quản lý các lĩnh vực tích hợp để sửa văn bản gốc"
+  },
+  "builtinTextReplacementManageDomainsDescription": {
+    "message": "Bật hoặc tắt các lĩnh vực tích hợp để sửa văn bản gốc."
+  },
+  "builtinTextReplacementDomainCount": {
+    "message": "{count} quy tắc tích hợp"
+  },
+  "preferenceLoadFailed": {
+    "message": "Tải không thành công. Vui lòng đăng nhập rồi thử lại."
+  },
+  "preferenceActionFailed": {
+    "message": "Thao tác không thành công. Vui lòng thử lại sau."
+  },
+  "pronunciationSettingsSectionTitle": {
+    "message": "phát âm"
+  },
+  "pronunciationSettingsTitle": {
+    "message": "Cài đặt phát âm"
+  },
+  "pronunciationSettingsDescription": {
+    "message": "Đặt cách phát âm cá nhân cho văn bản dịch. Quy tắc chỉ áp dụng cho việc lồng tiếng địa phương."
+  },
+  "optionsNavPronunciationShort": {
+    "message": "phát âm"
+  },
+  "pronunciationNewRule": {
+    "message": "Quy tắc mới"
+  },
+  "pronunciationEditRule": {
+    "message": "Chỉnh sửa quy tắc phát âm"
+  },
+  "pronunciationTargetLanguage": {
+    "message": "Ngôn ngữ mục tiêu"
+  },
+  "pronunciationSearchPlaceholder": {
+    "message": "Tìm kiếm văn bản phù hợp"
+  },
+  "pronunciationStatus": {
+    "message": "Trạng thái"
+  },
+  "pronunciationMatchText": {
+    "message": "Văn bản phù hợp"
+  },
+  "pronunciationMatchPlaceholder": {
+    "message": "Ví dụ: xin chào"
+  },
+  "pronunciationTargetText": {
+    "message": "Phần đã sửa"
+  },
+  "pronunciationReading": {
+    "message": "Phát âm chỉ định"
+  },
+  "pronunciationLoading": {
+    "message": "Đang tải…"
+  },
+  "pronunciationEmpty": {
+    "message": "Không có quy tắc phát âm cá nhân nào phù hợp với các bộ lọc hiện tại."
+  },
+  "pronunciationEditorHint": {
+    "message": "Chọn phần liên tục cần sửa rồi nhập cách phát âm của nó."
+  },
+  "pronunciationSelectTarget": {
+    "message": "Chọn văn bản để sửa"
+  },
+  "pronunciationReselect": {
+    "message": "Chọn lại"
+  },
+  "pronunciationEnterMatchFirst": {
+    "message": "Nhập văn bản phù hợp trước"
+  },
+  "pronunciationSelectionSummary": {
+    "message": "Đã chọn: {text}; lần xuất hiện {occurrence}"
+  },
+  "pronunciationSelectionRestoreFailed": {
+    "message": "Không thể khôi phục vị trí đã lưu. Chọn lại văn bản trước khi lưu."
+  },
+  "pronunciationSelectionInvalid": {
+    "message": "Chọn văn bản liên tục."
+  },
+  "pronunciationModifier": {
+    "message": "Giai điệu"
+  },
+  "pronunciationSelectModifier": {
+    "message": "chọn"
+  },
+  "pronunciationSaving": {
+    "message": "Đang lưu…"
+  },
+  "pronunciationDeleteConfirm": {
+    "message": "Xóa quy tắc phát âm này?"
+  },
+  "pronunciationOccurrence": {
+    "message": "lần xuất hiện {occurrence}"
+  },
+  "pronunciationUnknownError": {
+    "message": "Hành động không thành công. Vui lòng thử lại sau."
+  },
+  "preferenceAllStatuses": {
+    "message": "Tất cả"
+  },
+  "preferenceCancel": {
+    "message": "Hủy bỏ"
+  },
+  "preferenceDisabled": {
+    "message": "Đã tắt"
+  },
+  "preferenceSave": {
+    "message": "Lưu"
+  },
+  "pronunciationFineSelection": {
+    "message": "Lựa chọn chính xác"
+  },
+  "pronunciationMergeUnits": {
+    "message": "Hợp nhất các cách phát âm liền kề"
+  },
+  "pronunciationPerUnitHint": {
+    "message": "Nhập cách phát âm và âm điệu cho từng phần. Tách hoặc hợp nhất các phần khi cần thiết."
+  },
+  "pronunciationPrimarySelection": {
+    "message": "Lựa chọn thông minh"
+  },
+  "pronunciationSelectionGranularity": {
+    "message": "Độ chi tiết của lựa chọn"
+  },
+  "pronunciationSelectionTooLong": {
+    "message": "Phần đã sửa có thể chứa tối đa 128 ký tự."
+  },
+  "pronunciationSplitAt": {
+    "message": "Chia tại"
+  },
+  "pronunciationUnitReading": {
+    "message": "Phát âm từng phần"
+  },
+  "pronunciationWholeReading": {
+    "message": "Phát âm toàn bộ"
+  },
+  "pronunciationWholeToneHint": {
+    "message": "Nhập cách phát âm có âm hoàn chỉnh. Tách nó ra để chọn âm cho từng phần."
+  },
+  "pronunciationPinyinSyllable": {
+    "message": "âm tiết bính âm"
+  },
+  "pronunciationPinyinPlaceholder": {
+    "message": "Nhập một âm tiết bính âm"
+  },
+  "pronunciationNumberedTone": {
+    "message": "Âm {tone}"
+  },
+  "pronunciationNeutralTone": {
+    "message": "Tông màu trung tính"
+  },
+  "googleDriveNoCaptionsTitle": {
+    "message": "Video Google Drive này chưa có phụ đề"
+  },
+  "googleDriveNoCaptionsIntro": {
+    "message": "Tính năng lồng tiếng sử dụng phụ đề tích hợp (CC) của Google Drive. Hãy bật phụ đề cho video này trước rồi quay lại:"
+  },
+  "googleDriveNoCaptionsStep1": {
+    "message": "Trong Google Drive, nhấp chuột phải vào video rồi chọn “Thông tin về tệp” → “Quản lý phụ đề”."
+  },
+  "googleDriveNoCaptionsStep2": {
+    "message": "Nếu chưa có phụ đề: Drive tự động tạo phụ đề cho các ngôn ngữ được hỗ trợ (gồm tiếng Anh, Thổ Nhĩ Kỳ, Trung, Tây Ban Nha, Nhật). Nhấp vào “Tạo phụ đề tự động” nếu có, hoặc tải tệp phụ đề lên. Chỉ chủ sở hữu hoặc người chỉnh sửa video mới quản lý được phụ đề."
+  },
+  "googleDriveNoCaptionsStep3": {
+    "message": "Việc tạo phụ đề cần một khoảng thời gian. Khi nút CC trong trình phát có thể nhấp được, hãy tải lại trang và bắt đầu lồng tiếng lại."
+  },
+  "subtitleAudioLanguageMismatch": {
+    "message": "Ngôn ngữ phụ đề không khớp với ngôn ngữ của giọng đọc. Phụ đề: {subtitle}. Giọng đọc: {voice}. Mỗi giọng chỉ đọc được văn bản bằng ngôn ngữ của nó, nên việc tạo có thể thất bại hoặc đọc sai. Hãy dịch phụ đề trước, hoặc đổi ngôn ngữ đích cho khớp với phụ đề. Vẫn tạo?"
+  },
+  "subtitleAudioNav": {
+    "message": "Lồng tiếng phụ đề"
+  },
+  "subtitleAudioAiSubtitleBadge": {
+    "message": "Phụ đề AI"
+  },
+  "subtitleAudioUserSubtitleBadge": {
+    "message": "Phụ đề đã sửa"
+  },
+  "subtitleAudioBack": {
+    "message": "Lồng tiếng video"
+  },
+  "subtitleAudioProjectSubtitle": {
+    "message": "Phụ đề: {name} · {count} dòng"
+  },
+  "subtitleAudioReplaceSubtitles": {
+    "message": "Đổi phụ đề"
+  },
+  "subtitleAudioExportVideoOption": {
+    "message": "Video lồng tiếng"
+  },
+  "subtitleAudioExportVideoHint": {
+    "message": "Hình ảnh sẽ chậm lại ở những chỗ câu thoại cần thêm thời gian, nên video có thể dài hơn một chút."
+  },
+  "subtitleAudioExportMp3Option": {
+    "message": "MP3 lồng tiếng"
+  },
+  "subtitleAudioExportMp3Hint": {
+    "message": "Dài đúng bằng video gốc; có thể ghép lại vào video hoặc tải lên làm một ngôn ngữ âm thanh khác."
+  },
+  "subtitleAudioDownloadSrt": {
+    "message": "Tải xuống SRT"
+  },
+  "subtitleAudioEditAndExport": {
+    "message": "Chỉnh sửa và xuất"
+  },
+  "subtitleAudioEditNeedsSubtitle": {
+    "message": "Video này chưa có phụ đề. Hãy liên kết một tệp phụ đề, hoặc nhấn “Bắt đầu lồng tiếng” một lần để tạo phụ đề AI."
+  },
+  "subtitleAudioTitle": {
+    "message": "Trao giọng nói cho từng câu thoại"
+  },
+  "subtitleAudioSubtitle": {
+    "message": "Nhập tệp SRT để nhận bản MP3 lồng tiếng khớp với thời gian phụ đề. Để có video lồng tiếng, hãy chọn video trong “Lồng tiếng video” rồi nhấn “Chỉnh sửa và xuất”."
+  },
+  "subtitleAudioImportStep": {
+    "message": "Nhập phụ đề"
+  },
+  "subtitleAudioVoicesStep": {
+    "message": "Chọn giọng"
+  },
+  "subtitleAudioExportStep": {
+    "message": "Xuất"
+  },
+  "subtitleAudioSubtitles": {
+    "message": "Phụ đề"
+  },
+  "subtitleAudioCueList": {
+    "message": "Câu thoại và giọng"
+  },
+  "subtitleAudioSettings": {
+    "message": "Cài đặt giọng nói"
+  },
+  "subtitleAudioImport": {
+    "message": "Chọn tệp SRT"
+  },
+  "subtitleAudioReplace": {
+    "message": "Thay thế"
+  },
+  "subtitleAudioRemove": {
+    "message": "Xóa"
+  },
+  "subtitleAudioDrop": {
+    "message": "Thả tệp SRT vào đây"
+  },
+  "subtitleAudioDropNote": {
+    "message": "UTF-8 · tối đa 2 MiB, 5.000 dòng, 3 giờ"
+  },
+  "subtitleAudioEmpty": {
+    "message": "Phụ đề của bạn sẽ hiển thị ở đây. Chọn giọng cho từng dòng hoặc áp dụng một giọng cho các dòng đã chọn."
+  },
+  "subtitleAudioLines": {
+    "message": "Số dòng"
+  },
+  "subtitleAudioDuration": {
+    "message": "Thời lượng phụ đề"
+  },
+  "subtitleAudioCharacters": {
+    "message": "Số ký tự"
+  },
+  "subtitleAudioSearch": {
+    "message": "Tìm trong phụ đề"
+  },
+  "subtitleAudioSelectPage": {
+    "message": "Chọn cả trang này"
+  },
+  "subtitleAudioSelectAll": {
+    "message": "Chọn tất cả kết quả"
+  },
+  "subtitleAudioSelected": {
+    "message": "Đã chọn {count} dòng"
+  },
+  "subtitleAudioApply": {
+    "message": "Áp dụng giọng"
+  },
+  "subtitleAudioChooseVoice": {
+    "message": "Chọn giọng"
+  },
+  "subtitleAudioText": {
+    "message": "Nội dung phụ đề"
+  },
+  "subtitleAudioTime": {
+    "message": "Thời gian"
+  },
+  "subtitleAudioVoice": {
+    "message": "Giọng"
+  },
+  "subtitleAudioFemale": {
+    "message": "Giọng nữ"
+  },
+  "subtitleAudioMale": {
+    "message": "Giọng nam"
+  },
+  "subtitleAudioPage": {
+    "message": "Trang {page}/{total}"
+  },
+  "subtitleAudioPrevious": {
+    "message": "Trước"
+  },
+  "subtitleAudioNext": {
+    "message": "Tiếp"
+  },
+  "subtitleAudioPreview": {
+    "message": "Nghe thử dòng {index}"
+  },
+  "subtitleAudioStopPreview": {
+    "message": "Dừng nghe thử"
+  },
+  "subtitleAudioLanguage": {
+    "message": "Ngôn ngữ đích"
+  },
+  "subtitleAudioVoiceType": {
+    "message": "Loại giọng"
+  },
+  "subtitleAudioFree": {
+    "message": "Miễn phí"
+  },
+  "subtitleAudioVideoSync": {
+    "message": "Bản xem trước phát theo âm thanh sẽ xuất. Âm thanh gốc của video đã được tắt."
+  },
+  "subtitleAudioTimelineTitle": {
+    "message": "Rãnh âm thanh"
+  },
+  "subtitleAudioLayoutOnly": {
+    "message": "Vị trí phụ đề · dạng sóng hiển thị sau khi xuất"
+  },
+  "subtitleAudioRealWave": {
+    "message": "Dạng sóng âm thanh đã xuất · nhấp hoặc kéo thanh trượt để tua"
+  },
+  "subtitleAudioTracks": {
+    "message": "{count} giọng → một tệp MP3"
+  },
+  "subtitleAudioTracksVideo": {
+    "message": "{count} giọng → video lồng tiếng"
+  },
+  "subtitleAudioSeek": {
+    "message": "Tua nội dung đã xuất"
+  },
+  "subtitleAudioNoTimeline": {
+    "message": "Nhập phụ đề để xem thời gian."
+  },
+  "subtitleAudioGenerate": {
+    "message": "Tạo MP3"
+  },
+  "subtitleAudioGenerateVideo": {
+    "message": "Tạo video lồng tiếng"
+  },
+  "subtitleAudioRegenerate": {
+    "message": "Tạo lại"
+  },
+  "subtitleAudioRegenerateVideo": {
+    "message": "Tạo lại video"
+  },
+  "subtitleAudioRetry": {
+    "message": "Thử lại phần lỗi"
+  },
+  "subtitleAudioCancel": {
+    "message": "Hủy"
+  },
+  "subtitleAudioCancelling": {
+    "message": "Đang hủy…"
+  },
+  "subtitleAudioDownload": {
+    "message": "Tải xuống MP3"
+  },
+  "subtitleAudioDownloadVideo": {
+    "message": "Tải xuống video lồng tiếng"
+  },
+  "subtitleAudioWorking": {
+    "message": "Đang tạo giọng nói"
+  },
+  "subtitleAudioEncoding": {
+    "message": "Đang ghép rãnh âm thanh"
+  },
+  "subtitleAudioFinalizing": {
+    "message": "Đang hoàn tất MP3"
+  },
+  "subtitleAudioMuxing": {
+    "message": "Đang ghép âm thanh lồng tiếng vào video"
+  },
+  "subtitleAudioFinished": {
+    "message": "MP3 của bạn đã sẵn sàng"
+  },
+  "subtitleAudioFinishedVideo": {
+    "message": "Video lồng tiếng của bạn đã sẵn sàng"
+  },
+  "subtitleAudioCancelled": {
+    "message": "Đã hủy tạo. Các đoạn giọng nói đã xong được lưu đệm để thử lại."
+  },
+  "subtitleAudioProgressNote": {
+    "message": "Hãy giữ trang này mở. Bạn có thể hủy rồi tiếp tục bằng các đoạn đã lưu đệm."
+  },
+  "subtitleAudioMissing": {
+    "message": "{count} dòng chưa có giọng. Hãy chọn giọng cho từng dòng hoặc dùng “Áp dụng giọng”."
+  },
+  "subtitleAudioEmptyText": {
+    "message": "{count} dòng chưa có nội dung. Hãy thêm nội dung trước khi tạo."
+  },
+  "subtitleAudioCacheNote": {
+    "message": "Giọng nói do dịch vụ đã chọn tạo ra. Phụ đề và các đoạn đã tạo được lưu đệm trên thiết bị này; âm thanh và video được ghép ngay trên máy."
+  },
+  "subtitleAudioRestored": {
+    "message": "Đã khôi phục bản nháp."
+  },
+  "subtitleAudioSaveError": {
+    "message": "Không lưu được bản nháp. Hãy giữ trang này mở để không mất các chỉnh sửa."
+  },
+  "subtitleAudioFailed": {
+    "message": "Không thể hoàn tất. Các đoạn giọng nói đã xong vẫn được giữ lại; hãy thử lại để tiếp tục."
+  },
+  "subtitleAudioDetails": {
+    "message": "Chi tiết"
+  },
+  "subtitleAudioBadFile": {
+    "message": "Hãy chọn tệp .srt mã hóa UTF-8 (tối đa 2 MiB)."
+  },
+  "subtitleAudioEncodingError": {
+    "message": "Tệp này không phải UTF-8 hợp lệ. Hãy lưu lại dưới dạng UTF-8 rồi nhập lại."
+  },
+  "subtitleAudioImportFailed": {
+    "message": "Không đọc được tệp phụ đề. Hãy kiểm tra mốc thời gian và nội dung SRT."
+  },
+  "subtitleAudioInvalidVideo": {
+    "message": "Video này không có rãnh hình đọc được, hoặc không xác định được thời lượng."
+  },
+  "subtitleAudioVideoLimitError": {
+    "message": "Video này dài hơn 3 giờ nên không thể xuất video lồng tiếng. Hãy chọn tệp ngắn hơn."
+  },
+  "subtitleAudioVideoStorageError": {
+    "message": "Máy tính này không đủ dung lượng trống cho video này: cần khoảng {needed} GB, trình duyệt hiện có {available} GB. Hãy giải phóng dung lượng ổ đĩa rồi thử lại, hoặc chọn video nhỏ hơn."
+  },
+  "subtitleAudioVideoCodecError": {
+    "message": "Thiết bị này không thể sao chép codec video đó (ví dụ HEVC). Quá trình xuất đã dừng để tránh tạo tệp bị lỗi. Hãy thử MP4 H.264."
+  },
+  "subtitleAudioVideoAacUnsupported": {
+    "message": "Trình duyệt này không mã hóa được âm thanh AAC nên không thể xuất video lồng tiếng. Vẫn có thể xuất MP3 lồng tiếng."
+  },
+  "subtitleAudioVideoCopyUnsupported": {
+    "message": "Codec của video này không thể xuất thành MP4 lồng tiếng. Vẫn có thể xuất MP3 lồng tiếng; nếu cần video, hãy dùng MP4 H.264."
+  },
+  "subtitleAudioPreviewFailed": {
+    "message": "Không nghe thử được dòng này. Hãy kiểm tra giọng đã chọn và kết nối mạng."
+  },
+  "subtitleAudioPlayBlocked": {
+    "message": "Âm thanh đã sẵn sàng. Hãy nhấn Phát trong trình phát âm thanh."
+  },
+  "subtitleAudioGeneralError": {
+    "message": "Không thể hoàn tất thao tác. Hãy kiểm tra kết nối rồi thử lại."
+  },
+  "subtitleAudioLimitError": {
+    "message": "Dự án vượt quá giới hạn hỗ trợ. Tối đa 5.000 dòng / 3 giờ; mỗi đoạn giọng nói phải ngắn hơn 60 giây."
+  },
+  "subtitleAudioStorageError": {
+    "message": "Không đủ dung lượng lưu trữ cục bộ để xuất. Hãy giải phóng dung lượng rồi thử lại."
+  },
+  "subtitleAudioAccountError": {
+    "message": "Cần tài khoản hợp lệ và còn hạn mức để tạo giọng nói. Hãy kiểm tra tài khoản rồi thử lại."
+  },
+  "subtitleAudioPaused": {
+    "message": "Đang chờ"
+  },
+  "subtitleAudioGeneratingCue": {
+    "message": "Đang tạo"
+  },
+  "subtitleAudioReadyCue": {
+    "message": "Sẵn sàng"
+  },
+  "subtitleAudioErrorCue": {
+    "message": "Lỗi"
+  },
+  "subtitleAudioVoiceReset": {
+    "message": "Một số giọng không khả dụng với cài đặt này. Hãy chọn lại giọng cho các dòng được đánh dấu."
+  },
+  "subtitleAudioConfirmReplace": {
+    "message": "Thay thế bản nháp phụ đề hiện tại?"
+  },
+  "subtitleAudioClearDraft": {
+    "message": "Xóa tất cả phụ đề khỏi bản nháp này?"
+  },
+  "subtitleAudioOutputChanged": {
+    "message": "Cài đặt đã thay đổi. Hãy tạo lại để cập nhật tệp tải xuống."
+  },
+  "subtitleAudioBrowserError": {
+    "message": "Trình duyệt này không khởi tạo được bộ xử lý âm thanh. Hãy thử trình duyệt máy tính phiên bản mới."
+  },
+  "subtitleAudioOtherTabBusy": {
+    "message": "Một tab khác đang tạo hoặc nghe thử âm thanh phụ đề. Hãy đợi tác vụ đó xong hoặc đóng tab đó, rồi thử lại."
+  },
+  "uploadVideoLanguageLabel": {
+    "message": "Ngôn ngữ video (chọn đúng giúp nhận dạng chính xác hơn)"
+  },
+  "uploadVideoLanguageAuto": {
+    "message": "Tự động phát hiện"
+  },
+  "subtitleAudioPreparing": {
+    "message": "Đang tách câu và dịch"
+  },
+  "subtitleAudioPrepareFailed": {
+    "message": "Không thể tách câu hoặc dịch phụ đề. Vui lòng thử lại sau."
+  },
+  "subtitleAudioSourceLanguage": {
+    "message": "Ngôn ngữ phụ đề"
+  },
+  "subtitleAudioSourceLanguageUnknown": {
+    "message": "Không nhận diện được ngôn ngữ của phụ đề này. Hãy chọn ngôn ngữ của phụ đề rồi tạo lại."
+  },
+  "subtitleAudioPreparedNote": {
+    "message": "Đã tách câu và dịch sang {language} giống như lồng tiếng trực tuyến. Bạn có thể sửa bản dịch bên dưới."
+  },
+  "subtitleAudioRestoreSource": {
+    "message": "Khôi phục bản gốc"
+  },
+  "subtitleAudioRestoreSourceConfirm": {
+    "message": "Khôi phục bản gốc sẽ xóa các chỉnh sửa bản dịch; lần xuất tiếp theo sẽ tách câu và dịch lại. Tiếp tục?"
+  },
+  "subtitleAudioLanguageChangedRetranslate": {
+    "message": "Ngôn ngữ lồng tiếng đã thay đổi nên danh sách đã trở về văn bản gốc. Khi xuất sẽ tách câu và dịch lại."
+  },
+  "subtitleAudioCueTooLong": {
+    "message": "Dòng {index} quá dài. Hãy chia thành các dòng ngắn hơn rồi thử lại."
+  },
+  "subtitleAudioBackgroundOption": {
+    "message": "Trộn âm thanh nền"
+  },
+  "subtitleAudioBackgroundHint": {
+    "message": "Âm thanh nền của video này (đã bỏ giọng nói) được tách khi tải lên để nhận dạng. Nó phát bên dưới phần lồng tiếng, giống lồng tiếng trực tuyến."
+  },
+  "subtitleAudioDownloadingBackground": {
+    "message": "Đang tải âm thanh nền"
+  },
+  "subtitleAudioBackgroundFailed": {
+    "message": "Không tải được âm thanh nền. Hãy thử lại sau, hoặc bỏ chọn “Trộn âm thanh nền” rồi xuất lại."
+  },
+  "subtitleAudioPreparedSameLanguageNote": {
+    "message": "Phụ đề đã cùng ngôn ngữ lồng tiếng nên theo cài đặt “không dịch khi cùng ngôn ngữ” chỉ được tách câu."
+  },
+  "dubbingToggleOn": {
+    "message": "Bật lồng tiếng"
+  },
+  "dubbingToggleOff": {
+    "message": "Tắt lồng tiếng"
+  },
+  "dubbingTogglePreparing": {
+    "message": "Đang chuẩn bị lồng tiếng, vui lòng chờ…"
+  },
+  "dubbingSwitchedOffNotice": {
+    "message": "Đã tắt lồng tiếng, khôi phục âm thanh gốc"
+  },
+  "dubbingSwitchedOnNotice": {
+    "message": "Đã bật lồng tiếng"
+  },
+  "toggleDubbingCommand": {
+    "message": "Bật / tắt lồng tiếng"
+  },
+  "spotifyPublicAudioShowNotFound": {
+    "message": "Âm thanh đã được mã hóa và chương trình này không có nguồn podcast công khai (có thể là nội dung độc quyền của Spotify)."
+  },
+  "spotifyPublicAudioEpisodeNotMatched": {
+    "message": "Âm thanh đã được mã hóa và không tìm thấy tập tương ứng trong nguồn podcast công khai của chương trình."
+  },
+  "spotifyPublicAudioLookupFailed": {
+    "message": "Không thể lấy âm thanh công khai của tập này. Vui lòng thử lại sau."
+  }
+}

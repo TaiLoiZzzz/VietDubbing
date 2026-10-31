@@ -1,0 +1,2315 @@
+{
+  "name": {
+    "message": "YouTube Dubbing – Translate & Dub"
+  },
+  "description": {
+    "message": "ഒറ്റ ക്ലിക്കിൽ വീഡിയോ വിവർത്തനവും ഡബ്ബിംഗും—വിദേശ ഭാഷകൾ തൽക്ഷണം മനസ്സിലാക്കുക, ആഗോള അറിവ് ആക്സസ്സ് ചെയ്യുക"
+  },
+  "metadataNotFound": {
+    "message": "വീഡിയോ മെറ്റാഡാറ്റ കണ്ടെത്തിയില്ല, ദയവായി റിഫ്രഷ് ചെയ്ത് വീണ്ടും ശ്രമിക്കുക"
+  },
+  "dubbingMediaNotFoundTitle": {
+    "message": "ഡബ്ബിംഗിന് ഉപയോഗിക്കാവുന്ന വീഡിയോ കണ്ടെത്തിയില്ല"
+  },
+  "dubbingMediaNotFoundText": {
+    "message": "ഈ പേജിൽ ഇപ്പോൾ ഉപയോഗിക്കാവുന്ന വീഡിയോയോ ഓഡിയോയോ ഇല്ല. വീഡിയോ ലോഡ് പൂർത്തിയാകുന്നത് വരെ കാത്തிருந்து വീണ്ടും ശ്രമിക്കുക, അല്ലെങ്കിൽ പേജ് പുതുക്കുക."
+  },
+  "noSubtitlesFound": {
+    "message": "ഈ വീഡിയോയ്ക്ക് സബ്ടൈറ്റിലുകൾ ഇല്ല, വിവർത്തനവും ഡബ്ബിംഗും പിന്തുണയ്ക്കുന്നില്ല"
+  },
+  "liveVideoNotSupported": {
+    "message": "ലൈവ് വീഡിയോകൾ നിലവിൽ ഡബ്ബിംഗിന് പിന്തുണയ്ക്കുന്നില്ല"
+  },
+  "universalDubbingNotSupported": {
+    "message": "നിലവിലെ പതിപ്പിൽ ഈ വീഡിയോയ്ക്ക് യൂണിവേഴ്സൽ ഡബ്ബിംഗ് പിന്തുണയ്ക്കുന്നില്ല. അടുത്ത പതിപ്പിൽ പിന്തുണ ആസൂത്രണം ചെയ്തിട്ടുണ്ട്. വിശദാംശങ്ങൾക്ക് ഉപഭോക്തൃ സേവനവുമായി ബന്ധപ്പെടുക."
+  },
+  "postLoginTranslationSettings": {
+    "message": "ലോഗിൻ വിജയകരം. വിവർത്തന ഭാഷയും വോയ്സ് ലിസ്റ്റും തിരഞ്ഞെടുക്കാൻ പ്ലഗിൻ ഐക്കൺ ക്ലിക്കുചെയ്യുക."
+  },
+  "noSubtitlesWaitOptimization": {
+    "message": "സബ്ടൈറ്റിലുകൾ ലഭ്യമല്ല. ഈ വീഡിയോയുടെ സബ്ടൈറ്റിലുകൾ തിരിച്ചറിയാൻ പ്ലഗിൻ കാത്തിരിക്കുക. തിരിച്ചറിയൽ പൂർത്തിയാകുമ്പോൾ നിങ്ങളുടെ രജിസ്റ്റർ ചെയ്ത ഇമെയിൽ വിലാസത്തിൽ ഒരു ഇമെയിൽ അറിയിപ്പ് ലഭിക്കും."
+  },
+  "privateVideoNoSubtitles": {
+    "message": "ഈ വീഡിയോയ്ക്ക് സബ്ടൈറ്റിലുകൾ ഇല്ല, ഇത് സ്വകാര്യ വീഡിയോയാണ്. ഈ വീഡിയോയ്ക്കായി പ്ലഗിൻ പശ്ചാത്തലത്തിൽ സബ്ടൈറ്റിലുകൾ തിരിച്ചറിയാൻ കഴിയില്ല. ദയവായി വീഡിയോ പൊതുവായി മാറ്റുക, അല്ലെങ്കിൽ സബ്ടൈറ്റിലുകൾ കൈയോടെ ചേർത്ത് വീണ്ടും ശ്രമിക്കുക."
+  },
+  "trialMemberDurationLimit": {
+    "message": "ഈ വീഡിയോയ്ക്ക് സബ്ടൈറ്റിലുകൾ ഇല്ല. ട്രയൽ അംഗമെന്ന നിലയിൽ, സബ്ടൈറ്റിൽ തിരിച്ചറിയലിന് 15 മിനിറ്റിൽ താഴെയുള്ള വീഡിയോകൾ മാത്രമേ നിലവിൽ പിന്തുണയ്ക്കുന്നുള്ളൂ. പ്രീമിയം അംഗങ്ങൾ 3 മണിക്കൂറിൽ താഴെയുള്ള വീഡിയോകളെ പിന്തുണയ്ക്കുന്നു."
+  },
+  "premiumMemberDurationLimit": {
+    "message": "ഈ വീഡിയോയ്ക്ക് സബ്ടൈറ്റിലുകൾ ഇല്ല, വീഡിയോ ദൈർഘ്യം 3 മണിക്കൂർ കവിയുന്നു, വിവർത്തനവും ഡബ്ബിംഗും പിന്തുണയ്ക്കുന്നില്ല. ചെറിയ വീഡിയോയോ സബ്ടൈറ്റിലുകളുള്ള വീഡിയോയോ തിരഞ്ഞെടുക്കുക."
+  },
+  "freeUserNoSubtitles": {
+    "message": "ഈ വീഡിയോയ്ക്ക് ബിൽറ്റ്-ഇൻ സബ്ടൈറ്റിലുകൾ ഇല്ല. സബ്ടൈറ്റിൽ തിരിച്ചറിയലിനും വിവർത്തന-ഡബ്ബിംഗ് ഫീച്ചറുകൾ ആസ്വദിക്കാനും പ്ലഗിൻ അംഗത്വം സബ്സ്ക്രൈബ് ചെയ്യുക."
+  },
+  "freeUserDailyLimit": {
+    "message": "സൗജന്യ ഉപയോക്താക്കൾക്ക് പ്ലഗിൻ വഴി പ്രതിദിനം 5 വീഡിയോകൾ വരെ കാണാം. പരിധിയില്ലാത്ത കാഴ്ച ആനുകൂല്യങ്ങൾ അൺലോക്ക് ചെയ്യാൻ അംഗത്വത്തിലേക്ക് അപ്ഗ്രേഡ് ചെയ്യുക."
+  },
+  "upgradeEntryUpgradeButton": {
+    "message": "അപ്‌ഗ്രേഡ് ചെയ്യുക"
+  },
+  "upgradeEntryLaterButton": {
+    "message": "പിന്നീട് ആകാം"
+  },
+  "aiSubtitlesRecognitionInBackground": {
+    "message": "AI സബ്ടൈറ്റിലുകൾ ഇതുവരെ ലഭ്യമല്ല. പ്ലഗിൻ പശ്ചാത്തലത്തിൽ അവ തിരിച്ചറിയാൻ ആരംഭിച്ചു. ആദ്യത്തെ ഡബ്ബ് ചെയ്ത വാക്യം നിങ്ങൾ കേട്ടതിനുശേഷം, പേജ് അടച്ച് ഇമെയിൽ അറിയിപ്പിനായി കാത്തിരിക്കാം; തയ്യാറാകുമ്പോൾ ഡബ്ബിംഗ് ബട്ടൺ പച്ചയായി മാറുകയും വിവർത്തന ഗുണനിലവാരം മെച്ചപ്പെടുകയും ചെയ്യും."
+  },
+  "upgradeMembershipForBackgroundRecognition": {
+    "message": "അംഗത്വത്തിലേക്ക് അപ്ഗ്രേഡ് ചെയ്യുക, പ്ലഗിൻ പശ്ചാത്തലത്തിൽ AI സബ്ടൈറ്റിലുകൾ തിരിച്ചറിയും. ഇമെയിൽ അറിയിപ്പ് ലഭിച്ചതിന് ശേഷം തിരികെ വന്ന് കാണുക; ഡബ്ബിംഗ് ബട്ടൺ പച്ചയായി മാറുകയും വിവർത്തനങ്ങൾ കൂടുതൽ കൃത്യമാവുകയും ചെയ്യും."
+  },
+  "memberFreeVoiceAzureSuggestion": {
+    "message": "നിങ്ങൾ ഇപ്പോൾ സൗജന്യ ശബ്ദ തരം ഉപയോഗിച്ചാണ് ഡബ്ബിംഗ് ചെയ്യുന്നത്. Azure ശബ്ദങ്ങൾ കൂടുതൽ സ്വാഭാവികമായി കേൾക്കും; അംഗങ്ങൾക്ക് ഇപ്പോൾ അധിക ക്രെഡിറ്റ് റീചാർജ് ഇല്ലാതെ പരിധിയില്ലാതെ Azure ഉപയോഗിക്കാം."
+  },
+  "memberAiSubtitlePlatformPrioritySuggestion": {
+    "message": "ഇപ്പോൾ എക്സ്റ്റൻഷന്റെ പശ്ചാത്തല AI തിരിച്ചറിഞ്ഞ സബ്ടൈറ്റിലുകളാണ് ഉപയോഗിക്കുന്നത്. വിവർത്തനം ശരിയായി തോന്നുന്നില്ലെങ്കിൽ, അടിസ്ഥാന ക്രമീകരണങ്ങളിൽ സബ്ടൈറ്റിൽ മുൻഗണന പ്ലാറ്റ്‌ഫോം സബ്ടൈറ്റിലുകളാക്കി മാറ്റുക."
+  },
+  "openBasicSettingsLink": {
+    "message": "അടിസ്ഥാന ക്രമീകരണങ്ങൾ തുറക്കുക"
+  },
+  "doNotShowAgainLink": {
+    "message": "ഇനി കാണിക്കരുത്"
+  },
+  "loginAndUsePlugin": {
+    "message": "ആദ്യം ലോഗിൻ ചെയ്യാൻ പ്ലഗിൻ ഐക്കണിൽ ക്ലിക്കുചെയ്യുക, തുടർന്ന് വോയ്സ്ഓവർ പ്ലേബാക്കിനായി പ്ലഗിൻ ഉപയോഗിക്കുക."
+  },
+  "voiceSettingsMismatch": {
+    "message": "വോയ്‌സ് തരവും വോയ്‌സ് ക്രമീകരണങ്ങളും പൊരുത്തപ്പെടുന്നില്ല. ദയവായി ക്രമീകരണ പേജിലേക്ക് പോയി വോയ്‌സ് ക്രമീകരണങ്ങൾ വീണ്ടും തിരഞ്ഞെടുത്ത് സേവ് ചെയ്യുക."
+  },
+  "contentMenusTitle": {
+    "message": "വോയ്സ്ഓവർ പ്ലേബാക്ക് ആരംഭിക്കുക"
+  },
+  "videoDetectedDomainTooltip": {
+    "message": "നിലവിലെ വീഡിയോയിൽ തിരിച്ചറിഞ്ഞ മേഖല: {domain}"
+  },
+  "dropboxClickCcToTranscribe": {
+    "message": "ഈ വീഡിയോ ഇതുവരെ ട്രാൻസ്ക്രൈബ് ചെയ്തിട്ടില്ല. സബ്ടൈറ്റിലുകൾ ട്രാൻസ്ക്രൈബ് ചെയ്യാൻ ഡ്രോപ്ബോക്സ് വീഡിയോയുടെ ചുവടെയുള്ള CC ബട്ടൺ ക്ലിക്കുചെയ്യുക. ട്രാൻസ്ക്രിപ്ഷൻ പൂർത്തിയായതിന് ശേഷം, വിവർത്തനം ചെയ്യാനും ഡബ്ബ് ചെയ്യാനും പ്ലഗിന്റെ ഡബ്ബിംഗ് ബട്ടൺ ക്ലിക്കുചെയ്യുക."
+  },
+  "iosInterceptorConflictTitle": {
+    "message": "എക്സ്റ്റൻഷൻ വൈരുദ്ധ്യം കണ്ടെത്തി"
+  },
+  "iosInterceptorConflictMessage": {
+    "message": "മറ്റൊരു ബ്രൗസർ എക്സ്റ്റൻഷൻ സബ്ടൈറ്റിൽ അഭ്യർത്ഥന തടസ്സപ്പെടുത്തുന്നു. വൈരുദ്ധ്യമുള്ള എക്സ്റ്റൻഷനുകൾ പ്രവർത്തനരഹിതമാക്കുക, പേജ് റിഫ്രഷ് ചെയ്യുക, തുടർന്ന് വീണ്ടും ശ്രമിക്കുക."
+  },
+  "login": {
+    "message": "ലോഗിൻ"
+  },
+  "logout": {
+    "message": "ലോഗൗട്ട്"
+  },
+  "subscribe": {
+    "message": "PRO ചേരുക"
+  },
+  "save_settings": {
+    "message": "സംരക്ഷിക്കുക"
+  },
+  "saving": {
+    "message": "സംരക്ഷിക്കുന്നു..."
+  },
+  "saveSuccessTitle": {
+    "message": "സംരക്ഷണം വിജയകരം"
+  },
+  "saveSuccessText": {
+    "message": "സെറ്റിംഗുകൾ വിജയകരമായി സംരക്ഷിച്ചു"
+  },
+  "saveFailedTitle": {
+    "message": "സംരക്ഷണം പരാജയപ്പെട്ടു"
+  },
+  "saveFailedText": {
+    "message": "സെറ്റിംഗുകൾ സംരക്ഷിക്കുന്നതിൽ പരാജയപ്പെട്ടു, ദയവായി വീണ്ടും ശ്രമിക്കുക"
+  },
+  "confirmButton": {
+    "message": "തുടർന്ന് സംരക്ഷിക്കുക"
+  },
+  "cancelButton": {
+    "message": "റദ്ദാക്കുക"
+  },
+  "back": {
+    "message": "തിരികെ"
+  },
+  "backToSettings": {
+    "message": "സെറ്റിംഗുകളിലേക്ക് മടങ്ങുക"
+  },
+  "backToVideoLibrary": {
+    "message": "വീഡിയോ ലൈബ്രറിയിലേക്ക് മടങ്ങുക"
+  },
+  "source_languages": {
+    "message": "ഉറവിട ഭാഷ:"
+  },
+  "target_languages": {
+    "message": "ലക്ഷ്യ ഭാഷ:"
+  },
+  "selectSourceLanguage": {
+    "message": "ഉറവിട ഭാഷ തിരഞ്ഞെടുക്കുക"
+  },
+  "selectTargetLanguage": {
+    "message": "ലക്ഷ്യ ഭാഷ തിരഞ്ഞെടുക്കുക"
+  },
+  "searchSourceLanguage": {
+    "message": "ഉറവിട ഭാഷ തിരയുക..."
+  },
+  "searchTargetLanguage": {
+    "message": "ലക്ഷ്യ ഭാഷ തിരയുക..."
+  },
+  "loading": {
+    "message": "ലോഡുചെയ്യുന്നു"
+  },
+  "sex": {
+    "message": "ലിംഗം:"
+  },
+  "voices": {
+    "message": "ശബ്ദം:"
+  },
+  "voicesType": {
+    "message": "ശബ്ദ തരം:"
+  },
+  "man": {
+    "message": "പുരുഷൻ"
+  },
+  "woman": {
+    "message": "സ്ത്രീ"
+  },
+  "free": {
+    "message": "സൗജന്യം"
+  },
+  "memberFree": {
+    "message": "അംഗങ്ങൾക്ക് സൗജന്യം"
+  },
+  "memberFreeRequireMembership": {
+    "message": "ഈ ശബ്ദതരം അംഗങ്ങൾക്ക് മാത്രമാണ്. സൗജന്യമായി ഉപയോഗിക്കാൻ അപ്‌ഗ്രേഡ് ചെയ്യുക."
+  },
+  "azureRequireMembership": {
+    "message": "Azure TTS അംഗങ്ങൾക്ക് മാത്രം. ഉയർന്ന ഗുണനിലവാരമുള്ള Azure ശബ്ദങ്ങൾ അൺലോക്ക് ചെയ്യാൻ അപ്‌ഗ്രേഡ് ചെയ്യുക."
+  },
+  "originalAudio": {
+    "message": "മൂല"
+  },
+  "translatedAudio": {
+    "message": "ഡബ്"
+  },
+  "backgroundAudio": {
+    "message": "BGM"
+  },
+  "textToSpeech": {
+    "message": "ടെക്സ്റ്റ് ടു സ്പീച്ച്:"
+  },
+  "textToSpeechToggle": {
+    "message": "ഫ്ലോട്ടിംഗ് ബട്ടൺ"
+  },
+  "showSubtitle": {
+    "message": "സബ്ടൈറ്റിലുകൾ:"
+  },
+  "subtitleSize": {
+    "message": "വലിപ്പം"
+  },
+  "subtitles": {
+    "message": "സബ്ടൈറ്റിലുകൾ"
+  },
+  "toggleSubtitles": {
+    "message": "സബ്ടൈറ്റിലുകൾ ടോഗിൾ ചെയ്യുക"
+  },
+  "subtitleDisplayMode": {
+    "message": "സബ്ടൈറ്റിൽ പ്രദർശന മോഡ്"
+  },
+  "subtitleModeTranslated": {
+    "message": "വിവർത്തനം മാത്രം"
+  },
+  "subtitleModeBilingual": {
+    "message": "ദ്വിഭാഷാ സബ്ടൈറ്റിലുകൾ"
+  },
+  "subtitleModeOff": {
+    "message": "സബ്ടൈറ്റിലുകൾ ഓഫ്"
+  },
+  "translateService": {
+    "message": "വിവർത്തനം:"
+  },
+  "translationEngine": {
+    "message": "വിവർത്തന എഞ്ചിൻ"
+  },
+  "translationService": {
+    "message": "വിവർത്തന സേവനം"
+  },
+  "translationServiceTitle": {
+    "message": "വിവർത്തന സേവനം"
+  },
+  "advancedSettings": {
+    "message": "വിപുലമായ സെറ്റിംഗുകൾ"
+  },
+  "pauseVideo": {
+    "message": "വീഡിയോ താൽക്കാലികമായി നിർത്തുക"
+  },
+  "iosOpenOriginVolume": {
+    "message": "ഒറിജിനൽ ഓഡിയോ ഓണാക്കുക"
+  },
+  "voicesAndSubtitles": {
+    "message": "ശബ്ദവും സബ്ടൈറ്റിലുകളും"
+  },
+  "voicesAndSubtitlesTitle": {
+    "message": "ശബ്ദവും സബ്ടൈറ്റിലുകളും"
+  },
+  "speakerList": {
+    "message": "സംഭാഷകരുടെ ലിസ്റ്റ്"
+  },
+  "speakersTitle": {
+    "message": "സംഭാഷകർ"
+  },
+  "deleteSpeaker": {
+    "message": "ഇല്ലാതാക്കുക"
+  },
+  "editSpeaker": {
+    "message": "എഡിറ്റുചെയ്യുക"
+  },
+  "speakerName": {
+    "message": "സ്പീക്കർ പേര്"
+  },
+  "enterSpeakerName": {
+    "message": "സ്പീക്കർ പേര് നൽകുക"
+  },
+  "enterVoice": {
+    "message": "വോയ്സ് നാമം നൽകുക"
+  },
+  "voice": {
+    "message": "ശബ്ദം"
+  },
+  "gender": {
+    "message": "ലിംഗം"
+  },
+  "male": {
+    "message": "പുരുഷൻ"
+  },
+  "female": {
+    "message": "സ്ത്രീ"
+  },
+  "edit": {
+    "message": "എഡിറ്റുചെയ്യുക"
+  },
+  "delete": {
+    "message": "ഇല്ലാതാക്കുക"
+  },
+  "save": {
+    "message": "സംരക്ഷിക്കുക"
+  },
+  "cancel": {
+    "message": "റദ്ദാക്കുക"
+  },
+  "confirmDeleteSpeaker": {
+    "message": "ഈ സ്പീക്കർ ഇല്ലാതാക്കണമെന്ന് ഉറപ്പാണോ?"
+  },
+  "noSpeakers": {
+    "message": "സ്പീക്കറുകളൊന്നുമില്ല"
+  },
+  "memberUser": {
+    "message": "PRO"
+  },
+  "accountBalance": {
+    "message": "അക്കൗണ്ട് ബാലൻസ്:"
+  },
+  "userAccountAriaLabel": {
+    "message": "ഉപയോക്തൃ അക്കൗണ്ട്"
+  },
+  "membershipExpires": {
+    "message": "വരെ"
+  },
+  "shortcutSettings": {
+    "message": "കുറുക്കുവഴികൾ"
+  },
+  "subscriptionRecharge": {
+    "message": "സബ്സ്ക്രൈബ് & റീചാർജ്"
+  },
+  "membershipIcon": {
+    "message": "അംഗത്വ ഐക്കൺ"
+  },
+  "browserShortcutSettingsTip": {
+    "message": "ബ്രൗസർ എക്സ്റ്റൻഷൻ സെറ്റിംഗുകളിൽ കുറുക്കുവഴികൾ കോൺഫിഗർ ചെയ്യുക"
+  },
+  "safariShortcutSettingsTip": {
+    "message": "Safari > Preferences > Extensions എന്നതിൽ കുറുക്കുവഴികൾ സെറ്റ് ചെയ്യുക"
+  },
+  "edgeShortcutSettingsTip": {
+    "message": "Edge എക്സ്റ്റൻഷൻ കുറുക്കുവഴി സെറ്റിംഗുകൾ പേജ് തുറക്കുന്നു"
+  },
+  "firefoxShortcutSettingsTip": {
+    "message": "Firefox ആഡ്-ഓണുകൾ പേജ് തുറക്കുന്നു, Extensions and Themes എന്നതിൽ കുറുക്കുവഴികൾ സെറ്റ് ചെയ്യുക"
+  },
+  "dubbingSettings": {
+    "message": "ഡബ്ബിംഗ് സെറ്റിംഗുകൾ"
+  },
+  "debugInfo": {
+    "message": "ഡീബഗ് വിവരം"
+  },
+  "sourceLanguage": {
+    "message": "ഉറവിട ഭാഷ"
+  },
+  "targetLanguage": {
+    "message": "ലക്ഷ്യ ഭാഷ"
+  },
+  "vipRequiredTitle": {
+    "message": "അംഗത്വം ആവശ്യമാണ്"
+  },
+  "vipRequiredText": {
+    "message": "ഈ ഫീച്ചർ ഉപയോഗിക്കുന്നതിന് നിങ്ങൾ അംഗമാകണം"
+  },
+  "vipAndBalanceRequiredTitle": {
+    "message": "അംഗത്വവും ബാലൻസും ആവശ്യമാണ്"
+  },
+  "vipAndBalanceRequiredText": {
+    "message": "ഈ ഫീച്ചർ ഉപയോഗിക്കുന്നതിന് നിങ്ങൾ അംഗമാകണം, മതിയായ ബാലൻസ് ഉണ്ടായിരിക്കണം"
+  },
+  "balanceRequiredTitle": {
+    "message": "ബാലൻസ് ആവശ്യമാണ്"
+  },
+  "balanceRequiredText": {
+    "message": "നിങ്ങളുടെ അക്കൗണ്ട് ബാലൻസ് അപര്യാപ്തമാണ്. ഈ ഫീച്ചർ ഉപയോഗിക്കാൻ റീചാർജ് ചെയ്യുക"
+  },
+  "lowBalanceTitle": {
+    "message": "കുറഞ്ഞ ബാലൻസ് മുന്നറിയിപ്പ്"
+  },
+  "lowBalanceText": {
+    "message": "നിങ്ങളുടെ അക്കൗണ്ട് ബാലൻസ് $1-ൽ താഴെയാണ്. തടസ്സമില്ലാത്ത സേവനം ഉറപ്പാക്കാൻ ഉടൻ റീചാർജ് ചെയ്യാൻ ശുപാർശ ചെയ്യുന്നു"
+  },
+  "insufficientBalance": {
+    "message": "അപര്യാപ്തമായ ബാലൻസ് കാരണം, സേവനം Google Translate-ലേക്ക് താഴ്ത്തിയിരിക്കുന്നു. AI വിവർത്തനം ഉപയോഗിക്കുന്നതിന്, നിങ്ങളുടെ ക്രെഡിറ്റ് റീചാർജ് ചെയ്യുക."
+  },
+  "insufficientBalanceAlertMsg": {
+    "message": "നിങ്ങളുടെ ബാലൻസ് അപര്യാപ്തമാണ്. AI വിവർത്തനവും Azure TTS ഉം ഉപയോഗിക്കുന്നതിന് മുമ്പ് നിങ്ങളുടെ ബാലൻസ് റീചാർജ് ചെയ്യുക. റീചാർജ് ചെയ്യാൻ ആഗ്രഹിക്കുന്നില്ലെങ്കിൽ, Google Translate-ലേക്കും സൗജന്യ വോയ്സ് തരങ്ങളിലേക്കും മാറാം."
+  },
+  "balanceRunningLow": {
+    "message": "നിങ്ങളുടെ ബാലൻസ് തീരുകയാണ്. മോശം കാഴ്ച അനുഭവം ഒഴിവാക്കാൻ, മുൻകൂറായി റീചാർജ് ചെയ്യാൻ ശുപാർശ ചെയ്യുന്നു."
+  },
+  "membershipRequired": {
+    "message": "OpenAI വിവർത്തനം ഉപയോഗിക്കുന്നതിന് മുമ്പ് അംഗത്വത്തിലേക്ക് അപ്ഗ്രേഡ് ചെയ്യുക."
+  },
+  "membershipRequiredForAI": {
+    "message": "AI വിവർത്തനം ഉപയോഗിക്കുന്നതിന് മുമ്പ് നിങ്ങളുടെ അംഗത്വം റീചാർജ് ചെയ്യുക. റീചാർജ് ചെയ്യാൻ ആഗ്രഹിക്കുന്നില്ലെങ്കിൽ, Google Translate തിരഞ്ഞെടുക്കാം."
+  },
+  "insufficientMembership": {
+    "message": "നിങ്ങളുടെ അംഗത്വം കാലഹരണപ്പെട്ടു. AI വിവർത്തനവും Azure TTS ഉം ഉപയോഗിക്കുന്നതിന് മുമ്പ് നിങ്ങളുടെ അംഗത്വം റീചാർജ് ചെയ്യുക. റീചാർജ് ചെയ്യാൻ ആഗ്രഹിക്കുന്നില്ലെങ്കിൽ, Google Translate-ഉം സൗജന്യ വോയ്സ് തരങ്ങളും തിരഞ്ഞെടുക്കാം."
+  },
+  "insufficientBalanceAndMembership": {
+    "message": "AI വിവർത്തനവും Azure TTS ഉം ഉപയോഗിക്കുന്നതിന് മുമ്പ് നിങ്ങളുടെ അംഗത്വവും ബാലൻസും റീചാർജ് ചെയ്യുക. റീചാർജ് ചെയ്യാൻ ആഗ്രഹിക്കുന്നില്ലെങ്കിൽ, Google Translate-ഉം സൗജന്യ വോയ്സ് തരങ്ങളും തിരഞ്ഞെടുക്കാം."
+  },
+  "freeForVip": {
+    "message": "VIP സൗജന്യം"
+  },
+  "freeOptionTipText": {
+    "message": "റീചാർജ് ചെയ്യാൻ ആഗ്രഹിക്കുന്നില്ലെങ്കിൽ, നിങ്ങൾക്ക് സൗജന്യ ഓപ്ഷൻ തിരഞ്ഞെടുക്കാം, "
+  },
+  "translateEngineTipText": {
+    "message": "വിവർത്തന സേവനം Google-ലേക്ക് മാറ്റുക"
+  },
+  "voiceTypeTipText": {
+    "message": "വോയ്സ് തരം സൗജന്യ പതിപ്പിലേക്ക് മാറ്റുക"
+  },
+  "vipFreeOptionTipText": {
+    "message": "അംഗമെന്ന നിലയിൽ, നിങ്ങൾക്ക് ഇനിപ്പറയുന്ന വിവർത്തന സേവനങ്ങൾ സൗജന്യമായി ഉപയോഗിക്കാം"
+  },
+  "vipTranslateEngineTipText": {
+    "message": "വിവർത്തന സേവനം gemini, deepseek, gpt-3.5-turbo, അല്ലെങ്കിൽ claude-3-haiku പോലുള്ള അംഗ-സൗജന്യ സേവനങ്ങളിലേക്ക് മാറ്റുക"
+  },
+  "pay": {
+    "message": "പണമടയ്ക്കുക"
+  },
+  "switchModelWarning": {
+    "message": "വീഡിയോ പ്ലേബാക്കിനിടയിൽ വോയ്സോ വിവർത്തന മോഡലോ മാറ്റുന്നത് പാഴായ റിസോഴ്സുകൾ കാരണം അധിക നിരക്കുകൾ ഈടാക്കും. അടുത്ത വീഡിയോയിൽ മാറാൻ ഞങ്ങൾ ശുപാർശ ചെയ്യുന്നു. എന്തായാലും തുടരുന്നതിന്, തുടരുകയും സംരക്ഷിക്കുകയും ചെയ്യുക ക്ലിക്കുചെയ്യുക."
+  },
+  "selectSpeaker": {
+    "message": "സെലക്ട്"
+  },
+  "speaker": {
+    "message": "സ്പീക്കർ"
+  },
+  "rechargeLimit": {
+    "message": "ക്രെഡിറ്റ്+അംഗം"
+  },
+  "tooExpensive": {
+    "message": "വളരെ ചെലവേറിയത്"
+  },
+  "dropdownPlaceholder": {
+    "message": "സെലക്ട്"
+  },
+  "dropdownNoOptions": {
+    "message": "ഓപ്ഷനുകളൊന്നുമില്ല"
+  },
+  "dropdownSearch": {
+    "message": "തിരയുക..."
+  },
+  "swapVolumeSettingsCommand": {
+    "message": "ഒറിജിനൽ, ഡബ്ബ് ചെയ്ത ഓഡിയോയ്ക്കിടയിൽ വോള്യം സെറ്റിംഗുകൾ ടോഗിൾ ചെയ്യുക"
+  },
+  "cycleSubtitleModeCommand": {
+    "message": "സബ്‌ടൈറ്റിൽ മാറ്റുക: ദ്വിഭാഷ → വിവർത്തനം മാത്രം → ഓഫ്"
+  },
+  "trialMemberModelLimit": {
+    "message": "ട്രയൽ അംഗങ്ങൾക്ക് Gemini-യും Google Translate-ഉം മാത്രമേ ഉപയോഗിക്കാൻ കഴിയൂ. മറ്റ് മോഡലുകൾ ഉപയോഗിക്കാൻ, ഞങ്ങളുടെ അംഗത്വം സബ്സ്ക്രൈബ് ചെയ്യുക."
+  },
+  "subtitlesRateLimitedByYouTube": {
+    "message": "ഈ വീഡിയോയുടെ സബ്ടൈറ്റിലുകൾ നിലവിൽ YouTube നിരക്ക്-പരിമിതമാണ്. ദയവായി പിന്നീട് വീണ്ടും ശ്രമിക്കുക."
+  },
+  "musicVideoNotSupported": {
+    "message": "ഇത് ഒരു സംഗീത വീഡിയോ ആണ്. വിവർത്തനവും ഡബ്ബിംഗും പിന്തുണയ്ക്കുന്നില്ല."
+  },
+  "hideUntilNextVisit": {
+    "message": "അടുത്ത സന്ദർശനം വരെ മറയ്ക്കുക"
+  },
+  "disableGlobally": {
+    "message": "ആഗോളമായി പ്രവർത്തനരഹിതമാക്കുക"
+  },
+  "sidebarHideUntilNextVisit": {
+    "message": "അടുത്ത സന്ദർശനം വരെ മറയ്ക്കുക"
+  },
+  "sidebarDisableForSite": {
+    "message": "ഈ സൈറ്റിന് നിർജ്ജീവമാക്കുക"
+  },
+  "sidebarDisableGlobally": {
+    "message": "ആഗോളമായി നിർജ്ജീവമാക്കുക"
+  },
+  "sidebarReenableHint": {
+    "message": " "
+  },
+  "sidebarSettings": {
+    "message": "ക്രമീകരണങ്ങൾ"
+  },
+  "sidebarReenableHintSuffix": {
+    "message": "ൽ വീണ്ടും പ്രവർത്തനക്ഷമമാക്കാം"
+  },
+  "notSupported": {
+    "message": "പിന്തുണയ്ക്കുന്നില്ല"
+  },
+  "multiVideoNotSupported": {
+    "message": "ഈ പേജിൽ ഒന്നിലധികം വീഡിയോകളുണ്ട്. HLS സ്ട്രീമുകൾ ഉപയോഗിക്കുമ്പോൾ യൂണിവേഴ്സൽ ഡബ്ബിംഗ് ഒരു വീഡിയോ മാത്രമുള്ള പേജുകളെ മാത്രമേ പിന്തുണയ്ക്കൂ."
+  },
+  "mediaSourceNotDetected": {
+    "message": "വീഡിയോ ഉറവിടം കണ്ടെത്താനായില്ല. ഈ വെബ്‌സൈറ്റ് പിന്തുണയ്ക്കപ്പെടാത്തതാകാം."
+  },
+  "uploadMediaForRecognition": {
+    "message": "സബ്ടൈറ്റിലുകളൊന്നും കണ്ടെത്തിയില്ല. AI സബ്ടൈറ്റിൽ തിരിച്ചറിയലിനായി വീഡിയോ അപ്‌ലോഡ് ചെയ്യണോ?"
+  },
+  "startUpload": {
+    "message": "അപ്‌ലോഡ് ആരംഭിക്കുക"
+  },
+  "uploadingMedia": {
+    "message": "മീഡിയ അപ്‌ലോഡ് ചെയ്യുന്നു..."
+  },
+  "downloading": {
+    "message": "ഡൗൺലോഡ് ചെയ്യുന്നു"
+  },
+  "uploading": {
+    "message": "അപ്‌ലോഡ് ചെയ്യുന്നു"
+  },
+  "completing": {
+    "message": "പൂർത്തിയാക്കുന്നു"
+  },
+  "uploadComplete": {
+    "message": "അപ്‌ലോഡ് പൂർത്തിയായി"
+  },
+  "waitingForRecognition": {
+    "message": "വീഡിയോ വിജയകരമായി അപ്‌ലോഡ് ചെയ്തു. AI സബ്ടൈറ്റിൽ തിരിച്ചറിയൽ പുരോഗമിക്കുന്നു. തയ്യാറാകുമ്പോൾ നിങ്ങൾക്ക് ഇമെയിൽ അറിയിപ്പ് ലഭിക്കും."
+  },
+  "uploadFailed": {
+    "message": "അപ്‌ലോഡ് പരാജയപ്പെട്ടു"
+  },
+  "corsNotSupported": {
+    "message": "ഈ വെബ്‌സൈറ്റ് മീഡിയ ഫയലുകൾ ഡൗൺലോഡ് ചെയ്യാൻ അനുവദിക്കുന്നില്ല. യൂണിവേഴ്സൽ ഡബ്ബിംഗ് പിന്തുണയ്ക്കുന്നില്ല."
+  },
+  "mediaDownloadInterrupted": {
+    "message": "നെറ്റ്‌വർക്ക് പിശക് കാരണം മീഡിയ ഡൗൺലോഡ് തടസ്സപ്പെട്ടു (ഇത് സൈറ്റിന്റെ നിയന്ത്രണമല്ല). ദയവായി വീണ്ടും അപ്‌ലോഡ് ചെയ്യുക."
+  },
+  "zoomRecordingDnrNotSupported": {
+    "message": "നിങ്ങളുടെ ബ്രൗസർ Zoom റെക്കോർഡിംഗ് അപ്‌ലോഡ് തിരിച്ചറിയലിനെ പിന്തുണയ്ക്കുന്നില്ല. ദയവായി Chrome/Edge ഉപയോഗിക്കുക."
+  },
+  "zoomRecordingDownloadForbidden403": {
+    "message": "Zoom റെക്കോർഡിംഗ് ഡൗൺലോഡ് നിരോധിച്ചു (403). പരിശോധന പാസാക്കാൻ പേജ് പ്ലേ/റിഫ്രഷ് ചെയ്യുക, തുടർന്ന് വീണ്ടും അപ്‌ലോഡ് ചെയ്യുക."
+  },
+  "liveStreamNotSupported": {
+    "message": "ലൈവ് സ്ട്രീമുകൾ യൂണിവേഴ്സൽ ഡബ്ബിംഗിന് പിന്തുണയ്ക്കുന്നില്ല."
+  },
+  "noAudioTrackFound": {
+    "message": "ഓഡിയോ ട്രാക്ക് കണ്ടെത്തിയില്ല. ഈ വീഡിയോ ഓഡിയോ ഇല്ലാത്ത വീഡിയോ-മാത്രം ആണെന്ന് തോന്നുന്നു, ഡബ്ബിംഗ് തിരിച്ചറിയലിന് ഉപയോഗിക്കാൻ കഴിയില്ല."
+  },
+  "universalDubbingMemberOnly": {
+    "message": "യൂണിവേഴ്സൽ ഡബ്ബിംഗിന് ക്ലൗഡ് GPU കമ്പ്യൂട്ടിംഗ് പവർ ആവശ്യമാണ് (ഉയർന്ന ചെലവ്), VIP മാത്രം."
+  },
+  "videoDurationExceedsLimit": {
+    "message": "ഈ വീഡിയോ 3 മണിക്കൂറിൽ കൂടുതലാണ്. 3 മണിക്കൂറിൽ കൂടുതൽ നീളമുള്ള വീഡിയോകൾക്ക് ഇപ്പോൾ യൂണിവേഴ്സൽ ഡബ്ബിംഗ് പിന്തുണയ്ക്കുന്നില്ല."
+  },
+  "videoDrmProtected": {
+    "message": "ഈ വീഡിയോ DRM പരിരക്ഷിതമാണ്, ഡബ്ബിംഗിനായി ഉപയോഗിക്കാൻ കഴിയില്ല."
+  },
+  "pleaseClickVideoToPlay": {
+    "message": "ദയവായി വീഡിയോ തുറക്കാൻ ക്ലിക്ക് ചെയ്യുക, തുടർന്ന് ഡബ്ബിംഗ് ഫീച്ചർ ഉപയോഗിക്കുക."
+  },
+  "iosUniversalDubbingNotSupported": {
+    "message": "iOS ഉപകരണങ്ങളിൽ യൂണിവേഴ്സൽ ഡബ്ബിംഗ് പിന്തുണയ്ക്കുന്നില്ല. ദയവായി ഡെസ്ക്ടോപ്പ് ബ്രൗസർ ഉപയോഗിക്കുക."
+  },
+  "membershipRequiredTitle": {
+    "message": "അംഗത്വം ആവശ്യമാണ്"
+  },
+  "error": {
+    "message": "പിശക്"
+  },
+  "unknownError": {
+    "message": "അജ്ഞാത പിശക് സംഭവിച്ചു. വീണ്ടും ശ്രമിക്കുക."
+  },
+  "doNotClosePage": {
+    "message": "അപ്‌ലോഡ് സമയത്ത് ഈ പേജ് അടയ്ക്കുകയോ റിഫ്രഷ് ചെയ്യുകയോ ചെയ്യരുത്, അല്ലെങ്കിൽ അപ്‌ലോഡ് തടസ്സപ്പെടും."
+  },
+  "taskAlreadySubmitted": {
+    "message": "ഈ വീഡിയോ AI സബ്ടൈറ്റിൽ തിരിച്ചറിയലിനായി ഇതിനകം പ്രോസസ്സ് ചെയ്യപ്പെടുന്നു. ഇമെയിൽ അറിയിപ്പിനായി കാത്തിരിക്കുക."
+  },
+  "sampleAesNotSupported": {
+    "message": "ഈ വീഡിയോ SAMPLE-AES എൻക്രിപ്ഷൻ ഉപയോഗിക്കുന്നു, ഇത് നിലവിൽ ഡൗൺലോഡിനായി പിന്തുണയ്ക്കുന്നില്ല."
+  },
+  "hlsKeyFetchFailed": {
+    "message": "ഈ വീഡിയോയ്ക്കുള്ള ഡീക്രിപ്ഷൻ കീ ലഭ്യമാക്കുന്നതിൽ പരാജയപ്പെട്ടു. വീഡിയോ സംരക്ഷിതമായിരിക്കാം അല്ലെങ്കിൽ കീ സെർവർ ലഭ്യമല്ല."
+  },
+  "hlsDecryptionFailed": {
+    "message": "വീഡിയോ ഉള്ളടക്കം ഡീക്രിപ്റ്റ് ചെയ്യുന്നതിൽ പരാജയപ്പെട്ടു. എൻക്രിപ്ഷൻ കീ തെറ്റായിരിക്കാം അല്ലെങ്കിൽ വീഡിയോ ഫോർമാറ്റ് അനുയോജ്യമല്ല."
+  },
+  "subtitleStyleOptionsTitle": {
+    "message": "ഉപശീർഷക ശൈലി ക്രമീകരണങ്ങൾ"
+  },
+  "subtitleStyleOptionsDesc": {
+    "message": "ക്രമീകരണങ്ങൾ സംരക്ഷിക്കപ്പെടുകയും ഉടനടി പ്രാബല്യത്തിൽ വരികയും ചെയ്യും."
+  },
+  "subtitleStyleSectionTitle": {
+    "message": "ഉപശീർഷക ശൈലി"
+  },
+  "subtitleStylePreviewTitle": {
+    "message": "പ്രിവ്യൂ"
+  },
+  "subtitleStylePreviewTag": {
+    "message": "തൽസമയം"
+  },
+  "subtitleStylePreviewText": {
+    "message": "ഈ യുവാവിന് വലിയ സാധ്യതയുണ്ടെന്ന് അയാൾ കരുതി."
+  },
+  "subtitleStylePosition": {
+    "message": "ഉപശീർഷകത്തിന്റെ സ്ഥാനം"
+  },
+  "subtitleStylePositionTop": {
+    "message": "മുകളിൽ"
+  },
+  "subtitleStylePositionMiddle": {
+    "message": "മധ്യം"
+  },
+  "subtitleStylePositionBottom": {
+    "message": "താഴെ"
+  },
+  "subtitleStyleFontFamily": {
+    "message": "ഫോണ്ട്"
+  },
+  "subtitleStyleFontSize": {
+    "message": "ഫോണ്ട് വലിപ്പം"
+  },
+  "subtitleStyleCustomOption": {
+    "message": "ഇഷ്ടാനുസൃതം"
+  },
+  "subtitleStyleCustomFont": {
+    "message": "ഇഷ്ടാനുസൃത ഫോണ്ട്"
+  },
+  "subtitleStyleCustomFontPlaceholder": {
+    "message": "ഉദാ.: PingFang SC, Arial"
+  },
+  "subtitleStyleTextColor": {
+    "message": "ഫോണ്ട് നിറം"
+  },
+  "subtitleStyleFontWeight": {
+    "message": "ഫോണ്ട് ഭാരം"
+  },
+  "subtitleStyleBackgroundColor": {
+    "message": "പശ്ചാത്തല നിറം"
+  },
+  "subtitleStyleBackgroundOpacity": {
+    "message": "പശ്ചാത്തല അതാര്യത"
+  },
+  "subtitleStyleEdgeStyle": {
+    "message": "അരിക് ശൈലി"
+  },
+  "subtitleStyleEdgeNone": {
+    "message": "ഒന്നുമില്ല"
+  },
+  "subtitleStyleEdgeShadow": {
+    "message": "നിഴൽ"
+  },
+  "subtitleStyleEdgeOutline": {
+    "message": "ഔട്ട്‌ലൈൻ"
+  },
+  "subtitleStyleFontNone": {
+    "message": "ഒന്നുമില്ല"
+  },
+  "subtitleStyleFontDefault": {
+    "message": "ഡിഫോൾട്ട്"
+  },
+  "subtitleStyleFontPingFang": {
+    "message": "PingFang SC"
+  },
+  "subtitleStyleFontYaHei": {
+    "message": "Microsoft YaHei"
+  },
+  "subtitleStyleFontHeiti": {
+    "message": "STHeiti"
+  },
+  "subtitleStyleFontKaiti": {
+    "message": "Kaiti SC"
+  },
+  "subtitleStyleFontSongti": {
+    "message": "STSong"
+  },
+  "subtitleStyleFontFangsong": {
+    "message": "FangSong"
+  },
+  "subtitleStyleFontDongqingHeiti": {
+    "message": "Dongqing Heiti"
+  },
+  "subtitleStyleFontLantingHei": {
+    "message": "Lanting Hei"
+  },
+  "subtitleStyleFontHanyiHeiliu": {
+    "message": "Hanyi Heiliu"
+  },
+  "subtitleStyleFontHanyiZhonghei": {
+    "message": "Hanyi Zhonghei"
+  },
+  "subtitleStyleFontSTSong": {
+    "message": "Songti"
+  },
+  "subtitleStyleFontWawati": {
+    "message": "Wawati"
+  },
+  "subtitleStyleFontWeibei": {
+    "message": "Weibei"
+  },
+  "subtitleStyleFontXingkai": {
+    "message": "Xingkai"
+  },
+  "subtitleStyleFontYuanti": {
+    "message": "Yuanti"
+  },
+  "subtitleStyleFontArialUnicode": {
+    "message": "Arial Unicode MS"
+  },
+  "subtitleStyleFontArial": {
+    "message": "Arial"
+  },
+  "subtitleStyleFontCourierNew": {
+    "message": "Courier New"
+  },
+  "subtitleStyleFontGeorgia": {
+    "message": "Georgia"
+  },
+  "subtitleStyleFontTahoma": {
+    "message": "Tahoma"
+  },
+  "subtitleStyleFontTimesNewRoman": {
+    "message": "Times New Roman"
+  },
+  "subtitleStyleFontTrebuchetMS": {
+    "message": "Trebuchet MS"
+  },
+  "subtitleStyleFontVerdana": {
+    "message": "Verdana"
+  },
+  "subtitleStyleFontHelveticaNeue": {
+    "message": "Helvetica Neue"
+  },
+  "subtitleStyleFontHiraginoMincho": {
+    "message": "Hiragino Mincho ProN"
+  },
+  "subtitleStyleFontHiraginoKaku": {
+    "message": "Hiragino Kaku Gothic ProN"
+  },
+  "subtitleStyleFontKohinoor": {
+    "message": "Kohinoor Devanagari"
+  },
+  "subtitleStyleFontAppleSD": {
+    "message": "Apple SD Gothic Neo"
+  },
+  "subtitleStyleFontNanumGothic": {
+    "message": "Nanum Gothic"
+  },
+  "subtitleStyleFontCustom": {
+    "message": "ഇഷ്ടാനുസൃതം"
+  },
+  "subtitleStyleColorWhite": {
+    "message": "വെള്ള"
+  },
+  "subtitleStyleColorYellow": {
+    "message": "മഞ്ഞ"
+  },
+  "subtitleStyleColorOrange": {
+    "message": "ഓറഞ്ച്"
+  },
+  "subtitleStyleColorGray": {
+    "message": "ചാരനിറം"
+  },
+  "subtitleStyleColorGreen": {
+    "message": "പച്ച"
+  },
+  "subtitleStyleColorCyan": {
+    "message": "സയാൻ"
+  },
+  "subtitleStyleColorBlue": {
+    "message": "നീല"
+  },
+  "subtitleStyleColorMagenta": {
+    "message": "മജന്ത"
+  },
+  "subtitleStyleColorRed": {
+    "message": "ചുവപ്പ്"
+  },
+  "subtitleStyleColorBlack": {
+    "message": "കറുപ്പ്"
+  },
+  "subtitleStyleEditorViewLabel": {
+    "message": "സ്റ്റൈൽ എഡിറ്റർ കാഴ്ച"
+  },
+  "subtitleStyleEditorViewTranslated": {
+    "message": "വിവർത്തനം മാത്രം"
+  },
+  "subtitleStyleEditorViewBilingual": {
+    "message": "ദ്വിഭാഷ"
+  },
+  "subtitleStyleLayoutSectionTitle": {
+    "message": "ദ്വിഭാഷ ലേഔട്ട്"
+  },
+  "subtitleStyleOrder": {
+    "message": "സബ്‌ടൈറ്റിൽ ക്രമം"
+  },
+  "subtitleStyleOrderTranslatedFirst": {
+    "message": "വിവർത്തനം മുകളിൽ"
+  },
+  "subtitleStyleOrderOriginalFirst": {
+    "message": "ഒറിജിനൽ മുകളിൽ"
+  },
+  "subtitleStyleLineGap": {
+    "message": "വരി ഇടം"
+  },
+  "subtitleStyleTextAlign": {
+    "message": "തിരശ്ചീന ക്രമീകരണം"
+  },
+  "subtitleStyleTextAlignLeft": {
+    "message": "ഇടത്"
+  },
+  "subtitleStyleTextAlignCenter": {
+    "message": "മധ്യം"
+  },
+  "subtitleStyleTextAlignRight": {
+    "message": "വലത്"
+  },
+  "subtitleStyleTranslatedSectionTitle": {
+    "message": "വിവർത്തന ശൈലി"
+  },
+  "subtitleStyleOriginalSectionTitle": {
+    "message": "ഒറിജിനൽ ശൈലി"
+  },
+  "subtitleStyleFollowTranslated": {
+    "message": "വിവർത്തന ശൈലി പിന്തുടരുക"
+  },
+  "subtitleStyleUsesCurrentSettings": {
+    "message": "നിലവിലെ ക്രമീകരണങ്ങൾ ഉപയോഗിക്കുന്നു"
+  },
+  "subtitleStyleOriginalSizePercent": {
+    "message": "ഫോണ്ട് വലുപ്പ അനുപാതം"
+  },
+  "subtitleStyleSharedBackgroundSectionTitle": {
+    "message": "പങ്കിട്ട പശ്ചാത്തലം"
+  },
+  "subtitleStyleRestoreDefaults": {
+    "message": "ഡിഫോൾട്ടുകൾ പുനഃസ്ഥാപിക്കുക"
+  },
+  "subtitleStylePreviewOriginalText": {
+    "message": "He thought this young man had great potential."
+  },
+  "subtitleStyleColorLightGray": {
+    "message": "ഇളം ചാരനിറം"
+  },
+  "disabledSitesSectionTitle": {
+    "message": "നിഷ്ക്രിയ സൈറ്റുകൾ"
+  },
+  "disabledSitesTitle": {
+    "message": "നിഷ്ക്രിയ സൈറ്റ് മാനേജ്മെന്റ്"
+  },
+  "disabledSitesDescription": {
+    "message": "താഴെയുള്ള സൈറ്റുകളിൽ ഫ്ലോട്ടിംഗ് ബോൾ ദൃശ്യമാകില്ല. നിങ്ങൾക്ക് ഇവിടെ നിഷ്ക്രിയ സൈറ്റുകൾ ചേർക്കാനോ നീക്കം ചെയ്യാനോ കഴിയും."
+  },
+  "disabledSitesPlaceholder": {
+    "message": "ഡൊമെയ്ൻ നൽകുക, ഉദാ. youtube.com"
+  },
+  "disabledSitesAdd": {
+    "message": "ചേർക്കുക"
+  },
+  "disabledSitesDomain": {
+    "message": "ഡൊമെയ്ൻ"
+  },
+  "disabledSitesActions": {
+    "message": "പ്രവർത്തനങ്ങൾ"
+  },
+  "disabledSitesDelete": {
+    "message": "ഇല്ലാതാക്കുക"
+  },
+  "disabledSitesEmpty": {
+    "message": "നിഷ്ക്രിയ സൈറ്റുകൾ ഇല്ല"
+  },
+  "preferencesSectionTitle": {
+    "message": "അടിസ്ഥാന ക്രമീകരണങ്ങൾ"
+  },
+  "optionsNavPreferencesShort": {
+    "message": "അടിസ്ഥാനം"
+  },
+  "optionsNavSubtitleShort": {
+    "message": "സബ്ടൈറ്റിൽ"
+  },
+  "optionsNavAiShort": {
+    "message": "AI"
+  },
+  "optionsNavSitesShort": {
+    "message": "സൈറ്റുകൾ"
+  },
+  "preferenceStatusDisabled": {
+    "message": "ഓഫ്"
+  },
+  "preferencesTitle": {
+    "message": "അടിസ്ഥാന ക്രമീകരണങ്ങൾ"
+  },
+  "preferencesDescription": {
+    "message": "നിങ്ങളുടെ അടിസ്ഥാന മുൻഗണനകൾ ഇവിടെ നിയന്ത്രിക്കുക."
+  },
+  "emailNotificationLabel": {
+    "message": "ഇമെയിൽ അറിയിപ്പുകൾ"
+  },
+  "emailNotificationDescription": {
+    "message": "സബ്ടൈറ്റിൽ തിരിച്ചറിയൽ പൂർത്തിയായാൽ ഇമെയിലിലൂടെ എന്നെ അറിയിക്കുക."
+  },
+  "emailNotificationSaveFailed": {
+    "message": "സേവ് ചെയ്യാൻ കഴിഞ്ഞില്ല. ദയവായി പിന്നീട് വീണ്ടും ശ്രമിക്കുക."
+  },
+  "skipTranslationWhenSameLanguageLabel": {
+    "message": "ഒരേ ഭാഷയായാൽ വിവർത്തനം ഒഴിവാക്കുക"
+  },
+  "skipTranslationWhenSameLanguageDescription": {
+    "message": "ഇത് പ്രവർത്തനസജ്ജമാക്കിയാൽ, സബ്ടൈറ്റിലിന്റെ ഭാഷയും ലക്ഷ്യഭാഷയും ഒരുപോലെയെങ്കിൽ വിവർത്തനം ചെയ്യാതെ നേരിട്ട് ഡബ്ബിംഗ് ആരംഭിക്കും."
+  },
+  "userSubtitleSegmentationEnabledLabel": {
+    "message": "ഉപയോക്തൃ സബ്‌ടൈറ്റിലുകളുടെ സ്മാർട്ട് വിഭജനം"
+  },
+  "userSubtitleSegmentationEnabledDescription": {
+    "message": "ഓണാക്കിയാൽ എഡിറ്റ് ചെയ്തതോ ലോക്കലായി അപ്‌ലോഡ് ചെയ്തതോ ആയ സബ്‌ടൈറ്റിലുകൾ സ്വയമേവ വിഭജിക്കും. ഓഫാക്കിയാൽ യഥാർത്ഥ വിഭജനം നിലനിർത്തും."
+  },
+  "subtitlePriorityTitle": {
+    "message": "സബ്‌ടൈറ്റിൽ വിവർത്തന മുൻഗണന"
+  },
+  "subtitlePriorityDescription": {
+    "message": "വിവർത്തനത്തിനായി ഏത് സബ്‌ടൈറ്റിൽ ഉറവിടം മുൻഗണന നൽകണമെന്ന് തിരഞ്ഞെടുക്കുക."
+  },
+  "subtitlePriorityAiSubtitle": {
+    "message": "പ്ലഗിൻ AI തിരിച്ചറിഞ്ഞ സബ്‌ടൈറ്റിലുകൾ"
+  },
+  "subtitlePriorityAiSubtitleDesc": {
+    "message": "ഉയർന്ന കൃത്യതയ്ക്കായി പ്ലഗിന്റെ AI വോയ്‌സ് തിരിച്ചറിയൽ സൃഷ്ടിച്ച സബ്‌ടൈറ്റിലുകൾക്ക് മുൻഗണന നൽകുക."
+  },
+  "subtitlePriorityPlatformSubtitle": {
+    "message": "പ്ലാറ്റ്‌ഫോം ബിൽറ്റ്-ഇൻ സബ്‌ടൈറ്റിലുകൾ"
+  },
+  "subtitlePriorityPlatformSubtitleDesc": {
+    "message": "വീഡിയോ പ്ലാറ്റ്‌ഫോം നൽകുന്ന ഒറിജിനൽ സബ്‌ടൈറ്റിലുകൾക്ക് മുൻഗണന നൽകുക."
+  },
+  "subtitlePriorityQuickLabel": {
+    "message": "സബ്ടൈറ്റിൽ"
+  },
+  "subtitlePriorityQuickAi": {
+    "message": "AI"
+  },
+  "subtitlePriorityQuickPlatform": {
+    "message": "പ്ലാറ്റ്‌ഫോം"
+  },
+  "panelTabVideoSummary": {
+    "message": "സംഗ്രഹം"
+  },
+  "panelTabSubtitleEdit": {
+    "message": "സബ്ടൈറ്റിൽ"
+  },
+  "panelSummaryTitle": {
+    "message": "വീഡിയോ സംഗ്രഹവും രൂപരേഖയും"
+  },
+  "panelSummaryDesc": {
+    "message": "നൂതന AI മോഡലുകൾ ഉപയോഗിച്ച് വീഡിയോ ഉള്ളടക്കം വേഗത്തിൽ മനസ്സിലാക്കുക"
+  },
+  "panelSummaryGenerate": {
+    "message": "സംഗ്രഹം സൃഷ്ടിക്കുക"
+  },
+  "panelSummaryGenerating": {
+    "message": "സൃഷ്ടിക്കുന്നു..."
+  },
+  "panelSummaryReGenerating": {
+    "message": "വീണ്ടും സൃഷ്ടിക്കുന്നു..."
+  },
+  "panelSummarySectionSummary": {
+    "message": "സംഗ്രഹം"
+  },
+  "panelSummarySectionHighlights": {
+    "message": "പ്രധാന കാര്യങ്ങൾ"
+  },
+  "panelSummaryExpandAll": {
+    "message": "എല്ലാം വികസിപ്പിക്കുക"
+  },
+  "panelSummaryCollapseAll": {
+    "message": "എല്ലാം ചുരുക്കുക"
+  },
+  "panelSummaryExpand": {
+    "message": "വികസിപ്പിക്കുക"
+  },
+  "panelSummaryCollapse": {
+    "message": "ചുരുക്കുക"
+  },
+  "panelSummaryShare": {
+    "message": "പങ്കിടുക"
+  },
+  "panelSummaryCopy": {
+    "message": "പകർത്തുക"
+  },
+  "panelSummaryReGenerate": {
+    "message": "വീണ്ടും സൃഷ്ടിക്കുക"
+  },
+  "panelSummaryCopySuccess": {
+    "message": "പകർത്തി"
+  },
+  "panelSummaryPlay": {
+    "message": "പ്ലേ ചെയ്യുക"
+  },
+  "panelSummaryPause": {
+    "message": "താൽക്കാലികമായി നിർത്തുക"
+  },
+  "panelSummaryPlayFailed": {
+    "message": "പ്ലേ ചെയ്യാനായില്ല, വീണ്ടും ശ്രമിക്കുക"
+  },
+  "panelSummaryNoSubtitle": {
+    "message": "ഈ വീഡിയോയ്ക്ക് സബ്‌ടൈറ്റിലുകൾ ലഭ്യമല്ല"
+  },
+  "panelSummaryError": {
+    "message": "സംഗ്രഹം സൃഷ്ടിക്കൽ പരാജയപ്പെട്ടു, ദയവായി വീണ്ടും ശ്രമിക്കുക"
+  },
+  "panelSummaryErrorInvalidVideoId": {
+    "message": "നിലവിലെ വീഡിയോ തിരിച്ചറിയാൻ കഴിയുന്നില്ല, പേജ് റിഫ്രഷ് ചെയ്ത് വീണ്ടും ശ്രമിക്കുക"
+  },
+  "panelSummaryErrorMemberRequired": {
+    "message": "വീഡിയോ സംഗ്രഹം അംഗങ്ങൾക്ക് മാത്രമുള്ള ഫീച്ചറാണ്, ഉപയോഗിക്കാൻ സബ്സ്ക്രൈബ് ചെയ്യുക"
+  },
+  "panelSummaryErrorNoSubtitles": {
+    "message": "ഈ വീഡിയോയ്ക്ക് സബ്ടൈറ്റിലുകൾ ലഭ്യമല്ല, സംഗ്രഹം സൃഷ്ടിക്കാൻ കഴിയില്ല"
+  },
+  "panelSummaryErrorServiceError": {
+    "message": "സംഗ്രഹ സേവനം താൽക്കാലികമായി ലഭ്യമല്ല, ദയവായി പിന്നീട് വീണ്ടും ശ്രമിക്കുക"
+  },
+  "subtitleEditorManualInput": {
+    "message": "മാനുവൽ ഇൻപുട്ട്"
+  },
+  "subtitleEditorSwitchTip": {
+    "message": "സബ്‌ടൈറ്റിലുകൾ മാറാൻ ഇവിടെ ക്ലിക്ക് ചെയ്യുക"
+  },
+  "subtitleEditorExport": {
+    "message": "കയറ്റുമതി"
+  },
+  "subtitleEditorTrackFallback": {
+    "message": "ഉപശീർഷക ഉറവിടം"
+  },
+  "subtitleEditorMySubtitles": {
+    "message": "എൻ്റെ സബ്ടൈറ്റിലുകൾ"
+  },
+  "subtitleEditorNoSourceManual": {
+    "message": "സബ്‌ടൈറ്റിൽ ഉറവിടങ്ങളൊന്നും ലഭ്യമല്ല (മാനുവൽ ഇൻപുട്ട് ലഭ്യമാണ്)"
+  },
+  "subtitleEditorSaveInvalidVideo": {
+    "message": "നിലവിലെ വീഡിയോ തിരിച്ചറിയാൻ കഴിയുന്നില്ല. സംരക്ഷിക്കൽ പരാജയപ്പെട്ടു."
+  },
+  "subtitleEditorSaveFailed": {
+    "message": "സംരക്ഷിക്കൽ പരാജയപ്പെട്ടു. ദയവായി പിന്നീട് വീണ്ടും ശ്രമിക്കുക."
+  },
+  "subtitleEditorValidationEmpty": {
+    "message": "സബ്‌ടൈറ്റിൽ ഉള്ളടക്കം ശൂന്യമായിരിക്കരുത്"
+  },
+  "subtitleEditorValidationBlockStructure": {
+    "message": "അസാധുവായ SRT ബ്ലോക്ക്. ക്രമം, ടൈംസ്റ്റാമ്പ്, ഉള്ളടക്കം എന്നിവ ആവശ്യമാണ്."
+  },
+  "subtitleEditorValidationSequenceFormat": {
+    "message": "അസാധുവായ SRT സീക്വൻസ് നമ്പർ ഫോർമാറ്റ്"
+  },
+  "subtitleEditorValidationSequenceIncrement": {
+    "message": "SRT സീക്വൻസ് നമ്പറുകൾ 1-ൽ ആരംഭിക്കുകയും 1-ൽ വർദ്ധിപ്പിക്കുകയും വേണം"
+  },
+  "subtitleEditorValidationTimeFormat": {
+    "message": "അസാധുവായ സമയ ഫോർമാറ്റ്. ദയവായി അത് അവലോകനം ചെയ്ത് ശരിയാക്കുക."
+  },
+  "subtitleEditorValidationEndAfterStart": {
+    "message": "അവസാന സമയം ആരംഭിക്കുന്ന സമയത്തേക്കാൾ വലുതായിരിക്കണം"
+  },
+  "subtitleEditorValidationContentRequired": {
+    "message": "ഓരോ ഉപശീർഷകത്തിലും കുറഞ്ഞത് ഒരു വരി വാചകമെങ്കിലും ഉണ്ടായിരിക്കണം"
+  },
+  "subtitleEditorValidationSpeakerPrefix": {
+    "message": "ചില സബ്‌ടൈറ്റിലുകളിൽ സ്പീക്കർ ടാഗുകൾ ഉൾപ്പെടുന്നു. എല്ലാ സബ്‌ടൈറ്റിലുകളും [speaker] പ്രിഫിക്‌സ് ഉപയോഗിക്കണം."
+  },
+  "localPlayerTemporaryImportMode": {
+    "message": "താൽക്കാലിക ഇറക്കുമതി മോഡ്"
+  },
+  "localPlayerLibraryTitle": {
+    "message": "പ്രാദേശിക വീഡിയോ ലൈബ്രറി"
+  },
+  "localPlayerEntryButton": {
+    "message": "പ്രാദേശിക വീഡിയോ"
+  },
+  "localPlayerPageTitle": {
+    "message": "പ്രാദേശിക വീഡിയോ · YouTube Dubbing"
+  },
+  "localPlayerFolderAccessDescription": {
+    "message": "ഒരു ഫോൾഡർ തുറക്കുന്നത് ഫയൽ ഹാൻഡിലുകളെ സംരക്ഷിക്കുന്നു, അതിനാൽ പുതുക്കിയ ശേഷം ആക്സസ് പുനഃസ്ഥാപിക്കാനാകും."
+  },
+  "localPlayerTemporaryImportDescription": {
+    "message": "ഈ ബ്രൗസർ File System Access API പിന്തുണയ്ക്കുന്നില്ല. നിങ്ങൾക്ക് താൽക്കാലികമായി വീഡിയോകളും സബ്‌ടൈറ്റിലുകളും ചേർക്കാം."
+  },
+  "localPlayerOpenFolder": {
+    "message": "ഫോൾഡർ തുറക്കുക"
+  },
+  "localPlayerAddVideo": {
+    "message": "വീഡിയോ ചേർക്കുക"
+  },
+  "localPlayerAddSubtitle": {
+    "message": "സബ്ടൈറ്റിൽ ചേർക്കുക"
+  },
+  "localPlayerVideoList": {
+    "message": "വീഡിയോ ലിസ്റ്റ്"
+  },
+  "localPlayerFolders": {
+    "message": "ഫോൾഡറുകൾ"
+  },
+  "localPlayerFoldersDescription": {
+    "message": "ഫോൾഡർ പ്രകാരം ഇറക്കുമതി ചെയ്ത മീഡിയ ബ്രൗസ് ചെയ്യുക."
+  },
+  "localPlayerAllVideos": {
+    "message": "എല്ലാ വീഡിയോകളും"
+  },
+  "localPlayerAllVideosDescription": {
+    "message": "ഇറക്കുമതി ചെയ്‌ത ഓരോ വീഡിയോയും തിരയുക, നിയന്ത്രിക്കുക."
+  },
+  "localPlayerLibraryView": {
+    "message": "ലൈബ്രറി കാഴ്ച"
+  },
+  "localPlayerBackToFolders": {
+    "message": "ഫോൾഡറുകളിലേക്ക് മടങ്ങുക"
+  },
+  "localPlayerFolderSearchPlaceholder": {
+    "message": "ഫോൾഡറുകൾ, പാതകൾ അല്ലെങ്കിൽ ഫയലുകൾ തിരയുക"
+  },
+  "localPlayerTotalFolders": {
+    "message": "ആകെ {count} ഫോൾഡറുകൾ"
+  },
+  "localPlayerMatchedFolders": {
+    "message": "പൊരുത്തപ്പെട്ടു {visibleCount} / ആകെ {totalCount} ഫോൾഡറുകൾ"
+  },
+  "localPlayerNoFolderMatchesTitle": {
+    "message": "പൊരുത്തപ്പെടുന്ന ഫോൾഡറുകളൊന്നുമില്ല"
+  },
+  "localPlayerNoFolderMatchesText": {
+    "message": "ഫോൾഡർ തിരയൽ ക്രമീകരിച്ച് വീണ്ടും ശ്രമിക്കുക."
+  },
+  "localPlayerRescanAll": {
+    "message": "എല്ലാം വീണ്ടും സ്കാൻ ചെയ്യുക"
+  },
+  "localPlayerFolderMenuLabel": {
+    "message": "ഫോൾഡർ പ്രവർത്തനങ്ങൾ"
+  },
+  "localPlayerOpenFolderMenu": {
+    "message": "ഫോൾഡർ തുറക്കുക"
+  },
+  "localPlayerRescanThisFolder": {
+    "message": "ഈ ഫോൾഡർ വീണ്ടും സ്കാൻ ചെയ്യുക"
+  },
+  "localPlayerRemoveFromLibrary": {
+    "message": "ലൈബ്രറിയിൽ നിന്ന് നീക്കം ചെയ്യുക"
+  },
+  "localPlayerFolderVideoCount": {
+    "message": "{count} വീഡിയോകൾ"
+  },
+  "localPlayerFolderAssociatedSubtitleCount": {
+    "message": "{count} അനുബന്ധ സബ്ടൈറ്റിലുകൾ"
+  },
+  "localPlayerFolderLastPlayed": {
+    "message": "അവസാനം കളിച്ചത് {time}"
+  },
+  "localPlayerFolderLastScanned": {
+    "message": "അവസാനം സ്കാൻ ചെയ്തത് {time}"
+  },
+  "localPlayerRemoveFolderTitle": {
+    "message": "ലൈബ്രറിയിൽ നിന്ന് ഈ ഫോൾഡർ നീക്കം ചെയ്യണോ?"
+  },
+  "localPlayerRemoveFolderText": {
+    "message": "ഈ ഫോൾഡറിനായുള്ള ലൈബ്രറി റെക്കോർഡുകൾ മാത്രമേ ഇത് നീക്കംചെയ്യൂ. ഡിസ്കിലെ യഥാർത്ഥ ഫയലുകൾ ഇല്ലാതാക്കില്ല."
+  },
+  "localPlayerFolderRemoved": {
+    "message": "നീക്കം ചെയ്തു {folderName}"
+  },
+  "localPlayerRemoveFolderFailed": {
+    "message": "ലൈബ്രറിയിൽ നിന്ന് ഫോൾഡർ നീക്കം ചെയ്യാനായില്ല."
+  },
+  "localPlayerRescanFailed": {
+    "message": "പ്രാദേശിക ലൈബ്രറി പുനഃസ്ഥാപിക്കുന്നതിൽ പരാജയപ്പെട്ടു."
+  },
+  "localPlayerRescanFolderUnavailable": {
+    "message": "സംരക്ഷിച്ച ഫോൾഡർ ആക്സസ് ലഭ്യമല്ലാത്തതിനാൽ ഈ ഫോൾഡർ വീണ്ടും സ്കാൻ ചെയ്യാൻ കഴിയില്ല."
+  },
+  "localPlayerCurrentDirectory": {
+    "message": "നിലവിലെ ഡയറക്ടറി"
+  },
+  "localPlayerNoNewFilesFound": {
+    "message": "പുതിയ ഫയലുകളൊന്നും കണ്ടെത്തിയില്ല."
+  },
+  "localPlayerScanComplete": {
+    "message": "സ്കാൻ പൂർത്തിയായി: {addedVideoCount} വീഡിയോകൾ, {addedSubtitleCount} സബ്ടൈറ്റിലുകൾ, അപ്ഡേറ്റ് ചെയ്ത {updatedCount} ഫയലുകൾ ചേർത്തു."
+  },
+  "localPlayerNever": {
+    "message": "ഒരിക്കലും"
+  },
+  "localPlayerSearchPlaceholder": {
+    "message": "വീഡിയോകൾ അല്ലെങ്കിൽ ഫയൽ പാതകൾ തിരയുക"
+  },
+  "localPlayerFilterAll": {
+    "message": "എല്ലാം"
+  },
+  "localPlayerFilterWithSubtitle": {
+    "message": "സബ്‌ടൈറ്റിലുകൾ ഉള്ളവ"
+  },
+  "localPlayerFilterNoSubtitle": {
+    "message": "സബ്‌ടൈറ്റിലുകൾ ഇല്ലാത്തവ"
+  },
+  "localPlayerSortLastPlayed": {
+    "message": "അടുത്തിടെ പ്ലേ ചെയ്ത വീഡിയോകൾ"
+  },
+  "localPlayerSortName": {
+    "message": "ഫയലിൻ്റെ പേര്"
+  },
+  "localPlayerSortDuration": {
+    "message": "വീഡിയോ ദൈർഘ്യം"
+  },
+  "localPlayerNoVideosTitle": {
+    "message": "ഇതുവരെ പ്രാദേശിക വീഡിയോകളൊന്നുമില്ല"
+  },
+  "localPlayerNoMatchesTitle": {
+    "message": "പൊരുത്തപ്പെടുന്ന വീഡിയോകളൊന്നുമില്ല"
+  },
+  "localPlayerNoVideosText": {
+    "message": "ഇവിടെ സബ്‌ടൈറ്റിൽ ലിങ്കുകളും പ്രാദേശിക വോയ്‌സ് ഡബ്ബിംഗും നിയന്ത്രിക്കാൻ ഒരു ഫോൾഡർ തുറക്കുക അല്ലെങ്കിൽ വീഡിയോകൾ ചേർക്കുക."
+  },
+  "localPlayerNoMatchesText": {
+    "message": "തിരയൽ, ഫിൽട്ടർ അല്ലെങ്കിൽ അടുക്കൽ എന്നിവ ക്രമീകരിച്ച് വീണ്ടും ശ്രമിക്കുക."
+  },
+  "localPlayerDeleteVideoLabel": {
+    "message": "{fileName} ഇല്ലാതാക്കുക"
+  },
+  "localPlayerRecognitionSubmitted": {
+    "message": "സബ്ടൈറ്റിലുകൾ തിരിച്ചറിയുന്നു"
+  },
+  "localPlayerPlay": {
+    "message": "വീഡിയോ പ്ലേ ചെയ്യുക"
+  },
+  "localPlayerSubtitles": {
+    "message": "സബ്ടൈറ്റിലുകൾ"
+  },
+  "localPlayerStartDubbing": {
+    "message": "വോയിസ് ഡബ്ബിംഗ് ആരംഭിക്കുക"
+  },
+  "localPlayerFloatingActionsLabel": {
+    "message": "പ്രാദേശിക വീഡിയോ ദ്രുത പ്രവർത്തനങ്ങൾ"
+  },
+  "localPlayerOpenSidebar": {
+    "message": "സൈഡ്‌ബാർ തുറക്കുക"
+  },
+  "localPlayerClose": {
+    "message": "അടയ്ക്കുക"
+  },
+  "localPlayerSameDirectorySubtitleSummary": {
+    "message": "ഒരേ ഫോൾഡർ സബ്‌ടൈറ്റിലുകൾ {sameCount} · ലിങ്ക് ചെയ്‌ത {associatedCount}"
+  },
+  "localPlayerNoManageableSubtitles": {
+    "message": "നിയന്ത്രിക്കാൻ സബ്‌ടൈറ്റിലുകളൊന്നുമില്ല"
+  },
+  "localPlayerAssociateAndUseForDubbing": {
+    "message": "സബ്‌ടൈറ്റിൽ ലിങ്ക് ചെയ്‌ത് വോയ്‌സ് ഡബ്ബിംഗിനായി ഉപയോഗിക്കുക"
+  },
+  "localPlayerSetForDubbing": {
+    "message": "വോയിസ് ഡബ്ബിംഗിനായി ഈ സബ്ടൈറ്റിൽ ഉപയോഗിക്കുക"
+  },
+  "localPlayerRemoveAssociation": {
+    "message": "സബ്ടൈറ്റിൽ അൺലിങ്ക് ചെയ്യുക"
+  },
+  "localPlayerRemoveAllAssociations": {
+    "message": "എല്ലാ സബ്‌ടൈറ്റിലുകളും അൺലിങ്ക് ചെയ്യുക"
+  },
+  "localPlayerSelectVideoForSubtitleTitle": {
+    "message": "ഈ സബ്‌ടൈറ്റിലിലേക്ക് ലിങ്ക് ചെയ്യാൻ ഒരു വീഡിയോ തിരഞ്ഞെടുക്കുക"
+  },
+  "localPlayerAssociate": {
+    "message": "ലിങ്ക് സബ്ടൈറ്റിൽ"
+  },
+  "localPlayerInitialStatus": {
+    "message": "ആരംഭിക്കാൻ ഒരു ഫോൾഡർ തുറക്കുക, വീഡിയോകൾ ചേർക്കുക അല്ലെങ്കിൽ ഫയലുകൾ ഡ്രോപ്പ് ചെയ്യുക."
+  },
+  "localPlayerAscendingSortTitle": {
+    "message": "ആരോഹണം; അവരോഹണത്തിലേക്ക് മാറാൻ ക്ലിക്ക് ചെയ്യുക"
+  },
+  "localPlayerDescendingSortTitle": {
+    "message": "അവരോഹണം; ആരോഹണത്തിലേക്ക് മാറാൻ ക്ലിക്ക് ചെയ്യുക"
+  },
+  "localPlayerTotalVideos": {
+    "message": "ആകെ {count} വീഡിയോകൾ"
+  },
+  "localPlayerMatchedVideos": {
+    "message": "പൊരുത്തപ്പെട്ടു {visibleCount} / ആകെ {totalCount} വീഡിയോകൾ"
+  },
+  "localPlayerRouteVideoMissing": {
+    "message": "URL-ൽ വ്യക്തമാക്കിയ വീഡിയോ നിലവിലെ പ്രാദേശിക വീഡിയോ ലൈബ്രറിയിൽ ഇല്ല."
+  },
+  "localPlayerFolderAccessUnsupported": {
+    "message": "ഈ ബ്രൗസറിന് ഫോൾഡറുകൾ തുറക്കാൻ കഴിയില്ല. ഒരു താൽക്കാലിക ഇറക്കുമതിക്കായി വീഡിയോ ചേർക്കുക/ഉപശീർഷകം ചേർക്കുക ഉപയോഗിക്കുക."
+  },
+  "localPlayerImportComplete": {
+    "message": "{videoCount} വീഡിയോകളും {subtitleCount} സബ്‌ടൈറ്റിലുകളും ഇറക്കുമതി ചെയ്തു."
+  },
+  "localPlayerOpenFolderFailed": {
+    "message": "ഫോൾഡർ തുറക്കുന്നതിൽ പരാജയപ്പെട്ടു."
+  },
+  "localPlayerAddVideoFailed": {
+    "message": "വീഡിയോ ചേർക്കുന്നതിൽ പരാജയപ്പെട്ടു."
+  },
+  "localPlayerAddSubtitleFailed": {
+    "message": "സബ്ടൈറ്റിൽ ചേർക്കുന്നതിൽ പരാജയപ്പെട്ടു."
+  },
+  "localPlayerAssociationSaved": {
+    "message": "സബ്ടൈറ്റിൽ ലിങ്ക് സംരക്ഷിച്ചു."
+  },
+  "localPlayerAssociationSavedAndPreferred": {
+    "message": "സബ്‌ടൈറ്റിൽ ലിങ്ക് ചെയ്‌ത് വോയ്‌സ് ഡബ്ബിംഗിനായി സജ്ജമാക്കി."
+  },
+  "localPlayerPreferredSubtitleSaved": {
+    "message": "വോയ്‌സ് ഡബ്ബിംഗിനായി സബ്‌ടൈറ്റിൽ സജ്ജീകരിച്ചു."
+  },
+  "localPlayerAssociationRemoved": {
+    "message": "സബ്ടൈറ്റിൽ ലിങ്ക് നീക്കം ചെയ്തു."
+  },
+  "localPlayerRebindSubtitleTitle": {
+    "message": "ഈ സബ്‌ടൈറ്റിൽ റീബൈൻഡ് ചെയ്യണോ?"
+  },
+  "localPlayerRebindSubtitleText": {
+    "message": "ഈ ഉപശീർഷകം ഇതിനകം \"{fromVideo}\" എന്നതുമായി ബന്ധപ്പെട്ടിരിക്കുന്നു. തുടരുന്നത് ആ ബന്ധം നീക്കം ചെയ്യുകയും \"{toVideo}\" എന്നതുമായി ബന്ധപ്പെടുത്തുകയും ചെയ്യും."
+  },
+  "localPlayerRemoveAllAssociationsTitle": {
+    "message": "എല്ലാ സബ്‌ടൈറ്റിലുകളും അൺലിങ്ക് ചെയ്യണോ?"
+  },
+  "localPlayerRemoveAllAssociationsText": {
+    "message": "ഈ വീഡിയോയുടെ സബ്ടൈറ്റിൽ ലിങ്കുകൾ മാത്രമേ നീക്കം ചെയ്യപ്പെടുകയുള്ളൂ. സബ്‌ടൈറ്റിൽ ഫയൽ റെക്കോർഡുകൾ ഇല്ലാതാക്കില്ല."
+  },
+  "localPlayerAllAssociationsRemoved": {
+    "message": "എല്ലാ സബ്ടൈറ്റിൽ ലിങ്കുകളും നീക്കം ചെയ്തു."
+  },
+  "localPlayerDeleteVideoTitle": {
+    "message": "ഈ വീഡിയോ ഇല്ലാതാക്കണോ?"
+  },
+  "localPlayerDeleteVideoText": {
+    "message": "ഇത് പ്രാദേശിക ലൈബ്രറിയിൽ നിന്ന് വീഡിയോയും സബ്ടൈറ്റിൽ ലിങ്കുകളും നീക്കംചെയ്യുന്നു. ഡിസ്കിലെ യഥാർത്ഥ ഫയലുകൾ ഇല്ലാതാക്കില്ല."
+  },
+  "localPlayerDelete": {
+    "message": "ഇല്ലാതാക്കുക"
+  },
+  "localPlayerVideoDeleted": {
+    "message": "{fileName} ഇല്ലാതാക്കി"
+  },
+  "localPlayerDeleteVideoFailed": {
+    "message": "വീഡിയോ ഇല്ലാതാക്കുന്നതിൽ പരാജയപ്പെട്ടു."
+  },
+  "localPlayerVideoFileAccessLost": {
+    "message": "ഈ വീഡിയോ ഫയലിലേക്കുള്ള ആക്സസ് പുനഃസ്ഥാപിക്കാൻ കഴിയില്ല. വീഡിയോ വീണ്ടും ചേർക്കുക."
+  },
+  "localPlayerVideoPlayerNotReady": {
+    "message": "വീഡിയോ പ്ലെയർ ഇതുവരെ തയ്യാറായിട്ടില്ല."
+  },
+  "localPlayerNowPlaying": {
+    "message": "ഇപ്പോൾ {fileName} കളിക്കുന്നു"
+  },
+  "localPlayerDubbingStarted": {
+    "message": "പ്രാദേശിക ശബ്ദ ഡബ്ബിംഗ് ആരംഭിച്ചു."
+  },
+  "localPlayerDubbingStartFailed": {
+    "message": "പ്രാദേശിക ശബ്ദ ഡബ്ബിംഗ് ആരംഭിക്കുന്നതിൽ പരാജയപ്പെട്ടു."
+  },
+  "localPlayerOpenSidebarFailed": {
+    "message": "സൈഡ്‌ബാർ തുറക്കുന്നതിൽ പരാജയപ്പെട്ടു."
+  },
+  "localPlayerVideoFileReadFailed": {
+    "message": "പ്രാദേശിക വീഡിയോ ഫയൽ വായിക്കാൻ കഴിയില്ല. വീഡിയോ വീണ്ടും ചേർക്കുക."
+  },
+  "localPlayerUploadCancelled": {
+    "message": "അപ്‌ലോഡ് റദ്ദാക്കി."
+  },
+  "localPlayerSubtitleAssociatedBadge": {
+    "message": "{count} ലിങ്ക് ചെയ്‌ത സബ്‌ടൈറ്റിലുകൾ"
+  },
+  "localPlayerNoSubtitleBadge": {
+    "message": "ലിങ്ക് ചെയ്‌ത സബ്‌ടൈറ്റിലുകളൊന്നുമില്ല"
+  },
+  "localPlayerUsedForDubbing": {
+    "message": "വോയ്‌സ് ഡബ്ബിംഗിനായി ഉപയോഗിക്കുന്നു"
+  },
+  "localPlayerAssociated": {
+    "message": "ലിങ്ക് ചെയ്‌തു"
+  },
+  "localPlayerAssociatedOutsideFolder": {
+    "message": "ഈ ഫോൾഡറിന് പുറത്ത് ലിങ്ക് ചെയ്‌തിരിക്കുന്നു"
+  },
+  "localPlayerNotAssociated": {
+    "message": "ലിങ്ക് ചെയ്തിട്ടില്ല"
+  },
+  "localPlayerNativeSubtitle": {
+    "message": "യഥാർത്ഥ സബ്ടൈറ്റിലുകൾ"
+  },
+  "localPlayerDubbingAlreadyStarted": {
+    "message": "വോയിസ് ഡബ്ബിംഗ് ആരംഭിച്ചു"
+  },
+  "localPlayerThumbnailBackfillComplete": {
+    "message": "{count} വീഡിയോകൾക്കായി ലഘുചിത്രങ്ങൾ സൃഷ്ടിച്ചു."
+  },
+  "localPlayerThumbnailGenerationFailed": {
+    "message": "ലഘുചിത്ര നിർമ്മാണം പരാജയപ്പെട്ടു: {displayName} ({message})"
+  },
+  "localPlayerFreeUserNoSubtitleMessage": {
+    "message": "ഈ പ്രാദേശിക വീഡിയോയ്ക്ക് ലിങ്ക് ചെയ്‌ത സബ്‌ടൈറ്റിൽ ഇല്ല. സൗജന്യ ഉപയോക്താക്കൾക്ക് ഇപ്പോഴും പ്രാദേശിക വീഡിയോകൾക്കായി പശ്ചാത്തല സബ്‌ടൈറ്റിൽ തിരിച്ചറിയൽ ഉപയോഗിക്കാൻ കഴിയില്ല. AI സബ്‌ടൈറ്റിൽ തിരിച്ചറിയൽ ഉപയോഗിക്കുന്നതിന് അംഗത്വം അപ്‌ഗ്രേഡ് ചെയ്യുക അല്ലെങ്കിൽ വോയ്‌സ് ഡബ്ബിംഗ് ആരംഭിക്കുന്നതിന് മുമ്പ് ഒരു സബ്‌ടൈറ്റിൽ ഫയൽ സ്വമേധയാ അപ്‌ലോഡ് ചെയ്യുക."
+  },
+  "localPlayerNoSubtitleUploadTitle": {
+    "message": "ഈ വീഡിയോയ്ക്ക് സബ്‌ടൈറ്റിലുകളൊന്നുമില്ല"
+  },
+  "localPlayerNoSubtitleUploadText": {
+    "message": "AI സബ്‌ടൈറ്റിൽ തിരിച്ചറിയലിനായി ഈ വീഡിയോ അപ്‌ലോഡ് ചെയ്യണോ? സബ്‌ടൈറ്റിലുകൾ തിരിച്ചറിയാൻ മാത്രമാണ് അപ്‌ലോഡ് ഉപയോഗിക്കുന്നത്, തിരിച്ചറിഞ്ഞ ഉടൻ തന്നെ വീഡിയോ ഇല്ലാതാക്കപ്പെടും, ഇമെയിൽ വഴി നിങ്ങളെ അറിയിക്കും."
+  },
+  "localPlayerNavigationLabel": {
+    "message": "പ്രാദേശിക വീഡിയോ ലൈബ്രറി / ടെക്സ്റ്റ് ടു സ്പീച്ച്"
+  },
+  "localPlayerCurrentPageNav": {
+    "message": "വീഡിയോ ഡബ്ബിംഗ്"
+  },
+  "localPlayerTextDubbingNav": {
+    "message": "ടെക്സ്റ്റ് ടു സ്പീച്ച്"
+  },
+  "localPlayerTextDubbingTitle": {
+    "message": "ടെക്സ്റ്റ് ടു സ്പീച്ച്"
+  },
+  "localPlayerTextDubbingDescription": {
+    "message": "ടെക്സ്റ്റ് ടു സ്പീച്ച് - ലക്ഷ്യ ഭാഷ"
+  },
+  "localPlayerTextDubbingVoiceType": {
+    "message": "ശബ്ദ തരം"
+  },
+  "localPlayerTextDubbingLanguage": {
+    "message": "ലക്ഷ്യ ഭാഷ"
+  },
+  "localPlayerTextDubbingGender": {
+    "message": "ലിംഗം"
+  },
+  "localPlayerTextDubbingVoice": {
+    "message": "ശബ്ദം"
+  },
+  "localPlayerTextDubbingInputLabel": {
+    "message": "മാനുവൽ ഇൻപുട്ട്"
+  },
+  "localPlayerTextDubbingInputPlaceholder": {
+    "message": "മാനുവൽ ഇൻപുട്ട് - ടെക്സ്റ്റ് ടു സ്പീച്ച്"
+  },
+  "localPlayerTextDubbingLimitHint": {
+    "message": "ടെക്സ്റ്റ് ടു സ്പീച്ച്: {chars} / {bytes}"
+  },
+  "localPlayerTextDubbingCounter": {
+    "message": "{chars} · {bytes}"
+  },
+  "localPlayerTextDubbingGenerate": {
+    "message": "ടെക്സ്റ്റ് ടു സ്പീച്ച് MP3"
+  },
+  "localPlayerTextDubbingGenerating": {
+    "message": "സംരക്ഷിക്കുന്നു..."
+  },
+  "localPlayerTextDubbingGenerated": {
+    "message": "ടെക്സ്റ്റ് ടു സ്പീച്ച് MP3 · {seconds}s"
+  },
+  "localPlayerTextDubbingFailed": {
+    "message": "സംരക്ഷണം പരാജയപ്പെട്ടു"
+  },
+  "localPlayerTextDubbingNoVoice": {
+    "message": "ഈ തിരഞ്ഞെടുപ്പിന് ശബ്ദം ലഭ്യമല്ല."
+  },
+  "localPlayerTextDubbingEmptyText": {
+    "message": "സബ്‌ടൈറ്റിൽ ഉള്ളടക്കം ശൂന്യമായിരിക്കരുത്"
+  },
+  "localPlayerTextDubbingTooLong": {
+    "message": "വാചകം വളരെ നീളമാണ്. ചുരുക്കി വീണ്ടും ശ്രമിക്കുക."
+  },
+  "localPlayerTextDubbingDownload": {
+    "message": "കയറ്റുമതി MP3"
+  },
+  "localPlayerTextDubbingClear": {
+    "message": "റദ്ദാക്കുക"
+  },
+  "translationDomainGeneral": {
+    "message": "പൊതുവായത്"
+  },
+  "translationDomainWeb3": {
+    "message": "Web3യും ക്രിപ്റ്റോയും"
+  },
+  "translationDomainTech": {
+    "message": "സാങ്കേതികവിദ്യ"
+  },
+  "translationDomainNews": {
+    "message": "വാർത്തയും മാധ്യമവും"
+  },
+  "translationDomainProgramming": {
+    "message": "പ്രോഗ്രാമിംഗ്"
+  },
+  "translationDomainEducation": {
+    "message": "വിദ്യാഭ്യാസം"
+  },
+  "translationDomainFinance": {
+    "message": "ധനകാര്യം"
+  },
+  "translationDomainLaw": {
+    "message": "നിയമം"
+  },
+  "translationDomainAuto": {
+    "message": "ഓട്ടോമോട്ടീവ്"
+  },
+  "translationDomainEcommerce": {
+    "message": "ഇ-കൊമേഴ്‌സ്"
+  },
+  "translationDomainFashion": {
+    "message": "ഫാഷൻ"
+  },
+  "translationDomainFood": {
+    "message": "ഭക്ഷണവും പാചകവും"
+  },
+  "translationDomainGardening": {
+    "message": "തോട്ടപ്പണി"
+  },
+  "translationDomainMedical": {
+    "message": "വൈദ്യവും ആരോഗ്യവും"
+  },
+  "translationDomainMusic": {
+    "message": "സംഗീതം"
+  },
+  "translationDomainPets": {
+    "message": "വളർത്തുമൃഗങ്ങൾ"
+  },
+  "translationDomainSports": {
+    "message": "കായികം"
+  },
+  "translationDomainTravel": {
+    "message": "യാത്ര"
+  },
+  "translationDomainChess": {
+    "message": "ചെസ്"
+  },
+  "translationDomainGaming": {
+    "message": "ഗെയിമിംഗ്"
+  },
+  "translationDomainGolf": {
+    "message": "ഗോൾഫ്"
+  },
+  "translationDomainMovies": {
+    "message": "സിനിമകളും ടിവിയും"
+  },
+  "translationDomainPhotography": {
+    "message": "ഫോട്ടോഗ്രഫി"
+  },
+  "translationPreferencesSectionTitle": {
+    "message": "AI വിവർത്തനം"
+  },
+  "translationRulesEnabledLabel": {
+    "message": "AI വിവർത്തനത്തിൽ പദാവലിയും ടെക്സ്റ്റ് മാറ്റിസ്ഥാപിക്കലുകളും പ്രയോഗിക്കുക"
+  },
+  "translationRulesEnabledDescription": {
+    "message": "പ്രവർത്തനക്ഷമമാക്കിയാൽ, AI വിവർത്തനം ചുവടെയുള്ള ക്രമീകരണങ്ങൾ ഉപയോഗിക്കും. പ്രവർത്തനരഹിതമാക്കിയാലും നിലവിലെ ക്രമീകരണങ്ങൾ നിലനിർത്തും."
+  },
+  "glossaryTitle": {
+    "message": "പദാവലി"
+  },
+  "glossaryDescription": {
+    "message": "ഉറവിട പദങ്ങൾക്ക് സ്ഥിര വിവർത്തനങ്ങൾ നിശ്ചയിക്കുക (ഉദാ. Stratagem). നിങ്ങളുടെ പദങ്ങൾക്ക് അന്തർനിർമിത പദാവലിയേക്കാൾ മുൻഗണന ലഭിക്കും."
+  },
+  "glossaryCreateButton": {
+    "message": "വ്യക്തിഗത പദം ചേർക്കുക"
+  },
+  "glossaryEditTitle": {
+    "message": "വ്യക്തിഗത പദം തിരുത്തുക"
+  },
+  "glossaryEditorDescription": {
+    "message": "വ്യക്തിഗത പദാവലിയിലെ പദങ്ങൾ മാത്രമേ ചേർക്കാനോ തിരുത്താനോ പ്രവർത്തനക്ഷമമാക്കാനോ ഇല്ലാതാക്കാനോ കഴിയൂ."
+  },
+  "glossaryTableTitle": {
+    "message": "നിലവിലെ ഭാഷയിലെ പദങ്ങൾ"
+  },
+  "glossaryCombinedEmpty": {
+    "message": "ഈ ഭാഷയ്ക്ക് ഇതുവരെ വ്യക്തിഗത പദങ്ങളൊന്നുമില്ല."
+  },
+  "glossarySearchEmpty": {
+    "message": "പൊരുത്തപ്പെടുന്ന പദങ്ങളൊന്നുമില്ല."
+  },
+  "glossarySearchPlaceholder": {
+    "message": "ഉറവിട പദങ്ങൾ തിരയുക"
+  },
+  "glossarySourcePlaceholder": {
+    "message": "ഉറവിട പദം"
+  },
+  "glossaryTargetPlaceholder": {
+    "message": "ആവശ്യമായ വിവർത്തനം"
+  },
+  "glossarySourceTerm": {
+    "message": "ഉറവിട പദം"
+  },
+  "glossaryTargetTerm": {
+    "message": "വിവർത്തനം"
+  },
+  "replacementTitle": {
+    "message": "മൂലപാഠത്തിലെ പിശക് തിരുത്തലുകൾ"
+  },
+  "replacementDescription": {
+    "message": "AI വിവർത്തനത്തിന് മുമ്പ് ആവർത്തിക്കുന്ന ഉപശീർഷക തിരിച്ചറിയൽ പിശകുകൾ തിരുത്തുക (ഉദാ. cloud code -> Claude Code)."
+  },
+  "replacementCreateButton": {
+    "message": "വ്യക്തിഗത മാറ്റിസ്ഥാപിക്കൽ ചേർക്കുക"
+  },
+  "replacementEditTitle": {
+    "message": "വ്യക്തിഗത മാറ്റിസ്ഥാപിക്കൽ തിരുത്തുക"
+  },
+  "replacementEditorDescription": {
+    "message": "AI വിവർത്തനത്തിന് മുമ്പ് വ്യക്തിഗത ടെക്സ്റ്റ് മാറ്റിസ്ഥാപിക്കലുകൾ മാത്രമേ പ്രയോഗിക്കൂ."
+  },
+  "replacementFindPlaceholder": {
+    "message": "തെറ്റായ ടെക്സ്റ്റ്, ഉദാ. cloud code"
+  },
+  "replacementReplacePlaceholder": {
+    "message": "ഇതുകൊണ്ട് മാറ്റുക, ഉദാ. claude code"
+  },
+  "replacementFindText": {
+    "message": "തെറ്റായ ടെക്സ്റ്റ്"
+  },
+  "replacementReplaceText": {
+    "message": "ഇതുകൊണ്ട് മാറ്റുക"
+  },
+  "replacementEmpty": {
+    "message": "ഇതുവരെ തിരുത്തൽ നിയമങ്ങളൊന്നുമില്ല."
+  },
+  "replacementSearchEmpty": {
+    "message": "പൊരുത്തപ്പെടുന്ന മാറ്റിസ്ഥാപിക്കലുകളൊന്നുമില്ല."
+  },
+  "replacementSearchPlaceholder": {
+    "message": "മാറ്റിസ്ഥാപിക്കലുകൾ തിരയുക"
+  },
+  "translatedReplacementTitle": {
+    "message": "വിവർത്തിത പാഠത്തിലെ മാറ്റിസ്ഥാപിക്കലുകൾ"
+  },
+  "translatedReplacementDescription": {
+    "message": "വിവർത്തനം പൂർത്തിയായ ശേഷം വ്യക്തിഗത നിയമങ്ങൾ ഉപയോഗിച്ച് വാക്കുകളോ വാക്യഭാഗങ്ങളോ മാറ്റിസ്ഥാപിക്കുക."
+  },
+  "translatedReplacementCreateButton": {
+    "message": "വിവർത്തിത പാഠ മാറ്റിസ്ഥാപിക്കൽ ചേർക്കുക"
+  },
+  "translatedReplacementLanguage": {
+    "message": "ലക്ഷ്യ ഭാഷ"
+  },
+  "translatedReplacementFindText": {
+    "message": "വിവർത്തിത പാഠം"
+  },
+  "translatedReplacementReplaceText": {
+    "message": "ഇതുപയോഗിച്ച് മാറ്റിസ്ഥാപിക്കുക"
+  },
+  "translatedReplacementSearchPlaceholder": {
+    "message": "വിവർത്തിത പാഠത്തിൽ തിരയുക"
+  },
+  "translatedReplacementEmpty": {
+    "message": "വിവർത്തിത പാഠ മാറ്റിസ്ഥാപിക്കൽ നിയമങ്ങളൊന്നും ഇതുവരെ ഇല്ല."
+  },
+  "translatedReplacementSearchEmpty": {
+    "message": "പൊരുത്തപ്പെടുന്ന വിവർത്തിത പാഠ മാറ്റിസ്ഥാപിക്കലുകളൊന്നുമില്ല."
+  },
+  "translatedReplacementCreateTitle": {
+    "message": "വിവർത്തിത പാഠ മാറ്റിസ്ഥാപിക്കൽ ചേർക്കുക"
+  },
+  "translatedReplacementEditTitle": {
+    "message": "വിവർത്തിത പാഠ മാറ്റിസ്ഥാപിക്കൽ തിരുത്തുക"
+  },
+  "translatedReplacementEditorDescription": {
+    "message": "പൂർത്തിയായ വിവർത്തനം മാത്രമാണ് മാറുന്നത്; മൂലപാഠവും വിവർത്തന കാഷെയും മാറ്റമില്ലാതെ തുടരും."
+  },
+  "translatedReplacementFindPlaceholder": {
+    "message": "വിവർത്തിത പാഠത്തിലെ വാക്ക് അല്ലെങ്കിൽ വാക്യഭാഗം"
+  },
+  "translatedReplacementReplacePlaceholder": {
+    "message": "പകരം കാണിക്കേണ്ട വാക്ക് അല്ലെങ്കിൽ വാക്യഭാഗം"
+  },
+  "translatedReplacementEnabledDescription": {
+    "message": "പ്രവർത്തനരഹിതമാക്കിയാൽ നിയമം സൂക്ഷിക്കപ്പെടും, പക്ഷേ വിവർത്തിത പാഠത്തിൽ പ്രയോഗിക്കില്ല."
+  },
+  "preferenceAdd": {
+    "message": "ചേർക്കുക"
+  },
+  "preferenceDomain": {
+    "message": "മേഖല"
+  },
+  "preferenceLanguage": {
+    "message": "ഭാഷ"
+  },
+  "preferenceEnabled": {
+    "message": "പ്രവർത്തനക്ഷമം"
+  },
+  "preferenceActions": {
+    "message": "പ്രവർത്തനങ്ങൾ"
+  },
+  "preferenceSource": {
+    "message": "ഉറവിടം"
+  },
+  "preferenceSourceUser": {
+    "message": "വ്യക്തിഗതം"
+  },
+  "preferenceSourceBuiltin": {
+    "message": "അന്തർനിർമിതം"
+  },
+  "preferenceStatus": {
+    "message": "നില"
+  },
+  "preferenceStatusEnabled": {
+    "message": "പ്രവർത്തനക്ഷമം"
+  },
+  "preferenceEdit": {
+    "message": "തിരുത്തുക"
+  },
+  "preferenceDelete": {
+    "message": "ഇല്ലാതാക്കുക"
+  },
+  "preferenceAllDomains": {
+    "message": "എല്ലാ മേഖലകളും"
+  },
+  "preferenceSearch": {
+    "message": "തിരയുക"
+  },
+  "preferenceClearSearch": {
+    "message": "മായ്ക്കുക"
+  },
+  "preferencePageLabel": {
+    "message": "പേജ് {page}"
+  },
+  "preferencePreviousPage": {
+    "message": "മുമ്പത്തേത്"
+  },
+  "preferenceNextPage": {
+    "message": "അടുത്തത്"
+  },
+  "builtinGlossaryDomainsTitle": {
+    "message": "അന്തർനിർമിത മേഖലാ കൂട്ടങ്ങൾ"
+  },
+  "builtinGlossaryDomainCount": {
+    "message": "{count} അന്തർനിർമിത പദങ്ങൾ"
+  },
+  "builtinGlossaryEmptyHint": {
+    "message": "നിലവിലെ ലക്ഷ്യ ഭാഷയ്ക്ക് അന്തർനിർമിത പദാവലി ലഭ്യമല്ല. നിങ്ങൾക്ക് ഇപ്പോഴും വ്യക്തിഗത പദങ്ങൾ ചേർക്കാം."
+  },
+  "builtinGlossaryEnabledSummary": {
+    "message": "{total}-ൽ {enabled} പ്രവർത്തനക്ഷമം"
+  },
+  "builtinGlossaryManageDomains": {
+    "message": "മേഖലകൾ നിയന്ത്രിക്കുക"
+  },
+  "builtinGlossaryManageDomainsTitle": {
+    "message": "അന്തർനിർമിത മേഖലാ കൂട്ടങ്ങൾ നിയന്ത്രിക്കുക"
+  },
+  "builtinGlossaryManageDomainsDescription": {
+    "message": "ലക്ഷ്യ ഭാഷയ്ക്കുള്ള അന്തർനിർമിത പദാവലി മേഖലകൾ പ്രവർത്തനക്ഷമമാക്കുകയോ പ്രവർത്തനരഹിതമാക്കുകയോ ചെയ്യുക."
+  },
+  "builtinGlossaryDomainSearchPlaceholder": {
+    "message": "മേഖലകൾ തിരയുക"
+  },
+  "builtinGlossaryEnableAllDomains": {
+    "message": "എല്ലാം പ്രവർത്തനക്ഷമമാക്കുക"
+  },
+  "builtinGlossaryDisableAllDomains": {
+    "message": "എല്ലാം പ്രവർത്തനരഹിതമാക്കുക"
+  },
+  "builtinGlossaryDomainSearchEmpty": {
+    "message": "പൊരുത്തപ്പെടുന്ന മേഖലകളൊന്നുമില്ല."
+  },
+  "builtinGlossaryDomainTotal": {
+    "message": "{count} മേഖലകൾ"
+  },
+  "builtinGlossaryDomainDisabledStatus": {
+    "message": "മേഖല പ്രവർത്തനരഹിതമാണ്"
+  },
+  "builtinGlossaryBlockedStatus": {
+    "message": "ഒഴിവാക്കി"
+  },
+  "builtinGlossaryReadOnlyHint": {
+    "message": "അന്തർനിർമ്മിത നിയമം"
+  },
+  "builtinTextReplacementManageDomainsTitle": {
+    "message": "മൂലപാഠ തിരുത്തലിന്റെ അന്തർനിർമ്മിത മേഖലകൾ നിയന്ത്രിക്കുക"
+  },
+  "builtinTextReplacementManageDomainsDescription": {
+    "message": "മൂലപാഠ തിരുത്തലിന്റെ അന്തർനിർമ്മിത മേഖലകൾ പ്രവർത്തനക്ഷമമാക്കുകയോ പ്രവർത്തനരഹിതമാക്കുകയോ ചെയ്യുക."
+  },
+  "builtinTextReplacementDomainCount": {
+    "message": "{count} അന്തർനിർമ്മിത നിയമങ്ങൾ"
+  },
+  "preferenceLoadFailed": {
+    "message": "ലോഡ് ചെയ്യാനായില്ല. സൈൻ ഇൻ ചെയ്ത് വീണ്ടും ശ്രമിക്കുക."
+  },
+  "preferenceActionFailed": {
+    "message": "പ്രവർത്തനം പരാജയപ്പെട്ടു. പിന്നീട് വീണ്ടും ശ്രമിക്കുക."
+  },
+  "pronunciationSettingsSectionTitle": {
+    "message": "ഉച്ചാരണം"
+  },
+  "pronunciationSettingsTitle": {
+    "message": "ഉച്ചാരണ ക്രമീകരണങ്ങൾ"
+  },
+  "pronunciationSettingsDescription": {
+    "message": "വിവർത്തനം ചെയ്ത വാചകത്തിന് വ്യക്തിഗത ഉച്ചാരണങ്ങൾ സജ്ജമാക്കുക. പ്രാദേശിക ഡബ്ബിംഗിന് മാത്രമേ നിയമങ്ങൾ ബാധകമാകൂ."
+  },
+  "optionsNavPronunciationShort": {
+    "message": "ഉച്ചാരണം"
+  },
+  "pronunciationNewRule": {
+    "message": "പുതിയ നിയമം"
+  },
+  "pronunciationEditRule": {
+    "message": "ഉച്ചാരണ നിയമം എഡിറ്റ് ചെയ്യുക"
+  },
+  "pronunciationTargetLanguage": {
+    "message": "ലക്ഷ്യ ഭാഷ"
+  },
+  "pronunciationSearchPlaceholder": {
+    "message": "പൊരുത്തപ്പെടുന്ന വാചകം തിരയുക"
+  },
+  "pronunciationStatus": {
+    "message": "നില"
+  },
+  "pronunciationMatchText": {
+    "message": "പൊരുത്തപ്പെടുന്ന വാചകം"
+  },
+  "pronunciationMatchPlaceholder": {
+    "message": "ഉദാഹരണത്തിന്: ഹലോ"
+  },
+  "pronunciationTargetText": {
+    "message": "ശരിയാക്കിയ ഭാഗം"
+  },
+  "pronunciationReading": {
+    "message": "നിർദ്ദിഷ്ട ഉച്ചാരണം"
+  },
+  "pronunciationLoading": {
+    "message": "ലോഡ് ചെയ്യുന്നു..."
+  },
+  "pronunciationEmpty": {
+    "message": "വ്യക്തിഗത ഉച്ചാരണ നിയമങ്ങളൊന്നും നിലവിലെ ഫിൽട്ടറുകളുമായി പൊരുത്തപ്പെടുന്നില്ല."
+  },
+  "pronunciationEditorHint": {
+    "message": "ശരിയാക്കാൻ തുടർച്ചയായ ഭാഗം തിരഞ്ഞെടുക്കുക, തുടർന്ന് അതിൻ്റെ ഉച്ചാരണം നൽകുക."
+  },
+  "pronunciationSelectTarget": {
+    "message": "ശരിയാക്കാൻ ടെക്സ്റ്റ് തിരഞ്ഞെടുക്കുക"
+  },
+  "pronunciationReselect": {
+    "message": "വീണ്ടും തിരഞ്ഞെടുക്കുക"
+  },
+  "pronunciationEnterMatchFirst": {
+    "message": "ആദ്യം പൊരുത്തപ്പെടുന്ന വാചകം നൽകുക"
+  },
+  "pronunciationSelectionSummary": {
+    "message": "തിരഞ്ഞെടുത്തത്: {text}; സംഭവം {occurrence}"
+  },
+  "pronunciationSelectionRestoreFailed": {
+    "message": "സംരക്ഷിച്ച സ്ഥലം പുനഃസ്ഥാപിക്കാൻ കഴിയില്ല. സംരക്ഷിക്കുന്നതിന് മുമ്പ് ടെക്സ്റ്റ് വീണ്ടും തിരഞ്ഞെടുക്കുക."
+  },
+  "pronunciationSelectionInvalid": {
+    "message": "തുടർച്ചയായ വാചകം തിരഞ്ഞെടുക്കുക."
+  },
+  "pronunciationModifier": {
+    "message": "ടോൺ"
+  },
+  "pronunciationSelectModifier": {
+    "message": "തിരഞ്ഞെടുക്കുക"
+  },
+  "pronunciationSaving": {
+    "message": "സംരക്ഷിക്കുന്നു..."
+  },
+  "pronunciationDeleteConfirm": {
+    "message": "ഈ ഉച്ചാരണ നിയമം ഇല്ലാതാക്കണോ?"
+  },
+  "pronunciationOccurrence": {
+    "message": "സംഭവം {occurrence}"
+  },
+  "pronunciationUnknownError": {
+    "message": "പ്രവർത്തനം പരാജയപ്പെട്ടു. ദയവായി പിന്നീട് വീണ്ടും ശ്രമിക്കുക."
+  },
+  "preferenceAllStatuses": {
+    "message": "എല്ലാം"
+  },
+  "preferenceCancel": {
+    "message": "റദ്ദാക്കുക"
+  },
+  "preferenceDisabled": {
+    "message": "അപ്രാപ്തമാക്കി"
+  },
+  "preferenceSave": {
+    "message": "സംരക്ഷിക്കുക"
+  },
+  "pronunciationFineSelection": {
+    "message": "കൃത്യമായ തിരഞ്ഞെടുപ്പ്"
+  },
+  "pronunciationMergeUnits": {
+    "message": "അടുത്തുള്ള ഉച്ചാരണങ്ങൾ ലയിപ്പിക്കുക"
+  },
+  "pronunciationPerUnitHint": {
+    "message": "ഓരോ ഭാഗത്തിനും ഒരു ഉച്ചാരണവും ടോണും നൽകുക. ആവശ്യാനുസരണം ഭാഗങ്ങൾ വിഭജിക്കുക അല്ലെങ്കിൽ ലയിപ്പിക്കുക."
+  },
+  "pronunciationPrimarySelection": {
+    "message": "സ്മാർട്ട് തിരഞ്ഞെടുപ്പ്"
+  },
+  "pronunciationSelectionGranularity": {
+    "message": "തിരഞ്ഞെടുക്കൽ ഗ്രാനുലാരിറ്റി"
+  },
+  "pronunciationSelectionTooLong": {
+    "message": "തിരുത്തിയ ഭാഗത്ത് പരമാവധി 128 പ്രതീകങ്ങൾ അടങ്ങിയിരിക്കാം."
+  },
+  "pronunciationSplitAt": {
+    "message": "വിഭജിക്കുക"
+  },
+  "pronunciationUnitReading": {
+    "message": "ഓരോ ഭാഗവും ഉച്ചാരണം"
+  },
+  "pronunciationWholeReading": {
+    "message": "മുഴുവൻ ഉച്ചാരണം"
+  },
+  "pronunciationWholeToneHint": {
+    "message": "പൂർണ്ണമായ ഉച്ചാരണം നൽകുക. ഓരോ ഭാഗത്തിനും ഒരു ടോൺ തിരഞ്ഞെടുക്കാൻ ഇത് വിഭജിക്കുക."
+  },
+  "pronunciationPinyinSyllable": {
+    "message": "പിൻയിൻ അക്ഷരം"
+  },
+  "pronunciationPinyinPlaceholder": {
+    "message": "ഒരു പിൻയിൻ അക്ഷരം നൽകുക"
+  },
+  "pronunciationNumberedTone": {
+    "message": "ടോൺ {tone}"
+  },
+  "pronunciationNeutralTone": {
+    "message": "ന്യൂട്രൽ ടോൺ"
+  },
+  "googleDriveNoCaptionsTitle": {
+    "message": "ഈ Google Drive വീഡിയോയ്ക്ക് ഇതുവരെ അടിക്കുറിപ്പുകളില്ല"
+  },
+  "googleDriveNoCaptionsIntro": {
+    "message": "ഡബ്ബിംഗിന് Google Drive-ന്റെ ബിൽറ്റ്-ഇൻ അടിക്കുറിപ്പുകൾ (CC) ഉപയോഗിക്കുന്നു. ആദ്യം ഈ വീഡിയോയ്ക്ക് അടിക്കുറിപ്പുകൾ ഓണാക്കിയ ശേഷം തിരികെ വരൂ:"
+  },
+  "googleDriveNoCaptionsStep1": {
+    "message": "Google Drive-ൽ വീഡിയോയിൽ റൈറ്റ് ക്ലിക്ക് ചെയ്ത് “ഫയൽ വിവരങ്ങൾ” → “അടിക്കുറിപ്പ് ട്രാക്കുകൾ മാനേജ് ചെയ്യുക” തിരഞ്ഞെടുക്കുക."
+  },
+  "googleDriveNoCaptionsStep2": {
+    "message": "ഇതുവരെ അടിക്കുറിപ്പ് ട്രാക്ക് ഇല്ലെങ്കിൽ: പിന്തുണയുള്ള ഭാഷകൾക്ക് (ഇംഗ്ലീഷ്, ടർക്കിഷ്, ചൈനീസ്, സ്പാനിഷ്, ജാപ്പനീസ് ഉൾപ്പെടെ) Drive സ്വയമേവ അടിക്കുറിപ്പുകൾ സൃഷ്ടിക്കുന്നു. “സ്വയമേവയുള്ള അടിക്കുറിപ്പുകൾ സൃഷ്ടിക്കുക” കാണുന്നുണ്ടെങ്കിൽ അതിൽ ക്ലിക്ക് ചെയ്യുക, അല്ലെങ്കിൽ അടിക്കുറിപ്പ് ഫയൽ അപ്‌ലോഡ് ചെയ്യുക. വീഡിയോയുടെ ഉടമയ്ക്കോ എഡിറ്റർമാർക്കോ മാത്രമേ അടിക്കുറിപ്പുകൾ മാനേജ് ചെയ്യാനാകൂ."
+  },
+  "googleDriveNoCaptionsStep3": {
+    "message": "അടിക്കുറിപ്പുകൾ സൃഷ്ടിക്കാൻ കുറച്ച് സമയമെടുക്കും. പ്ലേയറിലെ CC ബട്ടൺ ക്ലിക്ക് ചെയ്യാനാകുമ്പോൾ, പേജ് റീഫ്രഷ് ചെയ്ത് ഡബ്ബിംഗ് വീണ്ടും ആരംഭിക്കുക."
+  },
+  "subtitleAudioLanguageMismatch": {
+    "message": "സബ്ടൈറ്റിലിന്റെ ഭാഷ ശബ്ദങ്ങളുടെ ഭാഷയുമായി പൊരുത്തപ്പെടുന്നില്ല. സബ്ടൈറ്റിലുകൾ: {subtitle}. ശബ്ദങ്ങൾ: {voice}. ഒരു ശബ്ദത്തിന് സ്വന്തം ഭാഷയിലെ വാചകം മാത്രമേ വായിക്കാനാകൂ, അതിനാൽ സൃഷ്ടിക്കൽ പരാജയപ്പെടുകയോ ഉച്ചാരണം തെറ്റുകയോ ചെയ്യാം. ആദ്യം സബ്ടൈറ്റിലുകൾ വിവർത്തനം ചെയ്യുക, അല്ലെങ്കിൽ ലക്ഷ്യ ഭാഷ സബ്ടൈറ്റിലുകൾക്ക് അനുസരിച്ച് മാറ്റുക. എന്നാലും സൃഷ്ടിക്കണോ?"
+  },
+  "subtitleAudioNav": {
+    "message": "സബ്ടൈറ്റിൽ ഡബ്ബിംഗ്"
+  },
+  "subtitleAudioAiSubtitleBadge": {
+    "message": "AI സബ്ടൈറ്റിലുകൾ"
+  },
+  "subtitleAudioUserSubtitleBadge": {
+    "message": "എഡിറ്റ് ചെയ്ത സബ്ടൈറ്റിലുകൾ"
+  },
+  "subtitleAudioBack": {
+    "message": "വീഡിയോ ഡബ്ബിംഗ്"
+  },
+  "subtitleAudioProjectSubtitle": {
+    "message": "സബ്ടൈറ്റിലുകൾ: {name} · വരികൾ: {count}"
+  },
+  "subtitleAudioReplaceSubtitles": {
+    "message": "സബ്ടൈറ്റിലുകൾ മാറ്റുക"
+  },
+  "subtitleAudioExportVideoOption": {
+    "message": "ഡബ്ബ് ചെയ്ത വീഡിയോ"
+  },
+  "subtitleAudioExportVideoHint": {
+    "message": "ഏതെങ്കിലും വരിക്ക് കൂടുതൽ സമയം വേണ്ടിടത്ത് ദൃശ്യം വേഗത കുറയും, അതിനാൽ വീഡിയോയ്ക്ക് അൽപ്പം നീളം കൂടിയേക്കാം."
+  },
+  "subtitleAudioExportMp3Option": {
+    "message": "ഡബ്ബ് ചെയ്ത MP3"
+  },
+  "subtitleAudioExportMp3Hint": {
+    "message": "യഥാർത്ഥ വീഡിയോയുടെ അതേ ദൈർഘ്യം; വീഡിയോയിൽ വീണ്ടും ചേർക്കാം, അല്ലെങ്കിൽ മറ്റൊരു ഓഡിയോ ഭാഷയായി അപ്‌ലോഡ് ചെയ്യാം."
+  },
+  "subtitleAudioDownloadSrt": {
+    "message": "SRT ഡൗൺലോഡ് ചെയ്യുക"
+  },
+  "subtitleAudioEditAndExport": {
+    "message": "എഡിറ്റ് ചെയ്ത് എക്സ്പോർട്ട് ചെയ്യുക"
+  },
+  "subtitleAudioEditNeedsSubtitle": {
+    "message": "ഈ വീഡിയോയ്ക്ക് ഇതുവരെ സബ്ടൈറ്റിലുകളില്ല. ഒരു സബ്ടൈറ്റിൽ ഫയൽ ലിങ്ക് ചെയ്യുക, അല്ലെങ്കിൽ AI സബ്ടൈറ്റിലുകൾ സൃഷ്ടിക്കാൻ ഒരിക്കൽ “വോയിസ് ഡബ്ബിംഗ് ആരംഭിക്കുക” അമർത്തുക."
+  },
+  "subtitleAudioTitle": {
+    "message": "ഓരോ വരിക്കും ഒരു ശബ്ദം"
+  },
+  "subtitleAudioSubtitle": {
+    "message": "ഒരു SRT ഫയൽ ഇറക്കുമതി ചെയ്താൽ, സബ്ടൈറ്റിൽ സമയക്രമം പിന്തുടരുന്ന ഡബ്ബ് ചെയ്ത MP3 ലഭിക്കും. ഡബ്ബ് ചെയ്ത വീഡിയോ വേണമെങ്കിൽ, “വീഡിയോ ഡബ്ബിംഗ്” എന്നതിൽ വീഡിയോ തിരഞ്ഞെടുത്ത് “എഡിറ്റ് ചെയ്ത് എക്സ്പോർട്ട് ചെയ്യുക” അമർത്തുക."
+  },
+  "subtitleAudioImportStep": {
+    "message": "സബ്ടൈറ്റിൽ ഇറക്കുമതി"
+  },
+  "subtitleAudioVoicesStep": {
+    "message": "ശബ്ദം തിരഞ്ഞെടുക്കൽ"
+  },
+  "subtitleAudioExportStep": {
+    "message": "എക്സ്പോർട്ട്"
+  },
+  "subtitleAudioSubtitles": {
+    "message": "സബ്ടൈറ്റിലുകൾ"
+  },
+  "subtitleAudioCueList": {
+    "message": "വരികളും ശബ്ദങ്ങളും"
+  },
+  "subtitleAudioSettings": {
+    "message": "ശബ്ദ സെറ്റിംഗുകൾ"
+  },
+  "subtitleAudioImport": {
+    "message": "SRT ഫയൽ തിരഞ്ഞെടുക്കുക"
+  },
+  "subtitleAudioReplace": {
+    "message": "മാറ്റുക"
+  },
+  "subtitleAudioRemove": {
+    "message": "നീക്കം ചെയ്യുക"
+  },
+  "subtitleAudioDrop": {
+    "message": "നിങ്ങളുടെ SRT ഫയൽ ഇവിടെ വലിച്ചിടുക"
+  },
+  "subtitleAudioDropNote": {
+    "message": "UTF-8 · പരമാവധി 2 MiB, 5,000 വരികൾ, 3 മണിക്കൂർ"
+  },
+  "subtitleAudioEmpty": {
+    "message": "നിങ്ങളുടെ സബ്ടൈറ്റിലുകൾ ഇവിടെ കാണാം. ഓരോ വരിക്കും ഒരു ശബ്ദം നൽകുക, അല്ലെങ്കിൽ തിരഞ്ഞെടുത്ത വരികൾക്ക് ഒരേ ശബ്ദം പ്രയോഗിക്കുക."
+  },
+  "subtitleAudioLines": {
+    "message": "വരികൾ"
+  },
+  "subtitleAudioDuration": {
+    "message": "സബ്ടൈറ്റിൽ ദൈർഘ്യം"
+  },
+  "subtitleAudioCharacters": {
+    "message": "അക്ഷരങ്ങൾ"
+  },
+  "subtitleAudioSearch": {
+    "message": "സബ്ടൈറ്റിൽ ടെക്സ്റ്റിൽ തിരയുക"
+  },
+  "subtitleAudioSelectPage": {
+    "message": "ഈ പേജ് തിരഞ്ഞെടുക്കുക"
+  },
+  "subtitleAudioSelectAll": {
+    "message": "എല്ലാ ഫലങ്ങളും തിരഞ്ഞെടുക്കുക"
+  },
+  "subtitleAudioSelected": {
+    "message": "തിരഞ്ഞെടുത്തത്: {count}"
+  },
+  "subtitleAudioApply": {
+    "message": "ശബ്ദം പ്രയോഗിക്കുക"
+  },
+  "subtitleAudioChooseVoice": {
+    "message": "ഒരു ശബ്ദം തിരഞ്ഞെടുക്കുക"
+  },
+  "subtitleAudioText": {
+    "message": "സബ്ടൈറ്റിൽ ടെക്സ്റ്റ്"
+  },
+  "subtitleAudioTime": {
+    "message": "സമയം"
+  },
+  "subtitleAudioVoice": {
+    "message": "ശബ്ദം"
+  },
+  "subtitleAudioFemale": {
+    "message": "സ്ത്രീ ശബ്ദങ്ങൾ"
+  },
+  "subtitleAudioMale": {
+    "message": "പുരുഷ ശബ്ദങ്ങൾ"
+  },
+  "subtitleAudioPage": {
+    "message": "പേജ് {page} / {total}"
+  },
+  "subtitleAudioPrevious": {
+    "message": "മുമ്പത്തേത്"
+  },
+  "subtitleAudioNext": {
+    "message": "അടുത്തത്"
+  },
+  "subtitleAudioPreview": {
+    "message": "പ്രിവ്യൂ: വരി {index}"
+  },
+  "subtitleAudioStopPreview": {
+    "message": "പ്രിവ്യൂ നിർത്തുക"
+  },
+  "subtitleAudioLanguage": {
+    "message": "ലക്ഷ്യ ഭാഷ"
+  },
+  "subtitleAudioVoiceType": {
+    "message": "ശബ്ദ തരം"
+  },
+  "subtitleAudioFree": {
+    "message": "സൗജന്യം"
+  },
+  "subtitleAudioVideoSync": {
+    "message": "എക്സ്പോർട്ട് ചെയ്യുന്ന സൗണ്ട്ട്രാക്ക് അനുസരിച്ചാണ് പ്രിവ്യൂ. വീഡിയോയുടെ യഥാർത്ഥ ശബ്ദം മ്യൂട്ട് ചെയ്തിരിക്കുന്നു."
+  },
+  "subtitleAudioTimelineTitle": {
+    "message": "ഓഡിയോ ട്രാക്ക്"
+  },
+  "subtitleAudioLayoutOnly": {
+    "message": "സബ്ടൈറ്റിൽ സ്ഥാനങ്ങൾ · എക്സ്പോർട്ട് ചെയ്ത ശേഷം വേവ്ഫോം കാണാം"
+  },
+  "subtitleAudioRealWave": {
+    "message": "എക്സ്പോർട്ട് ചെയ്ത ഓഡിയോ വേവ്ഫോം · സ്ഥാനം മാറ്റാൻ ക്ലിക്ക് ചെയ്യുക അല്ലെങ്കിൽ സ്ലൈഡർ ഉപയോഗിക്കുക"
+  },
+  "subtitleAudioTracks": {
+    "message": "ശബ്ദങ്ങൾ: {count} → ഒരൊറ്റ MP3"
+  },
+  "subtitleAudioTracksVideo": {
+    "message": "ശബ്ദങ്ങൾ: {count} → ഡബ്ബ് ചെയ്ത വീഡിയോ"
+  },
+  "subtitleAudioSeek": {
+    "message": "എക്സ്പോർട്ട് ചെയ്ത മീഡിയയിൽ സ്ഥാനം മാറ്റുക"
+  },
+  "subtitleAudioNoTimeline": {
+    "message": "സമയക്രമം കാണാൻ സബ്ടൈറ്റിലുകൾ ഇറക്കുമതി ചെയ്യുക."
+  },
+  "subtitleAudioGenerate": {
+    "message": "MP3 സൃഷ്ടിക്കുക"
+  },
+  "subtitleAudioGenerateVideo": {
+    "message": "ഡബ്ബ് ചെയ്ത വീഡിയോ സൃഷ്ടിക്കുക"
+  },
+  "subtitleAudioRegenerate": {
+    "message": "വീണ്ടും സൃഷ്ടിക്കുക"
+  },
+  "subtitleAudioRegenerateVideo": {
+    "message": "വീഡിയോ വീണ്ടും സൃഷ്ടിക്കുക"
+  },
+  "subtitleAudioRetry": {
+    "message": "പരാജയപ്പെട്ടവ വീണ്ടും ശ്രമിക്കുക"
+  },
+  "subtitleAudioCancel": {
+    "message": "റദ്ദാക്കുക"
+  },
+  "subtitleAudioCancelling": {
+    "message": "റദ്ദാക്കുന്നു…"
+  },
+  "subtitleAudioDownload": {
+    "message": "MP3 ഡൗൺലോഡ് ചെയ്യുക"
+  },
+  "subtitleAudioDownloadVideo": {
+    "message": "ഡബ്ബ് ചെയ്ത വീഡിയോ ഡൗൺലോഡ് ചെയ്യുക"
+  },
+  "subtitleAudioWorking": {
+    "message": "ശബ്ദം സൃഷ്ടിക്കുന്നു"
+  },
+  "subtitleAudioEncoding": {
+    "message": "ഓഡിയോ ട്രാക്ക് തയ്യാറാക്കുന്നു"
+  },
+  "subtitleAudioFinalizing": {
+    "message": "MP3 പൂർത്തിയാക്കുന്നു"
+  },
+  "subtitleAudioMuxing": {
+    "message": "ഡബ്ബ് ചെയ്ത സൗണ്ട്ട്രാക്ക് വീഡിയോയിൽ ചേർക്കുന്നു"
+  },
+  "subtitleAudioFinished": {
+    "message": "നിങ്ങളുടെ MP3 തയ്യാറാണ്"
+  },
+  "subtitleAudioFinishedVideo": {
+    "message": "നിങ്ങളുടെ ഡബ്ബ് ചെയ്ത വീഡിയോ തയ്യാറാണ്"
+  },
+  "subtitleAudioCancelled": {
+    "message": "സൃഷ്ടിക്കൽ റദ്ദാക്കി. പൂർത്തിയായ ശബ്ദ ക്ലിപ്പുകൾ വീണ്ടും ശ്രമിക്കാനായി കാഷെ ചെയ്തിട്ടുണ്ട്."
+  },
+  "subtitleAudioProgressNote": {
+    "message": "ഈ പേജ് തുറന്നുതന്നെ വയ്ക്കുക. റദ്ദാക്കിയാലും കാഷെ ചെയ്ത ക്ലിപ്പുകൾ ഉപയോഗിച്ച് പിന്നീട് തുടരാം."
+  },
+  "subtitleAudioMissing": {
+    "message": "ശബ്ദം നൽകാത്ത വരികൾ: {count}. ഓരോ വരിക്കും ഒരു ശബ്ദം തിരഞ്ഞെടുക്കുക, അല്ലെങ്കിൽ “ശബ്ദം പ്രയോഗിക്കുക” ഉപയോഗിക്കുക."
+  },
+  "subtitleAudioEmptyText": {
+    "message": "ടെക്സ്റ്റ് ഇല്ലാത്ത വരികൾ: {count}. സൃഷ്ടിക്കുന്നതിന് മുമ്പ് ടെക്സ്റ്റ് ചേർക്കുക."
+  },
+  "subtitleAudioCacheNote": {
+    "message": "തിരഞ്ഞെടുത്ത സേവനമാണ് ശബ്ദം സൃഷ്ടിക്കുന്നത്. സബ്ടൈറ്റിലുകളും സൃഷ്ടിച്ച ക്ലിപ്പുകളും ഈ ഉപകരണത്തിൽ കാഷെ ചെയ്യുന്നു; ഓഡിയോയും വീഡിയോയും നിങ്ങളുടെ ഉപകരണത്തിൽത്തന്നെ കൂട്ടിച്ചേർക്കുന്നു."
+  },
+  "subtitleAudioRestored": {
+    "message": "ഡ്രാഫ്റ്റ് പുനഃസ്ഥാപിച്ചു."
+  },
+  "subtitleAudioSaveError": {
+    "message": "ഡ്രാഫ്റ്റ് സംരക്ഷിക്കാനായില്ല. നിങ്ങളുടെ മാറ്റങ്ങൾ നഷ്ടപ്പെടാതിരിക്കാൻ ഈ പേജ് തുറന്നുതന്നെ വയ്ക്കുക."
+  },
+  "subtitleAudioFailed": {
+    "message": "പൂർത്തിയാക്കാനായില്ല. പൂർത്തിയായ ശബ്ദ ക്ലിപ്പുകൾ സൂക്ഷിച്ചിട്ടുണ്ട്; തുടരാൻ വീണ്ടും ശ്രമിക്കുക."
+  },
+  "subtitleAudioDetails": {
+    "message": "വിശദാംശങ്ങൾ"
+  },
+  "subtitleAudioBadFile": {
+    "message": "ഒരു UTF-8 .srt ഫയൽ തിരഞ്ഞെടുക്കുക (പരമാവധി 2 MiB)."
+  },
+  "subtitleAudioEncodingError": {
+    "message": "ഈ ഫയൽ സാധുവായ UTF-8 അല്ല. UTF-8 ആയി സേവ് ചെയ്ത് വീണ്ടും ഇറക്കുമതി ചെയ്യുക."
+  },
+  "subtitleAudioImportFailed": {
+    "message": "സബ്ടൈറ്റിൽ ഫയൽ വായിക്കാനായില്ല. അതിലെ SRT ടൈംസ്റ്റാമ്പുകളും ടെക്സ്റ്റും പരിശോധിക്കുക."
+  },
+  "subtitleAudioInvalidVideo": {
+    "message": "ഈ വീഡിയോയിൽ വായിക്കാവുന്ന ദൃശ്യ ട്രാക്ക് ഇല്ല, അല്ലെങ്കിൽ അതിന്റെ ദൈർഘ്യം ലഭ്യമല്ല."
+  },
+  "subtitleAudioVideoLimitError": {
+    "message": "ഈ വീഡിയോ 3 മണിക്കൂറിൽ കൂടുതലായതിനാൽ ഡബ്ബ് ചെയ്ത വീഡിയോ എക്സ്പോർട്ട് ചെയ്യാനാകില്ല. ദൈർഘ്യം കുറഞ്ഞ ഫയൽ തിരഞ്ഞെടുക്കുക."
+  },
+  "subtitleAudioVideoStorageError": {
+    "message": "ഈ വീഡിയോയ്ക്ക് ഈ കമ്പ്യൂട്ടറിൽ ആവശ്യത്തിന് ഒഴിഞ്ഞ ഇടമില്ല: ഏകദേശം {needed} GB വേണം, ബ്രൗസറിന് {available} GB മാത്രമേ ലഭ്യമുള്ളൂ. ഡിസ്കിൽ കുറച്ച് ഇടം ഒഴിവാക്കി വീണ്ടും ശ്രമിക്കുക, അല്ലെങ്കിൽ ചെറിയ വീഡിയോ തിരഞ്ഞെടുക്കുക."
+  },
+  "subtitleAudioVideoCodecError": {
+    "message": "ഈ ഉപകരണത്തിന് ആ വീഡിയോ കോഡെക് (ഉദാ. HEVC) പകർത്താനാകില്ല. കേടായ ഫയൽ സൃഷ്ടിക്കുന്നതിന് പകരം എക്സ്പോർട്ട് നിർത്തി. H.264 MP4 പരീക്ഷിക്കുക."
+  },
+  "subtitleAudioVideoAacUnsupported": {
+    "message": "ഈ ബ്രൗസറിന് AAC ഓഡിയോ എൻകോഡ് ചെയ്യാൻ കഴിയില്ല, അതിനാൽ ഡബ് ചെയ്ത വീഡിയോ എക്സ്പോർട്ട് ചെയ്യാനാകില്ല. ഡബ് ചെയ്ത MP3 ഇപ്പോഴും എക്സ്പോർട്ട് ചെയ്യാം."
+  },
+  "subtitleAudioVideoCopyUnsupported": {
+    "message": "ഈ വീഡിയോയുടെ കോഡെക് ഡബ് ചെയ്ത MP4 ആയി എക്സ്പോർട്ട് ചെയ്യാനാകില്ല. ഡബ് ചെയ്ത MP3 ഇപ്പോഴും എക്സ്പോർട്ട് ചെയ്യാം; വീഡിയോയ്ക്കായി H.264 MP4 ഉപയോഗിക്കുക."
+  },
+  "subtitleAudioPreviewFailed": {
+    "message": "ഈ വരി പ്രിവ്യൂ ചെയ്യാനായില്ല. തിരഞ്ഞെടുത്ത ശബ്ദവും നിങ്ങളുടെ കണക്ഷനും പരിശോധിക്കുക."
+  },
+  "subtitleAudioPlayBlocked": {
+    "message": "ഓഡിയോ തയ്യാറാണ്. ഓഡിയോ പ്ലേയറിൽ പ്ലേ അമർത്തുക."
+  },
+  "subtitleAudioGeneralError": {
+    "message": "പ്രവർത്തനം പൂർത്തിയാക്കാനായില്ല. കണക്ഷൻ പരിശോധിച്ച് വീണ്ടും ശ്രമിക്കുക."
+  },
+  "subtitleAudioLimitError": {
+    "message": "ഈ പ്രോജക്റ്റ് പിന്തുണയ്ക്കുന്ന പരിധികൾ കവിയുന്നു. പരമാവധി 5,000 വരികൾ / 3 മണിക്കൂർ; ഓരോ ശബ്ദ ക്ലിപ്പും 60 സെക്കൻഡിൽ താഴെയായിരിക്കണം."
+  },
+  "subtitleAudioStorageError": {
+    "message": "ഈ എക്സ്പോർട്ടിന് ആവശ്യമായ ലോക്കൽ സ്റ്റോറേജ് ഇല്ല. കുറച്ച് സ്റ്റോറേജ് ഒഴിവാക്കി വീണ്ടും ശ്രമിക്കുക."
+  },
+  "subtitleAudioAccountError": {
+    "message": "ശബ്ദം സൃഷ്ടിക്കാൻ സാധുവായ അക്കൗണ്ടും ലഭ്യമായ ക്വോട്ടയും വേണം. നിങ്ങളുടെ അക്കൗണ്ട് പരിശോധിച്ച ശേഷം വീണ്ടും ശ്രമിക്കുക."
+  },
+  "subtitleAudioPaused": {
+    "message": "കാത്തിരിക്കുന്നു"
+  },
+  "subtitleAudioGeneratingCue": {
+    "message": "സൃഷ്ടിക്കുന്നു"
+  },
+  "subtitleAudioReadyCue": {
+    "message": "തയ്യാർ"
+  },
+  "subtitleAudioErrorCue": {
+    "message": "പരാജയം"
+  },
+  "subtitleAudioVoiceReset": {
+    "message": "ഈ സെറ്റിംഗുകളിൽ ചില ശബ്ദങ്ങൾ ലഭ്യമല്ല. ഹൈലൈറ്റ് ചെയ്ത വരികൾക്ക് ശബ്ദങ്ങൾ തിരഞ്ഞെടുക്കുക."
+  },
+  "subtitleAudioConfirmReplace": {
+    "message": "നിലവിലെ സബ്ടൈറ്റിൽ ഡ്രാഫ്റ്റ് മാറ്റണോ?"
+  },
+  "subtitleAudioClearDraft": {
+    "message": "ഈ ഡ്രാഫ്റ്റിൽ നിന്ന് എല്ലാ സബ്ടൈറ്റിലുകളും നീക്കം ചെയ്യണോ?"
+  },
+  "subtitleAudioOutputChanged": {
+    "message": "സെറ്റിംഗുകൾ മാറി. ഡൗൺലോഡ് പുതുക്കാൻ വീണ്ടും സൃഷ്ടിക്കുക."
+  },
+  "subtitleAudioBrowserError": {
+    "message": "ഈ ബ്രൗസറിന് ഓഡിയോ പ്രോസസ്സിംഗ് ആരംഭിക്കാനായില്ല. അപ്ഡേറ്റ് ചെയ്ത ഡെസ്ക്ടോപ്പ് ബ്രൗസർ പരീക്ഷിക്കുക."
+  },
+  "subtitleAudioOtherTabBusy": {
+    "message": "മറ്റൊരു ടാബ് സബ്ടൈറ്റിൽ ഓഡിയോ സൃഷ്ടിക്കുകയോ പ്രിവ്യൂ ചെയ്യുകയോ ആണ്. ആ ജോലി കഴിയുന്നതുവരെ കാത്തിരിക്കുക, അല്ലെങ്കിൽ ആ ടാബ് അടച്ച ശേഷം വീണ്ടും ശ്രമിക്കുക."
+  },
+  "uploadVideoLanguageLabel": {
+    "message": "വീഡിയോയുടെ ഭാഷ (തിരഞ്ഞെടുത്താൽ തിരിച്ചറിയലിന്റെ കൃത്യത കൂടും)"
+  },
+  "uploadVideoLanguageAuto": {
+    "message": "സ്വയമേവ കണ്ടെത്തുക"
+  },
+  "subtitleAudioPreparing": {
+    "message": "വാക്യങ്ങളായി വിഭജിച്ച് വിവർത്തനം ചെയ്യുന്നു"
+  },
+  "subtitleAudioPrepareFailed": {
+    "message": "സബ്‌ടൈറ്റിലുകൾ വിഭജിക്കാനോ വിവർത്തനം ചെയ്യാനോ കഴിഞ്ഞില്ല. പിന്നീട് വീണ്ടും ശ്രമിക്കുക."
+  },
+  "subtitleAudioSourceLanguage": {
+    "message": "സബ്ടൈറ്റിലുകളുടെ ഭാഷ"
+  },
+  "subtitleAudioSourceLanguageUnknown": {
+    "message": "ഈ സബ്ടൈറ്റിലുകളുടെ ഭാഷ കണ്ടെത്താനായില്ല. അവ എഴുതിയിരിക്കുന്ന ഭാഷ തിരഞ്ഞെടുത്ത് വീണ്ടും സൃഷ്ടിക്കുക."
+  },
+  "subtitleAudioPreparedNote": {
+    "message": "ഓൺലൈൻ ഡബ്ബിംഗിന്റെ അതേ നിയമങ്ങളിൽ വാക്യങ്ങളായി വിഭജിച്ച് {language}ലേക്ക് വിവർത്തനം ചെയ്തു. താഴെ വിവർത്തനം നേരിട്ട് തിരുത്താം."
+  },
+  "subtitleAudioRestoreSource": {
+    "message": "മൂല പാഠം പുനഃസ്ഥാപിക്കുക"
+  },
+  "subtitleAudioRestoreSourceConfirm": {
+    "message": "മൂല പാഠം പുനഃസ്ഥാപിച്ചാൽ വിവർത്തനത്തിലെ തിരുത്തലുകൾ നഷ്ടപ്പെടും; അടുത്ത എക്‌സ്‌പോർട്ടിൽ വീണ്ടും വിഭജിച്ച് വിവർത്തനം ചെയ്യും. തുടരണോ?"
+  },
+  "subtitleAudioLanguageChangedRetranslate": {
+    "message": "ഡബ്ബിംഗ് ഭാഷ മാറിയതിനാൽ പട്ടിക മൂല പാഠത്തിലേക്ക് മടങ്ങി. എക്‌സ്‌പോർട്ട് ചെയ്യുമ്പോൾ വീണ്ടും വിഭജിച്ച് വിവർത്തനം ചെയ്യും."
+  },
+  "subtitleAudioCueTooLong": {
+    "message": "{index}-ാം വരി വളരെ നീളമുള്ളതാണ്. ചെറിയ വരികളായി വിഭജിച്ച് വീണ്ടും ശ്രമിക്കുക."
+  },
+  "subtitleAudioBackgroundOption": {
+    "message": "പശ്ചാത്തല ശബ്ദം ചേർക്കുക"
+  },
+  "subtitleAudioBackgroundHint": {
+    "message": "തിരിച്ചറിയലിനായി അപ്‌ലോഡ് ചെയ്തപ്പോൾ ഈ വീഡിയോയുടെ പശ്ചാത്തല ശബ്ദം (ശബ്ദം നീക്കി) വേർതിരിച്ചിരുന്നു. ഓൺലൈൻ ഡബ്ബിംഗിലെ പോലെ ഡബ്ബിംഗിന് താഴെ കേൾക്കും."
+  },
+  "subtitleAudioDownloadingBackground": {
+    "message": "പശ്ചാത്തല ശബ്ദം ഡൗൺലോഡ് ചെയ്യുന്നു"
+  },
+  "subtitleAudioBackgroundFailed": {
+    "message": "പശ്ചാത്തല ശബ്ദം ഡൗൺലോഡ് ചെയ്യാനായില്ല. പിന്നീട് വീണ്ടും ശ്രമിക്കുക, അല്ലെങ്കിൽ “പശ്ചാത്തല ശബ്ദം ചേർക്കുക” ഒഴിവാക്കി വീണ്ടും എക്‌സ്‌പോർട്ട് ചെയ്യുക."
+  },
+  "subtitleAudioPreparedSameLanguageNote": {
+    "message": "സബ്‌ടൈറ്റിലുകൾ ഇതിനകം ഡബ്ബിംഗ് ഭാഷയിലാണ്, അതിനാൽ “ഒരേ ഭാഷ വിവർത്തനം ചെയ്യരുത്” ക്രമീകരണപ്രകാരം വാക്യങ്ങളായി മാത്രം വിഭജിച്ചു."
+  },
+  "dubbingToggleOn": {
+    "message": "വോയ്സ്ഓവർ ഓണാക്കുക"
+  },
+  "dubbingToggleOff": {
+    "message": "വോയ്സ്ഓവർ ഓഫാക്കുക"
+  },
+  "dubbingTogglePreparing": {
+    "message": "വോയ്സ്ഓവർ തയ്യാറാക്കുന്നു, ദയവായി കാത്തിരിക്കുക…"
+  },
+  "dubbingSwitchedOffNotice": {
+    "message": "വോയ്സ്ഓവർ ഓഫാക്കി, യഥാർത്ഥ ഓഡിയോ പുനഃസ്ഥാപിച്ചു"
+  },
+  "dubbingSwitchedOnNotice": {
+    "message": "വോയ്സ്ഓവർ ഓണാണ്"
+  },
+  "toggleDubbingCommand": {
+    "message": "വോയ്സ്ഓവർ ഓൺ / ഓഫ്"
+  },
+  "spotifyPublicAudioShowNotFound": {
+    "message": "ഓഡിയോ എൻക്രിപ്റ്റ് ചെയ്തിരിക്കുന്നു, ഈ ഷോയ്ക്ക് പൊതു പോഡ്‌കാസ്റ്റ് ഫീഡ് ഇല്ല (ഇത് Spotify എക്സ്ക്ലൂസീവ് ആയിരിക്കാം)."
+  },
+  "spotifyPublicAudioEpisodeNotMatched": {
+    "message": "ഓഡിയോ എൻക്രിപ്റ്റ് ചെയ്തിരിക്കുന്നു, ഷോയുടെ പൊതു പോഡ്‌കാസ്റ്റ് ഫീഡിൽ പൊരുത്തപ്പെടുന്ന എപ്പിസോഡ് കണ്ടെത്തിയില്ല."
+  },
+  "spotifyPublicAudioLookupFailed": {
+    "message": "ഈ എപ്പിസോഡിന്റെ പൊതു ഓഡിയോ ലഭിച്ചില്ല. ദയവായി പിന്നീട് വീണ്ടും ശ്രമിക്കുക."
+  }
+}

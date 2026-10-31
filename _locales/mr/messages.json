@@ -1,0 +1,2315 @@
+{
+  "name": {
+    "message": "YouTube डबिंग – भाषांतर आणि डबिंग | Translate & Dub"
+  },
+  "description": {
+    "message": "एका क्लिकमध्ये व्हिडिओ भाषांतर आणि डबिंग—परदेशी भाषा त्वरित समजा, जागतिक ज्ञान मिळवा"
+  },
+  "metadataNotFound": {
+    "message": "व्हिडिओ मेटाडेटा सापडला नाही, कृपया रिफ्रेश करा आणि पुन्हा प्रयत्न करा"
+  },
+  "dubbingMediaNotFoundTitle": {
+    "message": "डबिंगसाठी कोणताही व्हिडिओ सापडला नाही"
+  },
+  "dubbingMediaNotFoundText": {
+    "message": "या पृष्ठावर सध्या वापरण्यायोग्य व्हिडिओ किंवा ऑडिओ उपलब्ध नाही. व्हिडिओ लोड होईपर्यंत थांबा आणि पुन्हा प्रयत्न करा, किंवा पृष्ठ रिफ्रेश करा."
+  },
+  "noSubtitlesFound": {
+    "message": "या व्हिडिओमध्ये उपशीर्षके नाहीत आणि भाषांतर आणि डबिंग समर्थित नाही"
+  },
+  "liveVideoNotSupported": {
+    "message": "सध्या थेट व्हिडिओंसाठी डबिंग समर्थित नाही"
+  },
+  "universalDubbingNotSupported": {
+    "message": "सध्याच्या आवृत्तीत या व्हिडिओसाठी युनिव्हर्सल डबिंग समर्थित नाही. पुढील आवृत्तीमध्ये समर्थन नियोजित आहे. तपशीलासाठी कृपया ग्राहक सेवेशी संपर्क साधा."
+  },
+  "postLoginTranslationSettings": {
+    "message": "लॉगिन यशस्वी. भाषांतर भाषा आणि आवाज यादी निवडण्यासाठी प्लगइन आयकॉनवर क्लिक करा."
+  },
+  "noSubtitlesWaitOptimization": {
+    "message": "उपशीर्षके उपलब्ध नाहीत. कृपया प्लगइन या व्हिडिओसाठी उपशीर्षके ओळखण्याची प्रतीक्षा करा. ओळख पूर्ण झाल्यावर तुम्हाला तुमच्या नोंदणीकृत ईमेल पत्त्यावर सूचना मिळेल."
+  },
+  "privateVideoNoSubtitles": {
+    "message": "या व्हिडिओमध्ये उपशीर्षके नाहीत आणि हा खाजगी व्हिडिओ आहे. प्लगइन या व्हिडिओसाठी पार्श्वभूमीत उपशीर्षके ओळखू शकत नाही. कृपया व्हिडिओ सार्वजनिक करा, किंवा उपशीर्षके हाताने जोडून पुन्हा प्रयत्न करा."
+  },
+  "trialMemberDurationLimit": {
+    "message": "या व्हिडिओमध्ये उपशीर्षके नाहीत. चाचणी सदस्य म्हणून, सध्या फक्त 15 मिनिटांपेक्षा कमी व्हिडिओंसाठी उपशीर्षक ओळख समर्थित आहे. प्रीमियम सदस्य 3 तासांपेक्षा कमी व्हिडिओंना समर्थन देतात."
+  },
+  "premiumMemberDurationLimit": {
+    "message": "या व्हिडिओमध्ये उपशीर्षके नाहीत आणि व्हिडिओ कालावधी 3 तासांपेक्षा जास्त आहे, भाषांतर आणि डबिंग समर्थित नाही. कृपया लहान व्हिडिओ किंवा उपशीर्षक असलेला व्हिडिओ निवडा."
+  },
+  "freeUserNoSubtitles": {
+    "message": "या व्हिडिओमध्ये अंतर्भूत उपशीर्षके नाहीत. उपशीर्षक ओळखीसाठी आणि भाषांतर डबिंग वैशिष्ट्यांचा आनंद घेण्यासाठी कृपया प्लगइन सदस्यता घ्या."
+  },
+  "freeUserDailyLimit": {
+    "message": "विनामूल्य वापरकर्ते प्लगइनद्वारे दररोज 5 व्हिडिओ पाहू शकतात. अमर्यादित पाहण्याचे फायदे अनलॉक करण्यासाठी सदस्यतेमध्ये अपग्रेड करा."
+  },
+  "upgradeEntryUpgradeButton": {
+    "message": "अपग्रेड करा"
+  },
+  "upgradeEntryLaterButton": {
+    "message": "कदाचित नंतर"
+  },
+  "aiSubtitlesRecognitionInBackground": {
+    "message": "AI उपशीर्षके अद्याप उपलब्ध नाहीत. प्लगइनने पार्श्वभूमीत त्यांना ओळखण्यास सुरुवात केली आहे. तुम्ही पहिले डब केलेले वाक्य ऐकल्यानंतर, तुम्ही पृष्ठ बंद करू शकता आणि ईमेल सूचनेची प्रतीक्षा करू शकता; जेव्हा ते तयार होईल, तेव्हा डबिंग बटण हिरवे होईल आणि भाषांतर गुणवत्ता चांगली होईल."
+  },
+  "upgradeMembershipForBackgroundRecognition": {
+    "message": "सदस्यता अपग्रेड करा आणि प्लगइन पार्श्वभूमीत AI उपशीर्षके ओळखेल. तुम्हाला ईमेल सूचना मिळाल्यानंतर, परत येऊन पाहा; डबिंग बटण हिरवे होईल आणि भाषांतर अधिक अचूक होईल."
+  },
+  "memberFreeVoiceAzureSuggestion": {
+    "message": "तुम्ही सध्या मोफत व्हॉइस प्रकाराने डबिंग करत आहात. Azure आवाज अधिक नैसर्गिक वाटतात; सदस्य आता अतिरिक्त क्रेडिट रिचार्ज न करता आणि कोणत्याही मर्यादेशिवाय Azure वापरू शकतात."
+  },
+  "memberAiSubtitlePlatformPrioritySuggestion": {
+    "message": "सध्या एक्स्टेंशनच्या बॅकग्राउंड AI ने ओळखलेली सबटायटल्स वापरली जात आहेत. भाषांतर अचूक वाटत नसेल, तर बेसिक सेटिंग्जमध्ये सबटायटल प्राधान्य प्लॅटफॉर्म सबटायटल्सवर बदला."
+  },
+  "openBasicSettingsLink": {
+    "message": "बेसिक सेटिंग्ज उघडा"
+  },
+  "doNotShowAgainLink": {
+    "message": "पुन्हा दाखवू नका"
+  },
+  "loginAndUsePlugin": {
+    "message": "कृपया प्रथम लॉग इन करण्यासाठी प्लगइन आयकॉनवर क्लिक करा, नंतर व्हॉइसओव्हर प्लेबॅकसाठी प्लगइन वापरा."
+  },
+  "voiceSettingsMismatch": {
+    "message": "आवाज प्रकार आणि आवाज सेटिंग्ज जुळत नाहीत. कृपया सेटिंग्ज पृष्ठावर जा आणि आवाज सेटिंग्ज पुन्हा निवडा आणि जतन करा."
+  },
+  "contentMenusTitle": {
+    "message": "व्हॉइसओव्हर प्लेबॅक सुरू करा"
+  },
+  "videoDetectedDomainTooltip": {
+    "message": "सध्याच्या व्हिडिओमध्ये ओळखलेले क्षेत्र: {domain}"
+  },
+  "dropboxClickCcToTranscribe": {
+    "message": "या व्हिडिओचे अद्याप लिप्यंतरण केले गेले नाही. उपशीर्षके लिप्यंतरित करण्यासाठी कृपया Dropbox व्हिडिओच्या तळाशी CC बटणावर क्लिक करा. लिप्यंतरण पूर्ण झाल्यानंतर, भाषांतर आणि डब करण्यासाठी प्लगइनच्या डबिंग बटणावर क्लिक करा."
+  },
+  "iosInterceptorConflictTitle": {
+    "message": "विस्तार संघर्ष आढळला"
+  },
+  "iosInterceptorConflictMessage": {
+    "message": "दुसरा ब्राउझर विस्तार उपशीर्षक विनंती व्यत्यय अवरोधित करत आहे. विरोधाभासी विस्तार अक्षम करा, पृष्ठ रिफ्रेश करा, नंतर पुन्हा प्रयत्न करा."
+  },
+  "login": {
+    "message": "लॉग इन"
+  },
+  "logout": {
+    "message": "बाहेर पडा"
+  },
+  "subscribe": {
+    "message": "सदस्यता घ्या"
+  },
+  "save_settings": {
+    "message": "सेटिंग्ज जतन करा"
+  },
+  "saving": {
+    "message": "जतन करत आहे..."
+  },
+  "saveSuccessTitle": {
+    "message": "जतन यशस्वी"
+  },
+  "saveSuccessText": {
+    "message": "सेटिंग्ज यशस्वीरित्या जतन केल्या"
+  },
+  "saveFailedTitle": {
+    "message": "जतन अयशस्वी"
+  },
+  "saveFailedText": {
+    "message": "सेटिंग्ज जतन करण्यात अयशस्वी, कृपया पुन्हा प्रयत्न करा"
+  },
+  "confirmButton": {
+    "message": "चालू ठेवा आणि जतन करा"
+  },
+  "cancelButton": {
+    "message": "रद्द करा"
+  },
+  "back": {
+    "message": "परत"
+  },
+  "backToSettings": {
+    "message": "सेटिंग्जवर परत"
+  },
+  "backToVideoLibrary": {
+    "message": "व्हिडिओ लायब्ररीकडे परत जा"
+  },
+  "source_languages": {
+    "message": "स्रोत भाषा:"
+  },
+  "target_languages": {
+    "message": "लक्ष्य भाषा:"
+  },
+  "selectSourceLanguage": {
+    "message": "स्रोत भाषा निवडा"
+  },
+  "selectTargetLanguage": {
+    "message": "लक्ष्य भाषा निवडा"
+  },
+  "searchSourceLanguage": {
+    "message": "स्रोत भाषा शोधा..."
+  },
+  "searchTargetLanguage": {
+    "message": "लक्ष्य भाषा शोधा..."
+  },
+  "loading": {
+    "message": "लोड करत आहे"
+  },
+  "sex": {
+    "message": "लिंग:"
+  },
+  "voices": {
+    "message": "आवाज:"
+  },
+  "voicesType": {
+    "message": "आवाज प्रकार:"
+  },
+  "man": {
+    "message": "पुरुष"
+  },
+  "woman": {
+    "message": "स्त्री"
+  },
+  "free": {
+    "message": "विनामूल्य"
+  },
+  "memberFree": {
+    "message": "सदस्यांसाठी विनामूल्य"
+  },
+  "memberFreeRequireMembership": {
+    "message": "हा आवाज प्रकार फक्त सदस्यांसाठी आहे. विनामूल्य वापरण्यासाठी अपग्रेड करा."
+  },
+  "azureRequireMembership": {
+    "message": "Azure TTS फक्त सदस्यांसाठी आहे. उच्च-गुणवत्तेच्या Azure आवाजांना अनलॉक करण्यासाठी अपग्रेड करा."
+  },
+  "originalAudio": {
+    "message": "मूळ"
+  },
+  "translatedAudio": {
+    "message": "भाषांतरित"
+  },
+  "backgroundAudio": {
+    "message": "BGM"
+  },
+  "textToSpeech": {
+    "message": "टेक्स्ट टू स्पीच:"
+  },
+  "textToSpeechToggle": {
+    "message": "फ्लोटिंग बटण"
+  },
+  "showSubtitle": {
+    "message": "उपशीर्षके:"
+  },
+  "subtitleSize": {
+    "message": "आकार"
+  },
+  "subtitles": {
+    "message": "उपशीर्षके"
+  },
+  "toggleSubtitles": {
+    "message": "उपशीर्षके टॉगल करा"
+  },
+  "subtitleDisplayMode": {
+    "message": "उपशीर्षक प्रदर्शन मोड"
+  },
+  "subtitleModeTranslated": {
+    "message": "फक्त भाषांतर"
+  },
+  "subtitleModeBilingual": {
+    "message": "द्विभाषिक उपशीर्षके"
+  },
+  "subtitleModeOff": {
+    "message": "उपशीर्षके बंद"
+  },
+  "translateService": {
+    "message": "भाषांतर:"
+  },
+  "translationEngine": {
+    "message": "भाषांतर इंजिन"
+  },
+  "translationService": {
+    "message": "भाषांतर सेवा"
+  },
+  "translationServiceTitle": {
+    "message": "भाषांतर सेवा"
+  },
+  "advancedSettings": {
+    "message": "प्रगत सेटिंग्ज"
+  },
+  "pauseVideo": {
+    "message": "व्हिडिओ विराम द्या"
+  },
+  "iosOpenOriginVolume": {
+    "message": "मूळ ऑडिओ चालू करा"
+  },
+  "voicesAndSubtitles": {
+    "message": "आवाज आणि उपशीर्षके"
+  },
+  "voicesAndSubtitlesTitle": {
+    "message": "आवाज आणि उपशीर्षके"
+  },
+  "speakerList": {
+    "message": "वक्ता यादी"
+  },
+  "speakersTitle": {
+    "message": "वक्ता"
+  },
+  "deleteSpeaker": {
+    "message": "हटवा"
+  },
+  "editSpeaker": {
+    "message": "संपादित करा"
+  },
+  "speakerName": {
+    "message": "वक्ता नाव"
+  },
+  "enterSpeakerName": {
+    "message": "वक्ता नाव प्रविष्ट करा"
+  },
+  "enterVoice": {
+    "message": "आवाज नाव प्रविष्ट करा"
+  },
+  "voice": {
+    "message": "आवाज"
+  },
+  "gender": {
+    "message": "लिंग"
+  },
+  "male": {
+    "message": "पुरुष"
+  },
+  "female": {
+    "message": "स्त्री"
+  },
+  "edit": {
+    "message": "संपादित करा"
+  },
+  "delete": {
+    "message": "हटवा"
+  },
+  "save": {
+    "message": "जतन करा"
+  },
+  "cancel": {
+    "message": "रद्द करा"
+  },
+  "confirmDeleteSpeaker": {
+    "message": "तुम्हाला खात्री आहे की तुम्ही हा वक्ता हटवू इच्छिता?"
+  },
+  "noSpeakers": {
+    "message": "कोणतेही वक्ता नाहीत"
+  },
+  "memberUser": {
+    "message": "सदस्य"
+  },
+  "accountBalance": {
+    "message": "खाते शिल्लक:"
+  },
+  "userAccountAriaLabel": {
+    "message": "वापरकर्ता खाते"
+  },
+  "membershipExpires": {
+    "message": "सदस्यता समाप्ती:"
+  },
+  "shortcutSettings": {
+    "message": "शॉर्टकट सेटिंग्ज"
+  },
+  "subscriptionRecharge": {
+    "message": "सदस्यता व रिचार्ज"
+  },
+  "membershipIcon": {
+    "message": "सदस्यता आयकॉन"
+  },
+  "browserShortcutSettingsTip": {
+    "message": "कृपया ब्राउझर एक्सटेंशन सेटिंग्जमध्ये शॉर्टकट कॉन्फिगर करा"
+  },
+  "safariShortcutSettingsTip": {
+    "message": "कृपया Safari > प्राधान्ये > एक्सटेंशन मध्ये शॉर्टकट सेट करा"
+  },
+  "edgeShortcutSettingsTip": {
+    "message": "Edge एक्सटेंशन शॉर्टकट सेटिंग्ज पृष्ठ उघडत आहे"
+  },
+  "firefoxShortcutSettingsTip": {
+    "message": "Firefox अॅड-ऑन पृष्ठ उघडत आहे, कृपया एक्सटेंशन आणि थीममध्ये शॉर्टकट सेट करा"
+  },
+  "dubbingSettings": {
+    "message": "डबिंग सेटिंग्ज"
+  },
+  "debugInfo": {
+    "message": "डीबग माहिती"
+  },
+  "sourceLanguage": {
+    "message": "स्रोत भाषा"
+  },
+  "targetLanguage": {
+    "message": "लक्ष्य भाषा"
+  },
+  "vipRequiredTitle": {
+    "message": "सदस्यता आवश्यक"
+  },
+  "vipRequiredText": {
+    "message": "हे वैशिष्ट्य वापरण्यासाठी तुम्हाला सदस्य असणे आवश्यक आहे"
+  },
+  "vipAndBalanceRequiredTitle": {
+    "message": "सदस्यता आणि शिल्लक आवश्यक"
+  },
+  "vipAndBalanceRequiredText": {
+    "message": "हे वैशिष्ट्य वापरण्यासाठी तुम्हाला सदस्य असणे आणि पुरेशी शिल्लक असणे आवश्यक आहे"
+  },
+  "balanceRequiredTitle": {
+    "message": "शिल्लक आवश्यक"
+  },
+  "balanceRequiredText": {
+    "message": "तुमची खाते शिल्लक अपुरी आहे. हे वैशिष्ट्य वापरण्यासाठी कृपया रिचार्ज करा"
+  },
+  "lowBalanceTitle": {
+    "message": "कमी शिल्लक सतर्कता"
+  },
+  "lowBalanceText": {
+    "message": "तुमची खाते शिल्लक $$1 पेक्षा कमी आहे. अखंड सेवा सुनिश्चित करण्यासाठी लवकरच रिचार्ज करण्याची आम्ही शिफारस करतो"
+  },
+  "insufficientBalance": {
+    "message": "अपुऱ्या शिल्लकमुळे, सेवा Google Translate मध्ये डाउनग्रेड केली गेली आहे. AI भाषांतर वापरण्यासाठी, कृपया तुमचे क्रेडिट रिचार्ज करा."
+  },
+  "insufficientBalanceAlertMsg": {
+    "message": "तुमची शिल्लक अपुरी आहे. AI भाषांतर आणि Azure TTS वापरण्यापूर्वी कृपया तुमची शिल्लक रिचार्ज करा. तुम्हाला रिचार्ज करायचे नसल्यास, तुम्ही Google Translate आणि विनामूल्य आवाज प्रकारांवर परत स्विच करू शकता."
+  },
+  "balanceRunningLow": {
+    "message": "तुमची शिल्लक संपत आहे. खराब पाहण्याच्या अनुभवाला टाळण्यासाठी, आगाऊ रिचार्ज करण्याची शिफारस केली जाते."
+  },
+  "membershipRequired": {
+    "message": "कृपया OpenAI भाषांतर वापरण्यापूर्वी सदस्यतेमध्ये अपग्रेड करा."
+  },
+  "membershipRequiredForAI": {
+    "message": "कृपया AI भाषांतर वापरण्यापूर्वी तुमची सदस्यता रिचार्ज करा. तुम्हाला रिचार्ज करायचे नसल्यास, तुम्ही Google Translate देखील निवडू शकता."
+  },
+  "insufficientMembership": {
+    "message": "तुमची सदस्यता कालबाह्य झाली आहे. AI भाषांतर आणि Azure TTS वापरण्यापूर्वी कृपया तुमची सदस्यता रिचार्ज करा. तुम्हाला रिचार्ज करायचे नसल्यास, तुम्ही Google Translate आणि विनामूल्य आवाज प्रकार देखील निवडू शकता."
+  },
+  "insufficientBalanceAndMembership": {
+    "message": "कृपया AI भाषांतर आणि Azure TTS वापरण्यापूर्वी तुमची सदस्यता आणि शिल्लक रिचार्ज करा. तुम्हाला रिचार्ज करायचे नसल्यास, तुम्ही Google Translate आणि विनामूल्य आवाज प्रकार देखील निवडू शकता."
+  },
+  "freeForVip": {
+    "message": "VIP विनामूल्य"
+  },
+  "freeOptionTipText": {
+    "message": "तुम्हाला रिचार्ज करायचे नसल्यास, तुम्ही विनामूल्य पर्याय निवडू शकता, "
+  },
+  "translateEngineTipText": {
+    "message": "भाषांतर सेवा Google मध्ये बदला"
+  },
+  "voiceTypeTipText": {
+    "message": "आवाज प्रकार विनामूल्य आवृत्तीमध्ये बदला"
+  },
+  "vipFreeOptionTipText": {
+    "message": "सदस्य म्हणून, तुम्ही खालील भाषांतर सेवा विनामूल्य वापरू शकता"
+  },
+  "vipTranslateEngineTipText": {
+    "message": "भाषांतर सेवा gemini, deepseek, gpt-3.5-turbo किंवा claude-3-haiku सारख्या सदस्य-विनामूल्य सेवांमध्ये बदला"
+  },
+  "pay": {
+    "message": "पैसे भरा"
+  },
+  "switchModelWarning": {
+    "message": "व्हिडिओ प्लेबॅक दरम्यान आवाज किंवा भाषांतर मॉडेल स्विच केल्याने वाया गेलेल्या संसाधनांमुळे अतिरिक्त शुल्क आकारले जाईल. आम्ही पुढील व्हिडिओमध्ये स्विच करण्याची शिफारस करतो. तरीही पुढे जाण्यासाठी, चालू ठेवा आणि जतन करा वर क्लिक करा."
+  },
+  "selectSpeaker": {
+    "message": "निवडा"
+  },
+  "speaker": {
+    "message": "वक्ता"
+  },
+  "rechargeLimit": {
+    "message": "क्रेडिट+सदस्य"
+  },
+  "tooExpensive": {
+    "message": "खूप महाग"
+  },
+  "dropdownPlaceholder": {
+    "message": "कृपया निवडा"
+  },
+  "dropdownNoOptions": {
+    "message": "कोणतेही पर्याय उपलब्ध नाहीत"
+  },
+  "dropdownSearch": {
+    "message": "शोधा..."
+  },
+  "swapVolumeSettingsCommand": {
+    "message": "मूळ आणि डब केलेल्या ऑडिओ दरम्यान व्हॉल्यूम सेटिंग्ज टॉगल करा"
+  },
+  "cycleSubtitleModeCommand": {
+    "message": "उपशीर्षके बदला: द्विभाषिक → फक्त अनुवाद → बंद"
+  },
+  "trialMemberModelLimit": {
+    "message": "चाचणी सदस्य फक्त Gemini आणि Google Translate वापरू शकतात. इतर मॉडेल्स वापरण्यासाठी, कृपया आमची सदस्यता घ्या."
+  },
+  "subtitlesRateLimitedByYouTube": {
+    "message": "या व्हिडिओसाठी उपशीर्षके सध्या YouTube द्वारे दर-मर्यादित आहेत. कृपया नंतर पुन्हा प्रयत्न करा."
+  },
+  "musicVideoNotSupported": {
+    "message": "हा एक संगीत व्हिडिओ आहे. अनुवाद आणि डबिंग समर्थित नाहीत."
+  },
+  "hideUntilNextVisit": {
+    "message": "पुढील भेटीपर्यंत लपवा"
+  },
+  "disableGlobally": {
+    "message": "जागतिक स्तरावर अक्षम करा"
+  },
+  "sidebarHideUntilNextVisit": {
+    "message": "पुढील भेटीपर्यंत लपवा"
+  },
+  "sidebarDisableForSite": {
+    "message": "या साइटसाठी अक्षम करा"
+  },
+  "sidebarDisableGlobally": {
+    "message": "जागतिक स्तरावर अक्षम करा"
+  },
+  "sidebarReenableHint": {
+    "message": " "
+  },
+  "sidebarSettings": {
+    "message": "सेटिंग्ज"
+  },
+  "sidebarReenableHintSuffix": {
+    "message": " मध्ये पुन्हा सक्षम केले जाऊ शकते"
+  },
+  "notSupported": {
+    "message": "समर्थित नाही"
+  },
+  "multiVideoNotSupported": {
+    "message": "या पृष्ठावर अनेक व्हिडिओ आहेत. HLS स्ट्रीम वापरताना युनिव्हर्सल डबिंग फक्त एका व्हिडिओ असलेल्या पृष्ठांना समर्थन करते."
+  },
+  "mediaSourceNotDetected": {
+    "message": "व्हिडिओ स्त्रोत शोधता आला नाही. ही वेबसाइट समर्थित नसू शकते."
+  },
+  "uploadMediaForRecognition": {
+    "message": "कोणतेही उपशीर्षक आढळले नाहीत. AI उपशीर्षक ओळखीसाठी व्हिडिओ अपलोड करायचा आहे का?"
+  },
+  "startUpload": {
+    "message": "अपलोड सुरू करा"
+  },
+  "uploadingMedia": {
+    "message": "मीडिया अपलोड होत आहे..."
+  },
+  "downloading": {
+    "message": "डाउनलोड होत आहे"
+  },
+  "uploading": {
+    "message": "अपलोड होत आहे"
+  },
+  "completing": {
+    "message": "पूर्ण होत आहे"
+  },
+  "uploadComplete": {
+    "message": "अपलोड पूर्ण"
+  },
+  "waitingForRecognition": {
+    "message": "व्हिडिओ यशस्वीरित्या अपलोड झाला. AI उपशीर्षक ओळख सुरू आहे. तयार झाल्यावर तुम्हाला ईमेल सूचना मिळेल."
+  },
+  "uploadFailed": {
+    "message": "अपलोड अयशस्वी"
+  },
+  "corsNotSupported": {
+    "message": "ही वेबसाइट मीडिया फाइल्स डाउनलोड करण्याची परवानगी देत नाही. युनिव्हर्सल डबिंग समर्थित नाही."
+  },
+  "mediaDownloadInterrupted": {
+    "message": "नेटवर्क त्रुटीमुळे मीडिया डाउनलोड खंडित झाले (हे साइटचे निर्बंध नाही). कृपया पुन्हा अपलोड करा."
+  },
+  "zoomRecordingDnrNotSupported": {
+    "message": "तुमचा ब्राउझर Zoom रेकॉर्डिंग अपलोड ओळख समर्थन करत नाही. कृपया Chrome/Edge वापरा."
+  },
+  "zoomRecordingDownloadForbidden403": {
+    "message": "Zoom रेकॉर्डिंग डाउनलोड प्रतिबंधित केले (403). कृपया पडताळणी पार करण्यासाठी पेज प्ले/रिफ्रेश करा, नंतर पुन्हा अपलोड करा."
+  },
+  "liveStreamNotSupported": {
+    "message": "लाइव्ह स्ट्रीम युनिव्हर्सल डबिंगसाठी समर्थित नाहीत."
+  },
+  "noAudioTrackFound": {
+    "message": "कोणताही ऑडिओ ट्रॅक आढळला नाही. हा व्हिडिओ ऑडिओशिवाय केवळ व्हिडिओ असल्याचे दिसते आणि डबिंग ओळखीसाठी वापरता येत नाही."
+  },
+  "universalDubbingMemberOnly": {
+    "message": "युनिव्हर्सल डबिंगसाठी क्लाउड GPU कंप्युटिंग पॉवर आवश्यक आहे (उच्च खर्च), फक्त VIP साठी."
+  },
+  "videoDurationExceedsLimit": {
+    "message": "हा व्हिडिओ 3 तासांपेक्षा जास्त आहे. 3 तासांपेक्षा जास्त व्हिडिओंसाठी सध्या युनिव्हर्सल डबिंग समर्थित नाही."
+  },
+  "videoDrmProtected": {
+    "message": "हा व्हिडिओ DRM द्वारे संरक्षित आहे आणि डबिंगसाठी वापरला जाऊ शकत नाही."
+  },
+  "pleaseClickVideoToPlay": {
+    "message": "कृपया व्हिडिओ उघडण्यासाठी क्लिक करा आणि नंतर डबिंग वैशिष्ट्य वापरा."
+  },
+  "iosUniversalDubbingNotSupported": {
+    "message": "iOS उपकरणांवर युनिव्हर्सल डबिंग समर्थित नाही. कृपया डेस्कटॉप ब्राउझर वापरा."
+  },
+  "membershipRequiredTitle": {
+    "message": "सदस्यता आवश्यक"
+  },
+  "error": {
+    "message": "त्रुटी"
+  },
+  "unknownError": {
+    "message": "अज्ञात त्रुटी आली. कृपया पुन्हा प्रयत्न करा."
+  },
+  "doNotClosePage": {
+    "message": "अपलोड दरम्यान कृपया हे पृष्ठ बंद किंवा रिफ्रेश करू नका, अन्यथा अपलोड व्यत्यय येईल."
+  },
+  "taskAlreadySubmitted": {
+    "message": "हा व्हिडिओ आधीपासून AI उपशीर्षक ओळखण्यासाठी प्रक्रियेत आहे. कृपया ईमेल सूचनेची प्रतीक्षा करा."
+  },
+  "sampleAesNotSupported": {
+    "message": "हा व्हिडिओ SAMPLE-AES एन्क्रिप्शन वापरतो जे सध्या डाउनलोडसाठी समर्थित नाही."
+  },
+  "hlsKeyFetchFailed": {
+    "message": "या व्हिडिओसाठी डीक्रिप्शन की मिळवण्यात अपयश. व्हिडिओ संरक्षित असू शकतो किंवा की सर्व्हर उपलब्ध नाही."
+  },
+  "hlsDecryptionFailed": {
+    "message": "व्हिडिओ सामग्री डीक्रिप्ट करण्यात अपयश. एन्क्रिप्शन की चुकीची असू शकते किंवा व्हिडिओ स्वरूप सुसंगत नाही."
+  },
+  "subtitleStyleOptionsTitle": {
+    "message": "उपशीर्षक शैली सेटिंग्ज"
+  },
+  "subtitleStyleOptionsDesc": {
+    "message": "समायोजन जतन केले जातील आणि त्वरित प्रभावी होतील."
+  },
+  "subtitleStyleSectionTitle": {
+    "message": "उपशीर्षक शैली"
+  },
+  "subtitleStylePreviewTitle": {
+    "message": "पूर्वावलोकन"
+  },
+  "subtitleStylePreviewTag": {
+    "message": "वास्तविक वेळ"
+  },
+  "subtitleStylePreviewText": {
+    "message": "या तरुणामध्ये खूप क्षमता आहे असे त्याला वाटले."
+  },
+  "subtitleStylePosition": {
+    "message": "स्थान"
+  },
+  "subtitleStylePositionTop": {
+    "message": "वर"
+  },
+  "subtitleStylePositionMiddle": {
+    "message": "मध्य"
+  },
+  "subtitleStylePositionBottom": {
+    "message": "खाली"
+  },
+  "subtitleStyleFontFamily": {
+    "message": "फॉन्ट"
+  },
+  "subtitleStyleFontSize": {
+    "message": "फॉन्ट आकार"
+  },
+  "subtitleStyleCustomOption": {
+    "message": "सानुकूल करा"
+  },
+  "subtitleStyleCustomFont": {
+    "message": "सानुकूल फॉन्ट"
+  },
+  "subtitleStyleCustomFontPlaceholder": {
+    "message": "उदाहरणार्थ: PingFang SC, Arial"
+  },
+  "subtitleStyleTextColor": {
+    "message": "फॉन्ट रंग"
+  },
+  "subtitleStyleFontWeight": {
+    "message": "फॉन्ट वजन"
+  },
+  "subtitleStyleBackgroundColor": {
+    "message": "पार्श्वभूमी रंग"
+  },
+  "subtitleStyleBackgroundOpacity": {
+    "message": "पार्श्वभूमी अपारदर्शकता"
+  },
+  "subtitleStyleEdgeStyle": {
+    "message": "किनारा शैली"
+  },
+  "subtitleStyleEdgeNone": {
+    "message": "काहीही नाही"
+  },
+  "subtitleStyleEdgeShadow": {
+    "message": "छाया"
+  },
+  "subtitleStyleEdgeOutline": {
+    "message": "आउटलाइन"
+  },
+  "subtitleStyleFontNone": {
+    "message": "काहीही नाही"
+  },
+  "subtitleStyleFontDefault": {
+    "message": "डीफॉल्ट"
+  },
+  "subtitleStyleFontPingFang": {
+    "message": "PingFang SC"
+  },
+  "subtitleStyleFontYaHei": {
+    "message": "Microsoft YaHei"
+  },
+  "subtitleStyleFontHeiti": {
+    "message": "STHeiti"
+  },
+  "subtitleStyleFontKaiti": {
+    "message": "Kaiti SC"
+  },
+  "subtitleStyleFontSongti": {
+    "message": "STSong"
+  },
+  "subtitleStyleFontFangsong": {
+    "message": "FangSong"
+  },
+  "subtitleStyleFontDongqingHeiti": {
+    "message": "Dongqing Heiti"
+  },
+  "subtitleStyleFontLantingHei": {
+    "message": "Lanting Hei"
+  },
+  "subtitleStyleFontHanyiHeiliu": {
+    "message": "Hanyi Heiliu"
+  },
+  "subtitleStyleFontHanyiZhonghei": {
+    "message": "Hanyi Zhonghei"
+  },
+  "subtitleStyleFontSTSong": {
+    "message": "Songti"
+  },
+  "subtitleStyleFontWawati": {
+    "message": "Wawati"
+  },
+  "subtitleStyleFontWeibei": {
+    "message": "Weibei"
+  },
+  "subtitleStyleFontXingkai": {
+    "message": "Xingkai"
+  },
+  "subtitleStyleFontYuanti": {
+    "message": "Yuanti"
+  },
+  "subtitleStyleFontArialUnicode": {
+    "message": "Arial Unicode MS"
+  },
+  "subtitleStyleFontArial": {
+    "message": "Arial"
+  },
+  "subtitleStyleFontCourierNew": {
+    "message": "Courier New"
+  },
+  "subtitleStyleFontGeorgia": {
+    "message": "Georgia"
+  },
+  "subtitleStyleFontTahoma": {
+    "message": "Tahoma"
+  },
+  "subtitleStyleFontTimesNewRoman": {
+    "message": "Times New Roman"
+  },
+  "subtitleStyleFontTrebuchetMS": {
+    "message": "Trebuchet MS"
+  },
+  "subtitleStyleFontVerdana": {
+    "message": "Verdana"
+  },
+  "subtitleStyleFontHelveticaNeue": {
+    "message": "Helvetica Neue"
+  },
+  "subtitleStyleFontHiraginoMincho": {
+    "message": "Hiragino Mincho ProN"
+  },
+  "subtitleStyleFontHiraginoKaku": {
+    "message": "Hiragino Kaku Gothic ProN"
+  },
+  "subtitleStyleFontKohinoor": {
+    "message": "Kohinoor Devanagari"
+  },
+  "subtitleStyleFontAppleSD": {
+    "message": "Apple SD Gothic Neo"
+  },
+  "subtitleStyleFontNanumGothic": {
+    "message": "Nanum Gothic"
+  },
+  "subtitleStyleFontCustom": {
+    "message": "कस्टम"
+  },
+  "subtitleStyleColorWhite": {
+    "message": "पांढरा"
+  },
+  "subtitleStyleColorYellow": {
+    "message": "पिवळा"
+  },
+  "subtitleStyleColorOrange": {
+    "message": "नारंगी"
+  },
+  "subtitleStyleColorGray": {
+    "message": "राखाडी"
+  },
+  "subtitleStyleColorGreen": {
+    "message": "हिरवा"
+  },
+  "subtitleStyleColorCyan": {
+    "message": "सायन"
+  },
+  "subtitleStyleColorBlue": {
+    "message": "निळा"
+  },
+  "subtitleStyleColorMagenta": {
+    "message": "मॅजेंटा"
+  },
+  "subtitleStyleColorRed": {
+    "message": "लाल"
+  },
+  "subtitleStyleColorBlack": {
+    "message": "काळा"
+  },
+  "subtitleStyleEditorViewLabel": {
+    "message": "शैली संपादन दृश्य"
+  },
+  "subtitleStyleEditorViewTranslated": {
+    "message": "फक्त भाषांतर"
+  },
+  "subtitleStyleEditorViewBilingual": {
+    "message": "द्विभाषिक"
+  },
+  "subtitleStyleLayoutSectionTitle": {
+    "message": "द्विभाषिक मांडणी"
+  },
+  "subtitleStyleOrder": {
+    "message": "उपशीर्षक क्रम"
+  },
+  "subtitleStyleOrderTranslatedFirst": {
+    "message": "भाषांतर वर"
+  },
+  "subtitleStyleOrderOriginalFirst": {
+    "message": "मूळ वर"
+  },
+  "subtitleStyleLineGap": {
+    "message": "ओळींतील अंतर"
+  },
+  "subtitleStyleTextAlign": {
+    "message": "आडवे संरेखन"
+  },
+  "subtitleStyleTextAlignLeft": {
+    "message": "डावे"
+  },
+  "subtitleStyleTextAlignCenter": {
+    "message": "मध्यभागी"
+  },
+  "subtitleStyleTextAlignRight": {
+    "message": "उजवे"
+  },
+  "subtitleStyleTranslatedSectionTitle": {
+    "message": "भाषांतर शैली"
+  },
+  "subtitleStyleOriginalSectionTitle": {
+    "message": "मूळ शैली"
+  },
+  "subtitleStyleFollowTranslated": {
+    "message": "भाषांतर शैलीशी जुळवा"
+  },
+  "subtitleStyleUsesCurrentSettings": {
+    "message": "सध्याच्या सेटिंग्ज वापरते"
+  },
+  "subtitleStyleOriginalSizePercent": {
+    "message": "आकार गुणोत्तर"
+  },
+  "subtitleStyleSharedBackgroundSectionTitle": {
+    "message": "सामायिक पार्श्वभूमी"
+  },
+  "subtitleStyleRestoreDefaults": {
+    "message": "डीफॉल्ट पुनर्स्थापित करा"
+  },
+  "subtitleStylePreviewOriginalText": {
+    "message": "He thought this young man had great potential."
+  },
+  "subtitleStyleColorLightGray": {
+    "message": "फिकट राखाडी"
+  },
+  "disabledSitesSectionTitle": {
+    "message": "अक्षम साइट्स"
+  },
+  "disabledSitesTitle": {
+    "message": "अक्षम साइट व्यवस्थापन"
+  },
+  "disabledSitesDescription": {
+    "message": "खालील साइट्सवर फ्लोटिंग बॉल दिसणार नाही. तुम्ही येथे अक्षम साइट्स जोडू किंवा काढू शकता."
+  },
+  "disabledSitesPlaceholder": {
+    "message": "डोमेन प्रविष्ट करा, उदा. youtube.com"
+  },
+  "disabledSitesAdd": {
+    "message": "जोडा"
+  },
+  "disabledSitesDomain": {
+    "message": "डोमेन"
+  },
+  "disabledSitesActions": {
+    "message": "क्रिया"
+  },
+  "disabledSitesDelete": {
+    "message": "हटवा"
+  },
+  "disabledSitesEmpty": {
+    "message": "अक्षम साइट्स नाहीत"
+  },
+  "preferencesSectionTitle": {
+    "message": "मूलभूत सेटिंग्ज"
+  },
+  "optionsNavPreferencesShort": {
+    "message": "मूलभूत"
+  },
+  "optionsNavSubtitleShort": {
+    "message": "उपशीर्षक"
+  },
+  "optionsNavAiShort": {
+    "message": "AI"
+  },
+  "optionsNavSitesShort": {
+    "message": "साइट"
+  },
+  "preferenceStatusDisabled": {
+    "message": "बंद"
+  },
+  "preferencesTitle": {
+    "message": "मूलभूत सेटिंग्ज"
+  },
+  "preferencesDescription": {
+    "message": "तुमच्या मूलभूत पसंती येथे व्यवस्थापित करा."
+  },
+  "emailNotificationLabel": {
+    "message": "ईमेल सूचना"
+  },
+  "emailNotificationDescription": {
+    "message": "उपशीर्षक ओळख पूर्ण झाल्यावर मला ईमेलने कळवा."
+  },
+  "emailNotificationSaveFailed": {
+    "message": "सेव्ह अयशस्वी झाले. कृपया नंतर पुन्हा प्रयत्न करा."
+  },
+  "skipTranslationWhenSameLanguageLabel": {
+    "message": "समान भाषा असल्यास भाषांतर वगळा"
+  },
+  "skipTranslationWhenSameLanguageDescription": {
+    "message": "सक्षम केल्यावर, उपशीर्षक भाषा आणि लक्ष्य भाषा समान असल्यास भाषांतर न करता थेट डबिंग सुरू होईल."
+  },
+  "userSubtitleSegmentationEnabledLabel": {
+    "message": "वापरकर्ता उपशीर्षकांचे स्मार्ट विभाजन"
+  },
+  "userSubtitleSegmentationEnabledDescription": {
+    "message": "सुरू केल्यावर संपादित किंवा स्थानिकरीत्या अपलोड केलेली उपशीर्षके आपोआप विभागली जातात. बंद केल्यावर मूळ विभागणी कायम राहते."
+  },
+  "subtitlePriorityTitle": {
+    "message": "उपशीर्षक भाषांतर प्राधान्य"
+  },
+  "subtitlePriorityDescription": {
+    "message": "भाषांतरासाठी कोणत्या उपशीर्षक स्रोताला प्राधान्य द्यायचे ते निवडा."
+  },
+  "subtitlePriorityAiSubtitle": {
+    "message": "प्लगइन AI ओळखलेले उपशीर्षक"
+  },
+  "subtitlePriorityAiSubtitleDesc": {
+    "message": "उच्च अचूकतेसाठी प्लगइनच्या AI आवाज ओळखीद्वारे तयार केलेल्या उपशीर्षकांना प्राधान्य द्या."
+  },
+  "subtitlePriorityPlatformSubtitle": {
+    "message": "प्लॅटफॉर्म अंतर्भूत उपशीर्षक"
+  },
+  "subtitlePriorityPlatformSubtitleDesc": {
+    "message": "व्हिडिओ प्लॅटफॉर्मद्वारे प्रदान केलेल्या मूळ उपशीर्षकांना प्राधान्य द्या."
+  },
+  "subtitlePriorityQuickLabel": {
+    "message": "उपशीर्षके"
+  },
+  "subtitlePriorityQuickAi": {
+    "message": "AI"
+  },
+  "subtitlePriorityQuickPlatform": {
+    "message": "प्लॅटफॉर्म"
+  },
+  "panelTabVideoSummary": {
+    "message": "सारांश"
+  },
+  "panelTabSubtitleEdit": {
+    "message": "उपशीर्षके"
+  },
+  "panelSummaryTitle": {
+    "message": "व्हिडिओ सारांश आणि रूपरेषा"
+  },
+  "panelSummaryDesc": {
+    "message": "प्रगत AI मॉडेल्सचा वापर करून व्हिडिओ सामग्री त्वरित समजून घ्या"
+  },
+  "panelSummaryGenerate": {
+    "message": "सारांश तयार करा"
+  },
+  "panelSummaryGenerating": {
+    "message": "तयार करत आहे..."
+  },
+  "panelSummaryReGenerating": {
+    "message": "पुन्हा तयार करत आहे..."
+  },
+  "panelSummarySectionSummary": {
+    "message": "सारांश"
+  },
+  "panelSummarySectionHighlights": {
+    "message": "ठळक मुद्दे"
+  },
+  "panelSummaryExpandAll": {
+    "message": "सर्व विस्तारा"
+  },
+  "panelSummaryCollapseAll": {
+    "message": "सर्व संकुचित करा"
+  },
+  "panelSummaryExpand": {
+    "message": "विस्तारा"
+  },
+  "panelSummaryCollapse": {
+    "message": "संकुचित करा"
+  },
+  "panelSummaryShare": {
+    "message": "शेअर करा"
+  },
+  "panelSummaryCopy": {
+    "message": "कॉपी करा"
+  },
+  "panelSummaryReGenerate": {
+    "message": "पुन्हा तयार करा"
+  },
+  "panelSummaryCopySuccess": {
+    "message": "कॉपी झाले"
+  },
+  "panelSummaryPlay": {
+    "message": "प्ले करा"
+  },
+  "panelSummaryPause": {
+    "message": "विराम द्या"
+  },
+  "panelSummaryPlayFailed": {
+    "message": "प्ले करणे अयशस्वी, कृपया पुन्हा प्रयत्न करा"
+  },
+  "panelSummaryNoSubtitle": {
+    "message": "या व्हिडिओसाठी उपशीर्षके उपलब्ध नाहीत"
+  },
+  "panelSummaryError": {
+    "message": "सारांश तयार करणे अयशस्वी, कृपया पुन्हा प्रयत्न करा"
+  },
+  "panelSummaryErrorInvalidVideoId": {
+    "message": "सध्याचा व्हिडिओ ओळखता येत नाही, कृपया पृष्ठ रिफ्रेश करून पुन्हा प्रयत्न करा"
+  },
+  "panelSummaryErrorMemberRequired": {
+    "message": "व्हिडिओ सारांश ही केवळ सदस्यांसाठी उपलब्ध सुविधा आहे, वापरण्यासाठी कृपया सदस्यत्व घ्या"
+  },
+  "panelSummaryErrorNoSubtitles": {
+    "message": "या व्हिडिओसाठी उपशीर्षके उपलब्ध नाहीत, सारांश तयार करता येत नाही"
+  },
+  "panelSummaryErrorServiceError": {
+    "message": "सारांश सेवा तात्पुरती अनुपलब्ध आहे, कृपया नंतर पुन्हा प्रयत्न करा"
+  },
+  "subtitleEditorManualInput": {
+    "message": "मॅन्युअल इनपुट"
+  },
+  "subtitleEditorSwitchTip": {
+    "message": "उपशीर्षके स्विच करण्यासाठी येथे क्लिक करा"
+  },
+  "subtitleEditorExport": {
+    "message": "उपशीर्षके निर्यात करा"
+  },
+  "subtitleEditorTrackFallback": {
+    "message": "उपशीर्षक स्रोत"
+  },
+  "subtitleEditorMySubtitles": {
+    "message": "माझी उपशीर्षके"
+  },
+  "subtitleEditorNoSourceManual": {
+    "message": "कोणतेही उपशीर्षक स्रोत उपलब्ध नाहीत (मॅन्युअल इनपुट उपलब्ध)"
+  },
+  "subtitleEditorSaveInvalidVideo": {
+    "message": "वर्तमान व्हिडिओ ओळखण्यात अक्षम. जतन करणे अयशस्वी झाले."
+  },
+  "subtitleEditorSaveFailed": {
+    "message": "जतन करणे अयशस्वी झाले. कृपया नंतर पुन्हा प्रयत्न करा."
+  },
+  "subtitleEditorValidationEmpty": {
+    "message": "उपशीर्षक सामग्री रिक्त असू शकत नाही"
+  },
+  "subtitleEditorValidationBlockStructure": {
+    "message": "अवैध SRT ब्लॉक. अनुक्रम, टाइमस्टॅम्प आणि सामग्री आवश्यक आहे."
+  },
+  "subtitleEditorValidationSequenceFormat": {
+    "message": "अवैध SRT अनुक्रम क्रमांक स्वरूप"
+  },
+  "subtitleEditorValidationSequenceIncrement": {
+    "message": "SRT अनुक्रम संख्या 1 पासून सुरू होणे आणि 1 ने वाढवणे आवश्यक आहे"
+  },
+  "subtitleEditorValidationTimeFormat": {
+    "message": "अवैध वेळ स्वरूप. कृपया पुनरावलोकन करा आणि दुरुस्त करा."
+  },
+  "subtitleEditorValidationEndAfterStart": {
+    "message": "समाप्ती वेळ प्रारंभ वेळेपेक्षा जास्त असणे आवश्यक आहे"
+  },
+  "subtitleEditorValidationContentRequired": {
+    "message": "प्रत्येक उपशीर्षकात किमान एक ओळ मजकूर असणे आवश्यक आहे"
+  },
+  "subtitleEditorValidationSpeakerPrefix": {
+    "message": "काही उपशीर्षकांमध्ये स्पीकर टॅग समाविष्ट आहेत. सर्व उपशीर्षकांना [speaker] उपसर्ग वापरणे आवश्यक आहे."
+  },
+  "localPlayerTemporaryImportMode": {
+    "message": "तात्पुरती आयात मोड"
+  },
+  "localPlayerLibraryTitle": {
+    "message": "स्थानिक व्हिडिओ लायब्ररी"
+  },
+  "localPlayerEntryButton": {
+    "message": "स्थानिक व्हिडिओ"
+  },
+  "localPlayerPageTitle": {
+    "message": "स्थानिक व्हिडिओ · YouTube Dubbing"
+  },
+  "localPlayerFolderAccessDescription": {
+    "message": "फोल्डर उघडल्याने फाईल हँडल जतन होते त्यामुळे रीफ्रेश केल्यानंतर प्रवेश पुनर्संचयित केला जाऊ शकतो."
+  },
+  "localPlayerTemporaryImportDescription": {
+    "message": "हा ब्राउझर File System Access API ला समर्थन देत नाही. तुम्ही तात्पुरते व्हिडिओ आणि सबटायटल्स जोडू शकता."
+  },
+  "localPlayerOpenFolder": {
+    "message": "फोल्डर उघडा"
+  },
+  "localPlayerAddVideo": {
+    "message": "व्हिडिओ जोडा"
+  },
+  "localPlayerAddSubtitle": {
+    "message": "उपशीर्षक जोडा"
+  },
+  "localPlayerVideoList": {
+    "message": "व्हिडिओ सूची"
+  },
+  "localPlayerFolders": {
+    "message": "फोल्डर"
+  },
+  "localPlayerFoldersDescription": {
+    "message": "फोल्डरनुसार आयात केलेले मीडिया ब्राउझ करा."
+  },
+  "localPlayerAllVideos": {
+    "message": "सर्व व्हिडिओ"
+  },
+  "localPlayerAllVideosDescription": {
+    "message": "प्रत्येक आयात केलेला व्हिडिओ शोधा आणि व्यवस्थापित करा."
+  },
+  "localPlayerLibraryView": {
+    "message": "लायब्ररी दृश्य"
+  },
+  "localPlayerBackToFolders": {
+    "message": "फोल्डर्सकडे परत"
+  },
+  "localPlayerFolderSearchPlaceholder": {
+    "message": "फोल्डर, पथ किंवा फाइल्स शोधा"
+  },
+  "localPlayerTotalFolders": {
+    "message": "एकूण {count} फोल्डर"
+  },
+  "localPlayerMatchedFolders": {
+    "message": "जुळलेले {visibleCount} / एकूण {totalCount} फोल्डर"
+  },
+  "localPlayerNoFolderMatchesTitle": {
+    "message": "कोणतेही जुळणारे फोल्डर नाहीत"
+  },
+  "localPlayerNoFolderMatchesText": {
+    "message": "फोल्डर शोध समायोजित करा आणि पुन्हा प्रयत्न करा."
+  },
+  "localPlayerRescanAll": {
+    "message": "सर्व पुन्हा स्कॅन करा"
+  },
+  "localPlayerFolderMenuLabel": {
+    "message": "फोल्डर क्रिया"
+  },
+  "localPlayerOpenFolderMenu": {
+    "message": "फोल्डर उघडा"
+  },
+  "localPlayerRescanThisFolder": {
+    "message": "हे फोल्डर पुन्हा स्कॅन करा"
+  },
+  "localPlayerRemoveFromLibrary": {
+    "message": "लायब्ररीतून काढा"
+  },
+  "localPlayerFolderVideoCount": {
+    "message": "{count} व्हिडिओ"
+  },
+  "localPlayerFolderAssociatedSubtitleCount": {
+    "message": "{count} संबंधित उपशीर्षके"
+  },
+  "localPlayerFolderLastPlayed": {
+    "message": "शेवटचे खेळलेले {time}"
+  },
+  "localPlayerFolderLastScanned": {
+    "message": "शेवटचे स्कॅन केलेले {time}"
+  },
+  "localPlayerRemoveFolderTitle": {
+    "message": "हे फोल्डर लायब्ररीतून काढायचे?"
+  },
+  "localPlayerRemoveFolderText": {
+    "message": "हे या फोल्डरसाठी फक्त लायब्ररी रेकॉर्ड काढून टाकते. डिस्कवरील मूळ फाइल्स हटवल्या जाणार नाहीत."
+  },
+  "localPlayerFolderRemoved": {
+    "message": "काढले {folderName}"
+  },
+  "localPlayerRemoveFolderFailed": {
+    "message": "लायब्ररीतून फोल्डर काढण्यात अयशस्वी."
+  },
+  "localPlayerRescanFailed": {
+    "message": "स्थानिक लायब्ररी पुन्हा स्कॅन करण्यात अयशस्वी."
+  },
+  "localPlayerRescanFolderUnavailable": {
+    "message": "हे फोल्डर पुन्हा स्कॅन करू शकत नाही कारण जतन केलेला फोल्डर प्रवेश अनुपलब्ध आहे."
+  },
+  "localPlayerCurrentDirectory": {
+    "message": "वर्तमान निर्देशिका"
+  },
+  "localPlayerNoNewFilesFound": {
+    "message": "नवीन फाइल आढळल्या नाहीत."
+  },
+  "localPlayerScanComplete": {
+    "message": "स्कॅन पूर्ण: जोडले {addedVideoCount} व्हिडिओ, {addedSubtitleCount} उपशीर्षके, अद्यतनित {updatedCount} फायली."
+  },
+  "localPlayerNever": {
+    "message": "कधीही नाही"
+  },
+  "localPlayerSearchPlaceholder": {
+    "message": "व्हिडिओ किंवा फाइल पथ शोधा"
+  },
+  "localPlayerFilterAll": {
+    "message": "सर्व"
+  },
+  "localPlayerFilterWithSubtitle": {
+    "message": "उपशीर्षकांसह"
+  },
+  "localPlayerFilterNoSubtitle": {
+    "message": "उपशीर्षकांशिवाय"
+  },
+  "localPlayerSortLastPlayed": {
+    "message": "अलीकडे प्ले केलेले व्हिडिओ"
+  },
+  "localPlayerSortName": {
+    "message": "फाईलचे नाव"
+  },
+  "localPlayerSortDuration": {
+    "message": "व्हिडिओ कालावधी"
+  },
+  "localPlayerNoVideosTitle": {
+    "message": "अद्याप कोणतेही स्थानिक व्हिडिओ नाहीत"
+  },
+  "localPlayerNoMatchesTitle": {
+    "message": "कोणतेही जुळणारे व्हिडिओ नाहीत"
+  },
+  "localPlayerNoVideosText": {
+    "message": "फोल्डर उघडा किंवा सबटायटल लिंक आणि स्थानिक व्हॉइस डबिंग व्यवस्थापित करण्यासाठी व्हिडिओ जोडा."
+  },
+  "localPlayerNoMatchesText": {
+    "message": "शोध, फिल्टर किंवा क्रमवारी समायोजित करा आणि पुन्हा प्रयत्न करा."
+  },
+  "localPlayerDeleteVideoLabel": {
+    "message": "{fileName} हटवा"
+  },
+  "localPlayerRecognitionSubmitted": {
+    "message": "उपशीर्षके ओळखणे"
+  },
+  "localPlayerPlay": {
+    "message": "व्हिडिओ प्ले करा"
+  },
+  "localPlayerSubtitles": {
+    "message": "उपशीर्षके"
+  },
+  "localPlayerStartDubbing": {
+    "message": "व्हॉइस डबिंग सुरू करा"
+  },
+  "localPlayerFloatingActionsLabel": {
+    "message": "स्थानिक व्हिडिओ द्रुत क्रिया"
+  },
+  "localPlayerOpenSidebar": {
+    "message": "साइडबार उघडा"
+  },
+  "localPlayerClose": {
+    "message": "बंद करा"
+  },
+  "localPlayerSameDirectorySubtitleSummary": {
+    "message": "समान-फोल्डर उपशीर्षके {sameCount} · लिंक केलेले {associatedCount}"
+  },
+  "localPlayerNoManageableSubtitles": {
+    "message": "व्यवस्थापित करण्यासाठी उपशीर्षके नाहीत"
+  },
+  "localPlayerAssociateAndUseForDubbing": {
+    "message": "उपशीर्षक लिंक करा आणि व्हॉइस डबिंगसाठी वापरा"
+  },
+  "localPlayerSetForDubbing": {
+    "message": "व्हॉइस डबिंगसाठी हे उपशीर्षक वापरा"
+  },
+  "localPlayerRemoveAssociation": {
+    "message": "उपशीर्षक अनलिंक करा"
+  },
+  "localPlayerRemoveAllAssociations": {
+    "message": "सर्व उपशीर्षके अनलिंक करा"
+  },
+  "localPlayerSelectVideoForSubtitleTitle": {
+    "message": "या उपशीर्षकाला लिंक करण्यासाठी व्हिडिओ निवडा"
+  },
+  "localPlayerAssociate": {
+    "message": "दुवा उपशीर्षक"
+  },
+  "localPlayerInitialStatus": {
+    "message": "फोल्डर उघडा, व्हिडिओ जोडा किंवा सुरू करण्यासाठी फाइल्स टाका."
+  },
+  "localPlayerAscendingSortTitle": {
+    "message": "चढत्या; उतरत्या वर स्विच करण्यासाठी क्लिक करा"
+  },
+  "localPlayerDescendingSortTitle": {
+    "message": "उतरत्या; चढत्या वर स्विच करण्यासाठी क्लिक करा"
+  },
+  "localPlayerTotalVideos": {
+    "message": "एकूण {count} व्हिडिओ"
+  },
+  "localPlayerMatchedVideos": {
+    "message": "जुळलेले {visibleCount} / एकूण {totalCount} व्हिडिओ"
+  },
+  "localPlayerRouteVideoMissing": {
+    "message": "URL मध्ये निर्दिष्ट केलेला व्हिडिओ सध्याच्या स्थानिक व्हिडिओ लायब्ररीमध्ये नाही."
+  },
+  "localPlayerFolderAccessUnsupported": {
+    "message": "हा ब्राउझर फोल्डर उघडू शकत नाही. तात्पुरत्या आयातीसाठी व्हिडिओ जोडा/उपशीर्षक जोडा वापरा."
+  },
+  "localPlayerImportComplete": {
+    "message": "{videoCount} व्हिडिओ आणि {subtitleCount} उपशीर्षके आयात केली."
+  },
+  "localPlayerOpenFolderFailed": {
+    "message": "फोल्डर उघडण्यात अयशस्वी."
+  },
+  "localPlayerAddVideoFailed": {
+    "message": "व्हिडिओ जोडण्यात अयशस्वी."
+  },
+  "localPlayerAddSubtitleFailed": {
+    "message": "उपशीर्षक जोडण्यात अयशस्वी."
+  },
+  "localPlayerAssociationSaved": {
+    "message": "उपशीर्षक दुवा जतन केला."
+  },
+  "localPlayerAssociationSavedAndPreferred": {
+    "message": "उपशीर्षक लिंक केले आहे आणि व्हॉइस डबिंगसाठी सेट केले आहे."
+  },
+  "localPlayerPreferredSubtitleSaved": {
+    "message": "व्हॉइस डबिंगसाठी उपशीर्षक सेट."
+  },
+  "localPlayerAssociationRemoved": {
+    "message": "उपशीर्षक लिंक काढली."
+  },
+  "localPlayerRebindSubtitleTitle": {
+    "message": "हे सबटायटल रिबाइंड करायचे?"
+  },
+  "localPlayerRebindSubtitleText": {
+    "message": "हे उपशीर्षक आधीपासून \"{fromVideo}\" शी संबंधित आहे. सुरू ठेवल्याने ती असोसिएशन काढून टाकली जाईल आणि ती \"{toVideo}\" शी संबद्ध केली जाईल."
+  },
+  "localPlayerRemoveAllAssociationsTitle": {
+    "message": "सर्व उपशीर्षके अनलिंक करायची?"
+  },
+  "localPlayerRemoveAllAssociationsText": {
+    "message": "या व्हिडिओसाठी फक्त उपशीर्षक लिंक काढल्या जातील. उपशीर्षक फाइल रेकॉर्ड हटविले जाणार नाहीत."
+  },
+  "localPlayerAllAssociationsRemoved": {
+    "message": "सर्व उपशीर्षक दुवे काढले."
+  },
+  "localPlayerDeleteVideoTitle": {
+    "message": "हा व्हिडिओ हटवायचा?"
+  },
+  "localPlayerDeleteVideoText": {
+    "message": "हे स्थानिक लायब्ररीमधून व्हिडिओ आणि उपशीर्षक लिंक काढून टाकते. डिस्कवरील मूळ फाइल्स हटवल्या जाणार नाहीत."
+  },
+  "localPlayerDelete": {
+    "message": "हटवा"
+  },
+  "localPlayerVideoDeleted": {
+    "message": "{fileName} हटविले"
+  },
+  "localPlayerDeleteVideoFailed": {
+    "message": "व्हिडिओ हटवण्यात अयशस्वी."
+  },
+  "localPlayerVideoFileAccessLost": {
+    "message": "या व्हिडिओ फाइलमध्ये प्रवेश पुनर्संचयित करू शकत नाही. कृपया व्हिडिओ पुन्हा जोडा."
+  },
+  "localPlayerVideoPlayerNotReady": {
+    "message": "व्हिडिओ प्लेयर अद्याप तयार नाही."
+  },
+  "localPlayerNowPlaying": {
+    "message": "आता {fileName} खेळत आहे"
+  },
+  "localPlayerDubbingStarted": {
+    "message": "स्थानिक व्हॉइस डबिंग सुरू झाले."
+  },
+  "localPlayerDubbingStartFailed": {
+    "message": "स्थानिक व्हॉइस डबिंग सुरू करण्यात अयशस्वी."
+  },
+  "localPlayerOpenSidebarFailed": {
+    "message": "साइडबार उघडण्यात अयशस्वी."
+  },
+  "localPlayerVideoFileReadFailed": {
+    "message": "स्थानिक व्हिडिओ फाइल वाचू शकत नाही. कृपया व्हिडिओ पुन्हा जोडा."
+  },
+  "localPlayerUploadCancelled": {
+    "message": "अपलोड रद्द केले."
+  },
+  "localPlayerSubtitleAssociatedBadge": {
+    "message": "{count} लिंक केलेली उपशीर्षके"
+  },
+  "localPlayerNoSubtitleBadge": {
+    "message": "लिंक केलेली उपशीर्षके नाहीत"
+  },
+  "localPlayerUsedForDubbing": {
+    "message": "व्हॉइस डबिंगसाठी वापरला जातो"
+  },
+  "localPlayerAssociated": {
+    "message": "जोडलेले"
+  },
+  "localPlayerAssociatedOutsideFolder": {
+    "message": "या फोल्डरच्या बाहेर लिंक केलेले"
+  },
+  "localPlayerNotAssociated": {
+    "message": "लिंक केलेले नाही"
+  },
+  "localPlayerNativeSubtitle": {
+    "message": "मूळ उपशीर्षके"
+  },
+  "localPlayerDubbingAlreadyStarted": {
+    "message": "व्हॉइस डबिंग सुरू झाले"
+  },
+  "localPlayerThumbnailBackfillComplete": {
+    "message": "{count} व्हिडिओंसाठी लघुप्रतिमा व्युत्पन्न केल्या."
+  },
+  "localPlayerThumbnailGenerationFailed": {
+    "message": "लघुप्रतिमा निर्मिती अयशस्वी: {displayName} ({message})"
+  },
+  "localPlayerFreeUserNoSubtitleMessage": {
+    "message": "या स्थानिक व्हिडिओमध्ये लिंक केलेले उपशीर्षक नाही. विनामूल्य वापरकर्ते अद्याप स्थानिक व्हिडिओंसाठी पार्श्वभूमी उपशीर्षक ओळख वापरू शकत नाहीत. AI सबटायटल रेकग्निशन वापरण्यासाठी सदस्यता अपग्रेड करा किंवा व्हॉइस डबिंग सुरू करण्यापूर्वी सबटायटल फाइल व्यक्तिचलितपणे अपलोड करा."
+  },
+  "localPlayerNoSubtitleUploadTitle": {
+    "message": "या व्हिडिओला उपशीर्षके नाहीत"
+  },
+  "localPlayerNoSubtitleUploadText": {
+    "message": "एआय सबटायटल ओळखण्यासाठी हा व्हिडिओ अपलोड करायचा? अपलोड फक्त उपशीर्षके ओळखण्यासाठी वापरला जातो, व्हिडिओ ओळखल्यानंतर लगेच हटवला जातो आणि तुम्हाला ईमेलद्वारे सूचित केले जाईल."
+  },
+  "localPlayerNavigationLabel": {
+    "message": "स्थानिक व्हिडिओ लायब्ररी / टेक्स्ट टू स्पीच"
+  },
+  "localPlayerCurrentPageNav": {
+    "message": "व्हिडिओ डबिंग"
+  },
+  "localPlayerTextDubbingNav": {
+    "message": "टेक्स्ट टू स्पीच"
+  },
+  "localPlayerTextDubbingTitle": {
+    "message": "टेक्स्ट टू स्पीच"
+  },
+  "localPlayerTextDubbingDescription": {
+    "message": "टेक्स्ट टू स्पीच - लक्ष्य भाषा"
+  },
+  "localPlayerTextDubbingVoiceType": {
+    "message": "आवाज प्रकार"
+  },
+  "localPlayerTextDubbingLanguage": {
+    "message": "लक्ष्य भाषा"
+  },
+  "localPlayerTextDubbingGender": {
+    "message": "लिंग"
+  },
+  "localPlayerTextDubbingVoice": {
+    "message": "आवाज"
+  },
+  "localPlayerTextDubbingInputLabel": {
+    "message": "मॅन्युअल इनपुट"
+  },
+  "localPlayerTextDubbingInputPlaceholder": {
+    "message": "मॅन्युअल इनपुट - टेक्स्ट टू स्पीच"
+  },
+  "localPlayerTextDubbingLimitHint": {
+    "message": "टेक्स्ट टू स्पीच: {chars} / {bytes}"
+  },
+  "localPlayerTextDubbingCounter": {
+    "message": "{chars} · {bytes}"
+  },
+  "localPlayerTextDubbingGenerate": {
+    "message": "टेक्स्ट टू स्पीच MP3"
+  },
+  "localPlayerTextDubbingGenerating": {
+    "message": "जतन करत आहे..."
+  },
+  "localPlayerTextDubbingGenerated": {
+    "message": "टेक्स्ट टू स्पीच MP3 · {seconds}s"
+  },
+  "localPlayerTextDubbingFailed": {
+    "message": "जतन अयशस्वी"
+  },
+  "localPlayerTextDubbingNoVoice": {
+    "message": "या निवडीसाठी कोणताही आवाज उपलब्ध नाही."
+  },
+  "localPlayerTextDubbingEmptyText": {
+    "message": "उपशीर्षक सामग्री रिक्त असू शकत नाही"
+  },
+  "localPlayerTextDubbingTooLong": {
+    "message": "मजकूर खूप मोठा आहे. तो लहान करून पुन्हा प्रयत्न करा."
+  },
+  "localPlayerTextDubbingDownload": {
+    "message": "उपशीर्षके निर्यात करा MP3"
+  },
+  "localPlayerTextDubbingClear": {
+    "message": "रद्द करा"
+  },
+  "translationDomainGeneral": {
+    "message": "सामान्य"
+  },
+  "translationDomainWeb3": {
+    "message": "Web3 आणि क्रिप्टो"
+  },
+  "translationDomainTech": {
+    "message": "तंत्रज्ञान"
+  },
+  "translationDomainNews": {
+    "message": "बातम्या आणि माध्यमे"
+  },
+  "translationDomainProgramming": {
+    "message": "प्रोग्रामिंग"
+  },
+  "translationDomainEducation": {
+    "message": "शिक्षण"
+  },
+  "translationDomainFinance": {
+    "message": "अर्थव्यवस्था"
+  },
+  "translationDomainLaw": {
+    "message": "कायदा"
+  },
+  "translationDomainAuto": {
+    "message": "ऑटोमोटिव्ह"
+  },
+  "translationDomainEcommerce": {
+    "message": "ई-कॉमर्स"
+  },
+  "translationDomainFashion": {
+    "message": "फॅशन"
+  },
+  "translationDomainFood": {
+    "message": "अन्न आणि स्वयंपाक"
+  },
+  "translationDomainGardening": {
+    "message": "बागकाम"
+  },
+  "translationDomainMedical": {
+    "message": "वैद्यकीय आणि आरोग्य"
+  },
+  "translationDomainMusic": {
+    "message": "संगीत"
+  },
+  "translationDomainPets": {
+    "message": "पाळीव प्राणी"
+  },
+  "translationDomainSports": {
+    "message": "क्रीडा"
+  },
+  "translationDomainTravel": {
+    "message": "प्रवास"
+  },
+  "translationDomainChess": {
+    "message": "बुद्धिबळ"
+  },
+  "translationDomainGaming": {
+    "message": "गेमिंग"
+  },
+  "translationDomainGolf": {
+    "message": "गोल्फ"
+  },
+  "translationDomainMovies": {
+    "message": "चित्रपट आणि टीव्ही"
+  },
+  "translationDomainPhotography": {
+    "message": "फोटोग्राफी"
+  },
+  "translationPreferencesSectionTitle": {
+    "message": "AI भाषांतर"
+  },
+  "translationRulesEnabledLabel": {
+    "message": "AI भाषांतरात शब्दसूची आणि मजकूर बदल लागू करा"
+  },
+  "translationRulesEnabledDescription": {
+    "message": "सुरू केल्यावर AI भाषांतर खालील सेटिंग्ज वापरेल. बंद केल्यावरही तुमच्या विद्यमान सेटिंग्ज जतन राहतील."
+  },
+  "glossaryTitle": {
+    "message": "शब्दसूची"
+  },
+  "glossaryDescription": {
+    "message": "स्रोत संज्ञांसाठी ठरावीक भाषांतरे निश्चित करा (उदा. Stratagem). तुमच्या संज्ञांना अंगभूत शब्दसूचीपेक्षा प्राधान्य मिळेल."
+  },
+  "glossaryCreateButton": {
+    "message": "वैयक्तिक संज्ञा जोडा"
+  },
+  "glossaryEditTitle": {
+    "message": "वैयक्तिक संज्ञा संपादित करा"
+  },
+  "glossaryEditorDescription": {
+    "message": "फक्त वैयक्तिक शब्दसूचीतील संज्ञा जोडता, संपादित करता, सुरू करता किंवा हटवता येतात."
+  },
+  "glossaryTableTitle": {
+    "message": "सध्याच्या भाषेतील संज्ञा"
+  },
+  "glossaryCombinedEmpty": {
+    "message": "या भाषेसाठी अजून कोणत्याही वैयक्तिक संज्ञा नाहीत."
+  },
+  "glossarySearchEmpty": {
+    "message": "जुळणाऱ्या संज्ञा नाहीत."
+  },
+  "glossarySearchPlaceholder": {
+    "message": "स्रोत संज्ञा शोधा"
+  },
+  "glossarySourcePlaceholder": {
+    "message": "स्रोत संज्ञा"
+  },
+  "glossaryTargetPlaceholder": {
+    "message": "आवश्यक भाषांतर"
+  },
+  "glossarySourceTerm": {
+    "message": "स्रोत संज्ञा"
+  },
+  "glossaryTargetTerm": {
+    "message": "भाषांतर"
+  },
+  "replacementTitle": {
+    "message": "मूळ मजकुरातील चुकांची दुरुस्ती"
+  },
+  "replacementDescription": {
+    "message": "AI भाषांतरापूर्वी वारंवार होणाऱ्या उपशीर्षक ओळख त्रुटी दुरुस्त करा (उदा. cloud code -> Claude Code)."
+  },
+  "replacementCreateButton": {
+    "message": "वैयक्तिक बदल जोडा"
+  },
+  "replacementEditTitle": {
+    "message": "वैयक्तिक बदल संपादित करा"
+  },
+  "replacementEditorDescription": {
+    "message": "AI भाषांतरापूर्वी फक्त वैयक्तिक मजकूर बदल लागू होतात."
+  },
+  "replacementFindPlaceholder": {
+    "message": "चुकीचा मजकूर, उदा. cloud code"
+  },
+  "replacementReplacePlaceholder": {
+    "message": "याने बदला, उदा. claude code"
+  },
+  "replacementFindText": {
+    "message": "चुकीचा मजकूर"
+  },
+  "replacementReplaceText": {
+    "message": "याने बदला"
+  },
+  "replacementEmpty": {
+    "message": "अजून कोणतेही दुरुस्ती नियम नाहीत."
+  },
+  "replacementSearchEmpty": {
+    "message": "जुळणारे बदल नाहीत."
+  },
+  "replacementSearchPlaceholder": {
+    "message": "बदल शोधा"
+  },
+  "translatedReplacementTitle": {
+    "message": "अनुवादित मजकुरातील बदल"
+  },
+  "translatedReplacementDescription": {
+    "message": "अनुवाद पूर्ण झाल्यानंतर वैयक्तिक नियमांनी शब्द किंवा वाक्यांश बदला."
+  },
+  "translatedReplacementCreateButton": {
+    "message": "अनुवादित मजकुराचा बदल जोडा"
+  },
+  "translatedReplacementLanguage": {
+    "message": "लक्ष्य भाषा"
+  },
+  "translatedReplacementFindText": {
+    "message": "अनुवादित मजकूर"
+  },
+  "translatedReplacementReplaceText": {
+    "message": "याने बदला"
+  },
+  "translatedReplacementSearchPlaceholder": {
+    "message": "अनुवादित मजकुरात शोधा"
+  },
+  "translatedReplacementEmpty": {
+    "message": "अद्याप अनुवादित मजकूर बदलण्याचे कोणतेही नियम नाहीत."
+  },
+  "translatedReplacementSearchEmpty": {
+    "message": "जुळणारे अनुवादित मजकूर बदल आढळले नाहीत."
+  },
+  "translatedReplacementCreateTitle": {
+    "message": "अनुवादित मजकुराचा बदल जोडा"
+  },
+  "translatedReplacementEditTitle": {
+    "message": "अनुवादित मजकुराचा बदल संपादित करा"
+  },
+  "translatedReplacementEditorDescription": {
+    "message": "फक्त पूर्ण झालेला अनुवाद बदलतो; मूळ मजकूर आणि अनुवाद कॅश बदलत नाहीत."
+  },
+  "translatedReplacementFindPlaceholder": {
+    "message": "अनुवादित मजकुरातील शब्द किंवा वाक्यांश"
+  },
+  "translatedReplacementReplacePlaceholder": {
+    "message": "त्याऐवजी दाखवायचा शब्द किंवा वाक्यांश"
+  },
+  "translatedReplacementEnabledDescription": {
+    "message": "बंद केल्यावर नियम जतन राहतो, पण अनुवादित मजकुरावर लागू होत नाही."
+  },
+  "preferenceAdd": {
+    "message": "जोडा"
+  },
+  "preferenceDomain": {
+    "message": "क्षेत्र"
+  },
+  "preferenceLanguage": {
+    "message": "भाषा"
+  },
+  "preferenceEnabled": {
+    "message": "सुरू"
+  },
+  "preferenceActions": {
+    "message": "क्रिया"
+  },
+  "preferenceSource": {
+    "message": "स्रोत"
+  },
+  "preferenceSourceUser": {
+    "message": "वैयक्तिक"
+  },
+  "preferenceSourceBuiltin": {
+    "message": "अंगभूत"
+  },
+  "preferenceStatus": {
+    "message": "स्थिती"
+  },
+  "preferenceStatusEnabled": {
+    "message": "सुरू"
+  },
+  "preferenceEdit": {
+    "message": "संपादित करा"
+  },
+  "preferenceDelete": {
+    "message": "हटवा"
+  },
+  "preferenceAllDomains": {
+    "message": "सर्व क्षेत्रे"
+  },
+  "preferenceSearch": {
+    "message": "शोधा"
+  },
+  "preferenceClearSearch": {
+    "message": "साफ करा"
+  },
+  "preferencePageLabel": {
+    "message": "पृष्ठ {page}"
+  },
+  "preferencePreviousPage": {
+    "message": "मागील"
+  },
+  "preferenceNextPage": {
+    "message": "पुढील"
+  },
+  "builtinGlossaryDomainsTitle": {
+    "message": "अंगभूत क्षेत्र संच"
+  },
+  "builtinGlossaryDomainCount": {
+    "message": "{count} अंगभूत संज्ञा"
+  },
+  "builtinGlossaryEmptyHint": {
+    "message": "सध्याच्या लक्ष्य भाषेसाठी अंगभूत शब्दसूची उपलब्ध नाही. तुम्ही वैयक्तिक संज्ञा तरीही जोडू शकता."
+  },
+  "builtinGlossaryEnabledSummary": {
+    "message": "{total} पैकी {enabled} सुरू"
+  },
+  "builtinGlossaryManageDomains": {
+    "message": "क्षेत्रे व्यवस्थापित करा"
+  },
+  "builtinGlossaryManageDomainsTitle": {
+    "message": "अंगभूत क्षेत्र संच व्यवस्थापित करा"
+  },
+  "builtinGlossaryManageDomainsDescription": {
+    "message": "लक्ष्य भाषेसाठी अंगभूत शब्दसूचीची क्षेत्रे सुरू किंवा बंद करा."
+  },
+  "builtinGlossaryDomainSearchPlaceholder": {
+    "message": "क्षेत्रे शोधा"
+  },
+  "builtinGlossaryEnableAllDomains": {
+    "message": "सर्व सुरू करा"
+  },
+  "builtinGlossaryDisableAllDomains": {
+    "message": "सर्व बंद करा"
+  },
+  "builtinGlossaryDomainSearchEmpty": {
+    "message": "जुळणारी क्षेत्रे नाहीत."
+  },
+  "builtinGlossaryDomainTotal": {
+    "message": "{count} क्षेत्रे"
+  },
+  "builtinGlossaryDomainDisabledStatus": {
+    "message": "क्षेत्र बंद आहे"
+  },
+  "builtinGlossaryBlockedStatus": {
+    "message": "वगळले"
+  },
+  "builtinGlossaryReadOnlyHint": {
+    "message": "अंगभूत नियम"
+  },
+  "builtinTextReplacementManageDomainsTitle": {
+    "message": "मूळ मजकूर दुरुस्तीची अंगभूत क्षेत्रे व्यवस्थापित करा"
+  },
+  "builtinTextReplacementManageDomainsDescription": {
+    "message": "मूळ मजकूर दुरुस्तीची अंगभूत क्षेत्रे सुरू किंवा बंद करा."
+  },
+  "builtinTextReplacementDomainCount": {
+    "message": "{count} अंगभूत नियम"
+  },
+  "preferenceLoadFailed": {
+    "message": "लोड करता आले नाही. साइन इन करून पुन्हा प्रयत्न करा."
+  },
+  "preferenceActionFailed": {
+    "message": "क्रिया अयशस्वी झाली. कृपया नंतर पुन्हा प्रयत्न करा."
+  },
+  "pronunciationSettingsSectionTitle": {
+    "message": "उच्चार"
+  },
+  "pronunciationSettingsTitle": {
+    "message": "उच्चार सेटिंग्ज"
+  },
+  "pronunciationSettingsDescription": {
+    "message": "अनुवादित मजकुरासाठी वैयक्तिक उच्चार सेट करा. नियम फक्त स्थानिक डबिंगला लागू होतात."
+  },
+  "optionsNavPronunciationShort": {
+    "message": "उच्चार"
+  },
+  "pronunciationNewRule": {
+    "message": "नवीन नियम"
+  },
+  "pronunciationEditRule": {
+    "message": "उच्चारण नियम संपादित करा"
+  },
+  "pronunciationTargetLanguage": {
+    "message": "लक्ष्य भाषा"
+  },
+  "pronunciationSearchPlaceholder": {
+    "message": "जुळणारा मजकूर शोधा"
+  },
+  "pronunciationStatus": {
+    "message": "स्थिती"
+  },
+  "pronunciationMatchText": {
+    "message": "जुळणारा मजकूर"
+  },
+  "pronunciationMatchPlaceholder": {
+    "message": "उदाहरणार्थ: नमस्कार"
+  },
+  "pronunciationTargetText": {
+    "message": "भाग दुरुस्त केला"
+  },
+  "pronunciationReading": {
+    "message": "निर्दिष्ट उच्चार"
+  },
+  "pronunciationLoading": {
+    "message": "लोड करत आहे..."
+  },
+  "pronunciationEmpty": {
+    "message": "कोणतेही वैयक्तिक उच्चारण नियम सध्याच्या फिल्टरशी जुळत नाहीत."
+  },
+  "pronunciationEditorHint": {
+    "message": "दुरुस्त करण्यासाठी सतत भाग निवडा, नंतर त्याचा उच्चार प्रविष्ट करा."
+  },
+  "pronunciationSelectTarget": {
+    "message": "दुरुस्त करण्यासाठी मजकूर निवडा"
+  },
+  "pronunciationReselect": {
+    "message": "पुन्हा निवडा"
+  },
+  "pronunciationEnterMatchFirst": {
+    "message": "प्रथम जुळणारा मजकूर प्रविष्ट करा"
+  },
+  "pronunciationSelectionSummary": {
+    "message": "निवडलेले: {text}; घटना {occurrence}"
+  },
+  "pronunciationSelectionRestoreFailed": {
+    "message": "जतन केलेले स्थान पुनर्संचयित केले जाऊ शकत नाही. सेव्ह करण्यापूर्वी मजकूर पुन्हा निवडा."
+  },
+  "pronunciationSelectionInvalid": {
+    "message": "सतत मजकूर निवडा."
+  },
+  "pronunciationModifier": {
+    "message": "स्वर"
+  },
+  "pronunciationSelectModifier": {
+    "message": "निवडा"
+  },
+  "pronunciationSaving": {
+    "message": "सेव्ह करत आहे..."
+  },
+  "pronunciationDeleteConfirm": {
+    "message": "हा उच्चार नियम हटवायचा?"
+  },
+  "pronunciationOccurrence": {
+    "message": "घटना {occurrence}"
+  },
+  "pronunciationUnknownError": {
+    "message": "कृती अयशस्वी. कृपया नंतर पुन्हा प्रयत्न करा."
+  },
+  "preferenceAllStatuses": {
+    "message": "सर्व"
+  },
+  "preferenceCancel": {
+    "message": "रद्द करा"
+  },
+  "preferenceDisabled": {
+    "message": "अक्षम"
+  },
+  "preferenceSave": {
+    "message": "जतन करा"
+  },
+  "pronunciationFineSelection": {
+    "message": "अचूक निवड"
+  },
+  "pronunciationMergeUnits": {
+    "message": "समीप उच्चार विलीन करा"
+  },
+  "pronunciationPerUnitHint": {
+    "message": "प्रत्येक भागासाठी उच्चार आणि टोन प्रविष्ट करा. आवश्यकतेनुसार भाग विभाजित करा किंवा विलीन करा."
+  },
+  "pronunciationPrimarySelection": {
+    "message": "स्मार्ट निवड"
+  },
+  "pronunciationSelectionGranularity": {
+    "message": "निवड ग्रॅन्युलॅरिटी"
+  },
+  "pronunciationSelectionTooLong": {
+    "message": "दुरुस्त केलेल्या भागामध्ये जास्तीत जास्त 128 वर्ण असू शकतात."
+  },
+  "pronunciationSplitAt": {
+    "message": "येथे विभाजित करा"
+  },
+  "pronunciationUnitReading": {
+    "message": "प्रति-भाग उच्चार"
+  },
+  "pronunciationWholeReading": {
+    "message": "संपूर्ण उच्चार"
+  },
+  "pronunciationWholeToneHint": {
+    "message": "पूर्ण टोन्ड उच्चारण प्रविष्ट करा. प्रत्येक भागासाठी टोन निवडण्यासाठी ते विभाजित करा."
+  },
+  "pronunciationPinyinSyllable": {
+    "message": "पिनयिन अक्षर"
+  },
+  "pronunciationPinyinPlaceholder": {
+    "message": "पिनयिन अक्षर एंटर करा"
+  },
+  "pronunciationNumberedTone": {
+    "message": "टोन {tone}"
+  },
+  "pronunciationNeutralTone": {
+    "message": "तटस्थ टोन"
+  },
+  "googleDriveNoCaptionsTitle": {
+    "message": "या Google Drive व्हिडिओला अद्याप कॅप्शन नाहीत"
+  },
+  "googleDriveNoCaptionsIntro": {
+    "message": "डबिंगसाठी Google Drive चे अंगभूत कॅप्शन (CC) वापरले जातात. आधी या व्हिडिओसाठी कॅप्शन सुरू करा, नंतर परत या:"
+  },
+  "googleDriveNoCaptionsStep1": {
+    "message": "Google Drive मध्ये व्हिडिओवर राइट-क्लिक करा आणि “फाइल माहिती” → “कॅप्शन ट्रॅक व्यवस्थापित करा” निवडा."
+  },
+  "googleDriveNoCaptionsStep2": {
+    "message": "अद्याप कॅप्शन ट्रॅक नसल्यास: Drive समर्थित भाषांसाठी (इंग्रजी, तुर्की, चीनी, स्पॅनिश, जपानी इ.) आपोआप कॅप्शन तयार करते. “ऑटोमॅटिक कॅप्शन जनरेट करा” दिसल्यास त्यावर क्लिक करा किंवा कॅप्शन फाइल अपलोड करा. फक्त व्हिडिओचे मालक किंवा संपादक कॅप्शन व्यवस्थापित करू शकतात."
+  },
+  "googleDriveNoCaptionsStep3": {
+    "message": "कॅप्शन तयार होण्यास थोडा वेळ लागतो. प्लेअरमधील CC बटण क्लिक करता येऊ लागल्यावर पेज रिफ्रेश करा आणि डबिंग पुन्हा सुरू करा."
+  },
+  "subtitleAudioLanguageMismatch": {
+    "message": "उपशीर्षकांची भाषा आवाजांच्या भाषेशी जुळत नाही. उपशीर्षके: {subtitle}. आवाज: {voice}. आवाज फक्त स्वतःच्या भाषेतील मजकूर वाचू शकतो, त्यामुळे तयार करणे अयशस्वी होऊ शकते किंवा उच्चार चुकीचे वाटू शकतात. आधी उपशीर्षकांचा अनुवाद करा, किंवा लक्ष्य भाषा उपशीर्षकांशी जुळेल अशी बदला. तरीही तयार करायचे?"
+  },
+  "subtitleAudioNav": {
+    "message": "उपशीर्षक डबिंग"
+  },
+  "subtitleAudioAiSubtitleBadge": {
+    "message": "AI उपशीर्षके"
+  },
+  "subtitleAudioUserSubtitleBadge": {
+    "message": "संपादित उपशीर्षके"
+  },
+  "subtitleAudioBack": {
+    "message": "व्हिडिओ डबिंग"
+  },
+  "subtitleAudioProjectSubtitle": {
+    "message": "उपशीर्षके: {name} · ओळी: {count}"
+  },
+  "subtitleAudioReplaceSubtitles": {
+    "message": "उपशीर्षके बदला"
+  },
+  "subtitleAudioExportVideoOption": {
+    "message": "डब केलेला व्हिडिओ"
+  },
+  "subtitleAudioExportVideoHint": {
+    "message": "एखादी ओळ बोलायला जास्त वेळ लागत असेल तिथे व्हिडिओ हळू होतो, त्यामुळे तयार व्हिडिओ थोडा लांब होऊ शकतो."
+  },
+  "subtitleAudioExportMp3Option": {
+    "message": "डब केलेला MP3"
+  },
+  "subtitleAudioExportMp3Hint": {
+    "message": "लांबी अगदी मूळ व्हिडिओइतकीच; तो परत व्हिडिओवर लावा किंवा दुसरी ऑडिओ भाषा म्हणून अपलोड करा."
+  },
+  "subtitleAudioDownloadSrt": {
+    "message": "SRT डाउनलोड करा"
+  },
+  "subtitleAudioEditAndExport": {
+    "message": "संपादित करा आणि निर्यात करा"
+  },
+  "subtitleAudioEditNeedsSubtitle": {
+    "message": "या व्हिडिओला अजून उपशीर्षके नाहीत. उपशीर्षक फाइल जोडा, किंवा AI उपशीर्षके तयार करण्यासाठी एकदा “व्हॉइस डबिंग सुरू करा” वर क्लिक करा."
+  },
+  "subtitleAudioTitle": {
+    "message": "प्रत्येक ओळीला द्या स्वतःचा आवाज"
+  },
+  "subtitleAudioSubtitle": {
+    "message": "उपशीर्षकांच्या वेळेनुसार डब केलेला MP3 मिळवण्यासाठी SRT फाइल आयात करा. डब केलेल्या व्हिडिओसाठी “व्हिडिओ डबिंग” मध्ये व्हिडिओ निवडा आणि “संपादित करा आणि निर्यात करा” वर क्लिक करा."
+  },
+  "subtitleAudioImportStep": {
+    "message": "उपशीर्षके आयात करा"
+  },
+  "subtitleAudioVoicesStep": {
+    "message": "आवाज निवडा"
+  },
+  "subtitleAudioExportStep": {
+    "message": "निर्यात"
+  },
+  "subtitleAudioSubtitles": {
+    "message": "उपशीर्षके"
+  },
+  "subtitleAudioCueList": {
+    "message": "ओळी आणि आवाज"
+  },
+  "subtitleAudioSettings": {
+    "message": "आवाज सेटिंग्ज"
+  },
+  "subtitleAudioImport": {
+    "message": "SRT फाइल निवडा"
+  },
+  "subtitleAudioReplace": {
+    "message": "बदला"
+  },
+  "subtitleAudioRemove": {
+    "message": "काढा"
+  },
+  "subtitleAudioDrop": {
+    "message": "तुमची SRT फाइल इथे सोडा"
+  },
+  "subtitleAudioDropNote": {
+    "message": "UTF-8 · कमाल 2 MiB, 5,000 ओळी, 3 तास"
+  },
+  "subtitleAudioEmpty": {
+    "message": "तुमची उपशीर्षके इथे दिसतील. प्रत्येक ओळीसाठी आवाज निवडा किंवा निवडलेल्या ओळींना एकाच वेळी लावा."
+  },
+  "subtitleAudioLines": {
+    "message": "ओळी"
+  },
+  "subtitleAudioDuration": {
+    "message": "उपशीर्षकांचा कालावधी"
+  },
+  "subtitleAudioCharacters": {
+    "message": "अक्षरे"
+  },
+  "subtitleAudioSearch": {
+    "message": "उपशीर्षकांचा मजकूर शोधा"
+  },
+  "subtitleAudioSelectPage": {
+    "message": "हे पेज निवडा"
+  },
+  "subtitleAudioSelectAll": {
+    "message": "सर्व निकाल निवडा"
+  },
+  "subtitleAudioSelected": {
+    "message": "निवडलेल्या ओळी: {count}"
+  },
+  "subtitleAudioApply": {
+    "message": "आवाज लावा"
+  },
+  "subtitleAudioChooseVoice": {
+    "message": "आवाज निवडा"
+  },
+  "subtitleAudioText": {
+    "message": "उपशीर्षक मजकूर"
+  },
+  "subtitleAudioTime": {
+    "message": "वेळ"
+  },
+  "subtitleAudioVoice": {
+    "message": "आवाज"
+  },
+  "subtitleAudioFemale": {
+    "message": "स्त्री"
+  },
+  "subtitleAudioMale": {
+    "message": "पुरुष"
+  },
+  "subtitleAudioPage": {
+    "message": "पेज {page} / {total}"
+  },
+  "subtitleAudioPrevious": {
+    "message": "मागील"
+  },
+  "subtitleAudioNext": {
+    "message": "पुढील"
+  },
+  "subtitleAudioPreview": {
+    "message": "ओळ {index} ऐका"
+  },
+  "subtitleAudioStopPreview": {
+    "message": "ऐकणे थांबवा"
+  },
+  "subtitleAudioLanguage": {
+    "message": "लक्ष्य भाषा"
+  },
+  "subtitleAudioVoiceType": {
+    "message": "आवाज प्रकार"
+  },
+  "subtitleAudioFree": {
+    "message": "विनामूल्य"
+  },
+  "subtitleAudioVideoSync": {
+    "message": "प्रिव्ह्यू निर्यात होणाऱ्या ऑडिओ ट्रॅकनुसार चालतो. व्हिडिओचा मूळ आवाज म्यूट केला आहे."
+  },
+  "subtitleAudioTimelineTitle": {
+    "message": "ऑडिओ ट्रॅक"
+  },
+  "subtitleAudioLayoutOnly": {
+    "message": "उपशीर्षकांची जागा · वेव्हफॉर्म निर्यातीनंतर दिसेल"
+  },
+  "subtitleAudioRealWave": {
+    "message": "निर्यात केलेल्या ऑडिओचा वेव्हफॉर्म · हव्या त्या ठिकाणी जाण्यासाठी क्लिक करा किंवा स्लायडर सरकवा"
+  },
+  "subtitleAudioTracks": {
+    "message": "आवाज: {count} → एक MP3"
+  },
+  "subtitleAudioTracksVideo": {
+    "message": "आवाज: {count} → डब केलेला व्हिडिओ"
+  },
+  "subtitleAudioSeek": {
+    "message": "निर्यात केलेल्या मीडियामध्ये पुढे-मागे जा"
+  },
+  "subtitleAudioNoTimeline": {
+    "message": "वेळेची मांडणी पाहण्यासाठी उपशीर्षके आयात करा."
+  },
+  "subtitleAudioGenerate": {
+    "message": "MP3 तयार करा"
+  },
+  "subtitleAudioGenerateVideo": {
+    "message": "डब केलेला व्हिडिओ तयार करा"
+  },
+  "subtitleAudioRegenerate": {
+    "message": "पुन्हा तयार करा"
+  },
+  "subtitleAudioRegenerateVideo": {
+    "message": "व्हिडिओ पुन्हा तयार करा"
+  },
+  "subtitleAudioRetry": {
+    "message": "अयशस्वी भाग पुन्हा तयार करा"
+  },
+  "subtitleAudioCancel": {
+    "message": "रद्द करा"
+  },
+  "subtitleAudioCancelling": {
+    "message": "रद्द करत आहे…"
+  },
+  "subtitleAudioDownload": {
+    "message": "MP3 डाउनलोड करा"
+  },
+  "subtitleAudioDownloadVideo": {
+    "message": "डब केलेला व्हिडिओ डाउनलोड करा"
+  },
+  "subtitleAudioWorking": {
+    "message": "आवाज तयार होत आहे"
+  },
+  "subtitleAudioEncoding": {
+    "message": "ऑडिओ ट्रॅक तयार होत आहे"
+  },
+  "subtitleAudioFinalizing": {
+    "message": "MP3 अंतिम करत आहे"
+  },
+  "subtitleAudioMuxing": {
+    "message": "डब केलेला आवाज व्हिडिओवर लावत आहे"
+  },
+  "subtitleAudioFinished": {
+    "message": "तुमचा MP3 तयार आहे"
+  },
+  "subtitleAudioFinishedVideo": {
+    "message": "तुमचा डब केलेला व्हिडिओ तयार आहे"
+  },
+  "subtitleAudioCancelled": {
+    "message": "निर्मिती रद्द केली. पूर्ण झालेल्या आवाज क्लिप पुन्हा प्रयत्नासाठी जतन केल्या आहेत."
+  },
+  "subtitleAudioProgressNote": {
+    "message": "हे पेज उघडे ठेवा. तुम्ही रद्द करून नंतर जतन केलेल्या क्लिप वापरून पुढे सुरू ठेवू शकता."
+  },
+  "subtitleAudioMissing": {
+    "message": "आवाज न निवडलेल्या ओळी: {count}. प्रत्येक ओळीसाठी आवाज निवडा किंवा “आवाज लावा” वापरा."
+  },
+  "subtitleAudioEmptyText": {
+    "message": "मजकूर नसलेल्या ओळी: {count}. तयार करण्यापूर्वी मजकूर जोडा."
+  },
+  "subtitleAudioCacheNote": {
+    "message": "आवाज तुम्ही निवडलेल्या सेवेद्वारे तयार होतो. उपशीर्षके आणि तयार क्लिप याच डिव्हाइसवर जतन होतात; ऑडिओ आणि व्हिडिओ तुमच्या डिव्हाइसवरच जोडले जातात."
+  },
+  "subtitleAudioRestored": {
+    "message": "ड्राफ्ट परत आणला."
+  },
+  "subtitleAudioSaveError": {
+    "message": "ड्राफ्ट जतन करता आला नाही. तुमचे बदल टिकवण्यासाठी हे पेज उघडे ठेवा."
+  },
+  "subtitleAudioFailed": {
+    "message": "पूर्ण करता आले नाही. पूर्ण झालेल्या आवाज क्लिप ठेवल्या आहेत; पुढे सुरू ठेवण्यासाठी पुन्हा प्रयत्न करा."
+  },
+  "subtitleAudioDetails": {
+    "message": "तपशील"
+  },
+  "subtitleAudioBadFile": {
+    "message": "UTF-8 .srt फाइल निवडा (कमाल 2 MiB)."
+  },
+  "subtitleAudioEncodingError": {
+    "message": "ही फाइल वैध UTF-8 नाही. ती UTF-8 म्हणून सेव्ह करा आणि पुन्हा आयात करा."
+  },
+  "subtitleAudioImportFailed": {
+    "message": "उपशीर्षक फाइल वाचता आली नाही. तिचे SRT टाइमस्टॅम्प आणि मजकूर तपासा."
+  },
+  "subtitleAudioInvalidVideo": {
+    "message": "या व्हिडिओमध्ये वाचता येईल असा चित्र ट्रॅक नाही, किंवा त्याचा कालावधी कळत नाही."
+  },
+  "subtitleAudioVideoLimitError": {
+    "message": "हा व्हिडिओ 3 तासांपेक्षा लांब आहे, त्यामुळे डब केलेला व्हिडिओ निर्यात करता येणार नाही. लहान फाइल निवडा."
+  },
+  "subtitleAudioVideoStorageError": {
+    "message": "या व्हिडिओसाठी संगणकावर पुरेशी मोकळी जागा नाही: सुमारे {needed} GB लागेल, ब्राउझरकडे {available} GB उपलब्ध आहे. डिस्कवर थोडी जागा मोकळी करून पुन्हा प्रयत्न करा, किंवा लहान व्हिडिओ निवडा."
+  },
+  "subtitleAudioVideoCodecError": {
+    "message": "हे डिव्हाइस तो व्हिडिओ कोडेक (उदा. HEVC) कॉपी करू शकत नाही. खराब फाइल तयार करण्याऐवजी निर्यात थांबवली. H.264 MP4 वापरून पाहा."
+  },
+  "subtitleAudioVideoAacUnsupported": {
+    "message": "हा ब्राउझर AAC ऑडिओ एन्कोड करू शकत नाही, त्यामुळे डब केलेला व्हिडिओ एक्सपोर्ट करता येत नाही. डब केलेला MP3 अजूनही एक्सपोर्ट करता येतो."
+  },
+  "subtitleAudioVideoCopyUnsupported": {
+    "message": "या व्हिडिओचा कोडेक डब केलेल्या MP4 म्हणून एक्सपोर्ट करता येत नाही. डब केलेला MP3 अजूनही एक्सपोर्ट करता येतो; व्हिडिओसाठी H.264 MP4 वापरा."
+  },
+  "subtitleAudioPreviewFailed": {
+    "message": "ही ओळ ऐकता आली नाही. निवडलेला आवाज आणि तुमचे इंटरनेट कनेक्शन तपासा."
+  },
+  "subtitleAudioPlayBlocked": {
+    "message": "ऑडिओ तयार आहे. ऑडिओ प्लेअरमध्ये प्ले दाबा."
+  },
+  "subtitleAudioGeneralError": {
+    "message": "हे काम पूर्ण करता आले नाही. तुमचे कनेक्शन तपासा आणि पुन्हा प्रयत्न करा."
+  },
+  "subtitleAudioLimitError": {
+    "message": "हा प्रोजेक्ट समर्थित मर्यादेपेक्षा मोठा आहे. कमाल 5,000 ओळी / 3 तास ठेवा; प्रत्येक आवाज क्लिप 60 सेकंदांपेक्षा कमी असावी."
+  },
+  "subtitleAudioStorageError": {
+    "message": "या निर्यातीसाठी डिव्हाइसवर पुरेसे स्टोरेज नाही. थोडी जागा मोकळी करून पुन्हा प्रयत्न करा."
+  },
+  "subtitleAudioAccountError": {
+    "message": "आवाज तयार करण्यासाठी वैध खाते आणि उपलब्ध कोटा आवश्यक आहे. तुमचे खाते तपासा, मग पुन्हा प्रयत्न करा."
+  },
+  "subtitleAudioPaused": {
+    "message": "प्रतीक्षेत"
+  },
+  "subtitleAudioGeneratingCue": {
+    "message": "तयार होत आहे"
+  },
+  "subtitleAudioReadyCue": {
+    "message": "तयार"
+  },
+  "subtitleAudioErrorCue": {
+    "message": "अयशस्वी"
+  },
+  "subtitleAudioVoiceReset": {
+    "message": "या सेटिंग्जमध्ये काही आवाज उपलब्ध नाहीत. हायलाइट केलेल्या ओळींसाठी आवाज निवडा."
+  },
+  "subtitleAudioConfirmReplace": {
+    "message": "सध्याचा उपशीर्षक ड्राफ्ट बदलायचा?"
+  },
+  "subtitleAudioClearDraft": {
+    "message": "या ड्राफ्टमधील सर्व उपशीर्षके काढायची?"
+  },
+  "subtitleAudioOutputChanged": {
+    "message": "सेटिंग्ज बदलल्या आहेत. डाउनलोड अपडेट करण्यासाठी पुन्हा तयार करा."
+  },
+  "subtitleAudioBrowserError": {
+    "message": "हा ब्राउझर ऑडिओ प्रोसेसिंग सुरू करू शकला नाही. अपडेट केलेल्या डेस्कटॉप ब्राउझरमध्ये वापरून पाहा."
+  },
+  "subtitleAudioOtherTabBusy": {
+    "message": "दुसऱ्या टॅबमध्ये उपशीर्षकांचा ऑडिओ तयार होत आहे किंवा ऐकला जात आहे. ते काम पूर्ण होईपर्यंत थांबा किंवा तो टॅब बंद करा, मग पुन्हा प्रयत्न करा."
+  },
+  "uploadVideoLanguageLabel": {
+    "message": "व्हिडिओची भाषा (निवडल्यास ओळख अधिक अचूक होते)"
+  },
+  "uploadVideoLanguageAuto": {
+    "message": "आपोआप ओळखा"
+  },
+  "subtitleAudioPreparing": {
+    "message": "वाक्यांमध्ये विभागून भाषांतर सुरू आहे"
+  },
+  "subtitleAudioPrepareFailed": {
+    "message": "सबटायटल विभागता किंवा भाषांतरित करता आले नाहीत. कृपया नंतर पुन्हा प्रयत्न करा."
+  },
+  "subtitleAudioSourceLanguage": {
+    "message": "सबटायटलची भाषा"
+  },
+  "subtitleAudioSourceLanguageUnknown": {
+    "message": "या सबटायटलची भाषा ओळखता आली नाही. ते कोणत्या भाषेत लिहिले आहेत ते निवडा, मग पुन्हा तयार करा."
+  },
+  "subtitleAudioPreparedNote": {
+    "message": "ऑनलाइन डबिंगच्या नियमांनुसार वाक्यांमध्ये विभागून {language} मध्ये भाषांतर केले आहे. खाली भाषांतर थेट बदलू शकता."
+  },
+  "subtitleAudioRestoreSource": {
+    "message": "मूळ मजकूर परत आणा"
+  },
+  "subtitleAudioRestoreSourceConfirm": {
+    "message": "मूळ मजकूर परत आणल्यास भाषांतरातील बदल जातील; पुढच्या निर्यातीत पुन्हा विभागणी व भाषांतर होईल. सुरू ठेवायचे?"
+  },
+  "subtitleAudioLanguageChangedRetranslate": {
+    "message": "डबिंगची भाषा बदलली म्हणून यादी पुन्हा मूळ मजकुरावर आली आहे. निर्यात करताना पुन्हा विभागणी व भाषांतर होईल."
+  },
+  "subtitleAudioCueTooLong": {
+    "message": "ओळ {index} खूप मोठी आहे. ती लहान ओळींमध्ये विभागून पुन्हा प्रयत्न करा."
+  },
+  "subtitleAudioBackgroundOption": {
+    "message": "पार्श्वसंगीत मिसळा"
+  },
+  "subtitleAudioBackgroundHint": {
+    "message": "ओळखीसाठी अपलोड करताना या व्हिडिओचा पार्श्वध्वनी (आवाज काढून) वेगळा केला होता. ऑनलाइन डबिंगप्रमाणे तो डबिंगखाली वाजेल."
+  },
+  "subtitleAudioDownloadingBackground": {
+    "message": "पार्श्वध्वनी डाउनलोड होत आहे"
+  },
+  "subtitleAudioBackgroundFailed": {
+    "message": "पार्श्वध्वनी डाउनलोड करता आला नाही. नंतर पुन्हा प्रयत्न करा, किंवा “पार्श्वसंगीत मिसळा” काढून पुन्हा निर्यात करा."
+  },
+  "subtitleAudioPreparedSameLanguageNote": {
+    "message": "सबटायटल आधीच डबिंगच्या भाषेत आहेत, म्हणून “एकाच भाषेचे भाषांतर करू नका” सेटिंगनुसार फक्त वाक्ये विभागली."
+  },
+  "dubbingToggleOn": {
+    "message": "व्हॉइसओव्हर सुरू करा"
+  },
+  "dubbingToggleOff": {
+    "message": "व्हॉइसओव्हर बंद करा"
+  },
+  "dubbingTogglePreparing": {
+    "message": "व्हॉइसओव्हर तयार होत आहे, कृपया थांबा…"
+  },
+  "dubbingSwitchedOffNotice": {
+    "message": "व्हॉइसओव्हर बंद, मूळ ऑडिओ पुन्हा सुरू"
+  },
+  "dubbingSwitchedOnNotice": {
+    "message": "व्हॉइसओव्हर सुरू"
+  },
+  "toggleDubbingCommand": {
+    "message": "व्हॉइसओव्हर सुरू / बंद करा"
+  },
+  "spotifyPublicAudioShowNotFound": {
+    "message": "ऑडिओ एन्क्रिप्ट केलेला आहे आणि या शोचे कोणतेही सार्वजनिक पॉडकास्ट फीड नाही (हे Spotify एक्सक्लुझिव्ह असू शकते)."
+  },
+  "spotifyPublicAudioEpisodeNotMatched": {
+    "message": "ऑडिओ एन्क्रिप्ट केलेला आहे आणि शोच्या सार्वजनिक पॉडकास्ट फीडमध्ये जुळणारा भाग सापडला नाही."
+  },
+  "spotifyPublicAudioLookupFailed": {
+    "message": "या भागाचा सार्वजनिक ऑडिओ मिळू शकला नाही. कृपया नंतर पुन्हा प्रयत्न करा."
+  }
+}

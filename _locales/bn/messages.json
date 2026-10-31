@@ -1,0 +1,2315 @@
+{
+  "name": {
+    "message": "YouTube ডাবিং – অনুবাদ ও ডাব"
+  },
+  "description": {
+    "message": "এক-ক্লিক ভিডিও অনুবাদ এবং ডাবিং—তাৎক্ষণিকভাবে বিদেশী ভাষা বুঝুন, বৈশ্বিক জ্ঞান অ্যাক্সেস করুন"
+  },
+  "metadataNotFound": {
+    "message": "ভিডিও মেটাডেটা পাওয়া যায়নি, অনুগ্রহ করে রিফ্রেশ করে আবার চেষ্টা করুন"
+  },
+  "dubbingMediaNotFoundTitle": {
+    "message": "ডাবিংয়ের জন্য কোনো ভিডিও পাওয়া যায়নি"
+  },
+  "dubbingMediaNotFoundText": {
+    "message": "এই পৃষ্ঠায় বর্তমানে কোনো ব্যবহারযোগ্য ভিডিও বা অডিও নেই। ভিডিও লোড হওয়া পর্যন্ত অপেক্ষা করে আবার চেষ্টা করুন, অথবা পৃষ্ঠাটি রিফ্রেশ করুন।"
+  },
+  "noSubtitlesFound": {
+    "message": "এই ভিডিওতে কোন সাবটাইটেল নেই এবং অনুবাদ ও ডাবিং সমর্থন করে না"
+  },
+  "liveVideoNotSupported": {
+    "message": "লাইভ ভিডিও বর্তমানে ডাবিংয়ের জন্য সমর্থিত নয়"
+  },
+  "universalDubbingNotSupported": {
+    "message": "বর্তমান সংস্করণে এই ভিডিওর জন্য সর্বজনীন ডাবিং সমর্থিত নয়। পরবর্তী সংস্করণে সমর্থন পরিকল্পনা করা হয়েছে। বিস্তারিত জানতে গ্রাহক সেবায় যোগাযোগ করুন।"
+  },
+  "postLoginTranslationSettings": {
+    "message": "লগইন সফল। অনুবাদ ভাষা এবং ভয়েস তালিকা নির্বাচন করতে প্লাগইন আইকনে ক্লিক করুন।"
+  },
+  "noSubtitlesWaitOptimization": {
+    "message": "কোন সাবটাইটেল উপলব্ধ নেই। এই ভিডিওর জন্য সাবটাইটেল চিনতে প্লাগইনের জন্য অপেক্ষা করুন। চিনতে সম্পূর্ণ হলে আপনার নিবন্ধিত ইমেল ঠিকানায় একটি ইমেল বিজ্ঞপ্তি পাবেন।"
+  },
+  "privateVideoNoSubtitles": {
+    "message": "এই ভিডিওতে কোনো সাবটাইটেল নেই এবং এটি ব্যক্তিগত ভিডিও। প্লাগইন এই ভিডিওর জন্য ব্যাকগ্রাউন্ডে সাবটাইটেল চিনতে পারে না। অনুগ্রহ করে ভিডিওটি পাবলিক করুন, অথবা হাতে সাবটাইটেল যোগ করে আবার চেষ্টা করুন।"
+  },
+  "trialMemberDurationLimit": {
+    "message": "এই ভিডিওতে কোন সাবটাইটেল নেই। ট্রায়াল সদস্য হিসাবে, বর্তমানে শুধুমাত্র ১৫ মিনিটের কম ভিডিও সাবটাইটেল চিনতে সমর্থিত। প্রিমিয়াম সদস্যরা ৩ ঘন্টার কম ভিডিও সমর্থন করে।"
+  },
+  "premiumMemberDurationLimit": {
+    "message": "এই ভিডিওতে কোন সাবটাইটেল নেই এবং ভিডিওর সময়কাল ৩ ঘন্টা অতিক্রম করে, অনুবাদ এবং ডাবিং সমর্থিত নয়। অনুগ্রহ করে একটি ছোট ভিডিও বা সাবটাইটেল সহ ভিডিও পছন্দ করুন।"
+  },
+  "freeUserNoSubtitles": {
+    "message": "এই ভিডিওতে কোন বিল্ট-ইন সাবটাইটেল নেই। সাবটাইটেল চিনতে এবং অনুবাদ ও ডাবিং বৈশিষ্ট্য উপভোগ করতে প্লাগইন সদস্যপদ সাবস্ক্রাইব করুন।"
+  },
+  "freeUserDailyLimit": {
+    "message": "বিনামূল্যে ব্যবহারকারীরা প্লাগইনের মাধ্যমে প্রতিদিন সর্বাধিক ৫টি ভিডিও দেখতে পারে। সীমাহীন দেখার সুবিধা আনলক করতে সদস্যপদে আপগ্রেড করুন।"
+  },
+  "upgradeEntryUpgradeButton": {
+    "message": "আপগ্রেড করুন"
+  },
+  "upgradeEntryLaterButton": {
+    "message": "হয়তো পরে"
+  },
+  "aiSubtitlesRecognitionInBackground": {
+    "message": "AI সাবটাইটেল এখনও উপলব্ধ নয়। প্লাগইন পটভূমিতে তাদের চিনতে শুরু করেছে। প্রথম ডাব করা বাক্য শোনার পর, আপনি পৃষ্ঠা বন্ধ করতে এবং ইমেল বিজ্ঞপ্তির জন্য অপেক্ষা করতে পারেন; যখন এটি প্রস্তুত হবে, ডাবিং বোতাম সবুজ হবে এবং অনুবাদের গুণমান আরও ভাল হবে।"
+  },
+  "upgradeMembershipForBackgroundRecognition": {
+    "message": "সদস্যপদে আপগ্রেড করুন এবং প্লাগইন পটভূমিতে AI সাবটাইটেল চিনবে। ইমেল বিজ্ঞপ্তি পাওয়ার পর, দেখতে ফিরে আসুন; ডাবিং বোতাম সবুজ হবে এবং অনুবাদ আরও নিখুঁত হবে।"
+  },
+  "memberFreeVoiceAzureSuggestion": {
+    "message": "আপনি বর্তমানে ফ্রি ভয়েস টাইপ দিয়ে ডাবিং করছেন। Azure ভয়েস আরও স্বাভাবিক শোনায়; সদস্যরা এখন কোনো সীমা ছাড়া এবং অতিরিক্ত ক্রেডিট রিচার্জ ছাড়াই Azure ব্যবহার করতে পারেন।"
+  },
+  "memberAiSubtitlePlatformPrioritySuggestion": {
+    "message": "বর্তমানে প্লাগইনের ব্যাকগ্রাউন্ড AI দ্বারা শনাক্ত করা সাবটাইটেল ব্যবহার করা হচ্ছে। অনুবাদ ঠিক মনে না হলে, বেসিক সেটিংসে সাবটাইটেল অগ্রাধিকার প্ল্যাটফর্ম সাবটাইটেলে পরিবর্তন করুন।"
+  },
+  "openBasicSettingsLink": {
+    "message": "বেসিক সেটিংস খুলুন"
+  },
+  "doNotShowAgainLink": {
+    "message": "আর দেখাবেন না"
+  },
+  "loginAndUsePlugin": {
+    "message": "প্রথমে লগ ইন করতে প্লাগইন আইকনে ক্লিক করুন, তারপর ভয়েসওভার প্লেব্যাকের জন্য প্লাগইন ব্যবহার করুন।"
+  },
+  "voiceSettingsMismatch": {
+    "message": "ভয়েস টাইপ এবং ভয়েস সেটিংস মিলছে না। দয়া করে সেটিংস পেজে গিয়ে ভয়েস সেটিংস পুনরায় নির্বাচন এবং সংরক্ষণ করুন।"
+  },
+  "contentMenusTitle": {
+    "message": "ভয়েসওভার প্লেব্যাক শুরু করুন"
+  },
+  "videoDetectedDomainTooltip": {
+    "message": "বর্তমান ভিডিওতে শনাক্ত করা ক্ষেত্র: {domain}"
+  },
+  "dropboxClickCcToTranscribe": {
+    "message": "এই ভিডিও এখনও ট্রান্সক্রাইব করা হয়নি। সাবটাইটেল ট্রান্সক্রাইব করতে Dropbox ভিডিওর নীচে CC বোতামে ক্লিক করুন। ট্রান্সক্রিপশন সম্পূর্ণ হওয়ার পর, অনুবাদ এবং ডাব করতে প্লাগইনের ডাবিং বোতামে ক্লিক করুন।"
+  },
+  "iosInterceptorConflictTitle": {
+    "message": "এক্সটেনশন দ্বন্দ্ব সনাক্ত করা হয়েছে"
+  },
+  "iosInterceptorConflictMessage": {
+    "message": "অন্য একটি ব্রাউজার এক্সটেনশন সাবটাইটেল অনুরোধ বাধা ব্লক করছে। দ্বন্দ্বপূর্ণ এক্সটেনশন নিষ্ক্রিয় করুন, পৃষ্ঠা রিফ্রেশ করুন, তারপর আবার চেষ্টা করুন।"
+  },
+  "login": {
+    "message": "লগ ইন"
+  },
+  "logout": {
+    "message": "লগ আউট"
+  },
+  "subscribe": {
+    "message": "সদস্যতা নিন"
+  },
+  "save_settings": {
+    "message": "সংরক্ষণ করুন"
+  },
+  "saving": {
+    "message": "সংরক্ষণ করা হচ্ছে..."
+  },
+  "saveSuccessTitle": {
+    "message": "সংরক্ষণ সফল"
+  },
+  "saveSuccessText": {
+    "message": "সেটিংস সংরক্ষিত হয়েছে"
+  },
+  "saveFailedTitle": {
+    "message": "সংরক্ষণ ব্যর্থ"
+  },
+  "saveFailedText": {
+    "message": "সংরক্ষণ ব্যর্থ, আবার চেষ্টা করুন"
+  },
+  "confirmButton": {
+    "message": "চালিয়ে যান এবং সংরক্ষণ করুন"
+  },
+  "cancelButton": {
+    "message": "বাতিল"
+  },
+  "back": {
+    "message": "ফিরে যান"
+  },
+  "backToSettings": {
+    "message": "সেটিংসে ফিরে যান"
+  },
+  "backToVideoLibrary": {
+    "message": "ভিডিও লাইব্রেরিতে ফিরে যান"
+  },
+  "source_languages": {
+    "message": "উৎস ভাষা:"
+  },
+  "target_languages": {
+    "message": "লক্ষ্য ভাষা:"
+  },
+  "selectSourceLanguage": {
+    "message": "উৎস ভাষা পছন্দ করুন"
+  },
+  "selectTargetLanguage": {
+    "message": "লক্ষ্য ভাষা পছন্দ করুন"
+  },
+  "searchSourceLanguage": {
+    "message": "উৎস ভাষা অনুসন্ধান করুন..."
+  },
+  "searchTargetLanguage": {
+    "message": "লক্ষ্য ভাষা অনুসন্ধান করুন..."
+  },
+  "loading": {
+    "message": "লোড হচ্ছে"
+  },
+  "sex": {
+    "message": "লিঙ্গ:"
+  },
+  "voices": {
+    "message": "ভয়েস:"
+  },
+  "voicesType": {
+    "message": "ভয়েস টাইপ:"
+  },
+  "man": {
+    "message": "পুরুষ"
+  },
+  "woman": {
+    "message": "মহিলা"
+  },
+  "free": {
+    "message": "বিনামূল্যে"
+  },
+  "memberFree": {
+    "message": "সদস্যদের জন্য বিনামূল্যে"
+  },
+  "memberFreeRequireMembership": {
+    "message": "এই ভয়েস টাইপটি শুধুমাত্র সদস্যদের জন্য। বিনামূল্যে ব্যবহার করতে আপগ্রেড করুন।"
+  },
+  "azureRequireMembership": {
+    "message": "Azure TTS শুধুমাত্র সদস্যদের জন্য। উচ্চ-মানের Azure ভয়েস আনলক করতে আপগ্রেড করুন।"
+  },
+  "originalAudio": {
+    "message": "মূল কণ্ঠ"
+  },
+  "translatedAudio": {
+    "message": "অনুবাদ কণ্ঠ"
+  },
+  "backgroundAudio": {
+    "message": "পটভূমি অডিও"
+  },
+  "textToSpeech": {
+    "message": "টেক্সট টু স্পিচ:"
+  },
+  "textToSpeechToggle": {
+    "message": "ভাসমান বোতাম"
+  },
+  "showSubtitle": {
+    "message": "সাবটাইটেল:"
+  },
+  "subtitleSize": {
+    "message": "আকার"
+  },
+  "subtitles": {
+    "message": "সাবটাইটেল"
+  },
+  "toggleSubtitles": {
+    "message": "সাবটাইটেল টগল করুন"
+  },
+  "subtitleDisplayMode": {
+    "message": "সাবটাইটেল প্রদর্শন মোড"
+  },
+  "subtitleModeTranslated": {
+    "message": "শুধু অনুবাদ"
+  },
+  "subtitleModeBilingual": {
+    "message": "দ্বিভাষিক সাবটাইটেল"
+  },
+  "subtitleModeOff": {
+    "message": "সাবটাইটেল বন্ধ"
+  },
+  "translateService": {
+    "message": "অনুবাদ:"
+  },
+  "translationEngine": {
+    "message": "অনুবাদ ইঞ্জিন"
+  },
+  "translationService": {
+    "message": "অনুবাদ সেবা"
+  },
+  "translationServiceTitle": {
+    "message": "অনুবাদ সেবা"
+  },
+  "advancedSettings": {
+    "message": "উন্নত সেটিংস"
+  },
+  "pauseVideo": {
+    "message": "ভিডিও বিরাম দিন"
+  },
+  "iosOpenOriginVolume": {
+    "message": "মূল অডিও চালু করুন"
+  },
+  "voicesAndSubtitles": {
+    "message": "ভয়েস এবং সাবটাইটেল"
+  },
+  "voicesAndSubtitlesTitle": {
+    "message": "ভয়েস এবং সাবটাইটেল"
+  },
+  "speakerList": {
+    "message": "বক্তা তালিকা"
+  },
+  "speakersTitle": {
+    "message": "বক্তা"
+  },
+  "deleteSpeaker": {
+    "message": "মুছুন"
+  },
+  "editSpeaker": {
+    "message": "সম্পাদনা করুন"
+  },
+  "speakerName": {
+    "message": "বক্তা নাম"
+  },
+  "enterSpeakerName": {
+    "message": "বক্তা নাম লিখুন"
+  },
+  "enterVoice": {
+    "message": "ভয়েস নাম লিখুন"
+  },
+  "voice": {
+    "message": "ভয়েস"
+  },
+  "gender": {
+    "message": "লিঙ্গ"
+  },
+  "male": {
+    "message": "পুরুষ"
+  },
+  "female": {
+    "message": "মহিলা"
+  },
+  "edit": {
+    "message": "সম্পাদনা করুন"
+  },
+  "delete": {
+    "message": "মুছুন"
+  },
+  "save": {
+    "message": "সংরক্ষণ করুন"
+  },
+  "cancel": {
+    "message": "বাতিল"
+  },
+  "confirmDeleteSpeaker": {
+    "message": "আপনি কি নিশ্চিত যে আপনি এই বক্তা মুছতে চান?"
+  },
+  "noSpeakers": {
+    "message": "কোন বক্তা নেই"
+  },
+  "memberUser": {
+    "message": "PRO"
+  },
+  "accountBalance": {
+    "message": "অ্যাকাউন্ট ব্যালেন্স:"
+  },
+  "userAccountAriaLabel": {
+    "message": "ব্যবহারকারীর অ্যাকাউন্ট"
+  },
+  "membershipExpires": {
+    "message": "সদস্যতা শেষ:"
+  },
+  "shortcutSettings": {
+    "message": "শর্টকাট সেটিংস"
+  },
+  "subscriptionRecharge": {
+    "message": "সাবস্ক্রিপশন ও রিচার্জ"
+  },
+  "membershipIcon": {
+    "message": "সদস্যপদ আইকন"
+  },
+  "browserShortcutSettingsTip": {
+    "message": "অনুগ্রহ করে ব্রাউজার এক্সটেনশন সেটিংসে শর্টকাট কনফিগার করুন"
+  },
+  "safariShortcutSettingsTip": {
+    "message": "অনুগ্রহ করে Safari > Preferences > Extensions এ শর্টকাট সেট করুন"
+  },
+  "edgeShortcutSettingsTip": {
+    "message": "Edge এক্সটেনশন শর্টকাট সেটিংস পৃষ্ঠা খোলা হচ্ছে"
+  },
+  "firefoxShortcutSettingsTip": {
+    "message": "Firefox অ্যাড-অন পৃষ্ঠা খোলা হচ্ছে, অনুগ্রহ করে Extensions and Themes এ শর্টকাট সেট করুন"
+  },
+  "dubbingSettings": {
+    "message": "ডাবিং সেটিংস"
+  },
+  "debugInfo": {
+    "message": "ডিবাগ তথ্য"
+  },
+  "sourceLanguage": {
+    "message": "উৎস ভাষা"
+  },
+  "targetLanguage": {
+    "message": "লক্ষ্য ভাষা"
+  },
+  "vipRequiredTitle": {
+    "message": "সদস্যপদ প্রয়োজন"
+  },
+  "vipRequiredText": {
+    "message": "এই বৈশিষ্ট্য ব্যবহার করতে আপনাকে একজন সদস্য হতে হবে"
+  },
+  "vipAndBalanceRequiredTitle": {
+    "message": "সদস্যপদ এবং ব্যালেন্স প্রয়োজন"
+  },
+  "vipAndBalanceRequiredText": {
+    "message": "এই বৈশিষ্ট্য ব্যবহার করতে আপনাকে একজন সদস্য হতে হবে এবং পর্যাপ্ত ব্যালেন্স থাকতে হবে"
+  },
+  "balanceRequiredTitle": {
+    "message": "ব্যালেন্স প্রয়োজন"
+  },
+  "balanceRequiredText": {
+    "message": "আপনার অ্যাকাউন্ট ব্যালেন্স অপর্যাপ্ত। এই বৈশিষ্ট্য ব্যবহার করতে অনুগ্রহ করে রিচার্জ করুন"
+  },
+  "lowBalanceTitle": {
+    "message": "কম ব্যালেন্স সতর্কতা"
+  },
+  "lowBalanceText": {
+    "message": "আপনার অ্যাকাউন্ট ব্যালেন্স $১ এর নিচে। নিরবচ্ছিন্ন সেবা নিশ্চিত করতে আমরা শীঘ্রই রিচার্জ করার পরামর্শ দিই"
+  },
+  "insufficientBalance": {
+    "message": "অপর্যাপ্ত ব্যালেন্সের কারণে, সেবা Google Translate এ ডাউনগ্রেড করা হয়েছে। AI অনুবাদ ব্যবহার করতে, অনুগ্রহ করে আপনার ক্রেডিট রিচার্জ করুন।"
+  },
+  "insufficientBalanceAlertMsg": {
+    "message": "আপনার ব্যালেন্স অপর্যাপ্ত। AI অনুবাদ এবং Azure TTS ব্যবহার করার আগে আপনার ব্যালেন্স রিচার্জ করুন। আপনি যদি রিচার্জ করতে না চান, তাহলে Google Translate এবং বিনামূল্যে ভয়েস টাইপে ফিরে যেতে পারেন।"
+  },
+  "balanceRunningLow": {
+    "message": "আপনার ব্যালেন্স শেষ হয়ে যাচ্ছে। একটি খারাপ দেখার অভিজ্ঞতা এড়াতে, পূর্বে রিচার্জ করার পরামর্শ দেওয়া হয়।"
+  },
+  "membershipRequired": {
+    "message": "OpenAI অনুবাদ ব্যবহার করার আগে একটি সদস্যপদে আপগ্রেড করুন।"
+  },
+  "membershipRequiredForAI": {
+    "message": "AI অনুবাদ ব্যবহার করার আগে আপনার সদস্যপদ রিচার্জ করুন। আপনি যদি রিচার্জ করতে না চান, তাহলে Google Translate নির্বাচন করতে পারেন।"
+  },
+  "insufficientMembership": {
+    "message": "আপনার সদস্যপদ মেয়াদ শেষ হয়ে গেছে। AI অনুবাদ এবং Azure TTS ব্যবহার করার আগে আপনার সদস্যপদ রিচার্জ করুন। আপনি যদি রিচার্জ করতে না চান, তাহলে Google Translate এবং বিনামূল্যে ভয়েস টাইপ নির্বাচন করতে পারেন।"
+  },
+  "insufficientBalanceAndMembership": {
+    "message": "AI অনুবাদ এবং Azure TTS ব্যবহার করার আগে আপনার সদস্যপদ এবং ব্যালেন্স রিচার্জ করুন। আপনি যদি রিচার্জ করতে না চান, তাহলে Google Translate এবং বিনামূল্যে ভয়েস টাইপ নির্বাচন করতে পারেন।"
+  },
+  "freeForVip": {
+    "message": "VIP বিনামূল্যে"
+  },
+  "freeOptionTipText": {
+    "message": "আপনি যদি রিচার্জ করতে না চান, তাহলে বিনামূল্যে বিকল্প নির্বাচন করতে পারেন, "
+  },
+  "translateEngineTipText": {
+    "message": "অনুবাদ সেবা Google এ পরিবর্তন করুন"
+  },
+  "voiceTypeTipText": {
+    "message": "ভয়েস টাইপ বিনামূল্যে সংস্করণে পরিবর্তন করুন"
+  },
+  "vipFreeOptionTipText": {
+    "message": "একজন সদস্য হিসাবে, আপনি নিম্নলিখিত অনুবাদ সেবা বিনামূল্যে ব্যবহার করতে পারেন"
+  },
+  "vipTranslateEngineTipText": {
+    "message": "অনুবাদ সেবা সদস্য-বিনামূল্যে সেবায় পরিবর্তন করুন যেমন gemini, deepseek, gpt-3.5-turbo, বা claude-3-haiku"
+  },
+  "pay": {
+    "message": "পে করুন"
+  },
+  "switchModelWarning": {
+    "message": "ভিডিও প্লেব্যাকের সময় ভয়েস বা অনুবাদ মডেল পরিবর্তন করলে নষ্ট হওয়া সম্পদের কারণে অতিরিক্ত চার্জ হবে। আমরা পরবর্তী ভিডিওতে পরিবর্তন করার পরামর্শ দিই। যাইহোক, এগিয়ে যেতে চাইলে চালিয়ে যান এবং সংরক্ষণ করুন ক্লিক করুন।"
+  },
+  "selectSpeaker": {
+    "message": "পছন্দ করুন"
+  },
+  "speaker": {
+    "message": "বক্তা"
+  },
+  "rechargeLimit": {
+    "message": "ক্রেডিট+সদস্য"
+  },
+  "tooExpensive": {
+    "message": "খুব ব্যয়বহুল"
+  },
+  "dropdownPlaceholder": {
+    "message": "পছন্দ করুন"
+  },
+  "dropdownNoOptions": {
+    "message": "কোন বিকল্প নেই"
+  },
+  "dropdownSearch": {
+    "message": "অনুসন্ধান করুন..."
+  },
+  "swapVolumeSettingsCommand": {
+    "message": "মূল এবং ডাব করা অডিওর মধ্যে ভলিউম সেটিংস টগল করুন"
+  },
+  "cycleSubtitleModeCommand": {
+    "message": "সাবটাইটেল পরিবর্তন: দ্বিভাষিক → শুধু অনুবাদ → বন্ধ"
+  },
+  "trialMemberModelLimit": {
+    "message": "ট্রায়াল সদস্যরা শুধুমাত্র Gemini এবং Google Translate ব্যবহার করতে পারে। অন্যান্য মডেল ব্যবহার করতে, আমাদের সদস্যপদ সাবস্ক্রাইব করুন।"
+  },
+  "subtitlesRateLimitedByYouTube": {
+    "message": "এই ভিডিওর সাবটাইটেল বর্তমানে YouTube দ্বারা রেট-লিমিটেড। অনুগ্রহ করে পরে আবার চেষ্টা করুন।"
+  },
+  "musicVideoNotSupported": {
+    "message": "এটি একটি সংগীত ভিডিও। অনুবাদ এবং ডাবিং সমর্থিত নয়।"
+  },
+  "hideUntilNextVisit": {
+    "message": "পরবর্তী ভিজিট পর্যন্ত লুকান"
+  },
+  "disableGlobally": {
+    "message": "বিশ্বব্যাপী নিষ্ক্রিয় করুন"
+  },
+  "sidebarHideUntilNextVisit": {
+    "message": "পরবর্তী পরিদর্শন পর্যন্ত লুকান"
+  },
+  "sidebarDisableForSite": {
+    "message": "এই সাইটের জন্য নিষ্ক্রিয় করুন"
+  },
+  "sidebarDisableGlobally": {
+    "message": "বিশ্বব্যাপী নিষ্ক্রিয় করুন"
+  },
+  "sidebarReenableHint": {
+    "message": " "
+  },
+  "sidebarSettings": {
+    "message": "সেটিংস"
+  },
+  "sidebarReenableHintSuffix": {
+    "message": "-এ পুনরায় সক্রিয় করা যেতে পারে"
+  },
+  "notSupported": {
+    "message": "সমর্থিত নয়"
+  },
+  "multiVideoNotSupported": {
+    "message": "এই পৃষ্ঠায় একাধিক ভিডিও আছে। HLS স্ট্রিম ব্যবহার করার সময় ইউনিভার্সাল ডাবিং শুধুমাত্র একটি ভিডিও সহ পৃষ্ঠাগুলিকে সমর্থন করে।"
+  },
+  "mediaSourceNotDetected": {
+    "message": "ভিডিও উৎস সনাক্ত করা যায়নি। এই ওয়েবসাইট সমর্থিত নাও হতে পারে।"
+  },
+  "uploadMediaForRecognition": {
+    "message": "কোনো সাবটাইটেল পাওয়া যায়নি। AI সাবটাইটেল শনাক্তকরণের জন্য ভিডিও আপলোড করতে চান?"
+  },
+  "startUpload": {
+    "message": "আপলোড শুরু করুন"
+  },
+  "uploadingMedia": {
+    "message": "মিডিয়া আপলোড হচ্ছে..."
+  },
+  "downloading": {
+    "message": "ডাউনলোড হচ্ছে"
+  },
+  "uploading": {
+    "message": "আপলোড হচ্ছে"
+  },
+  "completing": {
+    "message": "সম্পন্ন হচ্ছে"
+  },
+  "uploadComplete": {
+    "message": "আপলোড সম্পন্ন"
+  },
+  "waitingForRecognition": {
+    "message": "ভিডিও সফলভাবে আপলোড হয়েছে। AI সাবটাইটেল শনাক্তকরণ চলছে। প্রস্তুত হলে আপনি ইমেল বিজ্ঞপ্তি পাবেন।"
+  },
+  "uploadFailed": {
+    "message": "আপলোড ব্যর্থ"
+  },
+  "corsNotSupported": {
+    "message": "এই ওয়েবসাইট মিডিয়া ফাইল ডাউনলোড করার অনুমতি দেয় না। ইউনিভার্সাল ডাবিং সমর্থিত নয়।"
+  },
+  "mediaDownloadInterrupted": {
+    "message": "নেটওয়ার্ক ত্রুটির কারণে মিডিয়া ডাউনলোড বাধাগ্রস্ত হয়েছে (এটি সাইটের নিষেধাজ্ঞা নয়)। অনুগ্রহ করে আবার আপলোড করুন।"
+  },
+  "zoomRecordingDnrNotSupported": {
+    "message": "আপনার ব্রাউজার Zoom রেকর্ডিং আপলোড সনাক্তকরণ সমর্থন করে না। অনুগ্রহ করে Chrome/Edge ব্যবহার করুন।"
+  },
+  "zoomRecordingDownloadForbidden403": {
+    "message": "Zoom রেকর্ডিং ডাউনলোড নিষিদ্ধ করা হয়েছে (403)। যাচাইকরণ পাস করতে পৃষ্ঠাটি চালান/রিফ্রেশ করুন, তারপর আবার আপলোড করার চেষ্টা করুন।"
+  },
+  "liveStreamNotSupported": {
+    "message": "লাইভ স্ট্রিম ইউনিভার্সাল ডাবিং-এর জন্য সমর্থিত নয়।"
+  },
+  "noAudioTrackFound": {
+    "message": "কোনো অডিও ট্র্যাক সনাক্ত হয়নি। এই ভিডিওটি অডিও ছাড়া শুধুমাত্র ভিডিও বলে মনে হচ্ছে এবং ডাবিং সনাক্তকরণের জন্য ব্যবহার করা যাবে না।"
+  },
+  "universalDubbingMemberOnly": {
+    "message": "ইউনিভার্সাল ডাবিং-এর জন্য ক্লাউড GPU কম্পিউটিং পাওয়ার প্রয়োজন (উচ্চ খরচ), শুধুমাত্র VIP-দের জন্য।"
+  },
+  "videoDurationExceedsLimit": {
+    "message": "এই ভিডিওটি ৩ ঘণ্টার বেশি দীর্ঘ। ৩ ঘণ্টার বেশি দীর্ঘ ভিডিওগুলির জন্য বর্তমানে ইউনিভার্সাল ডাবিং সমর্থিত নয়।"
+  },
+  "videoDrmProtected": {
+    "message": "এই ভিডিওটি DRM দ্বারা সুরক্ষিত এবং ডাবিংয়ের জন্য ব্যবহার করা যাবে না।"
+  },
+  "pleaseClickVideoToPlay": {
+    "message": "অনুগ্রহ করে ভিডিওটি খুলতে ক্লিক করুন এবং তারপর ডাবিং বৈশিষ্ট্যটি ব্যবহার করুন।"
+  },
+  "iosUniversalDubbingNotSupported": {
+    "message": "iOS ডিভাইসে ইউনিভার্সাল ডাবিং সমর্থিত নয়। অনুগ্রহ করে ডেস্কটপ ব্রাউজার ব্যবহার করুন।"
+  },
+  "membershipRequiredTitle": {
+    "message": "সদস্যপদ প্রয়োজন"
+  },
+  "error": {
+    "message": "ত্রুটি"
+  },
+  "unknownError": {
+    "message": "একটি অজানা ত্রুটি ঘটেছে। অনুগ্রহ করে আবার চেষ্টা করুন।"
+  },
+  "doNotClosePage": {
+    "message": "আপলোডের সময় দয়া করে এই পৃষ্ঠাটি বন্ধ বা রিফ্রেশ করবেন না, অন্যথায় আপলোড বাধাগ্রস্ত হবে।"
+  },
+  "taskAlreadySubmitted": {
+    "message": "এই ভিডিওটি AI সাবটাইটেল স্বীকৃতির জন্য ইতিমধ্যে প্রক্রিয়াধীন রয়েছে। অনুগ্রহ করে ইমেল বিজ্ঞপ্তির জন্য অপেক্ষা করুন।"
+  },
+  "sampleAesNotSupported": {
+    "message": "এই ভিডিওটি SAMPLE-AES এনক্রিপশন ব্যবহার করে যা বর্তমানে ডাউনলোডের জন্য সমর্থিত নয়।"
+  },
+  "hlsKeyFetchFailed": {
+    "message": "এই ভিডিওর ডিক্রিপশন কী আনতে ব্যর্থ। ভিডিওটি সুরক্ষিত হতে পারে বা কী সার্ভার উপলব্ধ নেই।"
+  },
+  "hlsDecryptionFailed": {
+    "message": "ভিডিও বিষয়বস্তু ডিক্রিপ্ট করতে ব্যর্থ। এনক্রিপশন কী ভুল হতে পারে বা ভিডিও ফরম্যাট সামঞ্জস্যপূর্ণ নয়।"
+  },
+  "subtitleStyleOptionsTitle": {
+    "message": "সাবটাইটেল শৈলী সেটিং"
+  },
+  "subtitleStyleOptionsDesc": {
+    "message": "সমন্বয় সংরক্ষণ করা হবে এবং অবিলম্বে কার্যকর হবে."
+  },
+  "subtitleStyleSectionTitle": {
+    "message": "সাবটাইটেল শৈলী"
+  },
+  "subtitleStylePreviewTitle": {
+    "message": "প্রিভিউ"
+  },
+  "subtitleStylePreviewTag": {
+    "message": "রিয়েল-টাইম"
+  },
+  "subtitleStylePreviewText": {
+    "message": "তার মনে হয়েছিল, এই তরুণের অনেক সম্ভাবনা আছে।"
+  },
+  "subtitleStylePosition": {
+    "message": "অবস্থান"
+  },
+  "subtitleStylePositionTop": {
+    "message": "উপরে"
+  },
+  "subtitleStylePositionMiddle": {
+    "message": "মাঝে"
+  },
+  "subtitleStylePositionBottom": {
+    "message": "নিচে"
+  },
+  "subtitleStyleFontFamily": {
+    "message": "ফন্ট"
+  },
+  "subtitleStyleFontSize": {
+    "message": "ফন্টের আকার"
+  },
+  "subtitleStyleCustomOption": {
+    "message": "কাস্টম"
+  },
+  "subtitleStyleCustomFont": {
+    "message": "কাস্টম ফন্ট"
+  },
+  "subtitleStyleCustomFontPlaceholder": {
+    "message": "উদাহরণস্বরূপ: PingFang SC, Arial"
+  },
+  "subtitleStyleTextColor": {
+    "message": "ফন্টের রঙ"
+  },
+  "subtitleStyleFontWeight": {
+    "message": "ফন্টের পুরুত্ব"
+  },
+  "subtitleStyleBackgroundColor": {
+    "message": "পটভূমির রঙ"
+  },
+  "subtitleStyleBackgroundOpacity": {
+    "message": "পটভূমির অস্বচ্ছতা"
+  },
+  "subtitleStyleEdgeStyle": {
+    "message": "অক্ষরের প্রান্তের ধরন"
+  },
+  "subtitleStyleEdgeNone": {
+    "message": "নেই"
+  },
+  "subtitleStyleEdgeShadow": {
+    "message": "ছায়া"
+  },
+  "subtitleStyleEdgeOutline": {
+    "message": "আউটলাইন"
+  },
+  "subtitleStyleFontNone": {
+    "message": "নেই"
+  },
+  "subtitleStyleFontDefault": {
+    "message": "ডিফল্ট"
+  },
+  "subtitleStyleFontPingFang": {
+    "message": "PingFang SC"
+  },
+  "subtitleStyleFontYaHei": {
+    "message": "Microsoft YaHei"
+  },
+  "subtitleStyleFontHeiti": {
+    "message": "STHeiti"
+  },
+  "subtitleStyleFontKaiti": {
+    "message": "Kaiti SC"
+  },
+  "subtitleStyleFontSongti": {
+    "message": "STSong"
+  },
+  "subtitleStyleFontFangsong": {
+    "message": "FangSong"
+  },
+  "subtitleStyleFontDongqingHeiti": {
+    "message": "Dongqing Heiti"
+  },
+  "subtitleStyleFontLantingHei": {
+    "message": "Lanting Hei"
+  },
+  "subtitleStyleFontHanyiHeiliu": {
+    "message": "Hanyi Heiliu"
+  },
+  "subtitleStyleFontHanyiZhonghei": {
+    "message": "Hanyi Zhonghei"
+  },
+  "subtitleStyleFontSTSong": {
+    "message": "Songti"
+  },
+  "subtitleStyleFontWawati": {
+    "message": "Wawati"
+  },
+  "subtitleStyleFontWeibei": {
+    "message": "Weibei"
+  },
+  "subtitleStyleFontXingkai": {
+    "message": "Xingkai"
+  },
+  "subtitleStyleFontYuanti": {
+    "message": "Yuanti"
+  },
+  "subtitleStyleFontArialUnicode": {
+    "message": "Arial Unicode MS"
+  },
+  "subtitleStyleFontArial": {
+    "message": "Arial"
+  },
+  "subtitleStyleFontCourierNew": {
+    "message": "Courier New"
+  },
+  "subtitleStyleFontGeorgia": {
+    "message": "Georgia"
+  },
+  "subtitleStyleFontTahoma": {
+    "message": "Tahoma"
+  },
+  "subtitleStyleFontTimesNewRoman": {
+    "message": "Times New Roman"
+  },
+  "subtitleStyleFontTrebuchetMS": {
+    "message": "Trebuchet MS"
+  },
+  "subtitleStyleFontVerdana": {
+    "message": "Verdana"
+  },
+  "subtitleStyleFontHelveticaNeue": {
+    "message": "Helvetica Neue"
+  },
+  "subtitleStyleFontHiraginoMincho": {
+    "message": "Hiragino Mincho ProN"
+  },
+  "subtitleStyleFontHiraginoKaku": {
+    "message": "Hiragino Kaku Gothic ProN"
+  },
+  "subtitleStyleFontKohinoor": {
+    "message": "Kohinoor Devanagari"
+  },
+  "subtitleStyleFontAppleSD": {
+    "message": "Apple SD Gothic Neo"
+  },
+  "subtitleStyleFontNanumGothic": {
+    "message": "Nanum Gothic"
+  },
+  "subtitleStyleFontCustom": {
+    "message": "কাস্টম"
+  },
+  "subtitleStyleColorWhite": {
+    "message": "সাদা"
+  },
+  "subtitleStyleColorYellow": {
+    "message": "হলুদ"
+  },
+  "subtitleStyleColorOrange": {
+    "message": "কমলা"
+  },
+  "subtitleStyleColorGray": {
+    "message": "ধূসর"
+  },
+  "subtitleStyleColorGreen": {
+    "message": "সবুজ"
+  },
+  "subtitleStyleColorCyan": {
+    "message": "সায়ান"
+  },
+  "subtitleStyleColorBlue": {
+    "message": "নীল"
+  },
+  "subtitleStyleColorMagenta": {
+    "message": "ম্যাজেন্টা"
+  },
+  "subtitleStyleColorRed": {
+    "message": "লাল"
+  },
+  "subtitleStyleColorBlack": {
+    "message": "কালো"
+  },
+  "subtitleStyleEditorViewLabel": {
+    "message": "স্টাইল এডিটর ভিউ"
+  },
+  "subtitleStyleEditorViewTranslated": {
+    "message": "শুধু অনুবাদ"
+  },
+  "subtitleStyleEditorViewBilingual": {
+    "message": "দ্বিভাষিক"
+  },
+  "subtitleStyleLayoutSectionTitle": {
+    "message": "দ্বিভাষিক লেআউট"
+  },
+  "subtitleStyleOrder": {
+    "message": "সাবটাইটেল ক্রম"
+  },
+  "subtitleStyleOrderTranslatedFirst": {
+    "message": "অনুবাদ উপরে"
+  },
+  "subtitleStyleOrderOriginalFirst": {
+    "message": "মূল উপরে"
+  },
+  "subtitleStyleLineGap": {
+    "message": "দুই লাইনের ব্যবধান"
+  },
+  "subtitleStyleTextAlign": {
+    "message": "অনুভূমিক সারিবদ্ধকরণ"
+  },
+  "subtitleStyleTextAlignLeft": {
+    "message": "বামে"
+  },
+  "subtitleStyleTextAlignCenter": {
+    "message": "কেন্দ্রে"
+  },
+  "subtitleStyleTextAlignRight": {
+    "message": "ডানে"
+  },
+  "subtitleStyleTranslatedSectionTitle": {
+    "message": "অনুবাদ স্টাইল"
+  },
+  "subtitleStyleOriginalSectionTitle": {
+    "message": "মূল স্টাইল"
+  },
+  "subtitleStyleFollowTranslated": {
+    "message": "অনুবাদ স্টাইল অনুসরণ করুন"
+  },
+  "subtitleStyleUsesCurrentSettings": {
+    "message": "বর্তমান সেটিংস ব্যবহার করা হবে"
+  },
+  "subtitleStyleOriginalSizePercent": {
+    "message": "ফন্টের আকারের অনুপাত"
+  },
+  "subtitleStyleSharedBackgroundSectionTitle": {
+    "message": "শেয়ার করা পটভূমি"
+  },
+  "subtitleStyleRestoreDefaults": {
+    "message": "ডিফল্ট পুনরুদ্ধার"
+  },
+  "subtitleStylePreviewOriginalText": {
+    "message": "He thought this young man had great potential."
+  },
+  "subtitleStyleColorLightGray": {
+    "message": "হালকা ধূসর"
+  },
+  "disabledSitesSectionTitle": {
+    "message": "নিষ্ক্রিয় সাইট"
+  },
+  "disabledSitesTitle": {
+    "message": "নিষ্ক্রিয় সাইট ব্যবস্থাপনা"
+  },
+  "disabledSitesDescription": {
+    "message": "নিম্নলিখিত সাইটগুলিতে ফ্লোটিং বল দেখা যাবে না। আপনি এখানে নিষ্ক্রিয় সাইট যোগ বা সরাতে পারেন।"
+  },
+  "disabledSitesPlaceholder": {
+    "message": "ডোমেইন লিখুন, যেমন youtube.com"
+  },
+  "disabledSitesAdd": {
+    "message": "যোগ করুন"
+  },
+  "disabledSitesDomain": {
+    "message": "ডোমেইন"
+  },
+  "disabledSitesActions": {
+    "message": "কার্যক্রম"
+  },
+  "disabledSitesDelete": {
+    "message": "মুছুন"
+  },
+  "disabledSitesEmpty": {
+    "message": "কোনো নিষ্ক্রিয় সাইট নেই"
+  },
+  "preferencesSectionTitle": {
+    "message": "মৌলিক সেটিংস"
+  },
+  "optionsNavPreferencesShort": {
+    "message": "বেসিক"
+  },
+  "optionsNavSubtitleShort": {
+    "message": "সাবটাইটেল"
+  },
+  "optionsNavAiShort": {
+    "message": "AI"
+  },
+  "optionsNavSitesShort": {
+    "message": "সাইট"
+  },
+  "preferenceStatusDisabled": {
+    "message": "বন্ধ"
+  },
+  "preferencesTitle": {
+    "message": "মৌলিক সেটিংস"
+  },
+  "preferencesDescription": {
+    "message": "এখানে আপনার মৌলিক পছন্দগুলো পরিচালনা করুন।"
+  },
+  "emailNotificationLabel": {
+    "message": "ইমেইল নোটিফিকেশন"
+  },
+  "emailNotificationDescription": {
+    "message": "সাবটাইটেল শনাক্তকরণ সম্পন্ন হলে আমাকে ইমেইলে জানান।"
+  },
+  "emailNotificationSaveFailed": {
+    "message": "সংরক্ষণ ব্যর্থ হয়েছে। অনুগ্রহ করে পরে আবার চেষ্টা করুন।"
+  },
+  "skipTranslationWhenSameLanguageLabel": {
+    "message": "একই ভাষা হলে অনুবাদ এড়িয়ে যান"
+  },
+  "skipTranslationWhenSameLanguageDescription": {
+    "message": "চালু থাকলে, সাবটাইটেলের ভাষা ও লক্ষ্য ভাষা এক হলে অনুবাদ ছাড়াই সরাসরি ডাবিং শুরু হবে।"
+  },
+  "userSubtitleSegmentationEnabledLabel": {
+    "message": "ব্যবহারকারীর সাবটাইটেলের স্মার্ট বিভাজন"
+  },
+  "userSubtitleSegmentationEnabledDescription": {
+    "message": "চালু থাকলে সম্পাদিত বা স্থানীয়ভাবে আপলোড করা সাবটাইটেল স্বয়ংক্রিয়ভাবে ভাগ করা হয়। বন্ধ থাকলে মূল বিভাজন বজায় থাকে।"
+  },
+  "subtitlePriorityTitle": {
+    "message": "সাবটাইটেল অনুবাদ অগ্রাধিকার"
+  },
+  "subtitlePriorityDescription": {
+    "message": "অনুবাদের জন্য কোন সাবটাইটেল উৎসকে অগ্রাধিকার দিতে হবে তা নির্বাচন করুন।"
+  },
+  "subtitlePriorityAiSubtitle": {
+    "message": "প্লাগইন AI শনাক্তকৃত সাবটাইটেল"
+  },
+  "subtitlePriorityAiSubtitleDesc": {
+    "message": "উচ্চতর নির্ভুলতার জন্য প্লাগইনের AI ভয়েস রিকগনিশন দ্বারা তৈরি সাবটাইটেলকে অগ্রাধিকার দিন।"
+  },
+  "subtitlePriorityPlatformSubtitle": {
+    "message": "প্ল্যাটফর্মের অন্তর্নির্মিত সাবটাইটেল"
+  },
+  "subtitlePriorityPlatformSubtitleDesc": {
+    "message": "ভিডিও প্ল্যাটফর্ম দ্বারা প্রদত্ত মূল সাবটাইটেলকে অগ্রাধিকার দিন।"
+  },
+  "subtitlePriorityQuickLabel": {
+    "message": "সাবটাইটেল"
+  },
+  "subtitlePriorityQuickAi": {
+    "message": "AI"
+  },
+  "subtitlePriorityQuickPlatform": {
+    "message": "প্ল্যাটফর্ম"
+  },
+  "panelTabVideoSummary": {
+    "message": "সারাংশ"
+  },
+  "panelTabSubtitleEdit": {
+    "message": "সাবটাইটেল"
+  },
+  "panelSummaryTitle": {
+    "message": "ভিডিও সারসংক্ষেপ এবং রূপরেখা"
+  },
+  "panelSummaryDesc": {
+    "message": "উন্নত AI মডেল ব্যবহার করে ভিডিও বিষয়বস্তু দ্রুত বুঝুন"
+  },
+  "panelSummaryGenerate": {
+    "message": "সারসংক্ষেপ তৈরি করুন"
+  },
+  "panelSummaryGenerating": {
+    "message": "তৈরি হচ্ছে..."
+  },
+  "panelSummaryReGenerating": {
+    "message": "পুনরায় তৈরি হচ্ছে..."
+  },
+  "panelSummarySectionSummary": {
+    "message": "সারসংক্ষেপ"
+  },
+  "panelSummarySectionHighlights": {
+    "message": "হাইলাইটস"
+  },
+  "panelSummaryExpandAll": {
+    "message": "সব প্রসারিত করুন"
+  },
+  "panelSummaryCollapseAll": {
+    "message": "সব সংকুচিত করুন"
+  },
+  "panelSummaryExpand": {
+    "message": "প্রসারিত করুন"
+  },
+  "panelSummaryCollapse": {
+    "message": "সংকুচিত করুন"
+  },
+  "panelSummaryShare": {
+    "message": "শেয়ার করুন"
+  },
+  "panelSummaryCopy": {
+    "message": "কপি করুন"
+  },
+  "panelSummaryReGenerate": {
+    "message": "পুনরায় তৈরি করুন"
+  },
+  "panelSummaryCopySuccess": {
+    "message": "কপি করা হয়েছে"
+  },
+  "panelSummaryPlay": {
+    "message": "চালান"
+  },
+  "panelSummaryPause": {
+    "message": "বিরতি"
+  },
+  "panelSummaryPlayFailed": {
+    "message": "চালানো ব্যর্থ হয়েছে, আবার চেষ্টা করুন"
+  },
+  "panelSummaryNoSubtitle": {
+    "message": "এই ভিডিওর জন্য কোনো সাবটাইটেল উপলব্ধ নেই"
+  },
+  "panelSummaryError": {
+    "message": "সারসংক্ষেপ তৈরি ব্যর্থ হয়েছে, অনুগ্রহ করে আবার চেষ্টা করুন"
+  },
+  "panelSummaryErrorInvalidVideoId": {
+    "message": "বর্তমান ভিডিও শনাক্ত করা যাচ্ছে না, পৃষ্ঠা রিফ্রেশ করে আবার চেষ্টা করুন"
+  },
+  "panelSummaryErrorMemberRequired": {
+    "message": "ভিডিও সারসংক্ষেপ শুধুমাত্র সদস্যদের জন্য উপলব্ধ, ব্যবহার করতে সদস্যতা নিন"
+  },
+  "panelSummaryErrorNoSubtitles": {
+    "message": "এই ভিডিওতে কোনো সাবটাইটেল পাওয়া যায়নি, সারসংক্ষেপ তৈরি করা সম্ভব নয়"
+  },
+  "panelSummaryErrorServiceError": {
+    "message": "সারসংক্ষেপ পরিষেবা সাময়িকভাবে অনুপলব্ধ, অনুগ্রহ করে পরে আবার চেষ্টা করুন"
+  },
+  "subtitleEditorManualInput": {
+    "message": "ম্যানুয়াল ইনপুট"
+  },
+  "subtitleEditorSwitchTip": {
+    "message": "সাবটাইটেল পরিবর্তন করতে এখানে ক্লিক করুন"
+  },
+  "subtitleEditorExport": {
+    "message": "রপ্তানি"
+  },
+  "subtitleEditorTrackFallback": {
+    "message": "সাবটাইটেল ট্র্যাক"
+  },
+  "subtitleEditorMySubtitles": {
+    "message": "আমার সাবটাইটেল"
+  },
+  "subtitleEditorNoSourceManual": {
+    "message": "কোনো সাবটাইটেল উৎস উপলব্ধ নেই (ম্যানুয়াল ইনপুট উপলব্ধ)"
+  },
+  "subtitleEditorSaveInvalidVideo": {
+    "message": "বর্তমান ভিডিও সনাক্ত করতে অক্ষম. সংরক্ষণ ব্যর্থ হয়েছে."
+  },
+  "subtitleEditorSaveFailed": {
+    "message": "সংরক্ষণ ব্যর্থ হয়েছে. পরে আবার চেষ্টা করুন."
+  },
+  "subtitleEditorValidationEmpty": {
+    "message": "সাবটাইটেল বিষয়বস্তু খালি হতে পারে না"
+  },
+  "subtitleEditorValidationBlockStructure": {
+    "message": "অবৈধ SRT ব্লক। ক্রম, টাইমস্ট্যাম্প এবং বিষয়বস্তু প্রয়োজন।"
+  },
+  "subtitleEditorValidationSequenceFormat": {
+    "message": "অবৈধ SRT ক্রম নম্বর বিন্যাস।"
+  },
+  "subtitleEditorValidationSequenceIncrement": {
+    "message": "SRT ক্রম সংখ্যা অবশ্যই 1 থেকে শুরু হবে এবং 1 করে বাড়তে হবে।"
+  },
+  "subtitleEditorValidationTimeFormat": {
+    "message": "অবৈধ সময়ের বিন্যাস। পর্যালোচনা করুন এবং এটি সংশোধন করুন."
+  },
+  "subtitleEditorValidationEndAfterStart": {
+    "message": "শেষ সময় অবশ্যই শুরুর সময়ের চেয়ে বেশি হতে হবে"
+  },
+  "subtitleEditorValidationContentRequired": {
+    "message": "প্রতিটি সাবটাইটেলে টেক্সটের অন্তত একটি লাইন থাকতে হবে"
+  },
+  "subtitleEditorValidationSpeakerPrefix": {
+    "message": "কিছু সাবটাইটেল স্পিকার ট্যাগ অন্তর্ভুক্ত. সমস্ত সাবটাইটেল অবশ্যই [speaker] উপসর্গ ব্যবহার করবে।"
+  },
+  "localPlayerTemporaryImportMode": {
+    "message": "অস্থায়ী আমদানি মোড"
+  },
+  "localPlayerLibraryTitle": {
+    "message": "স্থানীয় ভিডিও লাইব্রেরি"
+  },
+  "localPlayerEntryButton": {
+    "message": "স্থানীয় ভিডিও"
+  },
+  "localPlayerPageTitle": {
+    "message": "স্থানীয় ভিডিও · YouTube Dubbing"
+  },
+  "localPlayerFolderAccessDescription": {
+    "message": "একটি ফোল্ডার খোলা ফাইল হ্যান্ডেল সংরক্ষণ করে যাতে রিফ্রেশ করার পরে অ্যাক্সেস পুনরুদ্ধার করা যায়।"
+  },
+  "localPlayerTemporaryImportDescription": {
+    "message": "এই ব্রাউজারটি File System Access API সমর্থন করে না। আপনি অস্থায়ীভাবে ভিডিও এবং সাবটাইটেল যোগ করতে পারেন."
+  },
+  "localPlayerOpenFolder": {
+    "message": "ফোল্ডার খুলুন"
+  },
+  "localPlayerAddVideo": {
+    "message": "ভিডিও যোগ করুন"
+  },
+  "localPlayerAddSubtitle": {
+    "message": "সাবটাইটেল যোগ করুন"
+  },
+  "localPlayerVideoList": {
+    "message": "ভিডিও তালিকা"
+  },
+  "localPlayerFolders": {
+    "message": "ফোল্ডার"
+  },
+  "localPlayerFoldersDescription": {
+    "message": "ফোল্ডার দ্বারা আমদানি করা মিডিয়া ব্রাউজ করুন।"
+  },
+  "localPlayerAllVideos": {
+    "message": "সমস্ত ভিডিও"
+  },
+  "localPlayerAllVideosDescription": {
+    "message": "প্রতিটি আমদানি করা ভিডিও অনুসন্ধান এবং পরিচালনা করুন।"
+  },
+  "localPlayerLibraryView": {
+    "message": "লাইব্রেরি ভিউ"
+  },
+  "localPlayerBackToFolders": {
+    "message": "ফোল্ডারে ফিরে যান"
+  },
+  "localPlayerFolderSearchPlaceholder": {
+    "message": "ফোল্ডার, পাথ বা ফাইল অনুসন্ধান করুন"
+  },
+  "localPlayerTotalFolders": {
+    "message": "মোট {count} ফোল্ডার"
+  },
+  "localPlayerMatchedFolders": {
+    "message": "মিলেছে {visibleCount} / মোট {totalCount} ফোল্ডার"
+  },
+  "localPlayerNoFolderMatchesTitle": {
+    "message": "কোনো মিলে যাওয়া ফোল্ডার নেই"
+  },
+  "localPlayerNoFolderMatchesText": {
+    "message": "ফোল্ডার অনুসন্ধান সামঞ্জস্য করুন এবং আবার চেষ্টা করুন।"
+  },
+  "localPlayerRescanAll": {
+    "message": "সব রিস্ক্যান করুন"
+  },
+  "localPlayerFolderMenuLabel": {
+    "message": "ফোল্ডার কর্ম"
+  },
+  "localPlayerOpenFolderMenu": {
+    "message": "ফোল্ডার খুলুন"
+  },
+  "localPlayerRescanThisFolder": {
+    "message": "এই ফোল্ডারটি পুনরায় স্ক্যান করুন"
+  },
+  "localPlayerRemoveFromLibrary": {
+    "message": "লাইব্রেরি থেকে সরান"
+  },
+  "localPlayerFolderVideoCount": {
+    "message": "{count} ভিডিও"
+  },
+  "localPlayerFolderAssociatedSubtitleCount": {
+    "message": "{count} সংশ্লিষ্ট সাবটাইটেল"
+  },
+  "localPlayerFolderLastPlayed": {
+    "message": "সর্বশেষ খেলা হয়েছে {time}"
+  },
+  "localPlayerFolderLastScanned": {
+    "message": "সর্বশেষ স্ক্যান করা হয়েছে {time}"
+  },
+  "localPlayerRemoveFolderTitle": {
+    "message": "লাইব্রেরি থেকে এই ফোল্ডারটি সরাতে চান?"
+  },
+  "localPlayerRemoveFolderText": {
+    "message": "এটি শুধুমাত্র এই ফোল্ডারের লাইব্রেরি রেকর্ডগুলি সরিয়ে দেয়। ডিস্কে থাকা মূল ফাইলগুলি মুছে ফেলা হবে না।"
+  },
+  "localPlayerFolderRemoved": {
+    "message": "সরানো হয়েছে {folderName}"
+  },
+  "localPlayerRemoveFolderFailed": {
+    "message": "লাইব্রেরি থেকে ফোল্ডার সরাতে ব্যর্থ হয়েছে।"
+  },
+  "localPlayerRescanFailed": {
+    "message": "স্থানীয় লাইব্রেরি পুনরায় স্ক্যান করতে ব্যর্থ হয়েছে।"
+  },
+  "localPlayerRescanFolderUnavailable": {
+    "message": "এই ফোল্ডারটি পুনরায় স্ক্যান করা যাবে না কারণ সংরক্ষিত ফোল্ডার অ্যাক্সেস অনুপলব্ধ।"
+  },
+  "localPlayerCurrentDirectory": {
+    "message": "বর্তমান ডিরেক্টরি"
+  },
+  "localPlayerNoNewFilesFound": {
+    "message": "কোনো নতুন ফাইল পাওয়া যায়নি।"
+  },
+  "localPlayerScanComplete": {
+    "message": "স্ক্যান সম্পূর্ণ: যোগ করা হয়েছে {addedVideoCount} ভিডিও, {addedSubtitleCount} সাবটাইটেল, আপডেট করা {updatedCount} ফাইল।"
+  },
+  "localPlayerNever": {
+    "message": "কখনই না"
+  },
+  "localPlayerSearchPlaceholder": {
+    "message": "ভিডিও বা ফাইল পাথ অনুসন্ধান করুন"
+  },
+  "localPlayerFilterAll": {
+    "message": "সব"
+  },
+  "localPlayerFilterWithSubtitle": {
+    "message": "সাবটাইটেল সহ"
+  },
+  "localPlayerFilterNoSubtitle": {
+    "message": "সাবটাইটেল ছাড়া"
+  },
+  "localPlayerSortLastPlayed": {
+    "message": "সম্প্রতি খেলা ভিডিও"
+  },
+  "localPlayerSortName": {
+    "message": "ফাইলের নাম"
+  },
+  "localPlayerSortDuration": {
+    "message": "ভিডিও সময়কাল"
+  },
+  "localPlayerNoVideosTitle": {
+    "message": "এখনও কোন স্থানীয় ভিডিও নেই"
+  },
+  "localPlayerNoMatchesTitle": {
+    "message": "কোনো মিলে যাওয়া ভিডিও নেই৷"
+  },
+  "localPlayerNoVideosText": {
+    "message": "এখানে সাবটাইটেল লিঙ্ক এবং স্থানীয় ভয়েস ডাবিং পরিচালনা করতে একটি ফোল্ডার খুলুন বা ভিডিও যোগ করুন।"
+  },
+  "localPlayerNoMatchesText": {
+    "message": "অনুসন্ধান, ফিল্টার, বা সাজানো সামঞ্জস্য করুন এবং আবার চেষ্টা করুন।"
+  },
+  "localPlayerDeleteVideoLabel": {
+    "message": "মুছুন {fileName}"
+  },
+  "localPlayerRecognitionSubmitted": {
+    "message": "সাবটাইটেল স্বীকৃতি"
+  },
+  "localPlayerPlay": {
+    "message": "ভিডিও চালান"
+  },
+  "localPlayerSubtitles": {
+    "message": "সাবটাইটেল"
+  },
+  "localPlayerStartDubbing": {
+    "message": "ভয়েস ডাবিং শুরু করুন"
+  },
+  "localPlayerFloatingActionsLabel": {
+    "message": "স্থানীয় ভিডিও দ্রুত কর্ম"
+  },
+  "localPlayerOpenSidebar": {
+    "message": "সাইডবার খুলুন"
+  },
+  "localPlayerClose": {
+    "message": "বন্ধ"
+  },
+  "localPlayerSameDirectorySubtitleSummary": {
+    "message": "একই-ফোল্ডার সাবটাইটেল {sameCount} · লিঙ্ক করা {associatedCount}"
+  },
+  "localPlayerNoManageableSubtitles": {
+    "message": "পরিচালনা করার জন্য কোন সাবটাইটেল নেই"
+  },
+  "localPlayerAssociateAndUseForDubbing": {
+    "message": "সাবটাইটেল লিঙ্ক করুন এবং ভয়েস ডাবিংয়ের জন্য এটি ব্যবহার করুন"
+  },
+  "localPlayerSetForDubbing": {
+    "message": "ভয়েস ডাবিং জন্য এই সাবটাইটেল ব্যবহার করুন"
+  },
+  "localPlayerRemoveAssociation": {
+    "message": "সাবটাইটেল আনলিঙ্ক করুন"
+  },
+  "localPlayerRemoveAllAssociations": {
+    "message": "সমস্ত সাবটাইটেল আনলিঙ্ক করুন"
+  },
+  "localPlayerSelectVideoForSubtitleTitle": {
+    "message": "এই সাবটাইটেল লিঙ্ক করতে একটি ভিডিও নির্বাচন করুন"
+  },
+  "localPlayerAssociate": {
+    "message": "লিঙ্ক সাবটাইটেল"
+  },
+  "localPlayerInitialStatus": {
+    "message": "শুরু করতে একটি ফোল্ডার খুলুন, ভিডিও যোগ করুন বা ফাইল ড্রপ করুন।"
+  },
+  "localPlayerAscendingSortTitle": {
+    "message": "আরোহী; নিচের দিকে স্যুইচ করতে ক্লিক করুন"
+  },
+  "localPlayerDescendingSortTitle": {
+    "message": "অবরোহ; আরোহীতে স্যুইচ করতে ক্লিক করুন"
+  },
+  "localPlayerTotalVideos": {
+    "message": "মোট {count} ভিডিও"
+  },
+  "localPlayerMatchedVideos": {
+    "message": "মিলেছে {visibleCount} / মোট {totalCount} ভিডিও"
+  },
+  "localPlayerRouteVideoMissing": {
+    "message": "URL-এ উল্লেখ করা ভিডিওটি বর্তমান স্থানীয় ভিডিও লাইব্রেরিতে নেই।"
+  },
+  "localPlayerFolderAccessUnsupported": {
+    "message": "এই ব্রাউজার ফোল্ডার খুলতে পারে না. একটি অস্থায়ী আমদানির জন্য ভিডিও যোগ করুন/সাবটাইটেল যোগ করুন ব্যবহার করুন।"
+  },
+  "localPlayerImportComplete": {
+    "message": "{videoCount} ভিডিও এবং {subtitleCount} সাবটাইটেল আমদানি করা হয়েছে।"
+  },
+  "localPlayerOpenFolderFailed": {
+    "message": "ফোল্ডার খুলতে ব্যর্থ."
+  },
+  "localPlayerAddVideoFailed": {
+    "message": "ভিডিও যোগ করতে ব্যর্থ."
+  },
+  "localPlayerAddSubtitleFailed": {
+    "message": "সাবটাইটেল যোগ করতে ব্যর্থ."
+  },
+  "localPlayerAssociationSaved": {
+    "message": "সাবটাইটেল লিঙ্ক সংরক্ষিত."
+  },
+  "localPlayerAssociationSavedAndPreferred": {
+    "message": "সাবটাইটেল লিঙ্ক এবং ভয়েস ডাবিং জন্য সেট."
+  },
+  "localPlayerPreferredSubtitleSaved": {
+    "message": "ভয়েস ডাবিং জন্য সাবটাইটেল সেট."
+  },
+  "localPlayerAssociationRemoved": {
+    "message": "সাবটাইটেল লিঙ্ক সরানো হয়েছে."
+  },
+  "localPlayerRebindSubtitleTitle": {
+    "message": "এই সাবটাইটেল রিবাইন্ড করবেন?"
+  },
+  "localPlayerRebindSubtitleText": {
+    "message": "এই সাবটাইটেলটি ইতিমধ্যেই \"{fromVideo}\" এর সাথে যুক্ত। চালিয়ে যাওয়া সেই অ্যাসোসিয়েশনটিকে সরিয়ে দেবে এবং এটিকে \"{toVideo}\" এর সাথে সংযুক্ত করবে।"
+  },
+  "localPlayerRemoveAllAssociationsTitle": {
+    "message": "সমস্ত সাবটাইটেল আনলিঙ্ক করবেন?"
+  },
+  "localPlayerRemoveAllAssociationsText": {
+    "message": "এই ভিডিওর জন্য শুধুমাত্র সাবটাইটেল লিঙ্ক মুছে ফেলা হবে. সাবটাইটেল ফাইল রেকর্ড মুছে ফেলা হবে না."
+  },
+  "localPlayerAllAssociationsRemoved": {
+    "message": "সমস্ত সাবটাইটেল লিঙ্ক সরানো হয়েছে."
+  },
+  "localPlayerDeleteVideoTitle": {
+    "message": "এই ভিডিওটি মুছবেন?"
+  },
+  "localPlayerDeleteVideoText": {
+    "message": "এটি স্থানীয় লাইব্রেরি থেকে ভিডিও এবং সাবটাইটেল লিঙ্কগুলি সরিয়ে দেয়। ডিস্কের মূল ফাইলগুলি মুছে ফেলা হবে না।"
+  },
+  "localPlayerDelete": {
+    "message": "মুছুন"
+  },
+  "localPlayerVideoDeleted": {
+    "message": "মুছে ফেলা হয়েছে {fileName}"
+  },
+  "localPlayerDeleteVideoFailed": {
+    "message": "ভিডিও মুছে ফেলতে ব্যর্থ."
+  },
+  "localPlayerVideoFileAccessLost": {
+    "message": "এই ভিডিও ফাইল অ্যাক্সেস পুনরুদ্ধার করতে পারবেন না. আবার ভিডিও যোগ করুন."
+  },
+  "localPlayerVideoPlayerNotReady": {
+    "message": "ভিডিও প্লেয়ার এখনও প্রস্তুত নয়."
+  },
+  "localPlayerNowPlaying": {
+    "message": "এখন চলছে {fileName}"
+  },
+  "localPlayerDubbingStarted": {
+    "message": "স্থানীয় ভয়েস ডাবিং শুরু."
+  },
+  "localPlayerDubbingStartFailed": {
+    "message": "স্থানীয় ভয়েস ডাবিং শুরু করতে ব্যর্থ হয়েছে."
+  },
+  "localPlayerOpenSidebarFailed": {
+    "message": "সাইডবার খুলতে ব্যর্থ."
+  },
+  "localPlayerVideoFileReadFailed": {
+    "message": "স্থানীয় ভিডিও ফাইল পড়া যাবে না. আবার ভিডিও যোগ করুন."
+  },
+  "localPlayerUploadCancelled": {
+    "message": "আপলোড বাতিল করা হয়েছে."
+  },
+  "localPlayerSubtitleAssociatedBadge": {
+    "message": "{count} লিঙ্ক করা সাবটাইটেল"
+  },
+  "localPlayerNoSubtitleBadge": {
+    "message": "কোন লিঙ্ক করা সাবটাইটেল নেই"
+  },
+  "localPlayerUsedForDubbing": {
+    "message": "ভয়েস ডাবিং জন্য ব্যবহৃত"
+  },
+  "localPlayerAssociated": {
+    "message": "লিঙ্ক করা"
+  },
+  "localPlayerAssociatedOutsideFolder": {
+    "message": "এই ফোল্ডারের বাইরে লিঙ্ক করা হয়েছে"
+  },
+  "localPlayerNotAssociated": {
+    "message": "লিঙ্ক করা হয়নি"
+  },
+  "localPlayerNativeSubtitle": {
+    "message": "মূল সাবটাইটেল"
+  },
+  "localPlayerDubbingAlreadyStarted": {
+    "message": "ভয়েস ডাবিং শুরু"
+  },
+  "localPlayerThumbnailBackfillComplete": {
+    "message": "{count} ভিডিওগুলির জন্য থাম্বনেইল তৈরি করা হয়েছে৷"
+  },
+  "localPlayerThumbnailGenerationFailed": {
+    "message": "থাম্বনেইল জেনারেশন ব্যর্থ হয়েছে: {displayName} ({message})"
+  },
+  "localPlayerFreeUserNoSubtitleMessage": {
+    "message": "এই স্থানীয় ভিডিওটির কোনো লিঙ্ক করা সাবটাইটেল নেই। বিনামূল্যে ব্যবহারকারীরা এখনও স্থানীয় ভিডিওগুলির জন্য ব্যাকগ্রাউন্ড সাবটাইটেল স্বীকৃতি ব্যবহার করতে পারে না৷ AI সাবটাইটেল স্বীকৃতি ব্যবহার করতে সদস্যপদ আপগ্রেড করুন, অথবা ভয়েস ডাবিং শুরু করার আগে ম্যানুয়ালি একটি সাবটাইটেল ফাইল আপলোড করুন৷"
+  },
+  "localPlayerNoSubtitleUploadTitle": {
+    "message": "এই ভিডিওর কোন সাবটাইটেল নেই"
+  },
+  "localPlayerNoSubtitleUploadText": {
+    "message": "এআই সাবটাইটেল স্বীকৃতির জন্য এই ভিডিওটি আপলোড করবেন? আপলোড শুধুমাত্র সাবটাইটেল সনাক্ত করতে ব্যবহার করা হয়, ভিডিওটি স্বীকৃতির সাথে সাথে মুছে ফেলা হয় এবং আপনাকে ইমেল দ্বারা অবহিত করা হবে৷"
+  },
+  "localPlayerNavigationLabel": {
+    "message": "স্থানীয় ভিডিও লাইব্রেরি / টেক্সট টু স্পিচ"
+  },
+  "localPlayerCurrentPageNav": {
+    "message": "ভিডিও ডাবিং"
+  },
+  "localPlayerTextDubbingNav": {
+    "message": "টেক্সট টু স্পিচ"
+  },
+  "localPlayerTextDubbingTitle": {
+    "message": "টেক্সট টু স্পিচ"
+  },
+  "localPlayerTextDubbingDescription": {
+    "message": "টেক্সট টু স্পিচ - লক্ষ্য ভাষা"
+  },
+  "localPlayerTextDubbingVoiceType": {
+    "message": "ভয়েস টাইপ"
+  },
+  "localPlayerTextDubbingLanguage": {
+    "message": "লক্ষ্য ভাষা"
+  },
+  "localPlayerTextDubbingGender": {
+    "message": "লিঙ্গ"
+  },
+  "localPlayerTextDubbingVoice": {
+    "message": "ভয়েস"
+  },
+  "localPlayerTextDubbingInputLabel": {
+    "message": "ম্যানুয়াল ইনপুট"
+  },
+  "localPlayerTextDubbingInputPlaceholder": {
+    "message": "ম্যানুয়াল ইনপুট - টেক্সট টু স্পিচ"
+  },
+  "localPlayerTextDubbingLimitHint": {
+    "message": "টেক্সট টু স্পিচ: {chars} / {bytes}"
+  },
+  "localPlayerTextDubbingCounter": {
+    "message": "{chars} · {bytes}"
+  },
+  "localPlayerTextDubbingGenerate": {
+    "message": "টেক্সট টু স্পিচ MP3"
+  },
+  "localPlayerTextDubbingGenerating": {
+    "message": "সংরক্ষণ করা হচ্ছে..."
+  },
+  "localPlayerTextDubbingGenerated": {
+    "message": "টেক্সট টু স্পিচ MP3 · {seconds}s"
+  },
+  "localPlayerTextDubbingFailed": {
+    "message": "সংরক্ষণ ব্যর্থ"
+  },
+  "localPlayerTextDubbingNoVoice": {
+    "message": "এই নির্বাচনের জন্য কোনো ভয়েস উপলব্ধ নেই।"
+  },
+  "localPlayerTextDubbingEmptyText": {
+    "message": "সাবটাইটেল বিষয়বস্তু খালি হতে পারে না"
+  },
+  "localPlayerTextDubbingTooLong": {
+    "message": "টেক্সটটি খুব দীর্ঘ। সংক্ষিপ্ত করে আবার চেষ্টা করুন।"
+  },
+  "localPlayerTextDubbingDownload": {
+    "message": "রপ্তানি MP3"
+  },
+  "localPlayerTextDubbingClear": {
+    "message": "বাতিল"
+  },
+  "translationDomainGeneral": {
+    "message": "সাধারণ"
+  },
+  "translationDomainWeb3": {
+    "message": "Web3 ও ক্রিপ্টো"
+  },
+  "translationDomainTech": {
+    "message": "প্রযুক্তি"
+  },
+  "translationDomainNews": {
+    "message": "সংবাদ ও মিডিয়া"
+  },
+  "translationDomainProgramming": {
+    "message": "প্রোগ্রামিং"
+  },
+  "translationDomainEducation": {
+    "message": "শিক্ষা"
+  },
+  "translationDomainFinance": {
+    "message": "অর্থনীতি"
+  },
+  "translationDomainLaw": {
+    "message": "আইন"
+  },
+  "translationDomainAuto": {
+    "message": "অটোমোটিভ"
+  },
+  "translationDomainEcommerce": {
+    "message": "ই-কমার্স"
+  },
+  "translationDomainFashion": {
+    "message": "ফ্যাশন"
+  },
+  "translationDomainFood": {
+    "message": "খাবার ও রান্না"
+  },
+  "translationDomainGardening": {
+    "message": "বাগান করা"
+  },
+  "translationDomainMedical": {
+    "message": "চিকিৎসা ও স্বাস্থ্য"
+  },
+  "translationDomainMusic": {
+    "message": "সঙ্গীত"
+  },
+  "translationDomainPets": {
+    "message": "পোষা প্রাণী"
+  },
+  "translationDomainSports": {
+    "message": "ক্রীড়া"
+  },
+  "translationDomainTravel": {
+    "message": "ভ্রমণ"
+  },
+  "translationDomainChess": {
+    "message": "দাবা"
+  },
+  "translationDomainGaming": {
+    "message": "গেমিং"
+  },
+  "translationDomainGolf": {
+    "message": "গলফ"
+  },
+  "translationDomainMovies": {
+    "message": "সিনেমা ও টিভি"
+  },
+  "translationDomainPhotography": {
+    "message": "ফটোগ্রাফি"
+  },
+  "translationPreferencesSectionTitle": {
+    "message": "AI অনুবাদ"
+  },
+  "translationRulesEnabledLabel": {
+    "message": "AI অনুবাদে শব্দকোষ ও টেক্সট প্রতিস্থাপন প্রয়োগ করুন"
+  },
+  "translationRulesEnabledDescription": {
+    "message": "চালু থাকলে AI অনুবাদ নিচের সেটিংস ব্যবহার করবে। বন্ধ থাকলে আপনার বিদ্যমান সেটিংস সংরক্ষিত থাকবে।"
+  },
+  "glossaryTitle": {
+    "message": "শব্দকোষ"
+  },
+  "glossaryDescription": {
+    "message": "উৎস শব্দের জন্য নির্দিষ্ট অনুবাদ ঠিক করুন (যেমন Stratagem)। আপনার শব্দগুলো বিল্ট-ইন শব্দকোষের চেয়ে অগ্রাধিকার পাবে।"
+  },
+  "glossaryCreateButton": {
+    "message": "ব্যক্তিগত শব্দ যোগ করুন"
+  },
+  "glossaryEditTitle": {
+    "message": "ব্যক্তিগত শব্দ সম্পাদনা করুন"
+  },
+  "glossaryEditorDescription": {
+    "message": "শুধু ব্যক্তিগত শব্দ যোগ, সম্পাদনা, চালু বা মুছে ফেলা যায়।"
+  },
+  "glossaryTableTitle": {
+    "message": "বর্তমান ভাষার শব্দ"
+  },
+  "glossaryCombinedEmpty": {
+    "message": "এই ভাষার জন্য এখনো কোনো ব্যক্তিগত শব্দ নেই।"
+  },
+  "glossarySearchEmpty": {
+    "message": "মিলছে এমন কোনো শব্দ নেই।"
+  },
+  "glossarySearchPlaceholder": {
+    "message": "উৎস শব্দ খুঁজুন"
+  },
+  "glossarySourcePlaceholder": {
+    "message": "উৎস শব্দ"
+  },
+  "glossaryTargetPlaceholder": {
+    "message": "আবশ্যিক অনুবাদ"
+  },
+  "glossarySourceTerm": {
+    "message": "উৎস শব্দ"
+  },
+  "glossaryTargetTerm": {
+    "message": "অনুবাদ"
+  },
+  "replacementTitle": {
+    "message": "মূল লেখার ভুল সংশোধন"
+  },
+  "replacementDescription": {
+    "message": "AI অনুবাদের আগে সাবটাইটেল শনাক্তকরণের পুনরাবৃত্ত ত্রুটি (যেমন cloud code -> Claude Code) ঠিক করুন।"
+  },
+  "replacementCreateButton": {
+    "message": "ব্যক্তিগত প্রতিস্থাপন যোগ করুন"
+  },
+  "replacementEditTitle": {
+    "message": "ব্যক্তিগত প্রতিস্থাপন সম্পাদনা করুন"
+  },
+  "replacementEditorDescription": {
+    "message": "শুধু ব্যক্তিগত টেক্সট প্রতিস্থাপনগুলো AI অনুবাদের আগে প্রয়োগ করা হয়।"
+  },
+  "replacementFindPlaceholder": {
+    "message": "ভুল টেক্সট, যেমন cloud code"
+  },
+  "replacementReplacePlaceholder": {
+    "message": "এটি দিয়ে বদলান, যেমন claude code"
+  },
+  "replacementFindText": {
+    "message": "ভুল টেক্সট"
+  },
+  "replacementReplaceText": {
+    "message": "এটি দিয়ে বদলান"
+  },
+  "replacementEmpty": {
+    "message": "এখনো কোনো সংশোধনের নিয়ম নেই।"
+  },
+  "replacementSearchEmpty": {
+    "message": "মিলছে এমন কোনো প্রতিস্থাপন নেই।"
+  },
+  "replacementSearchPlaceholder": {
+    "message": "প্রতিস্থাপন খুঁজুন"
+  },
+  "translatedReplacementTitle": {
+    "message": "অনূদিত লেখার প্রতিস্থাপন"
+  },
+  "translatedReplacementDescription": {
+    "message": "অনুবাদ শেষ হওয়ার পর ব্যক্তিগত নিয়ম দিয়ে শব্দ বা বাক্যাংশ প্রতিস্থাপন করুন।"
+  },
+  "translatedReplacementCreateButton": {
+    "message": "অনূদিত লেখার প্রতিস্থাপন যোগ করুন"
+  },
+  "translatedReplacementLanguage": {
+    "message": "লক্ষ্য ভাষা"
+  },
+  "translatedReplacementFindText": {
+    "message": "অনূদিত লেখা"
+  },
+  "translatedReplacementReplaceText": {
+    "message": "যা দিয়ে প্রতিস্থাপন হবে"
+  },
+  "translatedReplacementSearchPlaceholder": {
+    "message": "অনূদিত লেখা খুঁজুন"
+  },
+  "translatedReplacementEmpty": {
+    "message": "এখনও কোনো অনূদিত লেখা প্রতিস্থাপনের নিয়ম নেই।"
+  },
+  "translatedReplacementSearchEmpty": {
+    "message": "মিল আছে এমন কোনো অনূদিত লেখা প্রতিস্থাপন নেই।"
+  },
+  "translatedReplacementCreateTitle": {
+    "message": "অনূদিত লেখার প্রতিস্থাপন যোগ করুন"
+  },
+  "translatedReplacementEditTitle": {
+    "message": "অনূদিত লেখার প্রতিস্থাপন সম্পাদনা করুন"
+  },
+  "translatedReplacementEditorDescription": {
+    "message": "শুধু সম্পন্ন অনুবাদ বদলাবে; মূল লেখা ও অনুবাদ ক্যাশ অপরিবর্তিত থাকবে।"
+  },
+  "translatedReplacementFindPlaceholder": {
+    "message": "অনূদিত লেখার শব্দ বা বাক্যাংশ"
+  },
+  "translatedReplacementReplacePlaceholder": {
+    "message": "পরিবর্তে দেখানোর শব্দ বা বাক্যাংশ"
+  },
+  "translatedReplacementEnabledDescription": {
+    "message": "বন্ধ করলে নিয়মটি সংরক্ষিত থাকবে, তবে অনূদিত লেখায় প্রয়োগ হবে না।"
+  },
+  "preferenceAdd": {
+    "message": "যোগ করুন"
+  },
+  "preferenceDomain": {
+    "message": "ক্ষেত্র"
+  },
+  "preferenceLanguage": {
+    "message": "ভাষা"
+  },
+  "preferenceEnabled": {
+    "message": "চালু"
+  },
+  "preferenceActions": {
+    "message": "কাজ"
+  },
+  "preferenceSource": {
+    "message": "উৎস"
+  },
+  "preferenceSourceUser": {
+    "message": "ব্যক্তিগত"
+  },
+  "preferenceSourceBuiltin": {
+    "message": "বিল্ট-ইন"
+  },
+  "preferenceStatus": {
+    "message": "অবস্থা"
+  },
+  "preferenceStatusEnabled": {
+    "message": "চালু"
+  },
+  "preferenceEdit": {
+    "message": "সম্পাদনা করুন"
+  },
+  "preferenceDelete": {
+    "message": "মুছুন"
+  },
+  "preferenceAllDomains": {
+    "message": "সব ক্ষেত্র"
+  },
+  "preferenceSearch": {
+    "message": "খুঁজুন"
+  },
+  "preferenceClearSearch": {
+    "message": "মুছুন"
+  },
+  "preferencePageLabel": {
+    "message": "পৃষ্ঠা {page}"
+  },
+  "preferencePreviousPage": {
+    "message": "আগের"
+  },
+  "preferenceNextPage": {
+    "message": "পরের"
+  },
+  "builtinGlossaryDomainsTitle": {
+    "message": "বিল্ট-ইন ক্ষেত্রভিত্তিক শব্দসমষ্টি"
+  },
+  "builtinGlossaryDomainCount": {
+    "message": "{count}টি বিল্ট-ইন শব্দ"
+  },
+  "builtinGlossaryEmptyHint": {
+    "message": "বর্তমান লক্ষ্য ভাষার জন্য কোনো বিল্ট-ইন শব্দকোষ নেই। তবুও আপনি ব্যক্তিগত শব্দ যোগ করতে পারেন।"
+  },
+  "builtinGlossaryEnabledSummary": {
+    "message": "{enabled} / {total} চালু"
+  },
+  "builtinGlossaryManageDomains": {
+    "message": "ক্ষেত্র পরিচালনা করুন"
+  },
+  "builtinGlossaryManageDomainsTitle": {
+    "message": "বিল্ট-ইন ক্ষেত্রভিত্তিক শব্দসমষ্টি পরিচালনা করুন"
+  },
+  "builtinGlossaryManageDomainsDescription": {
+    "message": "লক্ষ্য ভাষার জন্য বিল্ট-ইন শব্দকোষের ক্ষেত্রগুলো চালু বা বন্ধ করুন।"
+  },
+  "builtinGlossaryDomainSearchPlaceholder": {
+    "message": "ক্ষেত্র খুঁজুন"
+  },
+  "builtinGlossaryEnableAllDomains": {
+    "message": "সব চালু করুন"
+  },
+  "builtinGlossaryDisableAllDomains": {
+    "message": "সব বন্ধ করুন"
+  },
+  "builtinGlossaryDomainSearchEmpty": {
+    "message": "মিলছে এমন কোনো ক্ষেত্র নেই।"
+  },
+  "builtinGlossaryDomainTotal": {
+    "message": "{count}টি ক্ষেত্র"
+  },
+  "builtinGlossaryDomainDisabledStatus": {
+    "message": "ক্ষেত্রটি বন্ধ"
+  },
+  "builtinGlossaryBlockedStatus": {
+    "message": "বাদ দেওয়া"
+  },
+  "builtinGlossaryReadOnlyHint": {
+    "message": "অন্তর্নির্মিত নিয়ম"
+  },
+  "builtinTextReplacementManageDomainsTitle": {
+    "message": "অন্তর্নির্মিত মূল লেখা সংশোধনের ক্ষেত্র পরিচালনা করুন"
+  },
+  "builtinTextReplacementManageDomainsDescription": {
+    "message": "অন্তর্নির্মিত মূল লেখা সংশোধনের ক্ষেত্র চালু বা বন্ধ করুন।"
+  },
+  "builtinTextReplacementDomainCount": {
+    "message": "{count}টি অন্তর্নির্মিত নিয়ম"
+  },
+  "preferenceLoadFailed": {
+    "message": "লোড করা যায়নি। সাইন ইন করে আবার চেষ্টা করুন।"
+  },
+  "preferenceActionFailed": {
+    "message": "কাজটি করা যায়নি। পরে আবার চেষ্টা করুন।"
+  },
+  "pronunciationSettingsSectionTitle": {
+    "message": "উচ্চারণ"
+  },
+  "pronunciationSettingsTitle": {
+    "message": "উচ্চারণ সেটিংস"
+  },
+  "pronunciationSettingsDescription": {
+    "message": "অনুবাদিত পাঠ্যের জন্য ব্যক্তিগত উচ্চারণ সেট করুন। নিয়ম শুধুমাত্র স্থানীয় ডাবিং প্রযোজ্য."
+  },
+  "optionsNavPronunciationShort": {
+    "message": "উচ্চারণ"
+  },
+  "pronunciationNewRule": {
+    "message": "নতুন নিয়ম"
+  },
+  "pronunciationEditRule": {
+    "message": "উচ্চারণের নিয়ম সম্পাদনা করুন"
+  },
+  "pronunciationTargetLanguage": {
+    "message": "লক্ষ্য ভাষা"
+  },
+  "pronunciationSearchPlaceholder": {
+    "message": "মিলিত পাঠ্য অনুসন্ধান করুন"
+  },
+  "pronunciationStatus": {
+    "message": "স্ট্যাটাস"
+  },
+  "pronunciationMatchText": {
+    "message": "মেলে লেখা"
+  },
+  "pronunciationMatchPlaceholder": {
+    "message": "যেমন: হ্যালো"
+  },
+  "pronunciationTargetText": {
+    "message": "সংশোধিত অংশ"
+  },
+  "pronunciationReading": {
+    "message": "নির্দিষ্ট উচ্চারণ"
+  },
+  "pronunciationLoading": {
+    "message": "লোড হচ্ছে..."
+  },
+  "pronunciationEmpty": {
+    "message": "কোনো ব্যক্তিগত উচ্চারণ নিয়ম বর্তমান ফিল্টার মেলে না."
+  },
+  "pronunciationEditorHint": {
+    "message": "সংশোধন করতে অবিচ্ছিন্ন অংশ নির্বাচন করুন, তারপর তার উচ্চারণ লিখুন।"
+  },
+  "pronunciationSelectTarget": {
+    "message": "সংশোধন করতে পাঠ্য নির্বাচন করুন"
+  },
+  "pronunciationReselect": {
+    "message": "আবার নির্বাচন করুন"
+  },
+  "pronunciationEnterMatchFirst": {
+    "message": "প্রথমে মিলে যাওয়া টেক্সট লিখুন"
+  },
+  "pronunciationSelectionSummary": {
+    "message": "নির্বাচিত: {text}; ঘটনা {occurrence}"
+  },
+  "pronunciationSelectionRestoreFailed": {
+    "message": "সংরক্ষিত অবস্থান পুনরুদ্ধার করা যাবে না. সংরক্ষণ করার আগে পাঠ্যটি আবার নির্বাচন করুন।"
+  },
+  "pronunciationSelectionInvalid": {
+    "message": "ক্রমাগত পাঠ্য নির্বাচন করুন।"
+  },
+  "pronunciationModifier": {
+    "message": "স্বর"
+  },
+  "pronunciationSelectModifier": {
+    "message": "নির্বাচন করুন"
+  },
+  "pronunciationSaving": {
+    "message": "সংরক্ষণ করা হচ্ছে..."
+  },
+  "pronunciationDeleteConfirm": {
+    "message": "এই উচ্চারণের নিয়ম মুছবেন?"
+  },
+  "pronunciationOccurrence": {
+    "message": "ঘটনা {occurrence}"
+  },
+  "pronunciationUnknownError": {
+    "message": "অ্যাকশন ব্যর্থ হয়েছে। পরে আবার চেষ্টা করুন."
+  },
+  "preferenceAllStatuses": {
+    "message": "সব"
+  },
+  "preferenceCancel": {
+    "message": "বাতিল করুন"
+  },
+  "preferenceDisabled": {
+    "message": "অক্ষম"
+  },
+  "preferenceSave": {
+    "message": "সংরক্ষণ করুন"
+  },
+  "pronunciationFineSelection": {
+    "message": "সুনির্দিষ্ট নির্বাচন"
+  },
+  "pronunciationMergeUnits": {
+    "message": "সন্নিহিত উচ্চারণ একত্রিত করুন"
+  },
+  "pronunciationPerUnitHint": {
+    "message": "প্রতিটি অংশের জন্য একটি উচ্চারণ এবং স্বন লিখুন। প্রয়োজন অনুসারে অংশগুলিকে বিভক্ত বা একত্রিত করুন।"
+  },
+  "pronunciationPrimarySelection": {
+    "message": "স্মার্ট নির্বাচন"
+  },
+  "pronunciationSelectionGranularity": {
+    "message": "নির্বাচন গ্রানুলারিটি"
+  },
+  "pronunciationSelectionTooLong": {
+    "message": "সংশোধন করা অংশে সর্বাধিক 128টি অক্ষর থাকতে পারে।"
+  },
+  "pronunciationSplitAt": {
+    "message": "এ বিভক্ত"
+  },
+  "pronunciationUnitReading": {
+    "message": "প্রতি অংশ উচ্চারণ"
+  },
+  "pronunciationWholeReading": {
+    "message": "পুরো উচ্চারণ"
+  },
+  "pronunciationWholeToneHint": {
+    "message": "সম্পূর্ণ টোনড উচ্চারণ লিখুন। প্রতিটি অংশের জন্য একটি স্বন চয়ন করতে এটি বিভক্ত করুন।"
+  },
+  "pronunciationPinyinSyllable": {
+    "message": "পিনয়িন সিলেবল"
+  },
+  "pronunciationPinyinPlaceholder": {
+    "message": "একটি পিনয়িন সিলেবল লিখুন"
+  },
+  "pronunciationNumberedTone": {
+    "message": "টোন {tone}"
+  },
+  "pronunciationNeutralTone": {
+    "message": "নিরপেক্ষ টোন"
+  },
+  "googleDriveNoCaptionsTitle": {
+    "message": "এই Google Drive ভিডিওতে এখনও ক্যাপশন নেই"
+  },
+  "googleDriveNoCaptionsIntro": {
+    "message": "ডাবিংয়ের জন্য Google Drive-এর বিল্ট-ইন ক্যাপশন (CC) ব্যবহার করা হয়। আগে এই ভিডিওর জন্য ক্যাপশন চালু করুন, তারপর ফিরে আসুন:"
+  },
+  "googleDriveNoCaptionsStep1": {
+    "message": "Google Drive-এ ভিডিওতে রাইট-ক্লিক করে “ফাইলের তথ্য” → “ক্যাপশন ট্র্যাক ম্যানেজ করুন” বেছে নিন।"
+  },
+  "googleDriveNoCaptionsStep2": {
+    "message": "এখনও কোনো ক্যাপশন ট্র্যাক না থাকলে: সমর্থিত ভাষার (ইংরেজি, তুর্কি, চীনা, স্প্যানিশ, জাপানি ইত্যাদি) জন্য Drive নিজে থেকে ক্যাপশন তৈরি করে। “অটোমেটিক ক্যাপশন তৈরি করুন” দেখা গেলে সেটিতে ক্লিক করুন, অথবা ক্যাপশন ফাইল আপলোড করুন। শুধু ভিডিওর মালিক বা এডিটররা ক্যাপশন ম্যানেজ করতে পারেন।"
+  },
+  "googleDriveNoCaptionsStep3": {
+    "message": "ক্যাপশন তৈরি হতে কিছুটা সময় লাগে। প্লেয়ারের CC বোতাম ক্লিক করা গেলে পেজ রিফ্রেশ করে আবার ডাবিং শুরু করুন।"
+  },
+  "subtitleAudioLanguageMismatch": {
+    "message": "সাবটাইটেলের ভাষা ভয়েসের ভাষার সঙ্গে মিলছে না। সাবটাইটেল: {subtitle}। ভয়েস: {voice}। একটি ভয়েস শুধু নিজের ভাষার লেখা পড়তে পারে, তাই তৈরি করা ব্যর্থ হতে পারে বা উচ্চারণ ভুল হতে পারে। আগে সাবটাইটেল অনুবাদ করুন, অথবা লক্ষ্য ভাষা সাবটাইটেলের সঙ্গে মিলিয়ে বদলান। তবুও তৈরি করবেন?"
+  },
+  "subtitleAudioNav": {
+    "message": "সাবটাইটেল ডাবিং"
+  },
+  "subtitleAudioAiSubtitleBadge": {
+    "message": "AI সাবটাইটেল"
+  },
+  "subtitleAudioUserSubtitleBadge": {
+    "message": "এডিট করা সাবটাইটেল"
+  },
+  "subtitleAudioBack": {
+    "message": "ভিডিও ডাবিং"
+  },
+  "subtitleAudioProjectSubtitle": {
+    "message": "সাবটাইটেল: {name} · {count}টি লাইন"
+  },
+  "subtitleAudioReplaceSubtitles": {
+    "message": "সাবটাইটেল বদলান"
+  },
+  "subtitleAudioExportVideoOption": {
+    "message": "ডাব করা ভিডিও"
+  },
+  "subtitleAudioExportVideoHint": {
+    "message": "কোনো লাইন বলতে বেশি সময় লাগলে সেখানে ছবি ধীর হয়ে যায়, তাই তৈরি ভিডিওটি একটু লম্বা হতে পারে।"
+  },
+  "subtitleAudioExportMp3Option": {
+    "message": "ডাব করা MP3"
+  },
+  "subtitleAudioExportMp3Hint": {
+    "message": "দৈর্ঘ্য হুবহু মূল ভিডিওর সমান; এটি আবার ভিডিওর ওপর বসান বা অন্য অডিও ভাষা হিসেবে আপলোড করুন।"
+  },
+  "subtitleAudioDownloadSrt": {
+    "message": "SRT ডাউনলোড করুন"
+  },
+  "subtitleAudioEditAndExport": {
+    "message": "এডিট ও রপ্তানি"
+  },
+  "subtitleAudioEditNeedsSubtitle": {
+    "message": "এই ভিডিওতে এখনও কোনো সাবটাইটেল নেই। একটি সাবটাইটেল ফাইল লিঙ্ক করুন, অথবা AI সাবটাইটেল তৈরি করাতে একবার “ভয়েস ডাবিং শুরু করুন” চাপুন।"
+  },
+  "subtitleAudioTitle": {
+    "message": "প্রতিটি লাইনে দিন নিজের কণ্ঠ"
+  },
+  "subtitleAudioSubtitle": {
+    "message": "সাবটাইটেলের সময় মেনে ডাব করা MP3 পেতে একটি SRT ফাইল ইমপোর্ট করুন। ডাব করা ভিডিওর জন্য “ভিডিও ডাবিং”-এ ভিডিওটি বেছে নিয়ে “এডিট ও রপ্তানি” চাপুন।"
+  },
+  "subtitleAudioImportStep": {
+    "message": "সাবটাইটেল ইমপোর্ট"
+  },
+  "subtitleAudioVoicesStep": {
+    "message": "ভয়েস বেছে নিন"
+  },
+  "subtitleAudioExportStep": {
+    "message": "রপ্তানি"
+  },
+  "subtitleAudioSubtitles": {
+    "message": "সাবটাইটেল"
+  },
+  "subtitleAudioCueList": {
+    "message": "লাইন ও ভয়েস"
+  },
+  "subtitleAudioSettings": {
+    "message": "ভয়েস সেটিংস"
+  },
+  "subtitleAudioImport": {
+    "message": "SRT ফাইল বেছে নিন"
+  },
+  "subtitleAudioReplace": {
+    "message": "বদলান"
+  },
+  "subtitleAudioRemove": {
+    "message": "সরান"
+  },
+  "subtitleAudioDrop": {
+    "message": "আপনার SRT ফাইল এখানে ছেড়ে দিন"
+  },
+  "subtitleAudioDropNote": {
+    "message": "UTF-8 · সর্বোচ্চ 2 MiB, 5,000 লাইন, 3 ঘণ্টা"
+  },
+  "subtitleAudioEmpty": {
+    "message": "আপনার সাবটাইটেল এখানে দেখা যাবে। প্রতিটি লাইনের জন্য ভয়েস বেছে নিন, অথবা নির্বাচিত লাইনগুলোতে একসাথে প্রয়োগ করুন।"
+  },
+  "subtitleAudioLines": {
+    "message": "লাইন"
+  },
+  "subtitleAudioDuration": {
+    "message": "সাবটাইটেলের দৈর্ঘ্য"
+  },
+  "subtitleAudioCharacters": {
+    "message": "অক্ষর"
+  },
+  "subtitleAudioSearch": {
+    "message": "সাবটাইটেলের লেখা খুঁজুন"
+  },
+  "subtitleAudioSelectPage": {
+    "message": "এই পৃষ্ঠা নির্বাচন করুন"
+  },
+  "subtitleAudioSelectAll": {
+    "message": "সব ফলাফল নির্বাচন করুন"
+  },
+  "subtitleAudioSelected": {
+    "message": "{count}টি নির্বাচিত"
+  },
+  "subtitleAudioApply": {
+    "message": "ভয়েস প্রয়োগ করুন"
+  },
+  "subtitleAudioChooseVoice": {
+    "message": "একটি ভয়েস বেছে নিন"
+  },
+  "subtitleAudioText": {
+    "message": "সাবটাইটেলের লেখা"
+  },
+  "subtitleAudioTime": {
+    "message": "সময়"
+  },
+  "subtitleAudioVoice": {
+    "message": "ভয়েস"
+  },
+  "subtitleAudioFemale": {
+    "message": "মহিলা"
+  },
+  "subtitleAudioMale": {
+    "message": "পুরুষ"
+  },
+  "subtitleAudioPage": {
+    "message": "পৃষ্ঠা {page} / {total}"
+  },
+  "subtitleAudioPrevious": {
+    "message": "আগের"
+  },
+  "subtitleAudioNext": {
+    "message": "পরের"
+  },
+  "subtitleAudioPreview": {
+    "message": "লাইন {index} শুনুন"
+  },
+  "subtitleAudioStopPreview": {
+    "message": "শোনা থামান"
+  },
+  "subtitleAudioLanguage": {
+    "message": "লক্ষ্য ভাষা"
+  },
+  "subtitleAudioVoiceType": {
+    "message": "ভয়েস টাইপ"
+  },
+  "subtitleAudioFree": {
+    "message": "বিনামূল্যে"
+  },
+  "subtitleAudioVideoSync": {
+    "message": "প্রিভিউ রপ্তানি হওয়া অডিও ট্র্যাক অনুসরণ করে। ভিডিওর মূল শব্দ মিউট করা আছে।"
+  },
+  "subtitleAudioTimelineTitle": {
+    "message": "অডিও ট্র্যাক"
+  },
+  "subtitleAudioLayoutOnly": {
+    "message": "সাবটাইটেলের অবস্থান · রপ্তানির পরে ওয়েভফর্ম দেখা যাবে"
+  },
+  "subtitleAudioRealWave": {
+    "message": "রপ্তানি করা অডিওর ওয়েভফর্ম · কোনো জায়গায় যেতে ক্লিক করুন বা স্লাইডার টানুন"
+  },
+  "subtitleAudioTracks": {
+    "message": "{count}টি ভয়েস → একটি MP3"
+  },
+  "subtitleAudioTracksVideo": {
+    "message": "{count}টি ভয়েস → ডাব করা ভিডিও"
+  },
+  "subtitleAudioSeek": {
+    "message": "রপ্তানি করা মিডিয়ায় এগিয়ে-পিছিয়ে যান"
+  },
+  "subtitleAudioNoTimeline": {
+    "message": "সময়রেখা দেখতে সাবটাইটেল ইমপোর্ট করুন।"
+  },
+  "subtitleAudioGenerate": {
+    "message": "MP3 তৈরি করুন"
+  },
+  "subtitleAudioGenerateVideo": {
+    "message": "ডাব করা ভিডিও তৈরি করুন"
+  },
+  "subtitleAudioRegenerate": {
+    "message": "আবার তৈরি করুন"
+  },
+  "subtitleAudioRegenerateVideo": {
+    "message": "ভিডিও আবার তৈরি করুন"
+  },
+  "subtitleAudioRetry": {
+    "message": "ব্যর্থ অংশ আবার চেষ্টা করুন"
+  },
+  "subtitleAudioCancel": {
+    "message": "বাতিল করুন"
+  },
+  "subtitleAudioCancelling": {
+    "message": "বাতিল হচ্ছে…"
+  },
+  "subtitleAudioDownload": {
+    "message": "MP3 ডাউনলোড করুন"
+  },
+  "subtitleAudioDownloadVideo": {
+    "message": "ডাব করা ভিডিও ডাউনলোড করুন"
+  },
+  "subtitleAudioWorking": {
+    "message": "ভয়েস তৈরি হচ্ছে"
+  },
+  "subtitleAudioEncoding": {
+    "message": "অডিও ট্র্যাক তৈরি হচ্ছে"
+  },
+  "subtitleAudioFinalizing": {
+    "message": "MP3 চূড়ান্ত করা হচ্ছে"
+  },
+  "subtitleAudioMuxing": {
+    "message": "ডাব করা অডিও ভিডিওতে বসানো হচ্ছে"
+  },
+  "subtitleAudioFinished": {
+    "message": "আপনার MP3 তৈরি"
+  },
+  "subtitleAudioFinishedVideo": {
+    "message": "আপনার ডাব করা ভিডিও তৈরি"
+  },
+  "subtitleAudioCancelled": {
+    "message": "তৈরি করা বাতিল হয়েছে। সম্পূর্ণ হওয়া ভয়েস ক্লিপগুলো আবার চেষ্টার জন্য সংরক্ষিত আছে।"
+  },
+  "subtitleAudioProgressNote": {
+    "message": "এই পৃষ্ঠাটি খোলা রাখুন। আপনি বাতিল করে পরে সংরক্ষিত ক্লিপ দিয়ে আবার শুরু করতে পারবেন।"
+  },
+  "subtitleAudioMissing": {
+    "message": "{count}টি লাইনে ভয়েস বাছা হয়নি। প্রতিটি লাইনের জন্য ভয়েস বেছে নিন বা “ভয়েস প্রয়োগ করুন” ব্যবহার করুন।"
+  },
+  "subtitleAudioEmptyText": {
+    "message": "{count}টি লাইনে কোনো লেখা নেই। তৈরি করার আগে লেখা যোগ করুন।"
+  },
+  "subtitleAudioCacheNote": {
+    "message": "ভয়েস তৈরি করে আপনার বেছে নেওয়া পরিষেবা। সাবটাইটেল ও তৈরি হওয়া ক্লিপ এই ডিভাইসেই সংরক্ষিত থাকে; অডিও ও ভিডিও আপনার ডিভাইসেই জোড়া হয়।"
+  },
+  "subtitleAudioRestored": {
+    "message": "ড্রাফট ফিরিয়ে আনা হয়েছে।"
+  },
+  "subtitleAudioSaveError": {
+    "message": "ড্রাফট সংরক্ষণ করা যায়নি। আপনার পরিবর্তন হারাতে না চাইলে এই পৃষ্ঠাটি খোলা রাখুন।"
+  },
+  "subtitleAudioFailed": {
+    "message": "শেষ করা যায়নি। সম্পূর্ণ হওয়া ভয়েস ক্লিপগুলো রাখা আছে; চালিয়ে যেতে আবার চেষ্টা করুন।"
+  },
+  "subtitleAudioDetails": {
+    "message": "বিস্তারিত"
+  },
+  "subtitleAudioBadFile": {
+    "message": "একটি UTF-8 .srt ফাইল বেছে নিন (সর্বোচ্চ 2 MiB)।"
+  },
+  "subtitleAudioEncodingError": {
+    "message": "এই ফাইলটি বৈধ UTF-8 নয়। এটি UTF-8 হিসেবে সেভ করে আবার ইমপোর্ট করুন।"
+  },
+  "subtitleAudioImportFailed": {
+    "message": "সাবটাইটেল ফাইলটি পড়া যায়নি। এর SRT টাইমস্ট্যাম্প ও লেখা পরীক্ষা করুন।"
+  },
+  "subtitleAudioInvalidVideo": {
+    "message": "এই ভিডিওতে পড়ার মতো কোনো ছবির ট্র্যাক নেই, অথবা এর দৈর্ঘ্য জানা যাচ্ছে না।"
+  },
+  "subtitleAudioVideoLimitError": {
+    "message": "এই ভিডিওটি 3 ঘণ্টার বেশি লম্বা, তাই ডাব করা ভিডিও রপ্তানি করা যাবে না। একটি ছোট ফাইল বেছে নিন।"
+  },
+  "subtitleAudioVideoStorageError": {
+    "message": "এই ভিডিওর জন্য কম্পিউটারে যথেষ্ট খালি জায়গা নেই: প্রায় {needed} GB দরকার, ব্রাউজারের কাছে {available} GB আছে। ডিস্কে কিছু জায়গা খালি করে আবার চেষ্টা করুন, অথবা একটি ছোট ভিডিও বেছে নিন।"
+  },
+  "subtitleAudioVideoCodecError": {
+    "message": "এই ডিভাইস ওই ভিডিও কোডেক (যেমন HEVC) কপি করতে পারে না। নষ্ট ফাইল তৈরি না করে রপ্তানি বন্ধ করা হয়েছে। একটি H.264 MP4 দিয়ে চেষ্টা করুন।"
+  },
+  "subtitleAudioVideoAacUnsupported": {
+    "message": "এই ব্রাউজার AAC অডিও এনকোড করতে পারে না, তাই ডাব করা ভিডিও এক্সপোর্ট করা যাবে না। ডাব করা MP3 এখনও এক্সপোর্ট করা যাবে।"
+  },
+  "subtitleAudioVideoCopyUnsupported": {
+    "message": "এই ভিডিওর কোডেক ডাব করা MP4 হিসেবে এক্সপোর্ট করা যায় না। ডাব করা MP3 এখনও এক্সপোর্ট করা যাবে; ভিডিওর জন্য H.264 MP4 ব্যবহার করুন।"
+  },
+  "subtitleAudioPreviewFailed": {
+    "message": "এই লাইনটি শোনা যায়নি। বেছে নেওয়া ভয়েস ও আপনার ইন্টারনেট সংযোগ পরীক্ষা করুন।"
+  },
+  "subtitleAudioPlayBlocked": {
+    "message": "অডিও তৈরি। অডিও প্লেয়ারে প্লে চাপুন।"
+  },
+  "subtitleAudioGeneralError": {
+    "message": "কাজটি সম্পূর্ণ করা যায়নি। আপনার সংযোগ পরীক্ষা করে আবার চেষ্টা করুন।"
+  },
+  "subtitleAudioLimitError": {
+    "message": "এই প্রজেক্ট সমর্থিত সীমা ছাড়িয়ে গেছে। সর্বোচ্চ 5,000 লাইন / 3 ঘণ্টা রাখুন; প্রতিটি ভয়েস ক্লিপ 60 সেকেন্ডের কম হতে হবে।"
+  },
+  "subtitleAudioStorageError": {
+    "message": "এই রপ্তানির জন্য ডিভাইসে যথেষ্ট স্টোরেজ নেই। কিছু জায়গা খালি করে আবার চেষ্টা করুন।"
+  },
+  "subtitleAudioAccountError": {
+    "message": "ভয়েস তৈরি করতে একটি বৈধ অ্যাকাউন্ট ও পর্যাপ্ত কোটা লাগবে। আপনার অ্যাকাউন্ট পরীক্ষা করে আবার চেষ্টা করুন।"
+  },
+  "subtitleAudioPaused": {
+    "message": "অপেক্ষমাণ"
+  },
+  "subtitleAudioGeneratingCue": {
+    "message": "তৈরি হচ্ছে"
+  },
+  "subtitleAudioReadyCue": {
+    "message": "প্রস্তুত"
+  },
+  "subtitleAudioErrorCue": {
+    "message": "ব্যর্থ"
+  },
+  "subtitleAudioVoiceReset": {
+    "message": "এই সেটিংসে কিছু ভয়েস পাওয়া যাচ্ছে না। হাইলাইট করা লাইনগুলোর জন্য ভয়েস বেছে নিন।"
+  },
+  "subtitleAudioConfirmReplace": {
+    "message": "বর্তমান সাবটাইটেল ড্রাফট বদলাবেন?"
+  },
+  "subtitleAudioClearDraft": {
+    "message": "এই ড্রাফট থেকে সব সাবটাইটেল সরাবেন?"
+  },
+  "subtitleAudioOutputChanged": {
+    "message": "সেটিংস বদলেছে। ডাউনলোড আপডেট করতে আবার তৈরি করুন।"
+  },
+  "subtitleAudioBrowserError": {
+    "message": "এই ব্রাউজার অডিও প্রসেসিং চালু করতে পারেনি। একটি আপডেট করা ডেস্কটপ ব্রাউজারে চেষ্টা করুন।"
+  },
+  "subtitleAudioOtherTabBusy": {
+    "message": "অন্য একটি ট্যাবে সাবটাইটেলের অডিও তৈরি হচ্ছে বা শোনা হচ্ছে। সেই কাজ শেষ হওয়া পর্যন্ত অপেক্ষা করুন বা ট্যাবটি বন্ধ করুন, তারপর আবার চেষ্টা করুন।"
+  },
+  "uploadVideoLanguageLabel": {
+    "message": "ভিডিওর ভাষা (নির্বাচন করলে শনাক্তকরণের নির্ভুলতা বাড়ে)"
+  },
+  "uploadVideoLanguageAuto": {
+    "message": "স্বয়ংক্রিয় শনাক্তকরণ"
+  },
+  "subtitleAudioPreparing": {
+    "message": "বাক্যে ভাগ করে অনুবাদ করা হচ্ছে"
+  },
+  "subtitleAudioPrepareFailed": {
+    "message": "সাবটাইটেল ভাগ বা অনুবাদ করা যায়নি। পরে আবার চেষ্টা করুন।"
+  },
+  "subtitleAudioSourceLanguage": {
+    "message": "সাবটাইটেলের ভাষা"
+  },
+  "subtitleAudioSourceLanguageUnknown": {
+    "message": "এই সাবটাইটেলের ভাষা শনাক্ত করা যায়নি। সাবটাইটেল কোন ভাষায় লেখা তা বেছে নিন, তারপর আবার তৈরি করুন।"
+  },
+  "subtitleAudioPreparedNote": {
+    "message": "অনলাইন ডাবিংয়ের নিয়মে বাক্যে ভাগ করে {language}-এ অনুবাদ করা হয়েছে। নিচে অনুবাদ সরাসরি সম্পাদনা করতে পারেন।"
+  },
+  "subtitleAudioRestoreSource": {
+    "message": "মূল লেখা ফেরান"
+  },
+  "subtitleAudioRestoreSourceConfirm": {
+    "message": "মূল লেখা ফেরালে অনুবাদের সম্পাদনা মুছে যাবে; পরের এক্সপোর্টে আবার ভাগ ও অনুবাদ হবে। চালিয়ে যাবেন?"
+  },
+  "subtitleAudioLanguageChangedRetranslate": {
+    "message": "ডাবিং ভাষা বদলেছে, তাই তালিকা আবার মূল লেখায় ফিরেছে। এক্সপোর্টের সময় আবার ভাগ ও অনুবাদ হবে।"
+  },
+  "subtitleAudioCueTooLong": {
+    "message": "{index} নম্বর লাইন খুব দীর্ঘ। ছোট লাইনে ভাগ করে আবার চেষ্টা করুন।"
+  },
+  "subtitleAudioBackgroundOption": {
+    "message": "ব্যাকগ্রাউন্ড অডিও মেশান"
+  },
+  "subtitleAudioBackgroundHint": {
+    "message": "শনাক্তকরণের জন্য আপলোডের সময় এই ভিডিওর ব্যাকগ্রাউন্ড অডিও (কণ্ঠ বাদে) আলাদা করা হয়েছিল। অনলাইন ডাবিংয়ের মতো এটি ডাবিংয়ের নিচে বাজবে।"
+  },
+  "subtitleAudioDownloadingBackground": {
+    "message": "ব্যাকগ্রাউন্ড অডিও ডাউনলোড হচ্ছে"
+  },
+  "subtitleAudioBackgroundFailed": {
+    "message": "ব্যাকগ্রাউন্ড অডিও ডাউনলোড করা যায়নি। পরে আবার চেষ্টা করুন, অথবা “ব্যাকগ্রাউন্ড অডিও মেশান” বন্ধ করে আবার এক্সপোর্ট করুন।"
+  },
+  "subtitleAudioPreparedSameLanguageNote": {
+    "message": "সাবটাইটেল আগে থেকেই ডাবিং ভাষায়, তাই “একই ভাষা অনুবাদ করবেন না” সেটিং অনুযায়ী শুধু বাক্যে ভাগ করা হয়েছে।"
+  },
+  "dubbingToggleOn": {
+    "message": "ভয়েসওভার চালু করুন"
+  },
+  "dubbingToggleOff": {
+    "message": "ভয়েসওভার বন্ধ করুন"
+  },
+  "dubbingTogglePreparing": {
+    "message": "ভয়েসওভার প্রস্তুত হচ্ছে, অনুগ্রহ করে অপেক্ষা করুন…"
+  },
+  "dubbingSwitchedOffNotice": {
+    "message": "ভয়েসওভার বন্ধ, মূল অডিও ফিরিয়ে আনা হয়েছে"
+  },
+  "dubbingSwitchedOnNotice": {
+    "message": "ভয়েসওভার চালু"
+  },
+  "toggleDubbingCommand": {
+    "message": "ভয়েসওভার চালু / বন্ধ করুন"
+  },
+  "spotifyPublicAudioShowNotFound": {
+    "message": "অডিওটি এনক্রিপ্ট করা এবং এই শো-এর কোনো পাবলিক পডকাস্ট ফিড নেই (এটি Spotify এক্সক্লুসিভ হতে পারে)।"
+  },
+  "spotifyPublicAudioEpisodeNotMatched": {
+    "message": "অডিওটি এনক্রিপ্ট করা এবং শো-এর পাবলিক পডকাস্ট ফিডে মিলে যাওয়া কোনো পর্ব পাওয়া যায়নি।"
+  },
+  "spotifyPublicAudioLookupFailed": {
+    "message": "এই পর্বের পাবলিক অডিও পাওয়া যায়নি। অনুগ্রহ করে পরে আবার চেষ্টা করুন।"
+  }
+}

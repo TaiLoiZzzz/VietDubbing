@@ -1,0 +1,2315 @@
+{
+  "name": {
+    "message": "YouTube Dubbing – Переклад і дубляж"
+  },
+  "description": {
+    "message": "Переклад і дубляж відео в один клік — миттєво розумійте іноземні мови та відкривайте знання з усього світу"
+  },
+  "metadataNotFound": {
+    "message": "Метадані відео не знайдено. Оновіть сторінку й спробуйте ще раз"
+  },
+  "dubbingMediaNotFoundTitle": {
+    "message": "Немає відео для дубляжу"
+  },
+  "dubbingMediaNotFoundText": {
+    "message": "На цій сторінці немає придатного відео чи аудіо. Дочекайтеся завантаження відео й спробуйте ще раз або оновіть сторінку."
+  },
+  "noSubtitlesFound": {
+    "message": "У цьому відео немає субтитрів, тому переклад і дубляж недоступні"
+  },
+  "liveVideoNotSupported": {
+    "message": "Дубляж прямих ефірів поки не підтримується"
+  },
+  "universalDubbingNotSupported": {
+    "message": "У цій версії універсальний дубляж для цього відео не підтримується. Підтримку заплановано в наступній версії. Зверніться до служби підтримки для деталей."
+  },
+  "postLoginTranslationSettings": {
+    "message": "Вхід виконано. Натисніть ICON розширення, щоб вибрати мову перекладу та список голосів."
+  },
+  "noSubtitlesWaitOptimization": {
+    "message": "Немає доступних субтитрів. Зачекайте, доки розширення розпізнає субтитри для цього відео. Після завершення ви отримаєте email на зареєстровану адресу."
+  },
+  "privateVideoNoSubtitles": {
+    "message": "У цьому приватному відео немає субтитрів. Розширення не може розпізнати їх у фоні. Зробіть відео публічним або додайте субтитри вручну й спробуйте ще раз."
+  },
+  "trialMemberDurationLimit": {
+    "message": "У цьому відео немає субтитрів. Для пробних учасників розпізнавання субтитрів підтримується лише для відео до 15 хвилин. Premium-учасники можуть обробляти відео до 3 годин."
+  },
+  "premiumMemberDurationLimit": {
+    "message": "У відео немає субтитрів, а його тривалість перевищує 3 години, тому переклад і дубляж недоступні. Виберіть коротше відео або відео з субтитрами."
+  },
+  "freeUserNoSubtitles": {
+    "message": "У цьому відео немає вбудованих субтитрів. Оформіть підписку, щоб розпізнавати субтитри та користуватися перекладом і дубляжем."
+  },
+  "freeUserDailyLimit": {
+    "message": "Безкоштовні користувачі можуть переглядати через розширення до 5 відео на день. Оновіть підписку, щоб зняти ліміт."
+  },
+  "upgradeEntryUpgradeButton": {
+    "message": "Оформити підписку"
+  },
+  "upgradeEntryLaterButton": {
+    "message": "Пізніше"
+  },
+  "aiSubtitlesRecognitionInBackground": {
+    "message": "AI-субтитри ще недоступні. Розширення вже розпізнає їх у фоні. Після першої озвученої фрази можна закрити сторінку й чекати email; коли все буде готово, кнопка дубляжу стане зеленою, а переклад буде точнішим."
+  },
+  "upgradeMembershipForBackgroundRecognition": {
+    "message": "Оновіть підписку, і розширення розпізнаватиме AI-субтитри у фоні. Після email-повідомлення поверніться до перегляду; кнопка дубляжу стане зеленою, а переклад буде точнішим."
+  },
+  "memberFreeVoiceAzureSuggestion": {
+    "message": "Ви дублюєте безкоштовним голосом. Голоси Azure звучать природніше; учасники можуть використовувати Azure без обмежень і без додаткового поповнення."
+  },
+  "memberAiSubtitlePlatformPrioritySuggestion": {
+    "message": "Ці субтитри розпізнано фоновим AI розширення. Якщо переклад неточний, у базових налаштуваннях змініть пріоритет на субтитри платформи."
+  },
+  "openBasicSettingsLink": {
+    "message": "Відкрити базові налаштування"
+  },
+  "doNotShowAgainLink": {
+    "message": "Більше не показувати"
+  },
+  "loginAndUsePlugin": {
+    "message": "Спершу натисніть значок розширення та увійдіть, а потім використовуйте озвучення."
+  },
+  "voiceSettingsMismatch": {
+    "message": "Тип голосу й налаштування голосу не збігаються. Перейдіть на сторінку налаштувань, виберіть голос заново та збережіть."
+  },
+  "contentMenusTitle": {
+    "message": "Почати озвучення"
+  },
+  "videoDetectedDomainTooltip": {
+    "message": "Розпізнана галузь поточного відео: {domain}"
+  },
+  "dropboxClickCcToTranscribe": {
+    "message": "Це відео ще не транскрибовано. Натисніть кнопку CC унизу відео Dropbox, щоб створити субтитри. Після транскрипції натисніть кнопку дубляжу розширення для перекладу й озвучення."
+  },
+  "iosInterceptorConflictTitle": {
+    "message": "Виявлено конфлікт розширень"
+  },
+  "iosInterceptorConflictMessage": {
+    "message": "Інше розширення браузера блокує перехоплення запитів субтитрів. Вимкніть конфліктні розширення, оновіть сторінку й спробуйте ще раз."
+  },
+  "login": {
+    "message": "Увійти"
+  },
+  "logout": {
+    "message": "Вийти"
+  },
+  "subscribe": {
+    "message": "Підписка"
+  },
+  "save_settings": {
+    "message": "Зберегти"
+  },
+  "saving": {
+    "message": "Збереження..."
+  },
+  "saveSuccessTitle": {
+    "message": "Збережено"
+  },
+  "saveSuccessText": {
+    "message": "Налаштування збережено"
+  },
+  "saveFailedTitle": {
+    "message": "Не збережено"
+  },
+  "saveFailedText": {
+    "message": "Не вдалося зберегти налаштування. Спробуйте ще раз"
+  },
+  "confirmButton": {
+    "message": "Продовжити й зберегти"
+  },
+  "cancelButton": {
+    "message": "Скасувати"
+  },
+  "back": {
+    "message": "Назад"
+  },
+  "backToSettings": {
+    "message": "До налаштувань"
+  },
+  "backToVideoLibrary": {
+    "message": "До відеотеки"
+  },
+  "source_languages": {
+    "message": "Мова оригіналу:"
+  },
+  "target_languages": {
+    "message": "Мова перекладу:"
+  },
+  "selectSourceLanguage": {
+    "message": "Виберіть мову оригіналу"
+  },
+  "selectTargetLanguage": {
+    "message": "Виберіть мову перекладу"
+  },
+  "searchSourceLanguage": {
+    "message": "Пошук мови оригіналу..."
+  },
+  "searchTargetLanguage": {
+    "message": "Пошук мови перекладу..."
+  },
+  "loading": {
+    "message": "завантаження"
+  },
+  "sex": {
+    "message": "Стать:"
+  },
+  "voices": {
+    "message": "Голос:"
+  },
+  "voicesType": {
+    "message": "Тип голосу:"
+  },
+  "man": {
+    "message": "Чоловічий"
+  },
+  "woman": {
+    "message": "Жіночий"
+  },
+  "free": {
+    "message": "безкоштовно"
+  },
+  "memberFree": {
+    "message": "Безкоштовно для учасників"
+  },
+  "memberFreeRequireMembership": {
+    "message": "Цей тип голосу доступний лише учасникам. Оновіть підписку, щоб користуватися ним безкоштовно."
+  },
+  "azureRequireMembership": {
+    "message": "Azure TTS доступний лише учасникам. Оновіть підписку, щоб розблокувати якісні голоси Azure."
+  },
+  "originalAudio": {
+    "message": "Оригінал"
+  },
+  "translatedAudio": {
+    "message": "Переклад"
+  },
+  "backgroundAudio": {
+    "message": "Фон"
+  },
+  "textToSpeech": {
+    "message": "Текст у мовлення:"
+  },
+  "textToSpeechToggle": {
+    "message": "Плаваюча кнопка"
+  },
+  "showSubtitle": {
+    "message": "субтитри:"
+  },
+  "subtitleSize": {
+    "message": "Розмір"
+  },
+  "subtitles": {
+    "message": "Субтитри"
+  },
+  "toggleSubtitles": {
+    "message": "Перемкнути субтитри"
+  },
+  "subtitleDisplayMode": {
+    "message": "Режим субтитрів"
+  },
+  "subtitleModeTranslated": {
+    "message": "Лише переклад"
+  },
+  "subtitleModeBilingual": {
+    "message": "Двомовні субтитри"
+  },
+  "subtitleModeOff": {
+    "message": "Субтитри вимкнено"
+  },
+  "translateService": {
+    "message": "Переклад:"
+  },
+  "translationEngine": {
+    "message": "Рушій перекладу"
+  },
+  "translationService": {
+    "message": "Сервіс перекладу"
+  },
+  "translationServiceTitle": {
+    "message": "Сервіс перекладу"
+  },
+  "advancedSettings": {
+    "message": "Додаткові налаштування"
+  },
+  "pauseVideo": {
+    "message": "Пауза відео"
+  },
+  "iosOpenOriginVolume": {
+    "message": "Увімкнути оригінальний звук"
+  },
+  "voicesAndSubtitles": {
+    "message": "Голос і субтитри"
+  },
+  "voicesAndSubtitlesTitle": {
+    "message": "Голос і субтитри"
+  },
+  "speakerList": {
+    "message": "Список мовців"
+  },
+  "speakersTitle": {
+    "message": "Мовці"
+  },
+  "deleteSpeaker": {
+    "message": "Видалити"
+  },
+  "editSpeaker": {
+    "message": "Редагувати"
+  },
+  "speakerName": {
+    "message": "Ім'я мовця"
+  },
+  "enterSpeakerName": {
+    "message": "Введіть ім'я мовця"
+  },
+  "enterVoice": {
+    "message": "Введіть назву голосу"
+  },
+  "voice": {
+    "message": "Голос"
+  },
+  "gender": {
+    "message": "Стать"
+  },
+  "male": {
+    "message": "Чоловіча"
+  },
+  "female": {
+    "message": "Жіноча"
+  },
+  "edit": {
+    "message": "Редагувати"
+  },
+  "delete": {
+    "message": "Видалити"
+  },
+  "save": {
+    "message": "Зберегти"
+  },
+  "cancel": {
+    "message": "Скасувати"
+  },
+  "confirmDeleteSpeaker": {
+    "message": "Видалити цього мовця?"
+  },
+  "noSpeakers": {
+    "message": "Мовців немає"
+  },
+  "memberUser": {
+    "message": "PRO"
+  },
+  "accountBalance": {
+    "message": "Баланс:"
+  },
+  "userAccountAriaLabel": {
+    "message": "Обліковий запис"
+  },
+  "membershipExpires": {
+    "message": "До"
+  },
+  "shortcutSettings": {
+    "message": "Гарячі клавіші"
+  },
+  "subscriptionRecharge": {
+    "message": "Підписка й поповнення"
+  },
+  "membershipIcon": {
+    "message": "Значок підписки"
+  },
+  "browserShortcutSettingsTip": {
+    "message": "Налаштуйте гарячі клавіші в налаштуваннях розширень браузера"
+  },
+  "safariShortcutSettingsTip": {
+    "message": "Налаштуйте гарячі клавіші в Safari > Параметри > Розширення"
+  },
+  "edgeShortcutSettingsTip": {
+    "message": "Відкривається сторінка гарячих клавіш розширень Edge"
+  },
+  "firefoxShortcutSettingsTip": {
+    "message": "Відкривається сторінка додатків Firefox. Налаштуйте клавіші в розділі Розширення і теми"
+  },
+  "dubbingSettings": {
+    "message": "Налаштування дубляжу"
+  },
+  "debugInfo": {
+    "message": "Дані налагодження"
+  },
+  "sourceLanguage": {
+    "message": "Мова оригіналу"
+  },
+  "targetLanguage": {
+    "message": "Мова перекладу"
+  },
+  "vipRequiredTitle": {
+    "message": "Потрібна підписка"
+  },
+  "vipRequiredText": {
+    "message": "Щоб користуватися цією функцією, потрібна підписка"
+  },
+  "vipAndBalanceRequiredTitle": {
+    "message": "Потрібні підписка й баланс"
+  },
+  "vipAndBalanceRequiredText": {
+    "message": "Щоб користуватися цією функцією, потрібна підписка та достатній баланс"
+  },
+  "balanceRequiredTitle": {
+    "message": "Потрібен баланс"
+  },
+  "balanceRequiredText": {
+    "message": "На рахунку недостатньо коштів. Поповніть баланс, щоб користуватися функцією"
+  },
+  "lowBalanceTitle": {
+    "message": "Низький баланс"
+  },
+  "lowBalanceText": {
+    "message": "Ваш баланс нижче $$1. Радимо поповнити його, щоб сервіс працював без перерв"
+  },
+  "insufficientBalance": {
+    "message": "Через недостатній баланс сервіс знижено до Google Translate. Щоб користуватися AI-перекладом, поповніть баланс."
+  },
+  "insufficientBalanceAlertMsg": {
+    "message": "Недостатній баланс. Поповніть його перед використанням AI-перекладу та Azure TTS. Якщо не хочете поповнювати, поверніться до Google Translate і безкоштовних голосів."
+  },
+  "balanceRunningLow": {
+    "message": "Баланс майже вичерпано. Щоб уникнути поганого досвіду перегляду, радимо поповнити його заздалегідь."
+  },
+  "membershipRequired": {
+    "message": "Оновіть підписку перед використанням перекладу OpenAI."
+  },
+  "membershipRequiredForAI": {
+    "message": "Оновіть підписку перед використанням AI-перекладу. Якщо не хочете оновлювати, можна вибрати Google Translate."
+  },
+  "insufficientMembership": {
+    "message": "Термін підписки минув. Оновіть її перед використанням AI-перекладу та Azure TTS. Якщо не хочете оновлювати, можна вибрати Google Translate і безкоштовні голоси."
+  },
+  "insufficientBalanceAndMembership": {
+    "message": "Оновіть підписку й поповніть баланс перед використанням AI-перекладу та Azure TTS. Якщо не хочете, можна вибрати Google Translate і безкоштовні голоси."
+  },
+  "freeForVip": {
+    "message": "Безкоштовно для VIP"
+  },
+  "freeOptionTipText": {
+    "message": "Якщо не хочете поповнювати, виберіть безкоштовний варіант, "
+  },
+  "translateEngineTipText": {
+    "message": "змініть сервіс перекладу на Google"
+  },
+  "voiceTypeTipText": {
+    "message": "змініть тип голосу на безкоштовний"
+  },
+  "vipFreeOptionTipText": {
+    "message": "Як учасник, ви можете безкоштовно користуватися такими сервісами перекладу"
+  },
+  "vipTranslateEngineTipText": {
+    "message": "Змініть сервіс перекладу на безкоштовний для учасників: gemini, deepseek, gpt-3.5-turbo або claude-3-haiku"
+  },
+  "pay": {
+    "message": "оплатити"
+  },
+  "switchModelWarning": {
+    "message": "Перемикання голосу або моделі перекладу під час відтворення відео спричинить додаткові витрати через змарновані ресурси. Радимо перемкнути в наступному відео. Щоб усе одно продовжити, натисніть Продовжити й зберегти."
+  },
+  "selectSpeaker": {
+    "message": "Вибрати"
+  },
+  "speaker": {
+    "message": "Мовець"
+  },
+  "rechargeLimit": {
+    "message": "Баланс+учасник"
+  },
+  "tooExpensive": {
+    "message": "Задорого"
+  },
+  "dropdownPlaceholder": {
+    "message": "Виберіть"
+  },
+  "dropdownNoOptions": {
+    "message": "Немає варіантів"
+  },
+  "dropdownSearch": {
+    "message": "Пошук..."
+  },
+  "swapVolumeSettingsCommand": {
+    "message": "Перемкнути гучність між оригіналом і дубляжем"
+  },
+  "cycleSubtitleModeCommand": {
+    "message": "Перемкнути субтитри: двомовні → лише переклад → вимк."
+  },
+  "trialMemberModelLimit": {
+    "message": "Пробні учасники можуть використовувати лише Gemini і Google Translate. Щоб користуватися іншими моделями, оформіть підписку."
+  },
+  "subtitlesRateLimitedByYouTube": {
+    "message": "YouTube тимчасово обмежив доступ до субтитрів цього відео. Спробуйте пізніше."
+  },
+  "musicVideoNotSupported": {
+    "message": "Це музичне відео. Переклад і дубляж не підтримуються."
+  },
+  "hideUntilNextVisit": {
+    "message": "Сховати до наступного візиту"
+  },
+  "disableGlobally": {
+    "message": "Вимкнути всюди"
+  },
+  "sidebarHideUntilNextVisit": {
+    "message": "Сховати до наступного візиту"
+  },
+  "sidebarDisableForSite": {
+    "message": "Вимкнути для цього сайту"
+  },
+  "sidebarDisableGlobally": {
+    "message": "Вимкнути всюди"
+  },
+  "sidebarReenableHint": {
+    "message": "Можна знову ввімкнути в "
+  },
+  "sidebarSettings": {
+    "message": "Налаштування"
+  },
+  "sidebarReenableHintSuffix": {
+    "message": " "
+  },
+  "notSupported": {
+    "message": "Не підтримується"
+  },
+  "multiVideoNotSupported": {
+    "message": "На сторінці кілька відео. Універсальний дубляж у режимі HLS підтримує лише сторінки з одним відео."
+  },
+  "mediaSourceNotDetected": {
+    "message": "Не вдалося визначити джерело відео. Цей сайт може не підтримуватися."
+  },
+  "uploadMediaForRecognition": {
+    "message": "Субтитри не знайдено. Завантажити відео для AI-розпізнавання субтитрів?"
+  },
+  "startUpload": {
+    "message": "Почати завантаження"
+  },
+  "uploadingMedia": {
+    "message": "Завантаження медіа..."
+  },
+  "downloading": {
+    "message": "Завантаження"
+  },
+  "uploading": {
+    "message": "Надсилання"
+  },
+  "completing": {
+    "message": "Завершення"
+  },
+  "uploadComplete": {
+    "message": "Завантажено"
+  },
+  "waitingForRecognition": {
+    "message": "Відео успішно завантажено. AI-розпізнавання субтитрів триває. Коли все буде готово, ви отримаєте email."
+  },
+  "uploadFailed": {
+    "message": "Помилка завантаження"
+  },
+  "corsNotSupported": {
+    "message": "Цей сайт не дозволяє завантажувати медіафайли. Універсальний дубляж не підтримується."
+  },
+  "mediaDownloadInterrupted": {
+    "message": "Завантаження медіафайлу перервано через мережеву помилку (це не обмеження сайту). Спробуйте завантажити ще раз."
+  },
+  "zoomRecordingDnrNotSupported": {
+    "message": "Ваш браузер не підтримує розпізнавання завантажених записів Zoom. Використовуйте Chrome/Edge."
+  },
+  "zoomRecordingDownloadForbidden403": {
+    "message": "Завантаження запису Zoom заборонено (403). Відтворіть або оновіть сторінку, щоб пройти перевірку, потім повторіть завантаження."
+  },
+  "liveStreamNotSupported": {
+    "message": "Прямі трансляції не підтримують універсальний дубляж."
+  },
+  "noAudioTrackFound": {
+    "message": "Аудіодоріжку не знайдено. Схоже, це відео без звуку, тому його не можна використати для розпізнавання дубляжу."
+  },
+  "universalDubbingMemberOnly": {
+    "message": "Універсальний дубляж потребує хмарних GPU-ресурсів (висока вартість), лише для VIP."
+  },
+  "videoDurationExceedsLimit": {
+    "message": "Це відео довше 3 годин. Універсальний дубляж поки не підтримує відео понад 3 години."
+  },
+  "videoDrmProtected": {
+    "message": "Це відео захищене DRM і не може використовуватися для дубляжу."
+  },
+  "pleaseClickVideoToPlay": {
+    "message": "Натисніть відео, щоб відкрити його, а потім скористайтеся дубляжем."
+  },
+  "iosUniversalDubbingNotSupported": {
+    "message": "Універсальний дубляж не підтримується на пристроях iOS. Використовуйте настільний браузер."
+  },
+  "membershipRequiredTitle": {
+    "message": "Потрібна підписка"
+  },
+  "error": {
+    "message": "Помилка"
+  },
+  "unknownError": {
+    "message": "Сталася невідома помилка. Спробуйте ще раз."
+  },
+  "doNotClosePage": {
+    "message": "Не закривайте й не оновлюйте цю сторінку під час завантаження, інакше його буде перервано."
+  },
+  "taskAlreadySubmitted": {
+    "message": "Це відео вже обробляється для AI-розпізнавання субтитрів. Дочекайтеся email-повідомлення."
+  },
+  "sampleAesNotSupported": {
+    "message": "Це відео використовує шифрування SAMPLE-AES, яке наразі не підтримується для завантаження."
+  },
+  "hlsKeyFetchFailed": {
+    "message": "Не вдалося отримати ключ розшифрування для цього відео. Відео може бути захищене або сервер ключів недоступний."
+  },
+  "hlsDecryptionFailed": {
+    "message": "Не вдалося розшифрувати вміст відео. Ключ шифрування може бути неправильним або формат відео несумісний."
+  },
+  "subtitleStyleOptionsTitle": {
+    "message": "Параметри стилю субтитрів"
+  },
+  "subtitleStyleOptionsDesc": {
+    "message": "Зміни зберігаються й застосовуються миттєво."
+  },
+  "subtitleStyleSectionTitle": {
+    "message": "Стиль субтитрів"
+  },
+  "subtitleStylePreviewTitle": {
+    "message": "Попередній перегляд"
+  },
+  "subtitleStylePreviewTag": {
+    "message": "Наживо"
+  },
+  "subtitleStylePreviewText": {
+    "message": "Він вважав, що цей молодий чоловік має великий потенціал."
+  },
+  "subtitleStylePosition": {
+    "message": "Позиція субтитрів"
+  },
+  "subtitleStylePositionTop": {
+    "message": "Угорі"
+  },
+  "subtitleStylePositionMiddle": {
+    "message": "Посередині"
+  },
+  "subtitleStylePositionBottom": {
+    "message": "Унизу"
+  },
+  "subtitleStyleFontFamily": {
+    "message": "Шрифт"
+  },
+  "subtitleStyleFontSize": {
+    "message": "Розмір шрифту"
+  },
+  "subtitleStyleCustomOption": {
+    "message": "Власний"
+  },
+  "subtitleStyleCustomFont": {
+    "message": "Власний шрифт"
+  },
+  "subtitleStyleCustomFontPlaceholder": {
+    "message": "напр. PingFang SC, Arial"
+  },
+  "subtitleStyleTextColor": {
+    "message": "Колір тексту"
+  },
+  "subtitleStyleFontWeight": {
+    "message": "Товщина шрифту"
+  },
+  "subtitleStyleBackgroundColor": {
+    "message": "Колір фону"
+  },
+  "subtitleStyleBackgroundOpacity": {
+    "message": "Непрозорість фону"
+  },
+  "subtitleStyleEdgeStyle": {
+    "message": "Стиль краю"
+  },
+  "subtitleStyleEdgeNone": {
+    "message": "Немає"
+  },
+  "subtitleStyleEdgeShadow": {
+    "message": "Тінь"
+  },
+  "subtitleStyleEdgeOutline": {
+    "message": "Обведення"
+  },
+  "subtitleStyleFontNone": {
+    "message": "Немає"
+  },
+  "subtitleStyleFontDefault": {
+    "message": "Типовий"
+  },
+  "subtitleStyleFontPingFang": {
+    "message": "PingFang SC"
+  },
+  "subtitleStyleFontYaHei": {
+    "message": "Microsoft YaHei"
+  },
+  "subtitleStyleFontHeiti": {
+    "message": "STHeiti"
+  },
+  "subtitleStyleFontKaiti": {
+    "message": "Kaiti SC"
+  },
+  "subtitleStyleFontSongti": {
+    "message": "STSong"
+  },
+  "subtitleStyleFontFangsong": {
+    "message": "FangSong"
+  },
+  "subtitleStyleFontDongqingHeiti": {
+    "message": "Dongqing Heiti"
+  },
+  "subtitleStyleFontLantingHei": {
+    "message": "Lanting Hei"
+  },
+  "subtitleStyleFontHanyiHeiliu": {
+    "message": "Hanyi Heiliu"
+  },
+  "subtitleStyleFontHanyiZhonghei": {
+    "message": "Hanyi Zhonghei"
+  },
+  "subtitleStyleFontSTSong": {
+    "message": "Songti"
+  },
+  "subtitleStyleFontWawati": {
+    "message": "Wawati"
+  },
+  "subtitleStyleFontWeibei": {
+    "message": "Weibei"
+  },
+  "subtitleStyleFontXingkai": {
+    "message": "Xingkai"
+  },
+  "subtitleStyleFontYuanti": {
+    "message": "Yuanti"
+  },
+  "subtitleStyleFontArialUnicode": {
+    "message": "Arial Unicode MS"
+  },
+  "subtitleStyleFontArial": {
+    "message": "Arial"
+  },
+  "subtitleStyleFontCourierNew": {
+    "message": "Courier New"
+  },
+  "subtitleStyleFontGeorgia": {
+    "message": "Georgia"
+  },
+  "subtitleStyleFontTahoma": {
+    "message": "Tahoma"
+  },
+  "subtitleStyleFontTimesNewRoman": {
+    "message": "Times New Roman"
+  },
+  "subtitleStyleFontTrebuchetMS": {
+    "message": "Trebuchet MS"
+  },
+  "subtitleStyleFontVerdana": {
+    "message": "Verdana"
+  },
+  "subtitleStyleFontHelveticaNeue": {
+    "message": "Helvetica Neue"
+  },
+  "subtitleStyleFontHiraginoMincho": {
+    "message": "Hiragino Mincho ProN"
+  },
+  "subtitleStyleFontHiraginoKaku": {
+    "message": "Hiragino Kaku Gothic ProN"
+  },
+  "subtitleStyleFontKohinoor": {
+    "message": "Kohinoor Devanagari"
+  },
+  "subtitleStyleFontAppleSD": {
+    "message": "Apple SD Gothic Neo"
+  },
+  "subtitleStyleFontNanumGothic": {
+    "message": "Nanum Gothic"
+  },
+  "subtitleStyleFontCustom": {
+    "message": "Власний"
+  },
+  "subtitleStyleColorWhite": {
+    "message": "Білий"
+  },
+  "subtitleStyleColorYellow": {
+    "message": "Жовтий"
+  },
+  "subtitleStyleColorOrange": {
+    "message": "Помаранчевий"
+  },
+  "subtitleStyleColorGray": {
+    "message": "Сірий"
+  },
+  "subtitleStyleColorGreen": {
+    "message": "Зелений"
+  },
+  "subtitleStyleColorCyan": {
+    "message": "Блакитний"
+  },
+  "subtitleStyleColorBlue": {
+    "message": "Синій"
+  },
+  "subtitleStyleColorMagenta": {
+    "message": "Маджента"
+  },
+  "subtitleStyleColorRed": {
+    "message": "Червоний"
+  },
+  "subtitleStyleColorBlack": {
+    "message": "Чорний"
+  },
+  "subtitleStyleEditorViewLabel": {
+    "message": "Режим редагування стилю"
+  },
+  "subtitleStyleEditorViewTranslated": {
+    "message": "Лише переклад"
+  },
+  "subtitleStyleEditorViewBilingual": {
+    "message": "Двомовні"
+  },
+  "subtitleStyleLayoutSectionTitle": {
+    "message": "Двомовне компонування"
+  },
+  "subtitleStyleOrder": {
+    "message": "Порядок субтитрів"
+  },
+  "subtitleStyleOrderTranslatedFirst": {
+    "message": "Переклад зверху"
+  },
+  "subtitleStyleOrderOriginalFirst": {
+    "message": "Оригінал зверху"
+  },
+  "subtitleStyleLineGap": {
+    "message": "Міжрядковий інтервал"
+  },
+  "subtitleStyleTextAlign": {
+    "message": "Горизонтальне вирівнювання"
+  },
+  "subtitleStyleTextAlignLeft": {
+    "message": "Ліворуч"
+  },
+  "subtitleStyleTextAlignCenter": {
+    "message": "По центру"
+  },
+  "subtitleStyleTextAlignRight": {
+    "message": "Праворуч"
+  },
+  "subtitleStyleTranslatedSectionTitle": {
+    "message": "Стиль перекладу"
+  },
+  "subtitleStyleOriginalSectionTitle": {
+    "message": "Стиль оригіналу"
+  },
+  "subtitleStyleFollowTranslated": {
+    "message": "Як у перекладі"
+  },
+  "subtitleStyleUsesCurrentSettings": {
+    "message": "Використовує поточні налаштування"
+  },
+  "subtitleStyleOriginalSizePercent": {
+    "message": "Співвідношення розміру"
+  },
+  "subtitleStyleSharedBackgroundSectionTitle": {
+    "message": "Спільний фон"
+  },
+  "subtitleStyleRestoreDefaults": {
+    "message": "Відновити типові"
+  },
+  "subtitleStylePreviewOriginalText": {
+    "message": "He thought this young man had great potential."
+  },
+  "subtitleStyleColorLightGray": {
+    "message": "Світло-сірий"
+  },
+  "disabledSitesSectionTitle": {
+    "message": "Вимкнені сайти"
+  },
+  "disabledSitesTitle": {
+    "message": "Керування вимкненими сайтами"
+  },
+  "disabledSitesDescription": {
+    "message": "Плаваюча кнопка не з'являтиметься на цих сайтах. Тут можна додавати або видаляти вимкнені сайти."
+  },
+  "disabledSitesPlaceholder": {
+    "message": "Введіть домен, напр. youtube.com"
+  },
+  "disabledSitesAdd": {
+    "message": "Додати"
+  },
+  "disabledSitesDomain": {
+    "message": "Домен"
+  },
+  "disabledSitesActions": {
+    "message": "Дії"
+  },
+  "disabledSitesDelete": {
+    "message": "Видалити"
+  },
+  "disabledSitesEmpty": {
+    "message": "Немає вимкнених сайтів"
+  },
+  "preferencesSectionTitle": {
+    "message": "Базові налаштування"
+  },
+  "optionsNavPreferencesShort": {
+    "message": "Базові"
+  },
+  "optionsNavSubtitleShort": {
+    "message": "Субтитри"
+  },
+  "optionsNavAiShort": {
+    "message": "AI"
+  },
+  "optionsNavSitesShort": {
+    "message": "Сайти"
+  },
+  "preferenceStatusDisabled": {
+    "message": "Вимкнено"
+  },
+  "preferencesTitle": {
+    "message": "Базові налаштування"
+  },
+  "preferencesDescription": {
+    "message": "Керуйте базовими параметрами тут."
+  },
+  "emailNotificationLabel": {
+    "message": "Email-повідомлення"
+  },
+  "emailNotificationDescription": {
+    "message": "Повідомляти email, коли розпізнавання субтитрів завершено."
+  },
+  "emailNotificationSaveFailed": {
+    "message": "Не вдалося зберегти. Спробуйте пізніше."
+  },
+  "skipTranslationWhenSameLanguageLabel": {
+    "message": "Пропуск перекладу тієї ж мови"
+  },
+  "skipTranslationWhenSameLanguageDescription": {
+    "message": "Якщо ввімкнено, коли мова субтитрів збігається з цільовою, дубляж стартує без перекладу."
+  },
+  "userSubtitleSegmentationEnabledLabel": {
+    "message": "Розумна сегментація користувацьких субтитрів"
+  },
+  "userSubtitleSegmentationEnabledDescription": {
+    "message": "Якщо ввімкнено, відредаговані або локально завантажені субтитри автоматично сегментуються. Якщо вимкнено, зберігається початковий поділ."
+  },
+  "subtitlePriorityTitle": {
+    "message": "Пріоритет перекладу субтитрів"
+  },
+  "subtitlePriorityDescription": {
+    "message": "Виберіть, яке джерело субтитрів використовувати першим для перекладу."
+  },
+  "subtitlePriorityAiSubtitle": {
+    "message": "AI-субтитри розширення"
+  },
+  "subtitlePriorityAiSubtitleDesc": {
+    "message": "Надавати пріоритет субтитрам, створеним AI-розпізнаванням мовлення розширення, для кращої точності."
+  },
+  "subtitlePriorityPlatformSubtitle": {
+    "message": "Вбудовані субтитри платформи"
+  },
+  "subtitlePriorityPlatformSubtitleDesc": {
+    "message": "Надавати пріоритет оригінальним субтитрам відеоплатформи."
+  },
+  "subtitlePriorityQuickLabel": {
+    "message": "Субтитри"
+  },
+  "subtitlePriorityQuickAi": {
+    "message": "ШІ"
+  },
+  "subtitlePriorityQuickPlatform": {
+    "message": "Платформа"
+  },
+  "panelTabVideoSummary": {
+    "message": "Огляд"
+  },
+  "panelTabSubtitleEdit": {
+    "message": "Субтитри"
+  },
+  "panelSummaryTitle": {
+    "message": "Огляд і план відео"
+  },
+  "panelSummaryDesc": {
+    "message": "Працює на передових AI-моделях, щоб допомогти швидко зрозуміти зміст відео"
+  },
+  "panelSummaryGenerate": {
+    "message": "Створити огляд"
+  },
+  "panelSummaryGenerating": {
+    "message": "Створення..."
+  },
+  "panelSummaryReGenerating": {
+    "message": "Повторне створення..."
+  },
+  "panelSummarySectionSummary": {
+    "message": "Огляд"
+  },
+  "panelSummarySectionHighlights": {
+    "message": "Головне"
+  },
+  "panelSummaryExpandAll": {
+    "message": "Розгорнути все"
+  },
+  "panelSummaryCollapseAll": {
+    "message": "Згорнути все"
+  },
+  "panelSummaryExpand": {
+    "message": "Розгорнути"
+  },
+  "panelSummaryCollapse": {
+    "message": "Згорнути"
+  },
+  "panelSummaryShare": {
+    "message": "Поділитися"
+  },
+  "panelSummaryCopy": {
+    "message": "Копіювати"
+  },
+  "panelSummaryReGenerate": {
+    "message": "Створити знову"
+  },
+  "panelSummaryCopySuccess": {
+    "message": "Скопійовано"
+  },
+  "panelSummaryPlay": {
+    "message": "Відтворити"
+  },
+  "panelSummaryPause": {
+    "message": "Пауза"
+  },
+  "panelSummaryPlayFailed": {
+    "message": "Не вдалося відтворити, спробуйте ще раз"
+  },
+  "panelSummaryNoSubtitle": {
+    "message": "Для цього відео немає субтитрів"
+  },
+  "panelSummaryError": {
+    "message": "Не вдалося створити огляд. Спробуйте ще раз"
+  },
+  "panelSummaryErrorInvalidVideoId": {
+    "message": "Не вдалося визначити поточне відео. Оновіть сторінку й спробуйте ще раз"
+  },
+  "panelSummaryErrorMemberRequired": {
+    "message": "Огляд відео доступний лише учасникам. Оформіть підписку"
+  },
+  "panelSummaryErrorNoSubtitles": {
+    "message": "Для цього відео немає субтитрів, тому неможливо створити огляд"
+  },
+  "panelSummaryErrorServiceError": {
+    "message": "Сервіс оглядів тимчасово недоступний. Спробуйте пізніше"
+  },
+  "subtitleEditorManualInput": {
+    "message": "Ручне введення"
+  },
+  "subtitleEditorSwitchTip": {
+    "message": "Натисніть, щоб перемкнути субтитри"
+  },
+  "subtitleEditorExport": {
+    "message": "Експорт"
+  },
+  "subtitleEditorTrackFallback": {
+    "message": "Доріжка субтитрів"
+  },
+  "subtitleEditorMySubtitles": {
+    "message": "Мої субтитри"
+  },
+  "subtitleEditorNoSourceManual": {
+    "message": "Немає джерел субтитрів (можна ввести вручну)"
+  },
+  "subtitleEditorSaveInvalidVideo": {
+    "message": "Не вдалося визначити поточне відео. Збереження не виконано."
+  },
+  "subtitleEditorSaveFailed": {
+    "message": "Не вдалося зберегти. Спробуйте пізніше."
+  },
+  "subtitleEditorValidationEmpty": {
+    "message": "Вміст субтитрів не може бути порожнім"
+  },
+  "subtitleEditorValidationBlockStructure": {
+    "message": "Неправильний блок SRT. Потрібні номер, час і текст."
+  },
+  "subtitleEditorValidationSequenceFormat": {
+    "message": "Неправильний формат номера SRT"
+  },
+  "subtitleEditorValidationSequenceIncrement": {
+    "message": "Номери SRT мають починатися з 1 і зростати на 1"
+  },
+  "subtitleEditorValidationTimeFormat": {
+    "message": "Неправильний формат часу. Перевірте й виправте."
+  },
+  "subtitleEditorValidationEndAfterStart": {
+    "message": "Час завершення має бути більшим за час початку"
+  },
+  "subtitleEditorValidationContentRequired": {
+    "message": "Кожен субтитр має містити щонайменше один рядок тексту"
+  },
+  "subtitleEditorValidationSpeakerPrefix": {
+    "message": "Деякі субтитри містять теги мовця. Усі субтитри мають використовувати префікс [speaker]."
+  },
+  "localPlayerTemporaryImportMode": {
+    "message": "Тимчасовий імпорт"
+  },
+  "localPlayerLibraryTitle": {
+    "message": "Локальна відеотека"
+  },
+  "localPlayerEntryButton": {
+    "message": "Локальні"
+  },
+  "localPlayerPageTitle": {
+    "message": "Локальне відео · YouTube Dubbing"
+  },
+  "localPlayerFolderAccessDescription": {
+    "message": "Відкриття папки зберігає доступ до файлів, щоб відновити його після оновлення."
+  },
+  "localPlayerTemporaryImportDescription": {
+    "message": "Цей браузер не підтримує File System Access API. Можна тимчасово додати відео й субтитри."
+  },
+  "localPlayerOpenFolder": {
+    "message": "Відкрити папку"
+  },
+  "localPlayerAddVideo": {
+    "message": "Додати відео"
+  },
+  "localPlayerAddSubtitle": {
+    "message": "Додати субтитри"
+  },
+  "localPlayerVideoList": {
+    "message": "Список відео"
+  },
+  "localPlayerFolders": {
+    "message": "Папки"
+  },
+  "localPlayerFoldersDescription": {
+    "message": "Переглядайте імпортовані медіа за папками."
+  },
+  "localPlayerAllVideos": {
+    "message": "Усі відео"
+  },
+  "localPlayerAllVideosDescription": {
+    "message": "Шукайте й керуйте відео."
+  },
+  "localPlayerLibraryView": {
+    "message": "Вигляд бібліотеки"
+  },
+  "localPlayerBackToFolders": {
+    "message": "Назад до папок"
+  },
+  "localPlayerFolderSearchPlaceholder": {
+    "message": "Пошук папок, шляхів або файлів"
+  },
+  "localPlayerTotalFolders": {
+    "message": "Усього папок: {count}"
+  },
+  "localPlayerMatchedFolders": {
+    "message": "Знайдено {visibleCount} / усього {totalCount} папок"
+  },
+  "localPlayerNoFolderMatchesTitle": {
+    "message": "Папки не знайдено"
+  },
+  "localPlayerNoFolderMatchesText": {
+    "message": "Змініть пошук папок і спробуйте ще раз."
+  },
+  "localPlayerRescanAll": {
+    "message": "Пересканувати все"
+  },
+  "localPlayerFolderMenuLabel": {
+    "message": "Дії з папкою"
+  },
+  "localPlayerOpenFolderMenu": {
+    "message": "Відкрити папку"
+  },
+  "localPlayerRescanThisFolder": {
+    "message": "Пересканувати цю папку"
+  },
+  "localPlayerRemoveFromLibrary": {
+    "message": "Прибрати з бібліотеки"
+  },
+  "localPlayerFolderVideoCount": {
+    "message": "Відео: {count}"
+  },
+  "localPlayerFolderAssociatedSubtitleCount": {
+    "message": "Пов'язані субтитри: {count}"
+  },
+  "localPlayerFolderLastPlayed": {
+    "message": "Останнє відтворення: {time}"
+  },
+  "localPlayerFolderLastScanned": {
+    "message": "Останнє сканування: {time}"
+  },
+  "localPlayerRemoveFolderTitle": {
+    "message": "Прибрати цю папку з бібліотеки?"
+  },
+  "localPlayerRemoveFolderText": {
+    "message": "Буде видалено лише записи бібліотеки для цієї папки. Оригінальні файли на диску не буде видалено."
+  },
+  "localPlayerFolderRemoved": {
+    "message": "Прибрано {folderName}"
+  },
+  "localPlayerRemoveFolderFailed": {
+    "message": "Не вдалося прибрати папку з бібліотеки."
+  },
+  "localPlayerRescanFailed": {
+    "message": "Не вдалося пересканувати локальну бібліотеку."
+  },
+  "localPlayerRescanFolderUnavailable": {
+    "message": "Неможливо пересканувати цю папку, бо збережений доступ недоступний."
+  },
+  "localPlayerCurrentDirectory": {
+    "message": "Поточний каталог"
+  },
+  "localPlayerNoNewFilesFound": {
+    "message": "Нових файлів не знайдено."
+  },
+  "localPlayerScanComplete": {
+    "message": "Сканування завершено: додано відео {addedVideoCount}, субтитрів {addedSubtitleCount}, оновлено файлів {updatedCount}."
+  },
+  "localPlayerNever": {
+    "message": "Ніколи"
+  },
+  "localPlayerSearchPlaceholder": {
+    "message": "Пошук відео або шляхів"
+  },
+  "localPlayerFilterAll": {
+    "message": "Усі"
+  },
+  "localPlayerFilterWithSubtitle": {
+    "message": "Із субтитрами"
+  },
+  "localPlayerFilterNoSubtitle": {
+    "message": "Без субтитрів"
+  },
+  "localPlayerSortLastPlayed": {
+    "message": "Останні перегляди"
+  },
+  "localPlayerSortName": {
+    "message": "Назва файлу"
+  },
+  "localPlayerSortDuration": {
+    "message": "Тривалість"
+  },
+  "localPlayerNoVideosTitle": {
+    "message": "Локальних відео ще немає"
+  },
+  "localPlayerNoMatchesTitle": {
+    "message": "Відео не знайдено"
+  },
+  "localPlayerNoVideosText": {
+    "message": "Відкрийте папку або додайте відео, щоб керувати зв'язками субтитрів і локальним дубляжем."
+  },
+  "localPlayerNoMatchesText": {
+    "message": "Змініть пошук, фільтр або сортування й спробуйте ще раз."
+  },
+  "localPlayerDeleteVideoLabel": {
+    "message": "Видалити {fileName}"
+  },
+  "localPlayerRecognitionSubmitted": {
+    "message": "Розпізнавання"
+  },
+  "localPlayerPlay": {
+    "message": "Відтворити"
+  },
+  "localPlayerSubtitles": {
+    "message": "Субтитри"
+  },
+  "localPlayerStartDubbing": {
+    "message": "Почати дубляж"
+  },
+  "localPlayerFloatingActionsLabel": {
+    "message": "Швидкі дії локального відео"
+  },
+  "localPlayerOpenSidebar": {
+    "message": "Відкрити панель"
+  },
+  "localPlayerClose": {
+    "message": "Закрити"
+  },
+  "localPlayerSameDirectorySubtitleSummary": {
+    "message": "Субтитри в тій самій папці: {sameCount} · Пов'язані: {associatedCount}"
+  },
+  "localPlayerNoManageableSubtitles": {
+    "message": "Немає субтитрів для керування"
+  },
+  "localPlayerAssociateAndUseForDubbing": {
+    "message": "Пов'язати й використати"
+  },
+  "localPlayerSetForDubbing": {
+    "message": "Використати для дубляжу"
+  },
+  "localPlayerRemoveAssociation": {
+    "message": "Прибрати зв'язок"
+  },
+  "localPlayerRemoveAllAssociations": {
+    "message": "Прибрати всі зв'язки"
+  },
+  "localPlayerSelectVideoForSubtitleTitle": {
+    "message": "Виберіть відео для цих субтитрів"
+  },
+  "localPlayerAssociate": {
+    "message": "Пов'язати"
+  },
+  "localPlayerInitialStatus": {
+    "message": "Відкрийте папку, додайте відео або перетягніть файли."
+  },
+  "localPlayerAscendingSortTitle": {
+    "message": "За зростанням; натисніть для спадання"
+  },
+  "localPlayerDescendingSortTitle": {
+    "message": "За спаданням; натисніть для зростання"
+  },
+  "localPlayerTotalVideos": {
+    "message": "Усього відео: {count}"
+  },
+  "localPlayerMatchedVideos": {
+    "message": "Знайдено {visibleCount} / усього {totalCount} відео"
+  },
+  "localPlayerRouteVideoMissing": {
+    "message": "Відео з URL немає в поточній локальній відеотеці."
+  },
+  "localPlayerFolderAccessUnsupported": {
+    "message": "Цей браузер не може відкривати папки. Використовуйте Додати відео/Додати субтитри для тимчасового імпорту."
+  },
+  "localPlayerImportComplete": {
+    "message": "Імпортовано відео: {videoCount}, субтитрів: {subtitleCount}."
+  },
+  "localPlayerOpenFolderFailed": {
+    "message": "Не вдалося відкрити папку."
+  },
+  "localPlayerAddVideoFailed": {
+    "message": "Не вдалося додати відео."
+  },
+  "localPlayerAddSubtitleFailed": {
+    "message": "Не вдалося додати субтитри."
+  },
+  "localPlayerAssociationSaved": {
+    "message": "Зв'язок субтитрів збережено."
+  },
+  "localPlayerAssociationSavedAndPreferred": {
+    "message": "Субтитри пов'язано й вибрано для дубляжу."
+  },
+  "localPlayerPreferredSubtitleSaved": {
+    "message": "Субтитри вибрано для дубляжу."
+  },
+  "localPlayerAssociationRemoved": {
+    "message": "Зв'язок субтитрів прибрано."
+  },
+  "localPlayerRebindSubtitleTitle": {
+    "message": "Переприв'язати ці субтитри?"
+  },
+  "localPlayerRebindSubtitleText": {
+    "message": "Ці субтитри вже пов'язані з \"{fromVideo}\". Продовження прибере той зв'язок і пов'яже їх із \"{toVideo}\"."
+  },
+  "localPlayerRemoveAllAssociationsTitle": {
+    "message": "Прибрати всі зв'язки субтитрів?"
+  },
+  "localPlayerRemoveAllAssociationsText": {
+    "message": "Буде прибрано лише зв'язки субтитрів для цього відео. Записи файлів субтитрів не буде видалено."
+  },
+  "localPlayerAllAssociationsRemoved": {
+    "message": "Усі зв'язки субтитрів прибрано."
+  },
+  "localPlayerDeleteVideoTitle": {
+    "message": "Видалити це відео?"
+  },
+  "localPlayerDeleteVideoText": {
+    "message": "Це прибере відео та зв'язки субтитрів із локальної бібліотеки. Оригінальні файли на диску не буде видалено."
+  },
+  "localPlayerDelete": {
+    "message": "Видалити"
+  },
+  "localPlayerVideoDeleted": {
+    "message": "Видалено {fileName}"
+  },
+  "localPlayerDeleteVideoFailed": {
+    "message": "Не вдалося видалити відео."
+  },
+  "localPlayerVideoFileAccessLost": {
+    "message": "Неможливо відновити доступ до цього відеофайлу. Додайте відео знову."
+  },
+  "localPlayerVideoPlayerNotReady": {
+    "message": "Відеоплеєр ще не готовий."
+  },
+  "localPlayerNowPlaying": {
+    "message": "Відтворюється {fileName}"
+  },
+  "localPlayerDubbingStarted": {
+    "message": "Локальний дубляж запущено."
+  },
+  "localPlayerDubbingStartFailed": {
+    "message": "Не вдалося почати локальний дубляж."
+  },
+  "localPlayerOpenSidebarFailed": {
+    "message": "Не вдалося відкрити панель."
+  },
+  "localPlayerVideoFileReadFailed": {
+    "message": "Не вдалося прочитати локальний відеофайл. Додайте відео знову."
+  },
+  "localPlayerUploadCancelled": {
+    "message": "Завантаження скасовано."
+  },
+  "localPlayerSubtitleAssociatedBadge": {
+    "message": "Пов'язані субтитри: {count}"
+  },
+  "localPlayerNoSubtitleBadge": {
+    "message": "Без субтитрів"
+  },
+  "localPlayerUsedForDubbing": {
+    "message": "Для дубляжу"
+  },
+  "localPlayerAssociated": {
+    "message": "Пов'язано"
+  },
+  "localPlayerAssociatedOutsideFolder": {
+    "message": "Пов'язано поза папкою"
+  },
+  "localPlayerNotAssociated": {
+    "message": "Не пов'язано"
+  },
+  "localPlayerNativeSubtitle": {
+    "message": "Власні субтитри"
+  },
+  "localPlayerDubbingAlreadyStarted": {
+    "message": "Дубляж запущено"
+  },
+  "localPlayerThumbnailBackfillComplete": {
+    "message": "Створено мініатюри для {count} відео."
+  },
+  "localPlayerThumbnailGenerationFailed": {
+    "message": "Не вдалося створити мініатюру: {displayName} ({message})"
+  },
+  "localPlayerFreeUserNoSubtitleMessage": {
+    "message": "Це локальне відео не має пов'язаних субтитрів. Безкоштовні користувачі поки не можуть використовувати фонове розпізнавання субтитрів для локальних відео. Оновіть підписку для AI-розпізнавання або вручну завантажте файл субтитрів перед дубляжем."
+  },
+  "localPlayerNoSubtitleUploadTitle": {
+    "message": "У цьому відео немає субтитрів"
+  },
+  "localPlayerNoSubtitleUploadText": {
+    "message": "Завантажити це відео для AI-розпізнавання субтитрів? Завантаження використовується лише для розпізнавання, відео буде видалено одразу після цього, а вам надійде email."
+  },
+  "localPlayerNavigationLabel": {
+    "message": "Розділи локального плеєра"
+  },
+  "localPlayerCurrentPageNav": {
+    "message": "Дубляж відео"
+  },
+  "localPlayerTextDubbingNav": {
+    "message": "Дубляж тексту"
+  },
+  "localPlayerTextDubbingTitle": {
+    "message": "Дубляж тексту"
+  },
+  "localPlayerTextDubbingDescription": {
+    "message": "Створіть один MP3 із тексту, вже написаного цільовою мовою."
+  },
+  "localPlayerTextDubbingVoiceType": {
+    "message": "Тип голосу"
+  },
+  "localPlayerTextDubbingLanguage": {
+    "message": "Мова"
+  },
+  "localPlayerTextDubbingGender": {
+    "message": "Стать"
+  },
+  "localPlayerTextDubbingVoice": {
+    "message": "Голос"
+  },
+  "localPlayerTextDubbingInputLabel": {
+    "message": "Текст"
+  },
+  "localPlayerTextDubbingInputPlaceholder": {
+    "message": "Введіть текст для озвучення"
+  },
+  "localPlayerTextDubbingLimitHint": {
+    "message": "Рекомендовано до {chars} символів і не більше {bytes} байтів UTF-8."
+  },
+  "localPlayerTextDubbingCounter": {
+    "message": "{chars} символів · {bytes} байтів"
+  },
+  "localPlayerTextDubbingGenerate": {
+    "message": "Створити MP3"
+  },
+  "localPlayerTextDubbingGenerating": {
+    "message": "Створення..."
+  },
+  "localPlayerTextDubbingGenerated": {
+    "message": "MP3 створено. Час: {seconds} с."
+  },
+  "localPlayerTextDubbingFailed": {
+    "message": "Не вдалося створити MP3."
+  },
+  "localPlayerTextDubbingNoVoice": {
+    "message": "Для цього вибору немає доступного голосу."
+  },
+  "localPlayerTextDubbingEmptyText": {
+    "message": "Введіть текст перед створенням."
+  },
+  "localPlayerTextDubbingTooLong": {
+    "message": "Текст задовгий. Скоротіть його й спробуйте ще раз."
+  },
+  "localPlayerTextDubbingDownload": {
+    "message": "Завантажити MP3"
+  },
+  "localPlayerTextDubbingClear": {
+    "message": "Очистити результат"
+  },
+  "translationDomainGeneral": {
+    "message": "Загальне"
+  },
+  "translationDomainWeb3": {
+    "message": "Web3 і крипто"
+  },
+  "translationDomainTech": {
+    "message": "Технології"
+  },
+  "translationDomainNews": {
+    "message": "Новини та медіа"
+  },
+  "translationDomainProgramming": {
+    "message": "Програмування"
+  },
+  "translationDomainEducation": {
+    "message": "Освіта"
+  },
+  "translationDomainFinance": {
+    "message": "Фінанси"
+  },
+  "translationDomainLaw": {
+    "message": "Право"
+  },
+  "translationDomainAuto": {
+    "message": "Автомобілі"
+  },
+  "translationDomainEcommerce": {
+    "message": "Електронна комерція"
+  },
+  "translationDomainFashion": {
+    "message": "Мода"
+  },
+  "translationDomainFood": {
+    "message": "Їжа та кулінарія"
+  },
+  "translationDomainGardening": {
+    "message": "Садівництво"
+  },
+  "translationDomainMedical": {
+    "message": "Медицина та здоров’я"
+  },
+  "translationDomainMusic": {
+    "message": "Музика"
+  },
+  "translationDomainPets": {
+    "message": "Домашні улюбленці"
+  },
+  "translationDomainSports": {
+    "message": "Спорт"
+  },
+  "translationDomainTravel": {
+    "message": "Подорожі"
+  },
+  "translationDomainChess": {
+    "message": "Шахи"
+  },
+  "translationDomainGaming": {
+    "message": "Ігри"
+  },
+  "translationDomainGolf": {
+    "message": "Гольф"
+  },
+  "translationDomainMovies": {
+    "message": "Фільми та ТБ"
+  },
+  "translationDomainPhotography": {
+    "message": "Фотографія"
+  },
+  "translationPreferencesSectionTitle": {
+    "message": "AI-переклад"
+  },
+  "translationRulesEnabledLabel": {
+    "message": "Застосовувати глосарій і заміни тексту під час AI-перекладу"
+  },
+  "translationRulesEnabledDescription": {
+    "message": "Якщо ввімкнено, AI-переклад використовує наведені нижче налаштування. Якщо вимкнено, наявні налаштування зберігаються."
+  },
+  "glossaryTitle": {
+    "message": "Глосарій"
+  },
+  "glossaryDescription": {
+    "message": "Задайте фіксовані переклади для вихідних термінів (наприклад, Stratagem). Ваші терміни мають пріоритет над вбудованим глосарієм."
+  },
+  "glossaryCreateButton": {
+    "message": "Додати особистий термін"
+  },
+  "glossaryEditTitle": {
+    "message": "Редагувати особистий термін"
+  },
+  "glossaryEditorDescription": {
+    "message": "Додавати, редагувати, вмикати та видаляти можна лише особисті терміни."
+  },
+  "glossaryTableTitle": {
+    "message": "Терміни для поточної мови"
+  },
+  "glossaryCombinedEmpty": {
+    "message": "Для цієї мови ще немає особистих термінів."
+  },
+  "glossarySearchEmpty": {
+    "message": "Відповідних термінів не знайдено."
+  },
+  "glossarySearchPlaceholder": {
+    "message": "Пошук вихідних термінів"
+  },
+  "glossarySourcePlaceholder": {
+    "message": "Вихідний термін"
+  },
+  "glossaryTargetPlaceholder": {
+    "message": "Обов’язковий переклад"
+  },
+  "glossarySourceTerm": {
+    "message": "Вихідний термін"
+  },
+  "glossaryTargetTerm": {
+    "message": "Переклад"
+  },
+  "replacementTitle": {
+    "message": "Виправлення помилок у вихідному тексті"
+  },
+  "replacementDescription": {
+    "message": "Виправляйте повторювані помилки розпізнавання субтитрів (наприклад, cloud code -> Claude Code) перед AI-перекладом."
+  },
+  "replacementCreateButton": {
+    "message": "Додати особисту заміну"
+  },
+  "replacementEditTitle": {
+    "message": "Редагувати особисту заміну"
+  },
+  "replacementEditorDescription": {
+    "message": "Перед AI-перекладом застосовуються лише особисті заміни тексту."
+  },
+  "replacementFindPlaceholder": {
+    "message": "Помилковий текст, наприклад cloud code"
+  },
+  "replacementReplacePlaceholder": {
+    "message": "Замінити на, наприклад claude code"
+  },
+  "replacementFindText": {
+    "message": "Помилковий текст"
+  },
+  "replacementReplaceText": {
+    "message": "Замінити на"
+  },
+  "replacementEmpty": {
+    "message": "Правил виправлення ще немає."
+  },
+  "replacementSearchEmpty": {
+    "message": "Відповідних замін не знайдено."
+  },
+  "replacementSearchPlaceholder": {
+    "message": "Пошук замін"
+  },
+  "translatedReplacementTitle": {
+    "message": "Заміни в перекладеному тексті"
+  },
+  "translatedReplacementDescription": {
+    "message": "Замінюйте слова або фрази в готовому перекладі за допомогою особистих правил."
+  },
+  "translatedReplacementCreateButton": {
+    "message": "Додати заміну в перекладі"
+  },
+  "translatedReplacementLanguage": {
+    "message": "Мова перекладу"
+  },
+  "translatedReplacementFindText": {
+    "message": "Перекладений текст"
+  },
+  "translatedReplacementReplaceText": {
+    "message": "Замінити на"
+  },
+  "translatedReplacementSearchPlaceholder": {
+    "message": "Пошук у перекладеному тексті"
+  },
+  "translatedReplacementEmpty": {
+    "message": "Правил заміни в перекладеному тексті ще немає."
+  },
+  "translatedReplacementSearchEmpty": {
+    "message": "Відповідних замін у перекладеному тексті не знайдено."
+  },
+  "translatedReplacementCreateTitle": {
+    "message": "Додати заміну в перекладі"
+  },
+  "translatedReplacementEditTitle": {
+    "message": "Редагувати заміну в перекладі"
+  },
+  "translatedReplacementEditorDescription": {
+    "message": "Змінюється лише готовий переклад; вихідний текст і кеш перекладів залишаються без змін."
+  },
+  "translatedReplacementFindPlaceholder": {
+    "message": "Слово або фраза в перекладеному тексті"
+  },
+  "translatedReplacementReplacePlaceholder": {
+    "message": "Слово або фраза, що відображатиметься замість них"
+  },
+  "translatedReplacementEnabledDescription": {
+    "message": "Після вимкнення правило зберігається, але не застосовується до перекладеного тексту."
+  },
+  "preferenceAdd": {
+    "message": "Додати"
+  },
+  "preferenceDomain": {
+    "message": "Галузь"
+  },
+  "preferenceLanguage": {
+    "message": "Мова"
+  },
+  "preferenceEnabled": {
+    "message": "Увімкнено"
+  },
+  "preferenceActions": {
+    "message": "Дії"
+  },
+  "preferenceSource": {
+    "message": "Джерело"
+  },
+  "preferenceSourceUser": {
+    "message": "Особисте"
+  },
+  "preferenceSourceBuiltin": {
+    "message": "Вбудоване"
+  },
+  "preferenceStatus": {
+    "message": "Стан"
+  },
+  "preferenceStatusEnabled": {
+    "message": "Увімкнено"
+  },
+  "preferenceEdit": {
+    "message": "Редагувати"
+  },
+  "preferenceDelete": {
+    "message": "Видалити"
+  },
+  "preferenceAllDomains": {
+    "message": "Усі галузі"
+  },
+  "preferenceSearch": {
+    "message": "Пошук"
+  },
+  "preferenceClearSearch": {
+    "message": "Очистити"
+  },
+  "preferencePageLabel": {
+    "message": "Сторінка {page}"
+  },
+  "preferencePreviousPage": {
+    "message": "Попередня"
+  },
+  "preferenceNextPage": {
+    "message": "Наступна"
+  },
+  "builtinGlossaryDomainsTitle": {
+    "message": "Вбудовані тематичні набори"
+  },
+  "builtinGlossaryDomainCount": {
+    "message": "Вбудованих термінів: {count}"
+  },
+  "builtinGlossaryEmptyHint": {
+    "message": "Для поточної цільової мови немає вбудованого глосарія. Ви все одно можете додавати особисті терміни."
+  },
+  "builtinGlossaryEnabledSummary": {
+    "message": "Увімкнено: {enabled} / {total}"
+  },
+  "builtinGlossaryManageDomains": {
+    "message": "Керування галузями"
+  },
+  "builtinGlossaryManageDomainsTitle": {
+    "message": "Керування вбудованими тематичними наборами"
+  },
+  "builtinGlossaryManageDomainsDescription": {
+    "message": "Вмикайте або вимикайте галузі вбудованого глосарія для цільової мови."
+  },
+  "builtinGlossaryDomainSearchPlaceholder": {
+    "message": "Пошук галузей"
+  },
+  "builtinGlossaryEnableAllDomains": {
+    "message": "Увімкнути всі"
+  },
+  "builtinGlossaryDisableAllDomains": {
+    "message": "Вимкнути всі"
+  },
+  "builtinGlossaryDomainSearchEmpty": {
+    "message": "Відповідних галузей не знайдено."
+  },
+  "builtinGlossaryDomainTotal": {
+    "message": "Галузей: {count}"
+  },
+  "builtinGlossaryDomainDisabledStatus": {
+    "message": "Галузь вимкнено"
+  },
+  "builtinGlossaryBlockedStatus": {
+    "message": "Виключено"
+  },
+  "builtinGlossaryReadOnlyHint": {
+    "message": "Вбудоване правило"
+  },
+  "builtinTextReplacementManageDomainsTitle": {
+    "message": "Керування вбудованими сферами виправлення вихідного тексту"
+  },
+  "builtinTextReplacementManageDomainsDescription": {
+    "message": "Вмикайте або вимикайте вбудовані сфери виправлення вихідного тексту."
+  },
+  "builtinTextReplacementDomainCount": {
+    "message": "{count} вбудованих правил"
+  },
+  "preferenceLoadFailed": {
+    "message": "Не вдалося завантажити дані. Увійдіть і повторіть спробу."
+  },
+  "preferenceActionFailed": {
+    "message": "Не вдалося виконати дію. Спробуйте ще раз пізніше."
+  },
+  "pronunciationSettingsSectionTitle": {
+    "message": "Вимова"
+  },
+  "pronunciationSettingsTitle": {
+    "message": "Налаштування вимови"
+  },
+  "pronunciationSettingsDescription": {
+    "message": "Встановіть особисту вимову для тексту перекладу. Правила стосуються лише локального дубляжу."
+  },
+  "optionsNavPronunciationShort": {
+    "message": "Вимова"
+  },
+  "pronunciationNewRule": {
+    "message": "Нове правило"
+  },
+  "pronunciationEditRule": {
+    "message": "Відредагуйте правило вимови"
+  },
+  "pronunciationTargetLanguage": {
+    "message": "Цільова мова"
+  },
+  "pronunciationSearchPlaceholder": {
+    "message": "Пошук відповідного тексту"
+  },
+  "pronunciationStatus": {
+    "message": "Статус"
+  },
+  "pronunciationMatchText": {
+    "message": "Відповідний текст"
+  },
+  "pronunciationMatchPlaceholder": {
+    "message": "Наприклад: привіт"
+  },
+  "pronunciationTargetText": {
+    "message": "Виправлена частина"
+  },
+  "pronunciationReading": {
+    "message": "Уточнена вимова"
+  },
+  "pronunciationLoading": {
+    "message": "Завантаження…"
+  },
+  "pronunciationEmpty": {
+    "message": "Жодне особисте правило вимови не відповідає поточним фільтрам."
+  },
+  "pronunciationEditorHint": {
+    "message": "Виберіть безперервну частину, яку потрібно виправити, а потім введіть її вимову."
+  },
+  "pronunciationSelectTarget": {
+    "message": "Виберіть текст для виправлення"
+  },
+  "pronunciationReselect": {
+    "message": "Виберіть знову"
+  },
+  "pronunciationEnterMatchFirst": {
+    "message": "Спочатку введіть відповідний текст"
+  },
+  "pronunciationSelectionSummary": {
+    "message": "Вибрано: {text}; поява {occurrence}"
+  },
+  "pronunciationSelectionRestoreFailed": {
+    "message": "Збережене розташування неможливо відновити. Виділіть текст ще раз перед збереженням."
+  },
+  "pronunciationSelectionInvalid": {
+    "message": "Виділіть суцільний текст."
+  },
+  "pronunciationModifier": {
+    "message": "Тон"
+  },
+  "pronunciationSelectModifier": {
+    "message": "Виберіть"
+  },
+  "pronunciationSaving": {
+    "message": "Збереження…"
+  },
+  "pronunciationDeleteConfirm": {
+    "message": "Видалити це правило вимови?"
+  },
+  "pronunciationOccurrence": {
+    "message": "поява {occurrence}"
+  },
+  "pronunciationUnknownError": {
+    "message": "Не вдалося виконати дію. Спробуйте пізніше."
+  },
+  "preferenceAllStatuses": {
+    "message": "все"
+  },
+  "preferenceCancel": {
+    "message": "Скасувати"
+  },
+  "preferenceDisabled": {
+    "message": "Вимкнено"
+  },
+  "preferenceSave": {
+    "message": "Зберегти"
+  },
+  "pronunciationFineSelection": {
+    "message": "Точний підбір"
+  },
+  "pronunciationMergeUnits": {
+    "message": "Об’єднайте суміжні вимови"
+  },
+  "pronunciationPerUnitHint": {
+    "message": "Введіть вимову та тон для кожної частини. За потреби розділіть або об’єднайте частини."
+  },
+  "pronunciationPrimarySelection": {
+    "message": "Розумний вибір"
+  },
+  "pronunciationSelectionGranularity": {
+    "message": "Деталізація відбору"
+  },
+  "pronunciationSelectionTooLong": {
+    "message": "Виправлена частина може містити не більше 128 символів."
+  },
+  "pronunciationSplitAt": {
+    "message": "Розділити на"
+  },
+  "pronunciationUnitReading": {
+    "message": "Надчастинна вимова"
+  },
+  "pronunciationWholeReading": {
+    "message": "Ціла вимова"
+  },
+  "pronunciationWholeToneHint": {
+    "message": "Введіть повну тоновану вимову. Розділіть його, щоб вибрати тон для кожної частини."
+  },
+  "pronunciationPinyinSyllable": {
+    "message": "Піньїнь склад"
+  },
+  "pronunciationPinyinPlaceholder": {
+    "message": "Введіть склад піньїнь"
+  },
+  "pronunciationNumberedTone": {
+    "message": "Тон {tone}"
+  },
+  "pronunciationNeutralTone": {
+    "message": "Нейтральний тон"
+  },
+  "googleDriveNoCaptionsTitle": {
+    "message": "Це відео на Google Диску ще не має субтитрів"
+  },
+  "googleDriveNoCaptionsIntro": {
+    "message": "Для озвучення використовуються вбудовані субтитри Google Диска (CC). Спершу ввімкніть субтитри для цього відео, а потім поверніться:"
+  },
+  "googleDriveNoCaptionsStep1": {
+    "message": "На Google Диску клацніть відео правою кнопкою миші та виберіть «Інформація про файл» → «Керувати доріжками субтитрів»."
+  },
+  "googleDriveNoCaptionsStep2": {
+    "message": "Якщо доріжки субтитрів ще немає: Диск автоматично створює субтитри для підтримуваних мов (зокрема англійської, турецької, китайської, іспанської, японської). Натисніть «Створити автоматичні субтитри», якщо цей пункт є, або завантажте файл субтитрів. Керувати субтитрами може лише власник або редактори відео."
+  },
+  "googleDriveNoCaptionsStep3": {
+    "message": "Створення субтитрів займає деякий час. Коли кнопка CC у плеєрі стане активною, оновіть сторінку та знову запустіть озвучення."
+  },
+  "subtitleAudioLanguageMismatch": {
+    "message": "Мова субтитрів не збігається з мовою голосів. Субтитри: {subtitle}. Голоси: {voice}. Голос може читати лише текст своєю мовою, тому генерація може завершитися помилкою або звучати неправильно. Спершу перекладіть субтитри або виберіть цільову мову, що збігається із субтитрами. Усе одно згенерувати?"
+  },
+  "subtitleAudioNav": {
+    "message": "Дубляж субтитрів"
+  },
+  "subtitleAudioAiSubtitleBadge": {
+    "message": "AI-субтитри"
+  },
+  "subtitleAudioUserSubtitleBadge": {
+    "message": "Змінені субтитри"
+  },
+  "subtitleAudioBack": {
+    "message": "Дубляж відео"
+  },
+  "subtitleAudioProjectSubtitle": {
+    "message": "Субтитри: {name} · рядків: {count}"
+  },
+  "subtitleAudioReplaceSubtitles": {
+    "message": "Замінити субтитри"
+  },
+  "subtitleAudioExportVideoOption": {
+    "message": "Відео з дубляжем"
+  },
+  "subtitleAudioExportVideoHint": {
+    "message": "Там, де фразі потрібно більше часу, зображення сповільнюється, тож відео може стати трохи довшим."
+  },
+  "subtitleAudioExportMp3Option": {
+    "message": "MP3 з дубляжем"
+  },
+  "subtitleAudioExportMp3Hint": {
+    "message": "Точно збігається за тривалістю з оригінальним відео: накладіть його на відео або завантажте як звукову доріжку іншою мовою."
+  },
+  "subtitleAudioDownloadSrt": {
+    "message": "Завантажити SRT"
+  },
+  "subtitleAudioEditAndExport": {
+    "message": "Редагувати й експортувати"
+  },
+  "subtitleAudioEditNeedsSubtitle": {
+    "message": "Це відео ще не має субтитрів. Пов'яжіть із ним файл субтитрів або один раз натисніть «Почати дубляж», щоб створити AI-субтитри."
+  },
+  "subtitleAudioTitle": {
+    "message": "Кожній фразі — свій голос"
+  },
+  "subtitleAudioSubtitle": {
+    "message": "Імпортуйте файл SRT і отримайте MP3 з дубляжем, синхронізований із субтитрами. Щоб дублювати відео, виберіть його в розділі «Дубляж відео» й натисніть «Редагувати й експортувати»."
+  },
+  "subtitleAudioImportStep": {
+    "message": "Імпорт субтитрів"
+  },
+  "subtitleAudioVoicesStep": {
+    "message": "Вибір голосів"
+  },
+  "subtitleAudioExportStep": {
+    "message": "Експорт"
+  },
+  "subtitleAudioSubtitles": {
+    "message": "Субтитри"
+  },
+  "subtitleAudioCueList": {
+    "message": "Рядки й голоси"
+  },
+  "subtitleAudioSettings": {
+    "message": "Налаштування голосу"
+  },
+  "subtitleAudioImport": {
+    "message": "Вибрати файл SRT"
+  },
+  "subtitleAudioReplace": {
+    "message": "Замінити"
+  },
+  "subtitleAudioRemove": {
+    "message": "Прибрати"
+  },
+  "subtitleAudioDrop": {
+    "message": "Перетягніть файл SRT сюди"
+  },
+  "subtitleAudioDropNote": {
+    "message": "UTF-8 · до 2 MiB, 5 000 рядків, 3 години"
+  },
+  "subtitleAudioEmpty": {
+    "message": "Тут з'являться ваші субтитри. Призначте голос кожному рядку або застосуйте один голос до вибраних."
+  },
+  "subtitleAudioLines": {
+    "message": "Рядки"
+  },
+  "subtitleAudioDuration": {
+    "message": "Тривалість субтитрів"
+  },
+  "subtitleAudioCharacters": {
+    "message": "Символи"
+  },
+  "subtitleAudioSearch": {
+    "message": "Пошук у тексті субтитрів"
+  },
+  "subtitleAudioSelectPage": {
+    "message": "Вибрати сторінку"
+  },
+  "subtitleAudioSelectAll": {
+    "message": "Вибрати всі результати"
+  },
+  "subtitleAudioSelected": {
+    "message": "Вибрано: {count}"
+  },
+  "subtitleAudioApply": {
+    "message": "Застосувати голос"
+  },
+  "subtitleAudioChooseVoice": {
+    "message": "Виберіть голос"
+  },
+  "subtitleAudioText": {
+    "message": "Текст субтитрів"
+  },
+  "subtitleAudioTime": {
+    "message": "Час"
+  },
+  "subtitleAudioVoice": {
+    "message": "Голос"
+  },
+  "subtitleAudioFemale": {
+    "message": "Жіночі"
+  },
+  "subtitleAudioMale": {
+    "message": "Чоловічі"
+  },
+  "subtitleAudioPage": {
+    "message": "Сторінка {page} з {total}"
+  },
+  "subtitleAudioPrevious": {
+    "message": "Назад"
+  },
+  "subtitleAudioNext": {
+    "message": "Далі"
+  },
+  "subtitleAudioPreview": {
+    "message": "Прослухати рядок {index}"
+  },
+  "subtitleAudioStopPreview": {
+    "message": "Зупинити прослуховування"
+  },
+  "subtitleAudioLanguage": {
+    "message": "Цільова мова"
+  },
+  "subtitleAudioVoiceType": {
+    "message": "Тип голосу"
+  },
+  "subtitleAudioFree": {
+    "message": "Безкоштовні"
+  },
+  "subtitleAudioVideoSync": {
+    "message": "Попередній перегляд іде під експортовану звукову доріжку. Оригінальний звук відео вимкнено."
+  },
+  "subtitleAudioTimelineTitle": {
+    "message": "Звукова доріжка"
+  },
+  "subtitleAudioLayoutOnly": {
+    "message": "Розташування субтитрів · хвиля з'явиться після експорту"
+  },
+  "subtitleAudioRealWave": {
+    "message": "Хвиля експортованого аудіо · натисніть або скористайтеся повзунком, щоб перемотати"
+  },
+  "subtitleAudioTracks": {
+    "message": "Голосів: {count} → один MP3"
+  },
+  "subtitleAudioTracksVideo": {
+    "message": "Голосів: {count} → відео з дубляжем"
+  },
+  "subtitleAudioSeek": {
+    "message": "Перемотування експортованого файлу"
+  },
+  "subtitleAudioNoTimeline": {
+    "message": "Імпортуйте субтитри, щоб побачити їхній таймінг."
+  },
+  "subtitleAudioGenerate": {
+    "message": "Створити MP3"
+  },
+  "subtitleAudioGenerateVideo": {
+    "message": "Створити відео з дубляжем"
+  },
+  "subtitleAudioRegenerate": {
+    "message": "Створити ще раз"
+  },
+  "subtitleAudioRegenerateVideo": {
+    "message": "Створити відео ще раз"
+  },
+  "subtitleAudioRetry": {
+    "message": "Повторити невдалі"
+  },
+  "subtitleAudioCancel": {
+    "message": "Скасувати"
+  },
+  "subtitleAudioCancelling": {
+    "message": "Скасування…"
+  },
+  "subtitleAudioDownload": {
+    "message": "Завантажити MP3"
+  },
+  "subtitleAudioDownloadVideo": {
+    "message": "Завантажити відео з дубляжем"
+  },
+  "subtitleAudioWorking": {
+    "message": "Синтез мовлення"
+  },
+  "subtitleAudioEncoding": {
+    "message": "Збирання звукової доріжки"
+  },
+  "subtitleAudioFinalizing": {
+    "message": "Завершення MP3"
+  },
+  "subtitleAudioMuxing": {
+    "message": "Накладання дубляжу на відео"
+  },
+  "subtitleAudioFinished": {
+    "message": "Ваш MP3 готовий"
+  },
+  "subtitleAudioFinishedVideo": {
+    "message": "Відео з дубляжем готове"
+  },
+  "subtitleAudioCancelled": {
+    "message": "Створення скасовано. Готові фрагменти мовлення збережено в кеші для повторної спроби."
+  },
+  "subtitleAudioProgressNote": {
+    "message": "Не закривайте цю сторінку. Можна скасувати й продовжити пізніше — готові фрагменти збережено в кеші."
+  },
+  "subtitleAudioMissing": {
+    "message": "Рядків без голосу: {count}. Виберіть голос для кожного рядка або натисніть «Застосувати голос»."
+  },
+  "subtitleAudioEmptyText": {
+    "message": "Рядків без тексту: {count}. Додайте текст перед створенням."
+  },
+  "subtitleAudioCacheNote": {
+    "message": "Мовлення синтезує вибраний сервіс. Субтитри й готові фрагменти кешуються на цьому пристрої, а аудіо та відео збираються локально."
+  },
+  "subtitleAudioRestored": {
+    "message": "Чернетку відновлено."
+  },
+  "subtitleAudioSaveError": {
+    "message": "Не вдалося зберегти чернетку. Не закривайте сторінку, щоб не втратити зміни."
+  },
+  "subtitleAudioFailed": {
+    "message": "Не вдалося завершити. Готові фрагменти мовлення збережено — повторіть спробу, щоб продовжити."
+  },
+  "subtitleAudioDetails": {
+    "message": "Докладніше"
+  },
+  "subtitleAudioBadFile": {
+    "message": "Виберіть файл .srt у кодуванні UTF-8 (до 2 MiB)."
+  },
+  "subtitleAudioEncodingError": {
+    "message": "Файл не в кодуванні UTF-8. Збережіть його в UTF-8 та імпортуйте знову."
+  },
+  "subtitleAudioImportFailed": {
+    "message": "Не вдалося прочитати файл субтитрів. Перевірте часові позначки й текст SRT."
+  },
+  "subtitleAudioInvalidVideo": {
+    "message": "У цьому відео немає придатної до читання відеодоріжки або не вдається визначити його тривалість."
+  },
+  "subtitleAudioVideoLimitError": {
+    "message": "Відео довше за 3 години, тому експортувати його з дубляжем не можна. Виберіть коротший файл."
+  },
+  "subtitleAudioVideoStorageError": {
+    "message": "На цьому комп'ютері недостатньо місця для цього відео: потрібно приблизно {needed} GB, а браузеру доступно {available} GB. Звільніть місце на диску й спробуйте ще раз або виберіть менше відео."
+  },
+  "subtitleAudioVideoCodecError": {
+    "message": "Цей пристрій не може скопіювати відео з таким кодеком (наприклад, HEVC). Експорт зупинено, щоб не створити пошкоджений файл. Спробуйте MP4 з H.264."
+  },
+  "subtitleAudioVideoAacUnsupported": {
+    "message": "Цей браузер не підтримує кодування звуку AAC, тому експорт відео з озвученням неможливий. Експорт MP3 з озвученням і далі доступний."
+  },
+  "subtitleAudioVideoCopyUnsupported": {
+    "message": "Кодек цього відео не можна експортувати в MP4 з озвученням. Експорт MP3 з озвученням і далі доступний; для відео використайте MP4 з H.264."
+  },
+  "subtitleAudioPreviewFailed": {
+    "message": "Не вдалося прослухати цей рядок. Перевірте вибраний голос і з'єднання з інтернетом."
+  },
+  "subtitleAudioPlayBlocked": {
+    "message": "Аудіо готове. Натисніть «Відтворити» в плеєрі."
+  },
+  "subtitleAudioGeneralError": {
+    "message": "Не вдалося виконати операцію. Перевірте з'єднання й спробуйте ще раз."
+  },
+  "subtitleAudioLimitError": {
+    "message": "Проєкт перевищує підтримувані обмеження: не більше 5 000 рядків і 3 годин, кожен фрагмент мовлення — коротший за 60 секунд."
+  },
+  "subtitleAudioStorageError": {
+    "message": "Недостатньо місця в локальному сховищі для експорту. Звільніть місце й спробуйте ще раз."
+  },
+  "subtitleAudioAccountError": {
+    "message": "Для синтезу мовлення потрібен дійсний обліковий запис і доступна квота. Перевірте обліковий запис і спробуйте ще раз."
+  },
+  "subtitleAudioPaused": {
+    "message": "Очікує"
+  },
+  "subtitleAudioGeneratingCue": {
+    "message": "Створюється"
+  },
+  "subtitleAudioReadyCue": {
+    "message": "Готово"
+  },
+  "subtitleAudioErrorCue": {
+    "message": "Помилка"
+  },
+  "subtitleAudioVoiceReset": {
+    "message": "Деякі голоси недоступні з цими налаштуваннями. Виберіть голоси для виділених рядків."
+  },
+  "subtitleAudioConfirmReplace": {
+    "message": "Замінити поточну чернетку субтитрів?"
+  },
+  "subtitleAudioClearDraft": {
+    "message": "Прибрати всі субтитри з чернетки?"
+  },
+  "subtitleAudioOutputChanged": {
+    "message": "Налаштування змінено. Створіть файл ще раз, щоб оновити завантаження."
+  },
+  "subtitleAudioBrowserError": {
+    "message": "Браузеру не вдалося запустити обробку аудіо. Спробуйте оновлений браузер для комп'ютера."
+  },
+  "subtitleAudioOtherTabBusy": {
+    "message": "Інша вкладка вже створює або відтворює аудіо субтитрів. Дочекайтеся завершення або закрийте ту вкладку й спробуйте ще раз."
+  },
+  "uploadVideoLanguageLabel": {
+    "message": "Мова відео (вибір підвищує точність розпізнавання)"
+  },
+  "uploadVideoLanguageAuto": {
+    "message": "Визначити автоматично"
+  },
+  "subtitleAudioPreparing": {
+    "message": "Поділ на речення та переклад"
+  },
+  "subtitleAudioPrepareFailed": {
+    "message": "Не вдалося поділити або перекласти субтитри. Спробуйте пізніше."
+  },
+  "subtitleAudioSourceLanguage": {
+    "message": "Мова субтитрів"
+  },
+  "subtitleAudioSourceLanguageUnknown": {
+    "message": "Не вдалося визначити мову цих субтитрів. Виберіть мову, якою їх написано, і згенеруйте знову."
+  },
+  "subtitleAudioPreparedNote": {
+    "message": "Поділено на речення й перекладено {language} так само, як в онлайн-озвученні. Переклади можна змінити нижче."
+  },
+  "subtitleAudioRestoreSource": {
+    "message": "Відновити оригінал"
+  },
+  "subtitleAudioRestoreSourceConfirm": {
+    "message": "Після відновлення оригіналу зміни перекладів буде втрачено; наступний експорт знову поділить і перекладе текст. Продовжити?"
+  },
+  "subtitleAudioLanguageChangedRetranslate": {
+    "message": "Мову озвучення змінено, тому в списку знову оригінальний текст. Під час експорту його буде знову поділено й перекладено."
+  },
+  "subtitleAudioCueTooLong": {
+    "message": "Рядок {index} задовгий. Поділіть його на коротші рядки й спробуйте ще раз."
+  },
+  "subtitleAudioBackgroundOption": {
+    "message": "Додати фоновий звук"
+  },
+  "subtitleAudioBackgroundHint": {
+    "message": "Під час завантаження на розпізнавання з цього відео виділено фоновий звук без голосів. Він звучить під озвученням, як в онлайн-озвученні."
+  },
+  "subtitleAudioDownloadingBackground": {
+    "message": "Завантаження фонового звуку"
+  },
+  "subtitleAudioBackgroundFailed": {
+    "message": "Не вдалося завантажити фоновий звук. Спробуйте пізніше або зніміть позначку «Додати фоновий звук» і експортуйте знову."
+  },
+  "subtitleAudioPreparedSameLanguageNote": {
+    "message": "Субтитри вже мовою озвучення, тож за налаштуванням «не перекладати ту саму мову» їх лише поділено на речення."
+  },
+  "dubbingToggleOn": {
+    "message": "Увімкнути озвучення"
+  },
+  "dubbingToggleOff": {
+    "message": "Вимкнути озвучення"
+  },
+  "dubbingTogglePreparing": {
+    "message": "Озвучення готується, зачекайте…"
+  },
+  "dubbingSwitchedOffNotice": {
+    "message": "Озвучення вимкнено, оригінальний звук відновлено"
+  },
+  "dubbingSwitchedOnNotice": {
+    "message": "Озвучення увімкнено"
+  },
+  "toggleDubbingCommand": {
+    "message": "Увімкнути / вимкнути озвучення"
+  },
+  "spotifyPublicAudioShowNotFound": {
+    "message": "Аудіо зашифроване, а в цього шоу немає публічної стрічки подкасту (можливо, це ексклюзив Spotify)."
+  },
+  "spotifyPublicAudioEpisodeNotMatched": {
+    "message": "Аудіо зашифроване, а в публічній стрічці подкасту шоу не знайдено відповідного випуску."
+  },
+  "spotifyPublicAudioLookupFailed": {
+    "message": "Не вдалося отримати публічне аудіо цього випуску. Спробуйте пізніше."
+  }
+}

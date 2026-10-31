@@ -1,0 +1,2315 @@
+{
+  "name": {
+    "message": "YouTube Dubbing – Translate & Dub"
+  },
+  "description": {
+    "message": "Terjemahan & sulih suara video sekali klik—fahami bahasa asing dengan serta-merta, akses pengetahuan global"
+  },
+  "metadataNotFound": {
+    "message": "Metadata video tidak ditemui, sila muat semula dan cuba lagi"
+  },
+  "dubbingMediaNotFoundTitle": {
+    "message": "Tiada video tersedia untuk alih suara"
+  },
+  "dubbingMediaNotFoundText": {
+    "message": "Pada masa ini tiada video atau audio yang boleh digunakan pada halaman ini. Tunggu video selesai dimuatkan, kemudian cuba lagi, atau muat semula halaman."
+  },
+  "noSubtitlesFound": {
+    "message": "Video ini tidak mempunyai sari kata dan tidak menyokong terjemahan dan sulih suara"
+  },
+  "liveVideoNotSupported": {
+    "message": "Video langsung pada masa ini tidak disokong untuk sulih suara"
+  },
+  "universalDubbingNotSupported": {
+    "message": "Sulih suara universal tidak disokong untuk video ini dalam versi semasa. Sokongan dirancang untuk versi seterusnya. Sila hubungi perkhidmatan pelanggan untuk maklumat lanjut."
+  },
+  "postLoginTranslationSettings": {
+    "message": "Log masuk berjaya. Klik IKON pemalam untuk memilih bahasa terjemahan dan senarai suara."
+  },
+  "noSubtitlesWaitOptimization": {
+    "message": "Tiada sari kata tersedia. Sila tunggu pemalam mengenali sari kata untuk video ini. Anda akan menerima pemberitahuan e-mel di alamat e-mel berdaftar anda setelah pengecaman selesai."
+  },
+  "privateVideoNoSubtitles": {
+    "message": "Video ini tiada sari kata dan merupakan video peribadi. Pemalam tidak dapat mengecam sari kata untuk video ini di latar belakang. Sila jadikan video ini awam, atau tambah sari kata secara manual dan cuba lagi."
+  },
+  "trialMemberDurationLimit": {
+    "message": "Video ini tidak mempunyai sari kata. Sebagai ahli percubaan, hanya video di bawah 15 minit yang disokong untuk pengecaman sari kata. Ahli premium menyokong video di bawah 3 jam."
+  },
+  "premiumMemberDurationLimit": {
+    "message": "Video ini tidak mempunyai sari kata dan tempoh video melebihi 3 jam, terjemahan dan sulih suara tidak disokong. Sila pilih video yang lebih pendek atau video dengan sari kata."
+  },
+  "freeUserNoSubtitles": {
+    "message": "Video ini tidak mempunyai sari kata terbina dalam. Sila langgan keahlian pemalam untuk pengecaman sari kata dan nikmati ciri terjemahan dan sulih suara."
+  },
+  "freeUserDailyLimit": {
+    "message": "Pengguna percuma boleh menonton sehingga 5 video sehari melalui pemalam. Naik taraf kepada keahlian untuk membuka manfaat tontonan tanpa had."
+  },
+  "upgradeEntryUpgradeButton": {
+    "message": "Naik taraf"
+  },
+  "upgradeEntryLaterButton": {
+    "message": "Mungkin nanti"
+  },
+  "aiSubtitlesRecognitionInBackground": {
+    "message": "Sari kata AI belum tersedia. Pemalam telah mula mengenalinya di latar belakang. Selepas anda mendengar ayat sulih suara pertama, anda boleh menutup halaman dan menunggu pemberitahuan e-mel; apabila sedia, butang sulih suara akan bertukar hijau dan kualiti terjemahan akan lebih baik."
+  },
+  "upgradeMembershipForBackgroundRecognition": {
+    "message": "Naik taraf kepada keahlian dan pemalam akan mengenali sari kata AI di latar belakang. Selepas anda menerima pemberitahuan e-mel, kembali untuk menonton; butang sulih suara akan bertukar hijau dan terjemahan lebih tepat."
+  },
+  "memberFreeVoiceAzureSuggestion": {
+    "message": "Anda sedang membuat dubbing dengan jenis suara percuma. Suara Azure kedengaran lebih semula jadi; ahli kini boleh menggunakan Azure tanpa had dan tanpa tambah nilai kredit tambahan."
+  },
+  "memberAiSubtitlePlatformPrioritySuggestion": {
+    "message": "Sari kata yang digunakan sekarang dikenal pasti oleh AI latar belakang sambungan ini. Jika terjemahan kelihatan kurang tepat, tukar keutamaan sari kata kepada sari kata platform dalam Tetapan Asas."
+  },
+  "openBasicSettingsLink": {
+    "message": "Buka Tetapan Asas"
+  },
+  "doNotShowAgainLink": {
+    "message": "Jangan tunjukkan lagi"
+  },
+  "loginAndUsePlugin": {
+    "message": "Sila klik pada ikon pemalam untuk log masuk terlebih dahulu, kemudian gunakan pemalam untuk main balik sulih suara."
+  },
+  "voiceSettingsMismatch": {
+    "message": "Jenis suara dan tetapan suara tidak sepadan. Sila pergi ke halaman tetapan untuk memilih semula dan simpan tetapan suara."
+  },
+  "contentMenusTitle": {
+    "message": "Mula Main Balik Sulih Suara"
+  },
+  "videoDetectedDomainTooltip": {
+    "message": "Bidang yang dikenal pasti untuk video semasa: {domain}"
+  },
+  "dropboxClickCcToTranscribe": {
+    "message": "Video ini belum ditranskrip. Sila klik butang CC di bahagian bawah video Dropbox untuk mentranskrip sari kata. Selepas transkripsi selesai, klik butang sulih suara pemalam untuk menterjemah dan sulih suara."
+  },
+  "iosInterceptorConflictTitle": {
+    "message": "Konflik sambungan dikesan"
+  },
+  "iosInterceptorConflictMessage": {
+    "message": "Sambungan penyemak imbas lain menghalang pemintasan permintaan sari kata. Lumpuhkan sambungan yang berkonflik, muat semula halaman, kemudian cuba lagi."
+  },
+  "login": {
+    "message": "Masuk"
+  },
+  "logout": {
+    "message": "Log Keluar"
+  },
+  "subscribe": {
+    "message": "Langgan PRO"
+  },
+  "save_settings": {
+    "message": "Simpan Tetapan"
+  },
+  "saving": {
+    "message": "Menyimpan..."
+  },
+  "saveSuccessTitle": {
+    "message": "Simpan Berjaya"
+  },
+  "saveSuccessText": {
+    "message": "Tetapan disimpan dengan jayanya"
+  },
+  "saveFailedTitle": {
+    "message": "Simpan Gagal"
+  },
+  "saveFailedText": {
+    "message": "Gagal menyimpan tetapan, sila cuba lagi"
+  },
+  "confirmButton": {
+    "message": "Teruskan dan Simpan"
+  },
+  "cancelButton": {
+    "message": "Batal"
+  },
+  "back": {
+    "message": "Kembali"
+  },
+  "backToSettings": {
+    "message": "Kembali ke tetapan"
+  },
+  "backToVideoLibrary": {
+    "message": "Kembali ke pustaka video"
+  },
+  "source_languages": {
+    "message": "Bahasa Sumber:"
+  },
+  "target_languages": {
+    "message": "Bahasa Sasaran:"
+  },
+  "selectSourceLanguage": {
+    "message": "Pilih bahasa sumber"
+  },
+  "selectTargetLanguage": {
+    "message": "Pilih bahasa sasaran"
+  },
+  "searchSourceLanguage": {
+    "message": "Cari bahasa sumber..."
+  },
+  "searchTargetLanguage": {
+    "message": "Cari bahasa sasaran..."
+  },
+  "loading": {
+    "message": "memuatkan"
+  },
+  "sex": {
+    "message": "Jantina:"
+  },
+  "voices": {
+    "message": "Suara:"
+  },
+  "voicesType": {
+    "message": "Jenis Suara:"
+  },
+  "man": {
+    "message": "Lelaki"
+  },
+  "woman": {
+    "message": "Perempuan"
+  },
+  "free": {
+    "message": "Percuma"
+  },
+  "memberFree": {
+    "message": "Percuma untuk Ahli"
+  },
+  "memberFreeRequireMembership": {
+    "message": "Jenis suara ini hanya untuk ahli. Naik taraf untuk menggunakannya secara percuma."
+  },
+  "azureRequireMembership": {
+    "message": "Azure TTS hanya untuk ahli. Naik taraf untuk membuka suara Azure berkualiti tinggi."
+  },
+  "originalAudio": {
+    "message": "Asal"
+  },
+  "translatedAudio": {
+    "message": "Terjemah"
+  },
+  "backgroundAudio": {
+    "message": "Bunyi Latar"
+  },
+  "textToSpeech": {
+    "message": "Teks ke Pertuturan:"
+  },
+  "textToSpeechToggle": {
+    "message": "Butang Terapung"
+  },
+  "showSubtitle": {
+    "message": "sari kata:"
+  },
+  "subtitleSize": {
+    "message": "Saiz"
+  },
+  "subtitles": {
+    "message": "Sari Kata"
+  },
+  "toggleSubtitles": {
+    "message": "Togol sari kata"
+  },
+  "subtitleDisplayMode": {
+    "message": "Mod paparan sari kata"
+  },
+  "subtitleModeTranslated": {
+    "message": "Terjemahan sahaja"
+  },
+  "subtitleModeBilingual": {
+    "message": "Sari kata dwibahasa"
+  },
+  "subtitleModeOff": {
+    "message": "Sari kata dimatikan"
+  },
+  "translateService": {
+    "message": "Terjemah:"
+  },
+  "translationEngine": {
+    "message": "Enjin Terjemahan"
+  },
+  "translationService": {
+    "message": "Perkhidmatan Terjemahan"
+  },
+  "translationServiceTitle": {
+    "message": "Perkhidmatan Terjemahan"
+  },
+  "advancedSettings": {
+    "message": "Tetapan Lanjutan"
+  },
+  "pauseVideo": {
+    "message": "Jeda Video"
+  },
+  "iosOpenOriginVolume": {
+    "message": "Hidupkan audio asal"
+  },
+  "voicesAndSubtitles": {
+    "message": "Suara & Sari Kata"
+  },
+  "voicesAndSubtitlesTitle": {
+    "message": "Suara & Sari Kata"
+  },
+  "speakerList": {
+    "message": "Senarai Penutur"
+  },
+  "speakersTitle": {
+    "message": "Penutur"
+  },
+  "deleteSpeaker": {
+    "message": "Padam"
+  },
+  "editSpeaker": {
+    "message": "Edit"
+  },
+  "speakerName": {
+    "message": "Nama Penutur"
+  },
+  "enterSpeakerName": {
+    "message": "Masukkan nama penutur"
+  },
+  "enterVoice": {
+    "message": "Masukkan nama suara"
+  },
+  "voice": {
+    "message": "Suara"
+  },
+  "gender": {
+    "message": "Jantina"
+  },
+  "male": {
+    "message": "Lelaki"
+  },
+  "female": {
+    "message": "Perempuan"
+  },
+  "edit": {
+    "message": "Edit"
+  },
+  "delete": {
+    "message": "Padam"
+  },
+  "save": {
+    "message": "Simpan"
+  },
+  "cancel": {
+    "message": "Batal"
+  },
+  "confirmDeleteSpeaker": {
+    "message": "Adakah anda pasti mahu memadam penutur ini?"
+  },
+  "noSpeakers": {
+    "message": "Tiada penutur"
+  },
+  "memberUser": {
+    "message": "PRO"
+  },
+  "accountBalance": {
+    "message": "Baki Akaun:"
+  },
+  "userAccountAriaLabel": {
+    "message": "Akaun pengguna"
+  },
+  "membershipExpires": {
+    "message": "Tamat pada"
+  },
+  "shortcutSettings": {
+    "message": "Tetapan Pintasan"
+  },
+  "subscriptionRecharge": {
+    "message": "Langgan & Tambah Nilai"
+  },
+  "membershipIcon": {
+    "message": "Ikon Keahlian"
+  },
+  "browserShortcutSettingsTip": {
+    "message": "Sila konfigurasikan pintasan dalam tetapan sambungan penyemak imbas"
+  },
+  "safariShortcutSettingsTip": {
+    "message": "Sila tetapkan pintasan dalam Safari > Keutamaan > Sambungan"
+  },
+  "edgeShortcutSettingsTip": {
+    "message": "Membuka halaman tetapan pintasan sambungan Edge"
+  },
+  "firefoxShortcutSettingsTip": {
+    "message": "Membuka halaman add-on Firefox, sila tetapkan pintasan dalam Sambungan dan Tema"
+  },
+  "dubbingSettings": {
+    "message": "Tetapan Sulih Suara"
+  },
+  "debugInfo": {
+    "message": "Maklumat Nyahpepijat"
+  },
+  "sourceLanguage": {
+    "message": "Bahasa Sumber"
+  },
+  "targetLanguage": {
+    "message": "Bahasa Sasaran"
+  },
+  "vipRequiredTitle": {
+    "message": "Keahlian Diperlukan"
+  },
+  "vipRequiredText": {
+    "message": "Anda perlu menjadi ahli untuk menggunakan ciri ini"
+  },
+  "vipAndBalanceRequiredTitle": {
+    "message": "Keahlian dan Baki Diperlukan"
+  },
+  "vipAndBalanceRequiredText": {
+    "message": "Anda perlu menjadi ahli dan mempunyai baki yang mencukupi untuk menggunakan ciri ini"
+  },
+  "balanceRequiredTitle": {
+    "message": "Baki Diperlukan"
+  },
+  "balanceRequiredText": {
+    "message": "Baki akaun anda tidak mencukupi. Sila cas semula untuk menggunakan ciri ini"
+  },
+  "lowBalanceTitle": {
+    "message": "Amaran Baki Rendah"
+  },
+  "lowBalanceText": {
+    "message": "Baki akaun anda di bawah $1. Kami cadangkan cas semula tidak lama lagi untuk memastikan perkhidmatan berterusan"
+  },
+  "insufficientBalance": {
+    "message": "Disebabkan baki tidak mencukupi, perkhidmatan telah diturunkan taraf kepada Google Translate. Untuk menggunakan terjemahan AI, sila cas semula kredit anda."
+  },
+  "insufficientBalanceAlertMsg": {
+    "message": "Baki anda tidak mencukupi. Sila cas semula baki anda sebelum menggunakan terjemahan AI dan Azure TTS. Jika anda tidak mahu cas semula, anda boleh beralih kembali ke Google Translate dan jenis suara percuma."
+  },
+  "balanceRunningLow": {
+    "message": "Baki anda semakin habis. Untuk mengelakkan pengalaman tontonan yang buruk, adalah disyorkan untuk cas semula terlebih dahulu."
+  },
+  "membershipRequired": {
+    "message": "Sila langgan keahlian sebelum menggunakan terjemahan OpenAI."
+  },
+  "membershipRequiredForAI": {
+    "message": "Sila langgan keahlian sebelum menggunakan terjemahan AI. Jika anda tidak mahu langgan, anda juga boleh memilih Google Translate."
+  },
+  "insufficientMembership": {
+    "message": "Keahlian anda telah tamat tempoh. Sila perbaharui keahlian anda sebelum menggunakan terjemahan AI dan Azure TTS. Jika anda tidak mahu perbaharui, anda juga boleh memilih Google Translate dan jenis suara percuma."
+  },
+  "insufficientBalanceAndMembership": {
+    "message": "Sila langgan keahlian dan tambah baki anda sebelum menggunakan terjemahan AI dan Azure TTS. Jika anda tidak mahu langgan atau tambah baki, anda juga boleh memilih Google Translate dan jenis suara percuma."
+  },
+  "freeForVip": {
+    "message": "Percuma VIP"
+  },
+  "freeOptionTipText": {
+    "message": "Jika anda tidak mahu cas semula, anda boleh memilih pilihan percuma, "
+  },
+  "translateEngineTipText": {
+    "message": "tukar perkhidmatan terjemahan kepada Google"
+  },
+  "voiceTypeTipText": {
+    "message": "tukar jenis suara kepada versi percuma"
+  },
+  "vipFreeOptionTipText": {
+    "message": "Sebagai ahli, anda boleh menggunakan perkhidmatan terjemahan berikut secara percuma"
+  },
+  "vipTranslateEngineTipText": {
+    "message": "Tukar perkhidmatan terjemahan kepada perkhidmatan percuma ahli seperti gemini, deepseek, gpt-3.5-turbo, atau claude-3-haiku"
+  },
+  "pay": {
+    "message": "bayar"
+  },
+  "switchModelWarning": {
+    "message": "Menukar suara atau model terjemahan semasa main balik video akan dikenakan caj tambahan kerana sumber yang dibazirkan. Kami cadangkan menukar dalam video seterusnya. Untuk meneruskan, klik Teruskan dan Simpan."
+  },
+  "selectSpeaker": {
+    "message": "Pilih"
+  },
+  "speaker": {
+    "message": "Penutur"
+  },
+  "rechargeLimit": {
+    "message": "Kredit+Ahli"
+  },
+  "tooExpensive": {
+    "message": "Terlalu mahal"
+  },
+  "dropdownPlaceholder": {
+    "message": "Sila pilih"
+  },
+  "dropdownNoOptions": {
+    "message": "Tiada pilihan tersedia"
+  },
+  "dropdownSearch": {
+    "message": "Cari..."
+  },
+  "swapVolumeSettingsCommand": {
+    "message": "Togol tetapan volum antara audio asal dan sulih suara"
+  },
+  "cycleSubtitleModeCommand": {
+    "message": "Tukar sari kata: dwibahasa → terjemahan sahaja → tutup"
+  },
+  "trialMemberModelLimit": {
+    "message": "Ahli percubaan hanya boleh menggunakan Gemini dan Google Translate. Untuk menggunakan model lain, sila langgan keahlian kami."
+  },
+  "subtitlesRateLimitedByYouTube": {
+    "message": "Sari kata untuk video ini pada masa ini dihadkan kadar oleh YouTube. Sila cuba lagi kemudian."
+  },
+  "musicVideoNotSupported": {
+    "message": "Ini ialah video muzik. Terjemahan dan alih suara tidak disokong."
+  },
+  "hideUntilNextVisit": {
+    "message": "Sembunyikan sehingga lawatan seterusnya"
+  },
+  "disableGlobally": {
+    "message": "Lumpuhkan secara global"
+  },
+  "sidebarHideUntilNextVisit": {
+    "message": "Sembunyikan sehingga lawatan seterusnya"
+  },
+  "sidebarDisableForSite": {
+    "message": "Lumpuhkan untuk laman ini"
+  },
+  "sidebarDisableGlobally": {
+    "message": "Lumpuhkan secara global"
+  },
+  "sidebarReenableHint": {
+    "message": "Boleh diaktifkan semula dalam "
+  },
+  "sidebarSettings": {
+    "message": "Tetapan"
+  },
+  "sidebarReenableHintSuffix": {
+    "message": " "
+  },
+  "notSupported": {
+    "message": "Tidak disokong"
+  },
+  "multiVideoNotSupported": {
+    "message": "Halaman ini mempunyai berbilang video. Alih suara universal hanya menyokong halaman dengan satu video apabila menggunakan strim HLS."
+  },
+  "mediaSourceNotDetected": {
+    "message": "Tidak dapat mengesan sumber video. Laman web ini mungkin tidak disokong."
+  },
+  "uploadMediaForRecognition": {
+    "message": "Tiada sarikata ditemui. Adakah anda ingin memuat naik video untuk pengecaman sarikata AI?"
+  },
+  "startUpload": {
+    "message": "Mula muat naik"
+  },
+  "uploadingMedia": {
+    "message": "Memuat naik media..."
+  },
+  "downloading": {
+    "message": "Memuat turun"
+  },
+  "uploading": {
+    "message": "Memuat naik"
+  },
+  "completing": {
+    "message": "Melengkapkan"
+  },
+  "uploadComplete": {
+    "message": "Muat naik selesai"
+  },
+  "waitingForRecognition": {
+    "message": "Video berjaya dimuat naik. Pengecaman sarikata AI sedang berlangsung. Anda akan menerima pemberitahuan e-mel apabila siap."
+  },
+  "uploadFailed": {
+    "message": "Muat naik gagal"
+  },
+  "corsNotSupported": {
+    "message": "Laman web ini tidak membenarkan memuat turun fail media. Alih suara universal tidak disokong."
+  },
+  "mediaDownloadInterrupted": {
+    "message": "Muat turun media terganggu akibat ralat rangkaian (bukan sekatan laman web). Sila cuba muat naik semula."
+  },
+  "zoomRecordingDnrNotSupported": {
+    "message": "Pelayar anda tidak menyokong pengecaman muat naik rakaman Zoom. Sila gunakan Chrome/Edge."
+  },
+  "zoomRecordingDownloadForbidden403": {
+    "message": "Muat turun rakaman Zoom dilarang (403). Sila main/muat semula halaman untuk lulus pengesahan, kemudian cuba muat naik semula."
+  },
+  "liveStreamNotSupported": {
+    "message": "Siaran langsung tidak disokong untuk alih suara universal."
+  },
+  "noAudioTrackFound": {
+    "message": "Tiada trek audio dikesan. Video ini kelihatan seperti video sahaja tanpa audio dan tidak boleh digunakan untuk pengecaman alih suara."
+  },
+  "universalDubbingMemberOnly": {
+    "message": "Alih suara universal memerlukan kuasa pengkomputeran GPU awan (kos tinggi), hanya untuk VIP."
+  },
+  "videoDurationExceedsLimit": {
+    "message": "Video ini melebihi 3 jam. Alih suara universal tidak disokong untuk video yang lebih daripada 3 jam."
+  },
+  "videoDrmProtected": {
+    "message": "Video ini dilindungi oleh DRM dan tidak boleh digunakan untuk alih suara."
+  },
+  "pleaseClickVideoToPlay": {
+    "message": "Sila klik pada video untuk membukanya, kemudian gunakan ciri alih suara."
+  },
+  "iosUniversalDubbingNotSupported": {
+    "message": "Alih suara universal tidak disokong pada peranti iOS. Sila gunakan pelayar desktop."
+  },
+  "membershipRequiredTitle": {
+    "message": "Keahlian diperlukan"
+  },
+  "error": {
+    "message": "Ralat"
+  },
+  "unknownError": {
+    "message": "Ralat tidak diketahui berlaku. Sila cuba lagi."
+  },
+  "doNotClosePage": {
+    "message": "Sila jangan tutup atau muat semula halaman ini semasa muat naik, jika tidak muat naik akan terganggu."
+  },
+  "taskAlreadySubmitted": {
+    "message": "Video ini sudah dalam pemprosesan untuk pengecaman sari kata AI. Sila tunggu pemberitahuan e-mel."
+  },
+  "sampleAesNotSupported": {
+    "message": "Video ini menggunakan penyulitan SAMPLE-AES yang tidak disokong untuk muat turun pada masa ini."
+  },
+  "hlsKeyFetchFailed": {
+    "message": "Gagal mendapatkan kunci penyahsulitan untuk video ini. Video mungkin dilindungi atau pelayan kunci tidak tersedia."
+  },
+  "hlsDecryptionFailed": {
+    "message": "Gagal menyahsulit kandungan video. Kunci penyulitan mungkin salah atau format video tidak serasi."
+  },
+  "subtitleStyleOptionsTitle": {
+    "message": "Tetapan gaya sari kata"
+  },
+  "subtitleStyleOptionsDesc": {
+    "message": "Pelarasan akan disimpan dan berkuat kuasa serta-merta."
+  },
+  "subtitleStyleSectionTitle": {
+    "message": "Gaya sari kata"
+  },
+  "subtitleStylePreviewTitle": {
+    "message": "Pratonton"
+  },
+  "subtitleStylePreviewTag": {
+    "message": "Masa nyata"
+  },
+  "subtitleStylePreviewText": {
+    "message": "Dia berpendapat bahawa pemuda ini mempunyai potensi yang besar."
+  },
+  "subtitleStylePosition": {
+    "message": "Kedudukan sari kata"
+  },
+  "subtitleStylePositionTop": {
+    "message": "Atas"
+  },
+  "subtitleStylePositionMiddle": {
+    "message": "Tengah"
+  },
+  "subtitleStylePositionBottom": {
+    "message": "Bawah"
+  },
+  "subtitleStyleFontFamily": {
+    "message": "Fon"
+  },
+  "subtitleStyleFontSize": {
+    "message": "Saiz fon"
+  },
+  "subtitleStyleCustomOption": {
+    "message": "Tersuai"
+  },
+  "subtitleStyleCustomFont": {
+    "message": "Fon tersuai"
+  },
+  "subtitleStyleCustomFontPlaceholder": {
+    "message": "Contohnya: PingFang SC, Arial"
+  },
+  "subtitleStyleTextColor": {
+    "message": "Warna fon"
+  },
+  "subtitleStyleFontWeight": {
+    "message": "Ketebalan fon"
+  },
+  "subtitleStyleBackgroundColor": {
+    "message": "Warna latar belakang"
+  },
+  "subtitleStyleBackgroundOpacity": {
+    "message": "Kelegapan latar belakang"
+  },
+  "subtitleStyleEdgeStyle": {
+    "message": "Gaya tepi"
+  },
+  "subtitleStyleEdgeNone": {
+    "message": "Tiada"
+  },
+  "subtitleStyleEdgeShadow": {
+    "message": "Bayang"
+  },
+  "subtitleStyleEdgeOutline": {
+    "message": "Garisan luar"
+  },
+  "subtitleStyleFontNone": {
+    "message": "Tiada"
+  },
+  "subtitleStyleFontDefault": {
+    "message": "Lalai"
+  },
+  "subtitleStyleFontPingFang": {
+    "message": "PingFang SC"
+  },
+  "subtitleStyleFontYaHei": {
+    "message": "Microsoft YaHei"
+  },
+  "subtitleStyleFontHeiti": {
+    "message": "STHeiti"
+  },
+  "subtitleStyleFontKaiti": {
+    "message": "Kaiti SC"
+  },
+  "subtitleStyleFontSongti": {
+    "message": "STSong"
+  },
+  "subtitleStyleFontFangsong": {
+    "message": "FangSong"
+  },
+  "subtitleStyleFontDongqingHeiti": {
+    "message": "Dongqing Heiti"
+  },
+  "subtitleStyleFontLantingHei": {
+    "message": "Lanting Hei"
+  },
+  "subtitleStyleFontHanyiHeiliu": {
+    "message": "Hanyi Heiliu"
+  },
+  "subtitleStyleFontHanyiZhonghei": {
+    "message": "Hanyi Zhonghei"
+  },
+  "subtitleStyleFontSTSong": {
+    "message": "Songti"
+  },
+  "subtitleStyleFontWawati": {
+    "message": "Wawati"
+  },
+  "subtitleStyleFontWeibei": {
+    "message": "Weibei"
+  },
+  "subtitleStyleFontXingkai": {
+    "message": "Xingkai"
+  },
+  "subtitleStyleFontYuanti": {
+    "message": "Yuanti"
+  },
+  "subtitleStyleFontArialUnicode": {
+    "message": "Arial Unicode MS"
+  },
+  "subtitleStyleFontArial": {
+    "message": "Arial"
+  },
+  "subtitleStyleFontCourierNew": {
+    "message": "Courier New"
+  },
+  "subtitleStyleFontGeorgia": {
+    "message": "Georgia"
+  },
+  "subtitleStyleFontTahoma": {
+    "message": "Tahoma"
+  },
+  "subtitleStyleFontTimesNewRoman": {
+    "message": "Times New Roman"
+  },
+  "subtitleStyleFontTrebuchetMS": {
+    "message": "Trebuchet MS"
+  },
+  "subtitleStyleFontVerdana": {
+    "message": "Verdana"
+  },
+  "subtitleStyleFontHelveticaNeue": {
+    "message": "Helvetica Neue"
+  },
+  "subtitleStyleFontHiraginoMincho": {
+    "message": "Hiragino Mincho ProN"
+  },
+  "subtitleStyleFontHiraginoKaku": {
+    "message": "Hiragino Kaku Gothic ProN"
+  },
+  "subtitleStyleFontKohinoor": {
+    "message": "Kohinoor Devanagari"
+  },
+  "subtitleStyleFontAppleSD": {
+    "message": "Apple SD Gothic Neo"
+  },
+  "subtitleStyleFontNanumGothic": {
+    "message": "Nanum Gothic"
+  },
+  "subtitleStyleFontCustom": {
+    "message": "Tersuai"
+  },
+  "subtitleStyleColorWhite": {
+    "message": "putih"
+  },
+  "subtitleStyleColorYellow": {
+    "message": "kuning"
+  },
+  "subtitleStyleColorOrange": {
+    "message": "Oren"
+  },
+  "subtitleStyleColorGray": {
+    "message": "kelabu"
+  },
+  "subtitleStyleColorGreen": {
+    "message": "hijau"
+  },
+  "subtitleStyleColorCyan": {
+    "message": "Sian"
+  },
+  "subtitleStyleColorBlue": {
+    "message": "Biru"
+  },
+  "subtitleStyleColorMagenta": {
+    "message": "magenta"
+  },
+  "subtitleStyleColorRed": {
+    "message": "merah"
+  },
+  "subtitleStyleColorBlack": {
+    "message": "hitam"
+  },
+  "subtitleStyleEditorViewLabel": {
+    "message": "Paparan penyunting gaya"
+  },
+  "subtitleStyleEditorViewTranslated": {
+    "message": "Terjemahan sahaja"
+  },
+  "subtitleStyleEditorViewBilingual": {
+    "message": "Dwibahasa"
+  },
+  "subtitleStyleLayoutSectionTitle": {
+    "message": "Susun atur dwibahasa"
+  },
+  "subtitleStyleOrder": {
+    "message": "Susunan sari kata"
+  },
+  "subtitleStyleOrderTranslatedFirst": {
+    "message": "Terjemahan di atas"
+  },
+  "subtitleStyleOrderOriginalFirst": {
+    "message": "Teks asal di atas"
+  },
+  "subtitleStyleLineGap": {
+    "message": "Jarak baris"
+  },
+  "subtitleStyleTextAlign": {
+    "message": "Penjajaran mendatar"
+  },
+  "subtitleStyleTextAlignLeft": {
+    "message": "Kiri"
+  },
+  "subtitleStyleTextAlignCenter": {
+    "message": "Tengah"
+  },
+  "subtitleStyleTextAlignRight": {
+    "message": "Kanan"
+  },
+  "subtitleStyleTranslatedSectionTitle": {
+    "message": "Gaya terjemahan"
+  },
+  "subtitleStyleOriginalSectionTitle": {
+    "message": "Gaya asal"
+  },
+  "subtitleStyleFollowTranslated": {
+    "message": "Ikut gaya terjemahan"
+  },
+  "subtitleStyleUsesCurrentSettings": {
+    "message": "Menggunakan tetapan semasa"
+  },
+  "subtitleStyleOriginalSizePercent": {
+    "message": "Nisbah saiz fon"
+  },
+  "subtitleStyleSharedBackgroundSectionTitle": {
+    "message": "Latar belakang bersama"
+  },
+  "subtitleStyleRestoreDefaults": {
+    "message": "Pulihkan tetapan lalai"
+  },
+  "subtitleStylePreviewOriginalText": {
+    "message": "He thought this young man had great potential."
+  },
+  "subtitleStyleColorLightGray": {
+    "message": "Kelabu cerah"
+  },
+  "disabledSitesSectionTitle": {
+    "message": "Laman web dilumpuhkan"
+  },
+  "disabledSitesTitle": {
+    "message": "Urus laman web dilumpuhkan"
+  },
+  "disabledSitesDescription": {
+    "message": "Bola terapung tidak akan muncul di laman web berikut. Anda boleh menambah atau membuang laman web dilumpuhkan di sini."
+  },
+  "disabledSitesPlaceholder": {
+    "message": "Masukkan domain, cth. youtube.com"
+  },
+  "disabledSitesAdd": {
+    "message": "Tambah"
+  },
+  "disabledSitesDomain": {
+    "message": "Domain"
+  },
+  "disabledSitesActions": {
+    "message": "Tindakan"
+  },
+  "disabledSitesDelete": {
+    "message": "Padam"
+  },
+  "disabledSitesEmpty": {
+    "message": "Tiada laman web dilumpuhkan"
+  },
+  "preferencesSectionTitle": {
+    "message": "Tetapan asas"
+  },
+  "optionsNavPreferencesShort": {
+    "message": "Asas"
+  },
+  "optionsNavSubtitleShort": {
+    "message": "Sari kata"
+  },
+  "optionsNavAiShort": {
+    "message": "AI"
+  },
+  "optionsNavSitesShort": {
+    "message": "Laman"
+  },
+  "preferenceStatusDisabled": {
+    "message": "Dimatikan"
+  },
+  "preferencesTitle": {
+    "message": "Tetapan asas"
+  },
+  "preferencesDescription": {
+    "message": "Urus keutamaan asas anda di sini."
+  },
+  "emailNotificationLabel": {
+    "message": "Pemberitahuan e-mel"
+  },
+  "emailNotificationDescription": {
+    "message": "Maklumkan saya melalui e-mel apabila pengecaman sari kata selesai."
+  },
+  "emailNotificationSaveFailed": {
+    "message": "Gagal menyimpan. Sila cuba lagi kemudian."
+  },
+  "skipTranslationWhenSameLanguageLabel": {
+    "message": "Langkau terjemahan untuk bahasa yang sama"
+  },
+  "skipTranslationWhenSameLanguageDescription": {
+    "message": "Apabila diaktifkan, jika bahasa sari kata sama dengan bahasa sasaran, alih suara akan bermula terus tanpa terjemahan."
+  },
+  "userSubtitleSegmentationEnabledLabel": {
+    "message": "Segmentasi pintar sari kata pengguna"
+  },
+  "userSubtitleSegmentationEnabledDescription": {
+    "message": "Apabila dihidupkan, sari kata yang diedit atau dimuat naik secara setempat akan disegmentasi secara automatik. Apabila dimatikan, pembahagian asal dikekalkan."
+  },
+  "subtitlePriorityTitle": {
+    "message": "Keutamaan Terjemahan Sari Kata"
+  },
+  "subtitlePriorityDescription": {
+    "message": "Pilih sumber sari kata mana yang diutamakan untuk terjemahan."
+  },
+  "subtitlePriorityAiSubtitle": {
+    "message": "Sari Kata Dikenali AI Plugin"
+  },
+  "subtitlePriorityAiSubtitleDesc": {
+    "message": "Utamakan sari kata yang dijana oleh pengecaman suara AI plugin untuk ketepatan lebih tinggi."
+  },
+  "subtitlePriorityPlatformSubtitle": {
+    "message": "Sari Kata Terbina Dalam Platform"
+  },
+  "subtitlePriorityPlatformSubtitleDesc": {
+    "message": "Utamakan sari kata asal yang disediakan oleh platform video."
+  },
+  "subtitlePriorityQuickLabel": {
+    "message": "Sari kata"
+  },
+  "subtitlePriorityQuickAi": {
+    "message": "AI"
+  },
+  "subtitlePriorityQuickPlatform": {
+    "message": "Platform"
+  },
+  "panelTabVideoSummary": {
+    "message": "Ringkasan"
+  },
+  "panelTabSubtitleEdit": {
+    "message": "Sari kata"
+  },
+  "panelSummaryTitle": {
+    "message": "Ringkasan & rangka video"
+  },
+  "panelSummaryDesc": {
+    "message": "Gunakan model AI canggih untuk memahami kandungan video dengan cepat"
+  },
+  "panelSummaryGenerate": {
+    "message": "Jana ringkasan"
+  },
+  "panelSummaryGenerating": {
+    "message": "Menjana..."
+  },
+  "panelSummaryReGenerating": {
+    "message": "Menjana semula..."
+  },
+  "panelSummarySectionSummary": {
+    "message": "Ringkasan"
+  },
+  "panelSummarySectionHighlights": {
+    "message": "Sorotan"
+  },
+  "panelSummaryExpandAll": {
+    "message": "Kembangkan semua"
+  },
+  "panelSummaryCollapseAll": {
+    "message": "Kuncupkan semua"
+  },
+  "panelSummaryExpand": {
+    "message": "Kembangkan"
+  },
+  "panelSummaryCollapse": {
+    "message": "Kuncupkan"
+  },
+  "panelSummaryShare": {
+    "message": "Kongsi"
+  },
+  "panelSummaryCopy": {
+    "message": "Salin"
+  },
+  "panelSummaryReGenerate": {
+    "message": "Jana semula"
+  },
+  "panelSummaryCopySuccess": {
+    "message": "Disalin"
+  },
+  "panelSummaryPlay": {
+    "message": "Main"
+  },
+  "panelSummaryPause": {
+    "message": "Jeda"
+  },
+  "panelSummaryPlayFailed": {
+    "message": "Gagal dimainkan, sila cuba lagi"
+  },
+  "panelSummaryNoSubtitle": {
+    "message": "Tiada sari kata tersedia untuk video ini"
+  },
+  "panelSummaryError": {
+    "message": "Penjanaan ringkasan gagal, sila cuba lagi"
+  },
+  "panelSummaryErrorInvalidVideoId": {
+    "message": "Tidak dapat mengenal pasti video semasa, sila muat semula halaman dan cuba lagi"
+  },
+  "panelSummaryErrorMemberRequired": {
+    "message": "Ringkasan video adalah ciri eksklusif ahli, sila langgan untuk menggunakan"
+  },
+  "panelSummaryErrorNoSubtitles": {
+    "message": "Tiada sari kata tersedia untuk video ini, tidak dapat menjana ringkasan"
+  },
+  "panelSummaryErrorServiceError": {
+    "message": "Perkhidmatan ringkasan tidak tersedia buat sementara waktu, sila cuba lagi kemudian"
+  },
+  "subtitleEditorManualInput": {
+    "message": "Input Manual"
+  },
+  "subtitleEditorSwitchTip": {
+    "message": "Klik di sini untuk menukar sari kata"
+  },
+  "subtitleEditorExport": {
+    "message": "Eksport"
+  },
+  "subtitleEditorTrackFallback": {
+    "message": "Sumber Sarikata"
+  },
+  "subtitleEditorMySubtitles": {
+    "message": "Sarikata Saya"
+  },
+  "subtitleEditorNoSourceManual": {
+    "message": "Tiada sumber sari kata tersedia (input manual tersedia)"
+  },
+  "subtitleEditorSaveInvalidVideo": {
+    "message": "Tidak dapat mengenal pasti video semasa. Simpan gagal."
+  },
+  "subtitleEditorSaveFailed": {
+    "message": "Simpan gagal. Sila cuba lagi kemudian."
+  },
+  "subtitleEditorValidationEmpty": {
+    "message": "Kandungan sari kata tidak boleh kosong"
+  },
+  "subtitleEditorValidationBlockStructure": {
+    "message": "Blok SRT tidak sah. Urutan, cap masa dan kandungan diperlukan."
+  },
+  "subtitleEditorValidationSequenceFormat": {
+    "message": "Format nombor urutan SRT tidak sah"
+  },
+  "subtitleEditorValidationSequenceIncrement": {
+    "message": "Nombor jujukan SRT mesti bermula pada 1 dan meningkat sebanyak 1"
+  },
+  "subtitleEditorValidationTimeFormat": {
+    "message": "Format masa tidak sah. Sila semak dan betulkan."
+  },
+  "subtitleEditorValidationEndAfterStart": {
+    "message": "Masa tamat mestilah lebih besar daripada masa mula"
+  },
+  "subtitleEditorValidationContentRequired": {
+    "message": "Setiap sari kata mesti mengandungi sekurang-kurangnya satu baris teks"
+  },
+  "subtitleEditorValidationSpeakerPrefix": {
+    "message": "Beberapa sari kata termasuk tag pembesar suara. Semua sari kata mesti menggunakan awalan [speaker]."
+  },
+  "localPlayerTemporaryImportMode": {
+    "message": "Mod import sementara"
+  },
+  "localPlayerLibraryTitle": {
+    "message": "Pustaka video tempatan"
+  },
+  "localPlayerEntryButton": {
+    "message": "Video tempatan"
+  },
+  "localPlayerPageTitle": {
+    "message": "Video tempatan · YouTube Dubbing"
+  },
+  "localPlayerFolderAccessDescription": {
+    "message": "Membuka folder menyimpan pemegang fail supaya akses boleh dipulihkan selepas muat semula."
+  },
+  "localPlayerTemporaryImportDescription": {
+    "message": "Penyemak imbas ini tidak menyokong File System Access API. Anda boleh menambah video dan sari kata buat sementara waktu."
+  },
+  "localPlayerOpenFolder": {
+    "message": "Buka folder"
+  },
+  "localPlayerAddVideo": {
+    "message": "Tambah video"
+  },
+  "localPlayerAddSubtitle": {
+    "message": "Tambah sari kata"
+  },
+  "localPlayerVideoList": {
+    "message": "Senarai video"
+  },
+  "localPlayerFolders": {
+    "message": "Folder"
+  },
+  "localPlayerFoldersDescription": {
+    "message": "Semak imbas media yang diimport mengikut folder."
+  },
+  "localPlayerAllVideos": {
+    "message": "Semua video"
+  },
+  "localPlayerAllVideosDescription": {
+    "message": "Cari dan urus setiap video yang diimport."
+  },
+  "localPlayerLibraryView": {
+    "message": "Paparan perpustakaan"
+  },
+  "localPlayerBackToFolders": {
+    "message": "Kembali ke folder"
+  },
+  "localPlayerFolderSearchPlaceholder": {
+    "message": "Cari folder, laluan atau fail"
+  },
+  "localPlayerTotalFolders": {
+    "message": "Jumlah {count} folder"
+  },
+  "localPlayerMatchedFolders": {
+    "message": "Padanan {visibleCount} / jumlah {totalCount} folder"
+  },
+  "localPlayerNoFolderMatchesTitle": {
+    "message": "Tiada folder yang sepadan"
+  },
+  "localPlayerNoFolderMatchesText": {
+    "message": "Laraskan carian folder dan cuba lagi."
+  },
+  "localPlayerRescanAll": {
+    "message": "Imbas semula semua"
+  },
+  "localPlayerFolderMenuLabel": {
+    "message": "Tindakan folder"
+  },
+  "localPlayerOpenFolderMenu": {
+    "message": "Buka folder"
+  },
+  "localPlayerRescanThisFolder": {
+    "message": "Imbas semula folder ini"
+  },
+  "localPlayerRemoveFromLibrary": {
+    "message": "Alih keluar daripada perpustakaan"
+  },
+  "localPlayerFolderVideoCount": {
+    "message": "video {count}"
+  },
+  "localPlayerFolderAssociatedSubtitleCount": {
+    "message": "{count} sari kata yang berkaitan"
+  },
+  "localPlayerFolderLastPlayed": {
+    "message": "Terakhir dimainkan {time}"
+  },
+  "localPlayerFolderLastScanned": {
+    "message": "Terakhir diimbas {time}"
+  },
+  "localPlayerRemoveFolderTitle": {
+    "message": "Alih keluar folder ini daripada pustaka?"
+  },
+  "localPlayerRemoveFolderText": {
+    "message": "Ini hanya mengalih keluar rekod pustaka untuk folder ini. Fail asal pada cakera tidak akan dipadamkan."
+  },
+  "localPlayerFolderRemoved": {
+    "message": "Dialih keluar {folderName}"
+  },
+  "localPlayerRemoveFolderFailed": {
+    "message": "Gagal mengalih keluar folder daripada pustaka."
+  },
+  "localPlayerRescanFailed": {
+    "message": "Gagal mengimbas semula perpustakaan tempatan."
+  },
+  "localPlayerRescanFolderUnavailable": {
+    "message": "Tidak dapat mengimbas semula folder ini kerana akses folder yang disimpan tidak tersedia."
+  },
+  "localPlayerCurrentDirectory": {
+    "message": "Direktori semasa"
+  },
+  "localPlayerNoNewFilesFound": {
+    "message": "Tiada fail baharu ditemui."
+  },
+  "localPlayerScanComplete": {
+    "message": "Imbasan selesai: menambahkan {addedVideoCount} video, {addedSubtitleCount} sari kata, {updatedCount} fail yang dikemas kini."
+  },
+  "localPlayerNever": {
+    "message": "Tidak pernah"
+  },
+  "localPlayerSearchPlaceholder": {
+    "message": "Cari video atau laluan fail"
+  },
+  "localPlayerFilterAll": {
+    "message": "Semua"
+  },
+  "localPlayerFilterWithSubtitle": {
+    "message": "Dengan sari kata"
+  },
+  "localPlayerFilterNoSubtitle": {
+    "message": "Tanpa sari kata"
+  },
+  "localPlayerSortLastPlayed": {
+    "message": "Video yang dimainkan baru-baru ini"
+  },
+  "localPlayerSortName": {
+    "message": "Nama fail"
+  },
+  "localPlayerSortDuration": {
+    "message": "Tempoh video"
+  },
+  "localPlayerNoVideosTitle": {
+    "message": "Belum ada video tempatan"
+  },
+  "localPlayerNoMatchesTitle": {
+    "message": "Tiada video yang sepadan"
+  },
+  "localPlayerNoVideosText": {
+    "message": "Buka folder atau tambahkan video untuk mengurus pautan sari kata dan alih suara tempatan di sini."
+  },
+  "localPlayerNoMatchesText": {
+    "message": "Laraskan carian, penapis atau pengisihan dan cuba lagi."
+  },
+  "localPlayerDeleteVideoLabel": {
+    "message": "Padam {fileName}"
+  },
+  "localPlayerRecognitionSubmitted": {
+    "message": "Mengenali sari kata"
+  },
+  "localPlayerPlay": {
+    "message": "Mainkan video"
+  },
+  "localPlayerSubtitles": {
+    "message": "Sarikata"
+  },
+  "localPlayerStartDubbing": {
+    "message": "Mulakan alih suara"
+  },
+  "localPlayerFloatingActionsLabel": {
+    "message": "Tindakan pantas video tempatan"
+  },
+  "localPlayerOpenSidebar": {
+    "message": "Buka bar sisi"
+  },
+  "localPlayerClose": {
+    "message": "Tutup"
+  },
+  "localPlayerSameDirectorySubtitleSummary": {
+    "message": "Sari kata dalam folder yang sama {sameCount} · Dipautkan {associatedCount}"
+  },
+  "localPlayerNoManageableSubtitles": {
+    "message": "Tiada sarikata untuk diurus"
+  },
+  "localPlayerAssociateAndUseForDubbing": {
+    "message": "Pautkan sari kata dan gunakannya untuk alih suara"
+  },
+  "localPlayerSetForDubbing": {
+    "message": "Gunakan sari kata ini untuk alih suara"
+  },
+  "localPlayerRemoveAssociation": {
+    "message": "Nyahpaut sari kata"
+  },
+  "localPlayerRemoveAllAssociations": {
+    "message": "Nyahpaut semua sari kata"
+  },
+  "localPlayerSelectVideoForSubtitleTitle": {
+    "message": "Pilih video untuk dipautkan ke sari kata ini"
+  },
+  "localPlayerAssociate": {
+    "message": "Pautkan sari kata"
+  },
+  "localPlayerInitialStatus": {
+    "message": "Buka folder, tambah video atau lepaskan fail untuk bermula."
+  },
+  "localPlayerAscendingSortTitle": {
+    "message": "Menaik; klik untuk beralih kepada menurun"
+  },
+  "localPlayerDescendingSortTitle": {
+    "message": "Menurun; klik untuk bertukar kepada menaik"
+  },
+  "localPlayerTotalVideos": {
+    "message": "Jumlah {count} video"
+  },
+  "localPlayerMatchedVideos": {
+    "message": "Memadankan {visibleCount} / jumlah {totalCount} video"
+  },
+  "localPlayerRouteVideoMissing": {
+    "message": "Video yang dinyatakan dalam URL tiada dalam pustaka video tempatan semasa."
+  },
+  "localPlayerFolderAccessUnsupported": {
+    "message": "Pelayar ini tidak boleh membuka folder. Gunakan Tambah video/Tambah sari kata untuk import sementara."
+  },
+  "localPlayerImportComplete": {
+    "message": "Video {videoCount} dan sari kata {subtitleCount} yang diimport."
+  },
+  "localPlayerOpenFolderFailed": {
+    "message": "Gagal membuka folder."
+  },
+  "localPlayerAddVideoFailed": {
+    "message": "Gagal menambah video."
+  },
+  "localPlayerAddSubtitleFailed": {
+    "message": "Gagal menambah sari kata."
+  },
+  "localPlayerAssociationSaved": {
+    "message": "Pautan sari kata disimpan."
+  },
+  "localPlayerAssociationSavedAndPreferred": {
+    "message": "Sari kata dipautkan dan ditetapkan untuk alih suara."
+  },
+  "localPlayerPreferredSubtitleSaved": {
+    "message": "Sarikata ditetapkan untuk alih suara."
+  },
+  "localPlayerAssociationRemoved": {
+    "message": "Pautan sari kata dialih keluar."
+  },
+  "localPlayerRebindSubtitleTitle": {
+    "message": "Ikat semula sari kata ini?"
+  },
+  "localPlayerRebindSubtitleText": {
+    "message": "Sari kata ini sudah dikaitkan dengan \"{fromVideo}\". Meneruskan akan mengalih keluar perkaitan itu dan mengaitkannya dengan \"{toVideo}\"."
+  },
+  "localPlayerRemoveAllAssociationsTitle": {
+    "message": "Nyahpaut semua sari kata?"
+  },
+  "localPlayerRemoveAllAssociationsText": {
+    "message": "Hanya pautan sari kata untuk video ini akan dialih keluar. Rekod fail sari kata tidak akan dipadamkan."
+  },
+  "localPlayerAllAssociationsRemoved": {
+    "message": "Semua pautan sari kata dialih keluar."
+  },
+  "localPlayerDeleteVideoTitle": {
+    "message": "Padamkan video ini?"
+  },
+  "localPlayerDeleteVideoText": {
+    "message": "Ini mengalih keluar pautan video dan sari kata daripada pustaka tempatan. Fail asal pada cakera tidak akan dipadamkan."
+  },
+  "localPlayerDelete": {
+    "message": "Padam"
+  },
+  "localPlayerVideoDeleted": {
+    "message": "Dipadamkan {fileName}"
+  },
+  "localPlayerDeleteVideoFailed": {
+    "message": "Gagal memadamkan video."
+  },
+  "localPlayerVideoFileAccessLost": {
+    "message": "Tidak dapat memulihkan akses kepada fail video ini. Sila tambahkan video sekali lagi."
+  },
+  "localPlayerVideoPlayerNotReady": {
+    "message": "Pemain video belum bersedia lagi."
+  },
+  "localPlayerNowPlaying": {
+    "message": "Kini bermain {fileName}"
+  },
+  "localPlayerDubbingStarted": {
+    "message": "Alih suara tempatan dimulakan."
+  },
+  "localPlayerDubbingStartFailed": {
+    "message": "Gagal memulakan alih suara tempatan."
+  },
+  "localPlayerOpenSidebarFailed": {
+    "message": "Gagal membuka bar sisi."
+  },
+  "localPlayerVideoFileReadFailed": {
+    "message": "Tidak boleh membaca fail video tempatan. Sila tambahkan video sekali lagi."
+  },
+  "localPlayerUploadCancelled": {
+    "message": "Muat naik dibatalkan."
+  },
+  "localPlayerSubtitleAssociatedBadge": {
+    "message": "{count} sari kata terpaut"
+  },
+  "localPlayerNoSubtitleBadge": {
+    "message": "Tiada sari kata terpaut"
+  },
+  "localPlayerUsedForDubbing": {
+    "message": "Digunakan untuk alih suara"
+  },
+  "localPlayerAssociated": {
+    "message": "Dipautkan"
+  },
+  "localPlayerAssociatedOutsideFolder": {
+    "message": "Dipautkan di luar folder ini"
+  },
+  "localPlayerNotAssociated": {
+    "message": "Tidak dipautkan"
+  },
+  "localPlayerNativeSubtitle": {
+    "message": "Sari kata asal"
+  },
+  "localPlayerDubbingAlreadyStarted": {
+    "message": "Alih suara suara bermula"
+  },
+  "localPlayerThumbnailBackfillComplete": {
+    "message": "Menjana imej kecil untuk video {count}."
+  },
+  "localPlayerThumbnailGenerationFailed": {
+    "message": "Penjanaan imej kecil gagal: {displayName} ({message})"
+  },
+  "localPlayerFreeUserNoSubtitleMessage": {
+    "message": "Video tempatan ini tidak mempunyai sari kata yang dipautkan. Pengguna percuma tidak boleh menggunakan pengecaman sari kata latar belakang untuk video tempatan lagi. Tingkatkan keahlian untuk menggunakan pengecaman sari kata AI, atau muat naik fail sari kata secara manual sebelum memulakan alih suara."
+  },
+  "localPlayerNoSubtitleUploadTitle": {
+    "message": "Video ini tiada sarikata"
+  },
+  "localPlayerNoSubtitleUploadText": {
+    "message": "Muat naik video ini untuk pengecaman sari kata AI? Muat naik hanya digunakan untuk mengecam sari kata, video dipadamkan serta-merta selepas pengecaman dan anda akan dimaklumkan melalui e-mel."
+  },
+  "localPlayerNavigationLabel": {
+    "message": "Pustaka video tempatan / Teks ke Pertuturan"
+  },
+  "localPlayerCurrentPageNav": {
+    "message": "Alih suara video"
+  },
+  "localPlayerTextDubbingNav": {
+    "message": "Teks ke Pertuturan"
+  },
+  "localPlayerTextDubbingTitle": {
+    "message": "Teks ke Pertuturan"
+  },
+  "localPlayerTextDubbingDescription": {
+    "message": "Teks ke Pertuturan - Bahasa Sasaran"
+  },
+  "localPlayerTextDubbingVoiceType": {
+    "message": "Jenis Suara"
+  },
+  "localPlayerTextDubbingLanguage": {
+    "message": "Bahasa Sasaran"
+  },
+  "localPlayerTextDubbingGender": {
+    "message": "Jantina"
+  },
+  "localPlayerTextDubbingVoice": {
+    "message": "Suara"
+  },
+  "localPlayerTextDubbingInputLabel": {
+    "message": "Input Manual"
+  },
+  "localPlayerTextDubbingInputPlaceholder": {
+    "message": "Input Manual - Teks ke Pertuturan"
+  },
+  "localPlayerTextDubbingLimitHint": {
+    "message": "Teks ke Pertuturan: {chars} / {bytes}"
+  },
+  "localPlayerTextDubbingCounter": {
+    "message": "{chars} · {bytes}"
+  },
+  "localPlayerTextDubbingGenerate": {
+    "message": "Teks ke Pertuturan MP3"
+  },
+  "localPlayerTextDubbingGenerating": {
+    "message": "Menyimpan..."
+  },
+  "localPlayerTextDubbingGenerated": {
+    "message": "Teks ke Pertuturan MP3 · {seconds}s"
+  },
+  "localPlayerTextDubbingFailed": {
+    "message": "Simpan Gagal"
+  },
+  "localPlayerTextDubbingNoVoice": {
+    "message": "Tiada suara tersedia untuk pilihan ini."
+  },
+  "localPlayerTextDubbingEmptyText": {
+    "message": "Kandungan sari kata tidak boleh kosong"
+  },
+  "localPlayerTextDubbingTooLong": {
+    "message": "Teks terlalu panjang. Pendekkan dan cuba lagi."
+  },
+  "localPlayerTextDubbingDownload": {
+    "message": "Eksport MP3"
+  },
+  "localPlayerTextDubbingClear": {
+    "message": "Batal"
+  },
+  "translationDomainGeneral": {
+    "message": "Umum"
+  },
+  "translationDomainWeb3": {
+    "message": "Web3 dan kripto"
+  },
+  "translationDomainTech": {
+    "message": "Teknologi"
+  },
+  "translationDomainNews": {
+    "message": "Berita dan media"
+  },
+  "translationDomainProgramming": {
+    "message": "Pengaturcaraan"
+  },
+  "translationDomainEducation": {
+    "message": "Pendidikan"
+  },
+  "translationDomainFinance": {
+    "message": "Kewangan"
+  },
+  "translationDomainLaw": {
+    "message": "Undang-undang"
+  },
+  "translationDomainAuto": {
+    "message": "Automotif"
+  },
+  "translationDomainEcommerce": {
+    "message": "E-dagang"
+  },
+  "translationDomainFashion": {
+    "message": "Fesyen"
+  },
+  "translationDomainFood": {
+    "message": "Makanan dan masakan"
+  },
+  "translationDomainGardening": {
+    "message": "Berkebun"
+  },
+  "translationDomainMedical": {
+    "message": "Perubatan dan kesihatan"
+  },
+  "translationDomainMusic": {
+    "message": "Muzik"
+  },
+  "translationDomainPets": {
+    "message": "Haiwan peliharaan"
+  },
+  "translationDomainSports": {
+    "message": "Sukan"
+  },
+  "translationDomainTravel": {
+    "message": "Perjalanan"
+  },
+  "translationDomainChess": {
+    "message": "Catur"
+  },
+  "translationDomainGaming": {
+    "message": "Permainan"
+  },
+  "translationDomainGolf": {
+    "message": "Golf"
+  },
+  "translationDomainMovies": {
+    "message": "Filem dan TV"
+  },
+  "translationDomainPhotography": {
+    "message": "Fotografi"
+  },
+  "translationPreferencesSectionTitle": {
+    "message": "Terjemahan AI"
+  },
+  "translationRulesEnabledLabel": {
+    "message": "Gunakan glosari dan penggantian teks dalam terjemahan AI"
+  },
+  "translationRulesEnabledDescription": {
+    "message": "Apabila dihidupkan, terjemahan AI menggunakan tetapan di bawah. Apabila dimatikan, tetapan sedia ada tetap disimpan."
+  },
+  "glossaryTitle": {
+    "message": "Glosari"
+  },
+  "glossaryDescription": {
+    "message": "Tetapkan terjemahan khusus untuk istilah sumber (contohnya Stratagem). Istilah anda mengatasi glosari terbina dalam."
+  },
+  "glossaryCreateButton": {
+    "message": "Tambah Istilah Peribadi"
+  },
+  "glossaryEditTitle": {
+    "message": "Edit Istilah Peribadi"
+  },
+  "glossaryEditorDescription": {
+    "message": "Hanya istilah glosari peribadi boleh ditambah, diedit, dihidupkan atau dipadamkan."
+  },
+  "glossaryTableTitle": {
+    "message": "Istilah untuk Bahasa Semasa"
+  },
+  "glossaryCombinedEmpty": {
+    "message": "Belum ada istilah peribadi untuk bahasa ini."
+  },
+  "glossarySearchEmpty": {
+    "message": "Tiada istilah yang sepadan."
+  },
+  "glossarySearchPlaceholder": {
+    "message": "Cari istilah sumber"
+  },
+  "glossarySourcePlaceholder": {
+    "message": "Istilah sumber"
+  },
+  "glossaryTargetPlaceholder": {
+    "message": "Terjemahan wajib"
+  },
+  "glossarySourceTerm": {
+    "message": "Istilah sumber"
+  },
+  "glossaryTargetTerm": {
+    "message": "Terjemahan"
+  },
+  "replacementTitle": {
+    "message": "Pembetulan kesilapan teks sumber"
+  },
+  "replacementDescription": {
+    "message": "Betulkan ralat pengecaman sari kata yang berulang (contohnya cloud code -> Claude Code) sebelum terjemahan AI."
+  },
+  "replacementCreateButton": {
+    "message": "Tambah Penggantian Peribadi"
+  },
+  "replacementEditTitle": {
+    "message": "Edit Penggantian Peribadi"
+  },
+  "replacementEditorDescription": {
+    "message": "Hanya penggantian teks peribadi digunakan sebelum terjemahan AI."
+  },
+  "replacementFindPlaceholder": {
+    "message": "Teks salah, contohnya cloud code"
+  },
+  "replacementReplacePlaceholder": {
+    "message": "Gantikan dengan, contohnya claude code"
+  },
+  "replacementFindText": {
+    "message": "Teks salah"
+  },
+  "replacementReplaceText": {
+    "message": "Gantikan dengan"
+  },
+  "replacementEmpty": {
+    "message": "Belum ada peraturan pembetulan."
+  },
+  "replacementSearchEmpty": {
+    "message": "Tiada penggantian yang sepadan."
+  },
+  "replacementSearchPlaceholder": {
+    "message": "Cari penggantian"
+  },
+  "translatedReplacementTitle": {
+    "message": "Penggantian dalam teks terjemahan"
+  },
+  "translatedReplacementDescription": {
+    "message": "Gantikan perkataan atau frasa dalam terjemahan yang telah siap menggunakan peraturan peribadi."
+  },
+  "translatedReplacementCreateButton": {
+    "message": "Tambah penggantian teks terjemahan"
+  },
+  "translatedReplacementLanguage": {
+    "message": "Bahasa sasaran"
+  },
+  "translatedReplacementFindText": {
+    "message": "Teks terjemahan"
+  },
+  "translatedReplacementReplaceText": {
+    "message": "Gantikan dengan"
+  },
+  "translatedReplacementSearchPlaceholder": {
+    "message": "Cari dalam teks terjemahan"
+  },
+  "translatedReplacementEmpty": {
+    "message": "Belum ada peraturan penggantian teks terjemahan."
+  },
+  "translatedReplacementSearchEmpty": {
+    "message": "Tiada penggantian teks terjemahan yang sepadan."
+  },
+  "translatedReplacementCreateTitle": {
+    "message": "Tambah penggantian teks terjemahan"
+  },
+  "translatedReplacementEditTitle": {
+    "message": "Edit penggantian teks terjemahan"
+  },
+  "translatedReplacementEditorDescription": {
+    "message": "Hanya terjemahan yang telah siap diubah; teks sumber dan cache terjemahan kekal tidak berubah."
+  },
+  "translatedReplacementFindPlaceholder": {
+    "message": "Perkataan atau frasa dalam teks terjemahan"
+  },
+  "translatedReplacementReplacePlaceholder": {
+    "message": "Perkataan atau frasa untuk dipaparkan sebagai ganti"
+  },
+  "translatedReplacementEnabledDescription": {
+    "message": "Apabila dinyahdayakan, peraturan disimpan tetapi tidak digunakan pada teks terjemahan."
+  },
+  "preferenceAdd": {
+    "message": "Tambah"
+  },
+  "preferenceDomain": {
+    "message": "Bidang"
+  },
+  "preferenceLanguage": {
+    "message": "Bahasa"
+  },
+  "preferenceEnabled": {
+    "message": "Dihidupkan"
+  },
+  "preferenceActions": {
+    "message": "Tindakan"
+  },
+  "preferenceSource": {
+    "message": "Sumber"
+  },
+  "preferenceSourceUser": {
+    "message": "Peribadi"
+  },
+  "preferenceSourceBuiltin": {
+    "message": "Terbina dalam"
+  },
+  "preferenceStatus": {
+    "message": "Keadaan"
+  },
+  "preferenceStatusEnabled": {
+    "message": "Dihidupkan"
+  },
+  "preferenceEdit": {
+    "message": "Sunting"
+  },
+  "preferenceDelete": {
+    "message": "Padam"
+  },
+  "preferenceAllDomains": {
+    "message": "Semua Bidang"
+  },
+  "preferenceSearch": {
+    "message": "Cari"
+  },
+  "preferenceClearSearch": {
+    "message": "Kosongkan"
+  },
+  "preferencePageLabel": {
+    "message": "Halaman {page}"
+  },
+  "preferencePreviousPage": {
+    "message": "Sebelumnya"
+  },
+  "preferenceNextPage": {
+    "message": "Seterusnya"
+  },
+  "builtinGlossaryDomainsTitle": {
+    "message": "Set Bidang Terbina Dalam"
+  },
+  "builtinGlossaryDomainCount": {
+    "message": "{count} istilah terbina dalam"
+  },
+  "builtinGlossaryEmptyHint": {
+    "message": "Tiada glosari terbina dalam untuk bahasa sasaran semasa. Anda masih boleh menambah istilah peribadi."
+  },
+  "builtinGlossaryEnabledSummary": {
+    "message": "{enabled} / {total} dihidupkan"
+  },
+  "builtinGlossaryManageDomains": {
+    "message": "Urus Bidang"
+  },
+  "builtinGlossaryManageDomainsTitle": {
+    "message": "Urus Set Bidang Terbina Dalam"
+  },
+  "builtinGlossaryManageDomainsDescription": {
+    "message": "Hidupkan atau matikan bidang glosari terbina dalam untuk bahasa sasaran."
+  },
+  "builtinGlossaryDomainSearchPlaceholder": {
+    "message": "Cari bidang"
+  },
+  "builtinGlossaryEnableAllDomains": {
+    "message": "Hidupkan Semua"
+  },
+  "builtinGlossaryDisableAllDomains": {
+    "message": "Matikan Semua"
+  },
+  "builtinGlossaryDomainSearchEmpty": {
+    "message": "Tiada bidang yang sepadan."
+  },
+  "builtinGlossaryDomainTotal": {
+    "message": "{count} bidang"
+  },
+  "builtinGlossaryDomainDisabledStatus": {
+    "message": "Bidang dimatikan"
+  },
+  "builtinGlossaryBlockedStatus": {
+    "message": "Dikecualikan"
+  },
+  "builtinGlossaryReadOnlyHint": {
+    "message": "Peraturan terbina dalam"
+  },
+  "builtinTextReplacementManageDomainsTitle": {
+    "message": "Urus domain pembetulan teks sumber terbina dalam"
+  },
+  "builtinTextReplacementManageDomainsDescription": {
+    "message": "Dayakan atau nyahdayakan domain pembetulan teks sumber terbina dalam."
+  },
+  "builtinTextReplacementDomainCount": {
+    "message": "{count} peraturan terbina dalam"
+  },
+  "preferenceLoadFailed": {
+    "message": "Gagal dimuatkan. Sila log masuk dan cuba lagi."
+  },
+  "preferenceActionFailed": {
+    "message": "Tindakan gagal. Sila cuba lagi kemudian."
+  },
+  "pronunciationSettingsSectionTitle": {
+    "message": "Sebutan"
+  },
+  "pronunciationSettingsTitle": {
+    "message": "Tetapan sebutan"
+  },
+  "pronunciationSettingsDescription": {
+    "message": "Tetapkan sebutan peribadi untuk teks terjemahan. Peraturan hanya digunakan untuk alih suara tempatan."
+  },
+  "optionsNavPronunciationShort": {
+    "message": "Sebutan"
+  },
+  "pronunciationNewRule": {
+    "message": "Peraturan baru"
+  },
+  "pronunciationEditRule": {
+    "message": "Edit peraturan sebutan"
+  },
+  "pronunciationTargetLanguage": {
+    "message": "Bahasa sasaran"
+  },
+  "pronunciationSearchPlaceholder": {
+    "message": "Cari teks yang sepadan"
+  },
+  "pronunciationStatus": {
+    "message": "Keadaan"
+  },
+  "pronunciationMatchText": {
+    "message": "Teks sepadan"
+  },
+  "pronunciationMatchPlaceholder": {
+    "message": "Contohnya: hai"
+  },
+  "pronunciationTargetText": {
+    "message": "Bahagian dibetulkan"
+  },
+  "pronunciationReading": {
+    "message": "Sebutan yang ditentukan"
+  },
+  "pronunciationLoading": {
+    "message": "Memuatkan…"
+  },
+  "pronunciationEmpty": {
+    "message": "Tiada peraturan sebutan peribadi sepadan dengan penapis semasa."
+  },
+  "pronunciationEditorHint": {
+    "message": "Pilih bahagian berterusan untuk dibetulkan, kemudian masukkan sebutannya."
+  },
+  "pronunciationSelectTarget": {
+    "message": "Pilih teks untuk dibetulkan"
+  },
+  "pronunciationReselect": {
+    "message": "Pilih lagi"
+  },
+  "pronunciationEnterMatchFirst": {
+    "message": "Masukkan teks yang sepadan dahulu"
+  },
+  "pronunciationSelectionSummary": {
+    "message": "Dipilih: {text}; kejadian {occurrence}"
+  },
+  "pronunciationSelectionRestoreFailed": {
+    "message": "Lokasi yang disimpan tidak boleh dipulihkan. Pilih teks sekali lagi sebelum menyimpan."
+  },
+  "pronunciationSelectionInvalid": {
+    "message": "Pilih teks berterusan."
+  },
+  "pronunciationModifier": {
+    "message": "nada"
+  },
+  "pronunciationSelectModifier": {
+    "message": "Pilih"
+  },
+  "pronunciationSaving": {
+    "message": "Menyimpan…"
+  },
+  "pronunciationDeleteConfirm": {
+    "message": "Padamkan peraturan sebutan ini?"
+  },
+  "pronunciationOccurrence": {
+    "message": "kejadian {occurrence}"
+  },
+  "pronunciationUnknownError": {
+    "message": "Tindakan gagal. Sila cuba lagi kemudian."
+  },
+  "preferenceAllStatuses": {
+    "message": "Semua"
+  },
+  "preferenceCancel": {
+    "message": "Batal"
+  },
+  "preferenceDisabled": {
+    "message": "Dilumpuhkan"
+  },
+  "preferenceSave": {
+    "message": "Simpan"
+  },
+  "pronunciationFineSelection": {
+    "message": "Pemilihan yang tepat"
+  },
+  "pronunciationMergeUnits": {
+    "message": "Gabungkan sebutan bersebelahan"
+  },
+  "pronunciationPerUnitHint": {
+    "message": "Masukkan sebutan dan nada untuk setiap bahagian. Pisahkan atau cantumkan bahagian mengikut keperluan."
+  },
+  "pronunciationPrimarySelection": {
+    "message": "Pemilihan pintar"
+  },
+  "pronunciationSelectionGranularity": {
+    "message": "Kebutiran pemilihan"
+  },
+  "pronunciationSelectionTooLong": {
+    "message": "Bahagian yang diperbetulkan boleh mengandungi paling banyak 128 aksara."
+  },
+  "pronunciationSplitAt": {
+    "message": "Berpecah pada"
+  },
+  "pronunciationUnitReading": {
+    "message": "Sebutan per bahagian"
+  },
+  "pronunciationWholeReading": {
+    "message": "Sebutan keseluruhan"
+  },
+  "pronunciationWholeToneHint": {
+    "message": "Masukkan sebutan nada yang lengkap. Pisahkan untuk memilih nada bagi setiap bahagian."
+  },
+  "pronunciationPinyinSyllable": {
+    "message": "Suku kata pinyin"
+  },
+  "pronunciationPinyinPlaceholder": {
+    "message": "Masukkan suku kata Pinyin"
+  },
+  "pronunciationNumberedTone": {
+    "message": "Nada {tone}"
+  },
+  "pronunciationNeutralTone": {
+    "message": "Nada neutral"
+  },
+  "googleDriveNoCaptionsTitle": {
+    "message": "Video Google Drive ini belum mempunyai sari kata"
+  },
+  "googleDriveNoCaptionsIntro": {
+    "message": "Alih suara menggunakan sari kata terbina dalam Google Drive (CC). Hidupkan sari kata untuk video ini dahulu, kemudian kembali:"
+  },
+  "googleDriveNoCaptionsStep1": {
+    "message": "Dalam Google Drive, klik kanan video dan pilih “Maklumat fail” → “Urus runut sari kata”."
+  },
+  "googleDriveNoCaptionsStep2": {
+    "message": "Jika belum ada runut sari kata: Drive menjana sari kata secara automatik untuk bahasa yang disokong (termasuk Inggeris, Turki, Cina, Sepanyol, Jepun). Klik “Jana sari kata automatik” jika dipaparkan, atau muat naik fail sari kata. Hanya pemilik atau editor video boleh mengurus sari kata."
+  },
+  "googleDriveNoCaptionsStep3": {
+    "message": "Penjanaan sari kata mengambil sedikit masa. Apabila butang CC dalam pemain boleh diklik, muat semula halaman dan mulakan alih suara sekali lagi."
+  },
+  "subtitleAudioLanguageMismatch": {
+    "message": "Bahasa sari kata tidak sepadan dengan bahasa suara. Sari kata: {subtitle}. Suara: {voice}. Suara hanya boleh membaca teks dalam bahasanya sendiri, jadi penjanaan mungkin gagal atau berbunyi salah. Terjemahkan sari kata dahulu, atau tukar bahasa sasaran supaya sepadan dengan sari kata. Jana juga?"
+  },
+  "subtitleAudioNav": {
+    "message": "Alih suara sari kata"
+  },
+  "subtitleAudioAiSubtitleBadge": {
+    "message": "Sari kata AI"
+  },
+  "subtitleAudioUserSubtitleBadge": {
+    "message": "Sari kata disunting"
+  },
+  "subtitleAudioBack": {
+    "message": "Alih suara video"
+  },
+  "subtitleAudioProjectSubtitle": {
+    "message": "Sari kata: {name} · {count} baris"
+  },
+  "subtitleAudioReplaceSubtitles": {
+    "message": "Tukar sari kata"
+  },
+  "subtitleAudioExportVideoOption": {
+    "message": "Video alih suara"
+  },
+  "subtitleAudioExportVideoHint": {
+    "message": "Gambar diperlahankan di bahagian yang ayatnya memerlukan lebih masa, jadi hasilnya mungkin lebih panjang sedikit."
+  },
+  "subtitleAudioExportMp3Option": {
+    "message": "MP3 alih suara"
+  },
+  "subtitleAudioExportMp3Hint": {
+    "message": "Sama panjang dengan video asal; tindihkan semula pada video atau muat naik sebagai bahasa audio lain."
+  },
+  "subtitleAudioDownloadSrt": {
+    "message": "Muat turun SRT"
+  },
+  "subtitleAudioEditAndExport": {
+    "message": "Sunting & eksport"
+  },
+  "subtitleAudioEditNeedsSubtitle": {
+    "message": "Video ini belum mempunyai sari kata. Pautkan fail sari kata, atau klik “Mulakan alih suara” sekali untuk menjana sari kata AI."
+  },
+  "subtitleAudioTitle": {
+    "message": "Beri suara kepada setiap ayat"
+  },
+  "subtitleAudioSubtitle": {
+    "message": "Import fail SRT untuk mendapatkan MP3 alih suara yang mengikut masa sari kata. Untuk video alih suara, pilih video dalam “Alih suara video” dan klik “Sunting & eksport”."
+  },
+  "subtitleAudioImportStep": {
+    "message": "Import sari kata"
+  },
+  "subtitleAudioVoicesStep": {
+    "message": "Pilih suara"
+  },
+  "subtitleAudioExportStep": {
+    "message": "Eksport"
+  },
+  "subtitleAudioSubtitles": {
+    "message": "Sari kata"
+  },
+  "subtitleAudioCueList": {
+    "message": "Baris & suara"
+  },
+  "subtitleAudioSettings": {
+    "message": "Tetapan suara"
+  },
+  "subtitleAudioImport": {
+    "message": "Pilih fail SRT"
+  },
+  "subtitleAudioReplace": {
+    "message": "Ganti"
+  },
+  "subtitleAudioRemove": {
+    "message": "Alih keluar"
+  },
+  "subtitleAudioDrop": {
+    "message": "Lepaskan fail SRT anda di sini"
+  },
+  "subtitleAudioDropNote": {
+    "message": "UTF-8 · maksimum 2 MiB, 5,000 baris, 3 jam"
+  },
+  "subtitleAudioEmpty": {
+    "message": "Sari kata anda akan dipaparkan di sini. Pilih suara untuk setiap baris atau gunakan satu suara pada baris yang dipilih."
+  },
+  "subtitleAudioLines": {
+    "message": "Baris"
+  },
+  "subtitleAudioDuration": {
+    "message": "Tempoh sari kata"
+  },
+  "subtitleAudioCharacters": {
+    "message": "Aksara"
+  },
+  "subtitleAudioSearch": {
+    "message": "Cari teks sari kata"
+  },
+  "subtitleAudioSelectPage": {
+    "message": "Pilih halaman ini"
+  },
+  "subtitleAudioSelectAll": {
+    "message": "Pilih semua hasil"
+  },
+  "subtitleAudioSelected": {
+    "message": "{count} dipilih"
+  },
+  "subtitleAudioApply": {
+    "message": "Guna suara"
+  },
+  "subtitleAudioChooseVoice": {
+    "message": "Pilih suara"
+  },
+  "subtitleAudioText": {
+    "message": "Teks sari kata"
+  },
+  "subtitleAudioTime": {
+    "message": "Masa"
+  },
+  "subtitleAudioVoice": {
+    "message": "Suara"
+  },
+  "subtitleAudioFemale": {
+    "message": "Perempuan"
+  },
+  "subtitleAudioMale": {
+    "message": "Lelaki"
+  },
+  "subtitleAudioPage": {
+    "message": "Halaman {page} daripada {total}"
+  },
+  "subtitleAudioPrevious": {
+    "message": "Sebelumnya"
+  },
+  "subtitleAudioNext": {
+    "message": "Seterusnya"
+  },
+  "subtitleAudioPreview": {
+    "message": "Pratonton baris {index}"
+  },
+  "subtitleAudioStopPreview": {
+    "message": "Hentikan pratonton"
+  },
+  "subtitleAudioLanguage": {
+    "message": "Bahasa sasaran"
+  },
+  "subtitleAudioVoiceType": {
+    "message": "Jenis suara"
+  },
+  "subtitleAudioFree": {
+    "message": "Percuma"
+  },
+  "subtitleAudioVideoSync": {
+    "message": "Pratonton mengikut runut bunyi yang dieksport. Bunyi asal video diredamkan."
+  },
+  "subtitleAudioTimelineTitle": {
+    "message": "Trek audio"
+  },
+  "subtitleAudioLayoutOnly": {
+    "message": "Kedudukan sari kata · bentuk gelombang tersedia selepas eksport"
+  },
+  "subtitleAudioRealWave": {
+    "message": "Bentuk gelombang audio yang dieksport · klik atau gunakan peluncur untuk beralih kedudukan"
+  },
+  "subtitleAudioTracks": {
+    "message": "{count} suara → satu MP3"
+  },
+  "subtitleAudioTracksVideo": {
+    "message": "{count} suara → video alih suara"
+  },
+  "subtitleAudioSeek": {
+    "message": "Beralih kedudukan dalam media yang dieksport"
+  },
+  "subtitleAudioNoTimeline": {
+    "message": "Import sari kata untuk melihat pemasaannya."
+  },
+  "subtitleAudioGenerate": {
+    "message": "Jana MP3"
+  },
+  "subtitleAudioGenerateVideo": {
+    "message": "Jana video alih suara"
+  },
+  "subtitleAudioRegenerate": {
+    "message": "Jana semula"
+  },
+  "subtitleAudioRegenerateVideo": {
+    "message": "Jana semula video"
+  },
+  "subtitleAudioRetry": {
+    "message": "Cuba semula yang gagal"
+  },
+  "subtitleAudioCancel": {
+    "message": "Batal"
+  },
+  "subtitleAudioCancelling": {
+    "message": "Membatalkan…"
+  },
+  "subtitleAudioDownload": {
+    "message": "Muat turun MP3"
+  },
+  "subtitleAudioDownloadVideo": {
+    "message": "Muat turun video alih suara"
+  },
+  "subtitleAudioWorking": {
+    "message": "Menjana pertuturan"
+  },
+  "subtitleAudioEncoding": {
+    "message": "Membina trek audio"
+  },
+  "subtitleAudioFinalizing": {
+    "message": "Memuktamadkan MP3"
+  },
+  "subtitleAudioMuxing": {
+    "message": "Meletakkan runut bunyi alih suara pada video"
+  },
+  "subtitleAudioFinished": {
+    "message": "MP3 anda sudah sedia"
+  },
+  "subtitleAudioFinishedVideo": {
+    "message": "Video alih suara anda sudah sedia"
+  },
+  "subtitleAudioCancelled": {
+    "message": "Penjanaan dibatalkan. Klip pertuturan yang telah siap disimpan dalam cache untuk dicuba semula."
+  },
+  "subtitleAudioProgressNote": {
+    "message": "Biarkan halaman ini terbuka. Anda boleh membatalkan dan menyambung semula menggunakan klip dalam cache."
+  },
+  "subtitleAudioMissing": {
+    "message": "{count} baris belum mempunyai suara. Pilih suara untuk setiap baris atau gunakan “Guna suara”."
+  },
+  "subtitleAudioEmptyText": {
+    "message": "{count} baris tiada teks. Tambah teks sebelum menjana."
+  },
+  "subtitleAudioCacheNote": {
+    "message": "Pertuturan dijana oleh perkhidmatan yang dipilih. Sari kata dan klip yang dijana disimpan dalam cache pada peranti ini; audio dan video dihimpunkan secara setempat."
+  },
+  "subtitleAudioRestored": {
+    "message": "Draf dipulihkan."
+  },
+  "subtitleAudioSaveError": {
+    "message": "Draf tidak dapat disimpan. Biarkan halaman ini terbuka supaya suntingan anda tidak hilang."
+  },
+  "subtitleAudioFailed": {
+    "message": "Tidak dapat diselesaikan. Klip pertuturan yang telah siap dikekalkan; cuba semula untuk menyambung."
+  },
+  "subtitleAudioDetails": {
+    "message": "Butiran"
+  },
+  "subtitleAudioBadFile": {
+    "message": "Pilih fail .srt UTF-8 (maksimum 2 MiB)."
+  },
+  "subtitleAudioEncodingError": {
+    "message": "Fail ini bukan UTF-8 yang sah. Simpan sebagai UTF-8 dan import semula."
+  },
+  "subtitleAudioImportFailed": {
+    "message": "Fail sari kata tidak dapat dibaca. Semak cap masa dan teks SRT."
+  },
+  "subtitleAudioInvalidVideo": {
+    "message": "Video ini tiada trek gambar yang boleh dibaca, atau tempohnya tidak tersedia."
+  },
+  "subtitleAudioVideoLimitError": {
+    "message": "Video ini melebihi 3 jam, jadi video alih suara tidak dapat dieksport. Pilih fail yang lebih pendek."
+  },
+  "subtitleAudioVideoStorageError": {
+    "message": "Ruang kosong pada komputer ini tidak mencukupi untuk video ini: kira-kira {needed} GB diperlukan, manakala {available} GB tersedia untuk penyemak imbas. Kosongkan sedikit ruang cakera dan cuba lagi, atau pilih video yang lebih kecil."
+  },
+  "subtitleAudioVideoCodecError": {
+    "message": "Peranti ini tidak dapat menyalin codec video tersebut (contohnya HEVC). Eksport dihentikan supaya fail rosak tidak dihasilkan. Cuba MP4 H.264."
+  },
+  "subtitleAudioVideoAacUnsupported": {
+    "message": "Pelayar ini tidak dapat mengekod audio AAC, jadi video alih suara tidak boleh dieksport. Eksport MP3 alih suara masih berfungsi."
+  },
+  "subtitleAudioVideoCopyUnsupported": {
+    "message": "Codec video ini tidak boleh dieksport sebagai MP4 alih suara. Eksport MP3 alih suara masih berfungsi; untuk video, gunakan MP4 H.264."
+  },
+  "subtitleAudioPreviewFailed": {
+    "message": "Baris ini tidak dapat dipratonton. Semak suara yang dipilih dan sambungan anda."
+  },
+  "subtitleAudioPlayBlocked": {
+    "message": "Audio sudah sedia. Tekan Main pada pemain audio."
+  },
+  "subtitleAudioGeneralError": {
+    "message": "Operasi tidak dapat diselesaikan. Semak sambungan anda dan cuba lagi."
+  },
+  "subtitleAudioLimitError": {
+    "message": "Projek ini melebihi had yang disokong. Maksimum 5,000 baris / 3 jam; setiap klip pertuturan mestilah kurang daripada 60 saat."
+  },
+  "subtitleAudioStorageError": {
+    "message": "Storan setempat tidak mencukupi untuk eksport ini. Kosongkan sedikit ruang dan cuba semula."
+  },
+  "subtitleAudioAccountError": {
+    "message": "Penjanaan pertuturan memerlukan akaun yang sah dan kuota yang mencukupi. Semak akaun anda, kemudian cuba semula."
+  },
+  "subtitleAudioPaused": {
+    "message": "Menunggu"
+  },
+  "subtitleAudioGeneratingCue": {
+    "message": "Menjana"
+  },
+  "subtitleAudioReadyCue": {
+    "message": "Sedia"
+  },
+  "subtitleAudioErrorCue": {
+    "message": "Gagal"
+  },
+  "subtitleAudioVoiceReset": {
+    "message": "Sesetengah suara tidak tersedia dengan tetapan ini. Pilih suara untuk baris yang diserlahkan."
+  },
+  "subtitleAudioConfirmReplace": {
+    "message": "Gantikan draf sari kata semasa?"
+  },
+  "subtitleAudioClearDraft": {
+    "message": "Alih keluar semua sari kata daripada draf ini?"
+  },
+  "subtitleAudioOutputChanged": {
+    "message": "Tetapan telah berubah. Jana semula untuk mengemas kini fail muat turun."
+  },
+  "subtitleAudioBrowserError": {
+    "message": "Penyemak imbas ini tidak dapat memulakan pemprosesan audio. Cuba penyemak imbas desktop versi terkini."
+  },
+  "subtitleAudioOtherTabBusy": {
+    "message": "Tab lain sedang menjana atau mempratonton audio sari kata. Tunggu sehingga tugas itu selesai, atau tutup tab tersebut, kemudian cuba semula."
+  },
+  "uploadVideoLanguageLabel": {
+    "message": "Bahasa video (memilihnya meningkatkan ketepatan pengecaman)"
+  },
+  "uploadVideoLanguageAuto": {
+    "message": "Kesan secara automatik"
+  },
+  "subtitleAudioPreparing": {
+    "message": "Memisahkan ayat dan menterjemah"
+  },
+  "subtitleAudioPrepareFailed": {
+    "message": "Gagal memisahkan atau menterjemah sari kata. Cuba lagi kemudian."
+  },
+  "subtitleAudioSourceLanguage": {
+    "message": "Bahasa sari kata"
+  },
+  "subtitleAudioSourceLanguageUnknown": {
+    "message": "Bahasa sari kata ini tidak dapat dikesan. Pilih bahasa yang digunakan dalam sari kata, kemudian jana semula."
+  },
+  "subtitleAudioPreparedNote": {
+    "message": "Telah dipisahkan mengikut ayat dan diterjemah ke {language} seperti alih suara dalam talian. Anda boleh menyunting terjemahan di bawah."
+  },
+  "subtitleAudioRestoreSource": {
+    "message": "Pulihkan asal"
+  },
+  "subtitleAudioRestoreSourceConfirm": {
+    "message": "Memulihkan teks asal akan membuang suntingan terjemahan; eksport seterusnya akan memisah dan menterjemah semula. Teruskan?"
+  },
+  "subtitleAudioLanguageChangedRetranslate": {
+    "message": "Bahasa alih suara telah berubah, jadi senarai kembali kepada teks asal. Ia akan dipisah dan diterjemah semula semasa eksport."
+  },
+  "subtitleAudioCueTooLong": {
+    "message": "Baris {index} terlalu panjang. Pecahkan kepada baris lebih pendek dan cuba lagi."
+  },
+  "subtitleAudioBackgroundOption": {
+    "message": "Campur audio latar"
+  },
+  "subtitleAudioBackgroundHint": {
+    "message": "Audio latar video ini (tanpa suara orang) telah dipisahkan semasa dimuat naik untuk pengecaman. Ia dimainkan di bawah alih suara, seperti alih suara dalam talian."
+  },
+  "subtitleAudioDownloadingBackground": {
+    "message": "Memuat turun audio latar"
+  },
+  "subtitleAudioBackgroundFailed": {
+    "message": "Gagal memuat turun audio latar. Cuba lagi kemudian, atau nyahtanda \"Campur audio latar\" dan eksport semula."
+  },
+  "subtitleAudioPreparedSameLanguageNote": {
+    "message": "Sari kata sudah dalam bahasa alih suara, jadi mengikut tetapan \"jangan terjemah bahasa yang sama\" ia hanya dipisahkan mengikut ayat."
+  },
+  "dubbingToggleOn": {
+    "message": "Hidupkan sulih suara"
+  },
+  "dubbingToggleOff": {
+    "message": "Matikan sulih suara"
+  },
+  "dubbingTogglePreparing": {
+    "message": "Menyediakan sulih suara, sila tunggu…"
+  },
+  "dubbingSwitchedOffNotice": {
+    "message": "Sulih suara dimatikan, audio asal dipulihkan"
+  },
+  "dubbingSwitchedOnNotice": {
+    "message": "Sulih suara dihidupkan"
+  },
+  "toggleDubbingCommand": {
+    "message": "Hidupkan / matikan sulih suara"
+  },
+  "spotifyPublicAudioShowNotFound": {
+    "message": "Audio disulitkan dan rancangan ini tiada suapan podcast awam (mungkin eksklusif Spotify)."
+  },
+  "spotifyPublicAudioEpisodeNotMatched": {
+    "message": "Audio disulitkan dan tiada episod sepadan ditemui dalam suapan podcast awam rancangan ini."
+  },
+  "spotifyPublicAudioLookupFailed": {
+    "message": "Tidak dapat mendapatkan audio awam episod ini. Sila cuba lagi kemudian."
+  }
+}

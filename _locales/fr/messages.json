@@ -1,0 +1,2315 @@
+{
+  "name": {
+    "message": "YouTube Dubbing – Traduction et Doublage de Sous-titres par IA | Translate"
+  },
+  "description": {
+    "message": "Traduisez et doublez des vidéos en un clic, comprenez les langues, accédez au savoir mondial"
+  },
+  "metadataNotFound": {
+    "message": "Métadonnées vidéo introuvables, veuillez actualiser la page et réessayer"
+  },
+  "dubbingMediaNotFoundTitle": {
+    "message": "Aucune vidéo à doubler trouvée"
+  },
+  "dubbingMediaNotFoundText": {
+    "message": "Aucune vidéo ni aucun audio utilisable n’est disponible sur cette page pour le moment. Attendez la fin du chargement de la vidéo, puis réessayez, ou actualisez la page."
+  },
+  "noSubtitlesFound": {
+    "message": "Cette vidéo n'a pas de sous-titres et ne prend pas en charge la traduction et le doublage"
+  },
+  "liveVideoNotSupported": {
+    "message": "Live non pris en charge"
+  },
+  "universalDubbingNotSupported": {
+    "message": "Le doublage universel n'est pas pris en charge pour cette vidéo dans la version actuelle. Le support est prévu pour la prochaine version. Veuillez contacter le service client pour plus de détails."
+  },
+  "postLoginTranslationSettings": {
+    "message": "Connecté, cliquez l'icône pour choisir langue et voix."
+  },
+  "noSubtitlesWaitOptimization": {
+    "message": "Aucun sous-titre disponible. Veuillez attendre que le plugin reconnaisse les sous-titres pour cette vidéo. Vous recevrez une notification par e-mail à votre adresse enregistrée une fois la reconnaissance terminée."
+  },
+  "privateVideoNoSubtitles": {
+    "message": "Cette vidéo n'a pas de sous-titres et elle est privée. Le plugin ne peut pas reconnaître les sous-titres en arrière-plan pour cette vidéo. Veuillez rendre la vidéo publique ou ajouter manuellement des sous-titres, puis réessayer."
+  },
+  "trialMemberDurationLimit": {
+    "message": "Cette vidéo n'a pas de sous-titres. En tant que membre d'essai, seules les vidéos de moins de 15 minutes sont actuellement prises en charge pour la reconnaissance de sous-titres. Les membres premium prennent en charge les vidéos de moins de 3 heures."
+  },
+  "premiumMemberDurationLimit": {
+    "message": "Cette vidéo n'a pas de sous-titres et la durée de la vidéo dépasse 3 heures, la traduction et le doublage ne sont pas pris en charge. Veuillez sélectionner une vidéo plus courte ou une vidéo avec des sous-titres."
+  },
+  "freeUserNoSubtitles": {
+    "message": "Cette vidéo n'a pas de sous-titres intégrés. Veuillez vous abonner à l'adhésion du plugin pour la reconnaissance de sous-titres et profiter des fonctions de traduction et de doublage."
+  },
+  "freeUserDailyLimit": {
+    "message": "Les utilisateurs gratuits peuvent regarder jusqu'à 5 vidéos par jour via le plugin. Passez à l'adhésion pour débloquer les avantages de visualisation illimitée."
+  },
+  "upgradeEntryUpgradeButton": {
+    "message": "Devenir membre"
+  },
+  "upgradeEntryLaterButton": {
+    "message": "Plus tard"
+  },
+  "aiSubtitlesRecognitionInBackground": {
+    "message": "Cette vidéo n'a pas encore de sous-titres IA. Le module a démarré la reconnaissance en arrière-plan. Après avoir entendu la première phrase doublée, vous pouvez fermer la page et attendre l'email de notification; lorsque tout est prêt, le bouton de doublage deviendra vert et la qualité de traduction sera meilleure."
+  },
+  "upgradeMembershipForBackgroundRecognition": {
+    "message": "Passez à l’abonnement pour que le module reconnaisse les sous-titres IA en arrière-plan. Après réception de l’e-mail de notification, revenez regarder ; le bouton de doublage deviendra vert et la traduction sera plus précise."
+  },
+  "memberFreeVoiceAzureSuggestion": {
+    "message": "Vous doublez actuellement avec le type de voix gratuit. Les voix Azure sonnent plus naturellement ; les membres peuvent désormais utiliser Azure sans limite et sans recharge de crédits supplémentaire."
+  },
+  "memberAiSubtitlePlatformPrioritySuggestion": {
+    "message": "Les sous-titres utilisés ont été reconnus par l’IA en arrière-plan de l’extension. Si la traduction semble incorrecte, passez la priorité des sous-titres aux sous-titres de la plateforme dans les paramètres de base."
+  },
+  "openBasicSettingsLink": {
+    "message": "Ouvrir les paramètres de base"
+  },
+  "doNotShowAgainLink": {
+    "message": "Ne plus afficher"
+  },
+  "loginAndUsePlugin": {
+    "message": "Connectez-vous via l'icône pour doublage."
+  },
+  "voiceSettingsMismatch": {
+    "message": "Le type de voix et les paramètres de voix ne correspondent pas. Veuillez accéder à la page des paramètres pour sélectionner à nouveau et enregistrer les paramètres de voix."
+  },
+  "contentMenusTitle": {
+    "message": "Commencer la lecture du doublage"
+  },
+  "videoDetectedDomainTooltip": {
+    "message": "Domaine détecté pour la vidéo actuelle : {domain}"
+  },
+  "dropboxClickCcToTranscribe": {
+    "message": "Cette vidéo n'a pas encore été transcrite. Cliquez sur le bouton CC en bas de la vidéo Dropbox pour créer les sous-titres. Une fois la transcription terminée, cliquez sur le bouton de doublage de l’extension pour traduire et doubler."
+  },
+  "iosInterceptorConflictTitle": {
+    "message": "Conflit d’extension détecté"
+  },
+  "iosInterceptorConflictMessage": {
+    "message": "Une autre extension du navigateur bloque l’interception des requêtes de sous-titres. Désactivez les extensions en conflit, actualisez la page puis réessayez."
+  },
+  "login": {
+    "message": "Connexion"
+  },
+  "logout": {
+    "message": "Déconnexion"
+  },
+  "subscribe": {
+    "message": "S'abonner"
+  },
+  "save_settings": {
+    "message": "Enregistrer"
+  },
+  "saving": {
+    "message": "Enregistrement..."
+  },
+  "saveSuccessTitle": {
+    "message": "Enregistrement réussi"
+  },
+  "saveSuccessText": {
+    "message": "Paramètres enregistrés"
+  },
+  "saveFailedTitle": {
+    "message": "Échec sauvegarde"
+  },
+  "saveFailedText": {
+    "message": "Échec de l'enregistrement, veuillez réessayer"
+  },
+  "confirmButton": {
+    "message": "Continuer"
+  },
+  "cancelButton": {
+    "message": "Annuler"
+  },
+  "back": {
+    "message": "Retour"
+  },
+  "backToSettings": {
+    "message": "Retour paramètres"
+  },
+  "backToVideoLibrary": {
+    "message": "Retour à la vidéothèque"
+  },
+  "source_languages": {
+    "message": "Langue source :"
+  },
+  "target_languages": {
+    "message": "Langue cible :"
+  },
+  "selectSourceLanguage": {
+    "message": "Choisir langue source"
+  },
+  "selectTargetLanguage": {
+    "message": "Choisir langue cible"
+  },
+  "searchSourceLanguage": {
+    "message": "Chercher langue source..."
+  },
+  "searchTargetLanguage": {
+    "message": "Chercher langue cible..."
+  },
+  "loading": {
+    "message": "Chargement"
+  },
+  "sex": {
+    "message": "Sexe :"
+  },
+  "voices": {
+    "message": "Voix :"
+  },
+  "voicesType": {
+    "message": "Type de voix :"
+  },
+  "man": {
+    "message": "Homme"
+  },
+  "woman": {
+    "message": "Femme"
+  },
+  "free": {
+    "message": "Gratuit"
+  },
+  "memberFree": {
+    "message": "Gratuit pour les membres"
+  },
+  "memberFreeRequireMembership": {
+    "message": "Ce type de voix est réservé aux membres. Passez à l'abonnement pour l'utiliser gratuitement."
+  },
+  "azureRequireMembership": {
+    "message": "Azure TTS est réservé aux membres. Passez à l'abonnement pour débloquer les voix Azure haute qualité."
+  },
+  "originalAudio": {
+    "message": "Original"
+  },
+  "translatedAudio": {
+    "message": "Traduit"
+  },
+  "backgroundAudio": {
+    "message": "Son de fond"
+  },
+  "textToSpeech": {
+    "message": "Doublage texte :"
+  },
+  "textToSpeechToggle": {
+    "message": "Boule flottante"
+  },
+  "showSubtitle": {
+    "message": "Afficher sous-titres :"
+  },
+  "subtitleSize": {
+    "message": "Taille"
+  },
+  "subtitles": {
+    "message": "Sous-titres"
+  },
+  "toggleSubtitles": {
+    "message": "Activer sous-titres"
+  },
+  "subtitleDisplayMode": {
+    "message": "Mode des sous-titres"
+  },
+  "subtitleModeTranslated": {
+    "message": "Traduction uniquement"
+  },
+  "subtitleModeBilingual": {
+    "message": "Sous-titres bilingues"
+  },
+  "subtitleModeOff": {
+    "message": "Sous-titres désactivés"
+  },
+  "translateService": {
+    "message": "Traduction:"
+  },
+  "translationEngine": {
+    "message": "Moteur de traduction"
+  },
+  "translationService": {
+    "message": "Service de traduction"
+  },
+  "translationServiceTitle": {
+    "message": "Traduction"
+  },
+  "advancedSettings": {
+    "message": "Paramètres avancés"
+  },
+  "pauseVideo": {
+    "message": "Mettre en pause la vidéo"
+  },
+  "iosOpenOriginVolume": {
+    "message": "Original"
+  },
+  "voicesAndSubtitles": {
+    "message": "Voix et sous-titres"
+  },
+  "voicesAndSubtitlesTitle": {
+    "message": "Voix et sous-titres"
+  },
+  "speakerList": {
+    "message": "Liste des locuteurs"
+  },
+  "speakersTitle": {
+    "message": "Personnages"
+  },
+  "deleteSpeaker": {
+    "message": "Supprimer"
+  },
+  "editSpeaker": {
+    "message": "Modifier le locuteur"
+  },
+  "speakerName": {
+    "message": "Nom du locuteur"
+  },
+  "enterSpeakerName": {
+    "message": "Entrer le nom du locuteur"
+  },
+  "enterVoice": {
+    "message": "Entrer le nom de la voix"
+  },
+  "voice": {
+    "message": "Voix"
+  },
+  "gender": {
+    "message": "Sexe"
+  },
+  "male": {
+    "message": "Homme"
+  },
+  "female": {
+    "message": "Femme"
+  },
+  "edit": {
+    "message": "Modifier"
+  },
+  "delete": {
+    "message": "Supprimer"
+  },
+  "save": {
+    "message": "Enregistrer"
+  },
+  "cancel": {
+    "message": "Annuler"
+  },
+  "confirmDeleteSpeaker": {
+    "message": "Êtes-vous sûr de vouloir supprimer ce locuteur?"
+  },
+  "noSpeakers": {
+    "message": "Aucun locuteur"
+  },
+  "memberUser": {
+    "message": "PRO"
+  },
+  "accountBalance": {
+    "message": "Solde du compte :"
+  },
+  "userAccountAriaLabel": {
+    "message": "Compte utilisateur"
+  },
+  "membershipExpires": {
+    "message": "Expire le"
+  },
+  "shortcutSettings": {
+    "message": "Raccourcis clavier"
+  },
+  "subscriptionRecharge": {
+    "message": "Abonnement & Recharge"
+  },
+  "membershipIcon": {
+    "message": "Icône membre"
+  },
+  "browserShortcutSettingsTip": {
+    "message": "Configurez dans extensions"
+  },
+  "safariShortcutSettingsTip": {
+    "message": "Safari > Préférences > Extensions"
+  },
+  "edgeShortcutSettingsTip": {
+    "message": "Ouvre page raccourcis Edge"
+  },
+  "firefoxShortcutSettingsTip": {
+    "message": "Ouvre page add-ons Firefox"
+  },
+  "dubbingSettings": {
+    "message": "Paramètres de doublage"
+  },
+  "debugInfo": {
+    "message": "Informations de débogage"
+  },
+  "sourceLanguage": {
+    "message": "Langue source"
+  },
+  "targetLanguage": {
+    "message": "Langue cible"
+  },
+  "vipRequiredTitle": {
+    "message": "Membre requis"
+  },
+  "vipRequiredText": {
+    "message": "Fonction réservée aux membres"
+  },
+  "vipAndBalanceRequiredTitle": {
+    "message": "Membre et solde requis"
+  },
+  "vipAndBalanceRequiredText": {
+    "message": "Rechargez membre et solde"
+  },
+  "balanceRequiredTitle": {
+    "message": "Solde requis"
+  },
+  "balanceRequiredText": {
+    "message": "Rechargez votre solde"
+  },
+  "lowBalanceTitle": {
+    "message": "Solde faible"
+  },
+  "lowBalanceText": {
+    "message": "Solde <1$, rechargez vite"
+  },
+  "insufficientBalance": {
+    "message": "Solde insuffisant, passé à Google Trad."
+  },
+  "insufficientBalanceAlertMsg": {
+    "message": "Solde bas, rechargez ou passez à Google."
+  },
+  "balanceRunningLow": {
+    "message": "Solde faible, rechargez bientôt."
+  },
+  "membershipRequired": {
+    "message": "Devenez membre pour OpenAI."
+  },
+  "membershipRequiredForAI": {
+    "message": "Rechargez votre adhésion avant d'utiliser la traduction IA. Si vous ne voulez pas recharger, vous pouvez choisir Google Translate."
+  },
+  "insufficientMembership": {
+    "message": "Votre adhésion a expiré. Rechargez votre adhésion avant d'utiliser la traduction IA et Azure TTS. Si vous ne voulez pas recharger, vous pouvez choisir Google Translate et les types de voix gratuits."
+  },
+  "insufficientBalanceAndMembership": {
+    "message": "Rechargez votre adhésion et solde avant d'utiliser la traduction IA et Azure TTS. Si vous ne voulez pas recharger, vous pouvez choisir Google Translate et les types de voix gratuits."
+  },
+  "freeForVip": {
+    "message": "Gratuit pour VIP"
+  },
+  "freeOptionTipText": {
+    "message": "Option gratuite disponible,"
+  },
+  "translateEngineTipText": {
+    "message": "passez à Google Traduction"
+  },
+  "voiceTypeTipText": {
+    "message": "voix gratuite disponible"
+  },
+  "vipFreeOptionTipText": {
+    "message": "Gratuit pour membres :"
+  },
+  "vipTranslateEngineTipText": {
+    "message": "gemini, deepseek, etc."
+  },
+  "pay": {
+    "message": "Payer"
+  },
+  "switchModelWarning": {
+    "message": "Changement coûteux, confirmez pour continuer."
+  },
+  "selectSpeaker": {
+    "message": "Choisir"
+  },
+  "speaker": {
+    "message": "Personnage"
+  },
+  "rechargeLimit": {
+    "message": "Crédit + membre"
+  },
+  "tooExpensive": {
+    "message": "Cher"
+  },
+  "dropdownPlaceholder": {
+    "message": "Sélectionnez"
+  },
+  "dropdownNoOptions": {
+    "message": "Aucune option"
+  },
+  "dropdownSearch": {
+    "message": "Rechercher..."
+  },
+  "swapVolumeSettingsCommand": {
+    "message": "Basculer les paramètres de volume entre l'audio original et doublé"
+  },
+  "cycleSubtitleModeCommand": {
+    "message": "Changer les sous-titres : bilingues → traduction seule → désactivés"
+  },
+  "trialMemberModelLimit": {
+    "message": "Les membres en période d’essai ne peuvent utiliser que Gemini et Google Traduction. Pour d’autres modèles, veuillez souscrire à notre abonnement."
+  },
+  "subtitlesRateLimitedByYouTube": {
+    "message": "Les sous-titres de cette vidéo sont actuellement limités par YouTube. Veuillez réessayer plus tard."
+  },
+  "musicVideoNotSupported": {
+    "message": "Ceci est une vidéo musicale. La traduction et le doublage ne sont pas pris en charge."
+  },
+  "hideUntilNextVisit": {
+    "message": "Masquer jusqu'à la prochaine visite"
+  },
+  "disableGlobally": {
+    "message": "Désactiver globalement"
+  },
+  "sidebarHideUntilNextVisit": {
+    "message": "Masquer jusqu'à la prochaine visite"
+  },
+  "sidebarDisableForSite": {
+    "message": "Désactiver pour ce site"
+  },
+  "sidebarDisableGlobally": {
+    "message": "Désactiver globalement"
+  },
+  "sidebarReenableHint": {
+    "message": "Peut être réactivé dans les "
+  },
+  "sidebarSettings": {
+    "message": "Paramètres"
+  },
+  "sidebarReenableHintSuffix": {
+    "message": " "
+  },
+  "notSupported": {
+    "message": "Non pris en charge"
+  },
+  "multiVideoNotSupported": {
+    "message": "Cette page contient plusieurs vidéos. Le doublage universel ne prend en charge que les pages avec une seule vidéo lors de l'utilisation de flux HLS."
+  },
+  "mediaSourceNotDetected": {
+    "message": "Impossible de détecter la source vidéo. Ce site web n'est peut-être pas pris en charge."
+  },
+  "uploadMediaForRecognition": {
+    "message": "Aucun sous-titre trouvé. Souhaitez-vous téléverser la vidéo pour la reconnaissance de sous-titres par IA ?"
+  },
+  "startUpload": {
+    "message": "Démarrer le téléversement"
+  },
+  "uploadingMedia": {
+    "message": "Téléversement du média..."
+  },
+  "downloading": {
+    "message": "Téléchargement"
+  },
+  "uploading": {
+    "message": "Téléchargement"
+  },
+  "completing": {
+    "message": "Finalisation"
+  },
+  "uploadComplete": {
+    "message": "Téléchargement terminé"
+  },
+  "waitingForRecognition": {
+    "message": "Vidéo téléchargée avec succès. La reconnaissance des sous-titres par IA est en cours. Vous recevrez une notification par e-mail lorsque ce sera prêt."
+  },
+  "uploadFailed": {
+    "message": "Échec du téléchargement"
+  },
+  "corsNotSupported": {
+    "message": "Ce site Web ne permet pas le téléchargement de fichiers multimédias. Le doublage universel n'est pas pris en charge."
+  },
+  "mediaDownloadInterrupted": {
+    "message": "Le téléchargement du média a été interrompu par une erreur réseau (ce n’est pas une restriction du site). Veuillez réessayer l’envoi."
+  },
+  "zoomRecordingDnrNotSupported": {
+    "message": "Votre navigateur ne prend pas en charge la reconnaissance de téléchargement d'enregistrement Zoom. Veuillez utiliser Chrome/Edge."
+  },
+  "zoomRecordingDownloadForbidden403": {
+    "message": "Le téléchargement de l'enregistrement Zoom a été interdit (403). Veuillez lire/actualiser la page pour passer la vérification, puis réessayez."
+  },
+  "liveStreamNotSupported": {
+    "message": "Les diffusions en direct ne sont pas prises en charge pour le doublage universel."
+  },
+  "noAudioTrackFound": {
+    "message": "Aucune piste audio détectée. Cette vidéo semble être uniquement vidéo sans audio et ne peut pas être utilisée pour la reconnaissance de doublage."
+  },
+  "universalDubbingMemberOnly": {
+    "message": "Le doublage universel nécessite de la puissance de calcul GPU cloud (coût élevé), réservé aux VIP."
+  },
+  "videoDurationExceedsLimit": {
+    "message": "Cette vidéo dépasse 3 heures de durée. Le doublage universel n'est actuellement pas pris en charge pour les vidéos de plus de 3 heures."
+  },
+  "videoDrmProtected": {
+    "message": "Cette vidéo est protégée par DRM et ne peut pas être utilisée pour le doublage."
+  },
+  "pleaseClickVideoToPlay": {
+    "message": "Veuillez cliquer sur la vidéo pour l'ouvrir, puis utiliser la fonction de doublage."
+  },
+  "iosUniversalDubbingNotSupported": {
+    "message": "Le doublage universel n'est pas pris en charge sur les appareils iOS. Veuillez utiliser un navigateur de bureau."
+  },
+  "membershipRequiredTitle": {
+    "message": "Abonnement requis"
+  },
+  "error": {
+    "message": "Erreur"
+  },
+  "unknownError": {
+    "message": "Une erreur inconnue s'est produite. Veuillez réessayer."
+  },
+  "doNotClosePage": {
+    "message": "Veuillez ne pas fermer ni actualiser cette page pendant le téléchargement, sinon le téléchargement sera interrompu."
+  },
+  "taskAlreadySubmitted": {
+    "message": "Cette vidéo est déjà en cours de traitement pour la reconnaissance des sous-titres par IA. Veuillez attendre la notification par e-mail."
+  },
+  "sampleAesNotSupported": {
+    "message": "Cette vidéo utilise le chiffrement SAMPLE-AES qui n'est actuellement pas pris en charge pour le téléchargement."
+  },
+  "hlsKeyFetchFailed": {
+    "message": "Impossible de récupérer la clé de déchiffrement de cette vidéo. La vidéo est peut-être protégée ou le serveur de clés est indisponible."
+  },
+  "hlsDecryptionFailed": {
+    "message": "Échec du déchiffrement du contenu vidéo. La clé de chiffrement est peut-être incorrecte ou le format vidéo n'est pas compatible."
+  },
+  "subtitleStyleOptionsTitle": {
+    "message": "Paramètres de style de sous-titres"
+  },
+  "subtitleStyleOptionsDesc": {
+    "message": "Les ajustements seront enregistrés et prendront effet immédiatement."
+  },
+  "subtitleStyleSectionTitle": {
+    "message": "Style de sous-titres"
+  },
+  "subtitleStylePreviewTitle": {
+    "message": "Aperçu"
+  },
+  "subtitleStylePreviewTag": {
+    "message": "Temps réel"
+  },
+  "subtitleStylePreviewText": {
+    "message": "Il pensait que ce jeune homme avait beaucoup de potentiel."
+  },
+  "subtitleStylePosition": {
+    "message": "Position"
+  },
+  "subtitleStylePositionTop": {
+    "message": "Haut"
+  },
+  "subtitleStylePositionMiddle": {
+    "message": "Milieu"
+  },
+  "subtitleStylePositionBottom": {
+    "message": "Bas"
+  },
+  "subtitleStyleFontFamily": {
+    "message": "Police"
+  },
+  "subtitleStyleFontSize": {
+    "message": "Taille de la police"
+  },
+  "subtitleStyleCustomOption": {
+    "message": "Personnalisé"
+  },
+  "subtitleStyleCustomFont": {
+    "message": "Police personnalisée"
+  },
+  "subtitleStyleCustomFontPlaceholder": {
+    "message": "Par exemple : PingFang SC, Arial"
+  },
+  "subtitleStyleTextColor": {
+    "message": "Couleur de police"
+  },
+  "subtitleStyleFontWeight": {
+    "message": "Graisse de la police"
+  },
+  "subtitleStyleBackgroundColor": {
+    "message": "Couleur de fond"
+  },
+  "subtitleStyleBackgroundOpacity": {
+    "message": "Opacité de l'arrière-plan"
+  },
+  "subtitleStyleEdgeStyle": {
+    "message": "Style du contour"
+  },
+  "subtitleStyleEdgeNone": {
+    "message": "Aucun"
+  },
+  "subtitleStyleEdgeShadow": {
+    "message": "Ombre"
+  },
+  "subtitleStyleEdgeOutline": {
+    "message": "Contour"
+  },
+  "subtitleStyleFontNone": {
+    "message": "Aucune"
+  },
+  "subtitleStyleFontDefault": {
+    "message": "Par défaut"
+  },
+  "subtitleStyleFontPingFang": {
+    "message": "PingFang SC"
+  },
+  "subtitleStyleFontYaHei": {
+    "message": "Microsoft YaHei"
+  },
+  "subtitleStyleFontHeiti": {
+    "message": "STHeiti"
+  },
+  "subtitleStyleFontKaiti": {
+    "message": "Kaiti SC"
+  },
+  "subtitleStyleFontSongti": {
+    "message": "STSong"
+  },
+  "subtitleStyleFontFangsong": {
+    "message": "FangSong"
+  },
+  "subtitleStyleFontDongqingHeiti": {
+    "message": "Dongqing Heiti"
+  },
+  "subtitleStyleFontLantingHei": {
+    "message": "Lanting Hei"
+  },
+  "subtitleStyleFontHanyiHeiliu": {
+    "message": "Hanyi Heiliu"
+  },
+  "subtitleStyleFontHanyiZhonghei": {
+    "message": "Hanyi Zhonghei"
+  },
+  "subtitleStyleFontSTSong": {
+    "message": "Songti"
+  },
+  "subtitleStyleFontWawati": {
+    "message": "Wawati"
+  },
+  "subtitleStyleFontWeibei": {
+    "message": "Weibei"
+  },
+  "subtitleStyleFontXingkai": {
+    "message": "Xingkai"
+  },
+  "subtitleStyleFontYuanti": {
+    "message": "Yuanti"
+  },
+  "subtitleStyleFontArialUnicode": {
+    "message": "Arial Unicode MS"
+  },
+  "subtitleStyleFontArial": {
+    "message": "Arial"
+  },
+  "subtitleStyleFontCourierNew": {
+    "message": "Courier New"
+  },
+  "subtitleStyleFontGeorgia": {
+    "message": "Georgia"
+  },
+  "subtitleStyleFontTahoma": {
+    "message": "Tahoma"
+  },
+  "subtitleStyleFontTimesNewRoman": {
+    "message": "Times New Roman"
+  },
+  "subtitleStyleFontTrebuchetMS": {
+    "message": "Trebuchet MS"
+  },
+  "subtitleStyleFontVerdana": {
+    "message": "Verdana"
+  },
+  "subtitleStyleFontHelveticaNeue": {
+    "message": "Helvetica Neue"
+  },
+  "subtitleStyleFontHiraginoMincho": {
+    "message": "Hiragino Mincho ProN"
+  },
+  "subtitleStyleFontHiraginoKaku": {
+    "message": "Hiragino Kaku Gothic ProN"
+  },
+  "subtitleStyleFontKohinoor": {
+    "message": "Kohinoor Devanagari"
+  },
+  "subtitleStyleFontAppleSD": {
+    "message": "Apple SD Gothic Neo"
+  },
+  "subtitleStyleFontNanumGothic": {
+    "message": "Nanum Gothic"
+  },
+  "subtitleStyleFontCustom": {
+    "message": "Personnalisée"
+  },
+  "subtitleStyleColorWhite": {
+    "message": "Blanc"
+  },
+  "subtitleStyleColorYellow": {
+    "message": "Jaune"
+  },
+  "subtitleStyleColorOrange": {
+    "message": "Orange"
+  },
+  "subtitleStyleColorGray": {
+    "message": "Gris"
+  },
+  "subtitleStyleColorGreen": {
+    "message": "Vert"
+  },
+  "subtitleStyleColorCyan": {
+    "message": "Cyan"
+  },
+  "subtitleStyleColorBlue": {
+    "message": "Bleu"
+  },
+  "subtitleStyleColorMagenta": {
+    "message": "Magenta"
+  },
+  "subtitleStyleColorRed": {
+    "message": "Rouge"
+  },
+  "subtitleStyleColorBlack": {
+    "message": "Noir"
+  },
+  "subtitleStyleEditorViewLabel": {
+    "message": "Mode d’édition du style"
+  },
+  "subtitleStyleEditorViewTranslated": {
+    "message": "Traduction seule"
+  },
+  "subtitleStyleEditorViewBilingual": {
+    "message": "Bilingue"
+  },
+  "subtitleStyleLayoutSectionTitle": {
+    "message": "Mise en page bilingue"
+  },
+  "subtitleStyleOrder": {
+    "message": "Ordre des sous-titres"
+  },
+  "subtitleStyleOrderTranslatedFirst": {
+    "message": "Traduction en haut"
+  },
+  "subtitleStyleOrderOriginalFirst": {
+    "message": "Original en haut"
+  },
+  "subtitleStyleLineGap": {
+    "message": "Espacement des lignes"
+  },
+  "subtitleStyleTextAlign": {
+    "message": "Alignement horizontal"
+  },
+  "subtitleStyleTextAlignLeft": {
+    "message": "Gauche"
+  },
+  "subtitleStyleTextAlignCenter": {
+    "message": "Centre"
+  },
+  "subtitleStyleTextAlignRight": {
+    "message": "Droite"
+  },
+  "subtitleStyleTranslatedSectionTitle": {
+    "message": "Style de la traduction"
+  },
+  "subtitleStyleOriginalSectionTitle": {
+    "message": "Style de l'original"
+  },
+  "subtitleStyleFollowTranslated": {
+    "message": "Suivre le style de la traduction"
+  },
+  "subtitleStyleUsesCurrentSettings": {
+    "message": "Utilise les réglages actuels de la traduction"
+  },
+  "subtitleStyleOriginalSizePercent": {
+    "message": "Taille de police relative"
+  },
+  "subtitleStyleSharedBackgroundSectionTitle": {
+    "message": "Arrière-plan commun"
+  },
+  "subtitleStyleRestoreDefaults": {
+    "message": "Restaurer les valeurs par défaut"
+  },
+  "subtitleStylePreviewOriginalText": {
+    "message": "He thought this young man had great potential."
+  },
+  "subtitleStyleColorLightGray": {
+    "message": "Gris clair"
+  },
+  "disabledSitesSectionTitle": {
+    "message": "Sites désactivés"
+  },
+  "disabledSitesTitle": {
+    "message": "Gestion des sites désactivés"
+  },
+  "disabledSitesDescription": {
+    "message": "La bulle flottante n'apparaîtra pas sur les sites suivants. Vous pouvez ajouter ou supprimer des sites désactivés ici."
+  },
+  "disabledSitesPlaceholder": {
+    "message": "Entrez un domaine, ex. youtube.com"
+  },
+  "disabledSitesAdd": {
+    "message": "Ajouter"
+  },
+  "disabledSitesDomain": {
+    "message": "Domaine"
+  },
+  "disabledSitesActions": {
+    "message": "Actions"
+  },
+  "disabledSitesDelete": {
+    "message": "Supprimer"
+  },
+  "disabledSitesEmpty": {
+    "message": "Aucun site désactivé"
+  },
+  "preferencesSectionTitle": {
+    "message": "Paramètres de base"
+  },
+  "optionsNavPreferencesShort": {
+    "message": "Base"
+  },
+  "optionsNavSubtitleShort": {
+    "message": "Sous-titres"
+  },
+  "optionsNavAiShort": {
+    "message": "IA"
+  },
+  "optionsNavSitesShort": {
+    "message": "Sites"
+  },
+  "preferenceStatusDisabled": {
+    "message": "Désactivé"
+  },
+  "preferencesTitle": {
+    "message": "Paramètres de base"
+  },
+  "preferencesDescription": {
+    "message": "Gérez ici vos préférences de base."
+  },
+  "emailNotificationLabel": {
+    "message": "Notifications par e-mail"
+  },
+  "emailNotificationDescription": {
+    "message": "Prévenez-moi par e-mail lorsque la reconnaissance des sous-titres est terminée."
+  },
+  "emailNotificationSaveFailed": {
+    "message": "Échec de l'enregistrement. Veuillez réessayer plus tard."
+  },
+  "skipTranslationWhenSameLanguageLabel": {
+    "message": "Ignorer la traduction pour la même langue"
+  },
+  "skipTranslationWhenSameLanguageDescription": {
+    "message": "Lorsque cette option est activée et que la langue des sous-titres correspond à la langue cible, le doublage démarre directement sans traduction."
+  },
+  "userSubtitleSegmentationEnabledLabel": {
+    "message": "Segmentation intelligente des sous-titres utilisateur"
+  },
+  "userSubtitleSegmentationEnabledDescription": {
+    "message": "Lorsqu'elle est activée, segmente automatiquement les sous-titres modifiés ou importés localement. Lorsqu'elle est désactivée, conserve leur découpage d'origine."
+  },
+  "subtitlePriorityTitle": {
+    "message": "Priorité de traduction des sous-titres"
+  },
+  "subtitlePriorityDescription": {
+    "message": "Choisissez quelle source de sous-titres prioriser pour la traduction."
+  },
+  "subtitlePriorityAiSubtitle": {
+    "message": "Sous-titres reconnus par l'IA du plugin"
+  },
+  "subtitlePriorityAiSubtitleDesc": {
+    "message": "Prioriser les sous-titres générés par la reconnaissance vocale IA du plugin pour une plus grande précision."
+  },
+  "subtitlePriorityPlatformSubtitle": {
+    "message": "Sous-titres intégrés de la plateforme"
+  },
+  "subtitlePriorityPlatformSubtitleDesc": {
+    "message": "Prioriser les sous-titres originaux fournis par la plateforme vidéo."
+  },
+  "subtitlePriorityQuickLabel": {
+    "message": "Sous-titres"
+  },
+  "subtitlePriorityQuickAi": {
+    "message": "IA"
+  },
+  "subtitlePriorityQuickPlatform": {
+    "message": "Plateforme"
+  },
+  "panelTabVideoSummary": {
+    "message": "Résumé"
+  },
+  "panelTabSubtitleEdit": {
+    "message": "Sous-titres"
+  },
+  "panelSummaryTitle": {
+    "message": "Résumé et plan de la vidéo"
+  },
+  "panelSummaryDesc": {
+    "message": "Exploitez les modèles IA les plus avancés pour comprendre rapidement le contenu vidéo"
+  },
+  "panelSummaryGenerate": {
+    "message": "Générer le résumé"
+  },
+  "panelSummaryGenerating": {
+    "message": "Génération en cours..."
+  },
+  "panelSummaryReGenerating": {
+    "message": "Régénération en cours..."
+  },
+  "panelSummarySectionSummary": {
+    "message": "Résumé"
+  },
+  "panelSummarySectionHighlights": {
+    "message": "Points clés"
+  },
+  "panelSummaryExpandAll": {
+    "message": "Tout développer"
+  },
+  "panelSummaryCollapseAll": {
+    "message": "Tout réduire"
+  },
+  "panelSummaryExpand": {
+    "message": "Développer"
+  },
+  "panelSummaryCollapse": {
+    "message": "Réduire"
+  },
+  "panelSummaryShare": {
+    "message": "Partager"
+  },
+  "panelSummaryCopy": {
+    "message": "Copier"
+  },
+  "panelSummaryReGenerate": {
+    "message": "Régénérer"
+  },
+  "panelSummaryCopySuccess": {
+    "message": "Copié"
+  },
+  "panelSummaryPlay": {
+    "message": "Lire"
+  },
+  "panelSummaryPause": {
+    "message": "Pause"
+  },
+  "panelSummaryPlayFailed": {
+    "message": "La lecture a échoué, veuillez réessayer"
+  },
+  "panelSummaryNoSubtitle": {
+    "message": "Aucun sous-titre disponible pour cette vidéo"
+  },
+  "panelSummaryError": {
+    "message": "La génération du résumé a échoué, veuillez réessayer"
+  },
+  "panelSummaryErrorInvalidVideoId": {
+    "message": "Impossible d'identifier la vidéo actuelle, veuillez actualiser la page et réessayer"
+  },
+  "panelSummaryErrorMemberRequired": {
+    "message": "Le résumé vidéo est une fonctionnalité réservée aux membres, veuillez vous abonner pour l'utiliser"
+  },
+  "panelSummaryErrorNoSubtitles": {
+    "message": "Aucun sous-titre disponible pour cette vidéo, impossible de générer un résumé"
+  },
+  "panelSummaryErrorServiceError": {
+    "message": "Le service de résumé est temporairement indisponible, veuillez réessayer plus tard"
+  },
+  "subtitleEditorManualInput": {
+    "message": "Saisie manuelle"
+  },
+  "subtitleEditorSwitchTip": {
+    "message": "Cliquez ici pour changer de sous-titres"
+  },
+  "subtitleEditorExport": {
+    "message": "Exporter"
+  },
+  "subtitleEditorTrackFallback": {
+    "message": "Source des sous-titres"
+  },
+  "subtitleEditorMySubtitles": {
+    "message": "Mes sous-titres"
+  },
+  "subtitleEditorNoSourceManual": {
+    "message": "Aucune source de sous-titres disponible (saisie manuelle disponible)"
+  },
+  "subtitleEditorSaveInvalidVideo": {
+    "message": "Impossible d'identifier la vidéo actuelle. L'enregistrement a échoué."
+  },
+  "subtitleEditorSaveFailed": {
+    "message": "L'enregistrement a échoué. Veuillez réessayer plus tard."
+  },
+  "subtitleEditorValidationEmpty": {
+    "message": "Le contenu des sous-titres ne peut pas être vide"
+  },
+  "subtitleEditorValidationBlockStructure": {
+    "message": "Bloc SRT invalide. La séquence, l'horodatage et le contenu sont requis."
+  },
+  "subtitleEditorValidationSequenceFormat": {
+    "message": "Format de numéro de séquence SRT non valide"
+  },
+  "subtitleEditorValidationSequenceIncrement": {
+    "message": "Les numéros de séquence SRT doivent commencer à 1 et s'incrémenter de 1"
+  },
+  "subtitleEditorValidationTimeFormat": {
+    "message": "Format d'heure invalide. Veuillez le vérifier et le corriger."
+  },
+  "subtitleEditorValidationEndAfterStart": {
+    "message": "L'heure de fin doit être supérieure à l'heure de début"
+  },
+  "subtitleEditorValidationContentRequired": {
+    "message": "Chaque sous-titre doit contenir au moins une ligne de texte"
+  },
+  "subtitleEditorValidationSpeakerPrefix": {
+    "message": "Certains sous-titres incluent des balises de haut-parleur. Tous les sous-titres doivent utiliser le préfixe [speaker]."
+  },
+  "localPlayerTemporaryImportMode": {
+    "message": "Mode d'importation temporaire"
+  },
+  "localPlayerLibraryTitle": {
+    "message": "Vidéothèque locale"
+  },
+  "localPlayerEntryButton": {
+    "message": "Vidéo locale"
+  },
+  "localPlayerPageTitle": {
+    "message": "Vidéo locale · YouTube Dubbing"
+  },
+  "localPlayerFolderAccessDescription": {
+    "message": "L'ouverture d'un dossier enregistre les descripteurs de fichiers afin que l'accès puisse être restauré après l'actualisation."
+  },
+  "localPlayerTemporaryImportDescription": {
+    "message": "Ce navigateur ne prend pas en charge le File System Access API. Vous pouvez ajouter temporairement des vidéos et des sous-titres."
+  },
+  "localPlayerOpenFolder": {
+    "message": "Ouvrir le dossier"
+  },
+  "localPlayerAddVideo": {
+    "message": "Ajouter une vidéo"
+  },
+  "localPlayerAddSubtitle": {
+    "message": "Ajouter un sous-titre"
+  },
+  "localPlayerVideoList": {
+    "message": "Liste des vidéos"
+  },
+  "localPlayerFolders": {
+    "message": "Dossiers"
+  },
+  "localPlayerFoldersDescription": {
+    "message": "Parcourez les médias importés par dossier."
+  },
+  "localPlayerAllVideos": {
+    "message": "Toutes les vidéos"
+  },
+  "localPlayerAllVideosDescription": {
+    "message": "Recherchez et gérez chaque vidéo importée."
+  },
+  "localPlayerLibraryView": {
+    "message": "Vue Bibliothèque"
+  },
+  "localPlayerBackToFolders": {
+    "message": "Retour aux dossiers"
+  },
+  "localPlayerFolderSearchPlaceholder": {
+    "message": "Rechercher des dossiers, des chemins ou des fichiers"
+  },
+  "localPlayerTotalFolders": {
+    "message": "Total de {count} dossiers"
+  },
+  "localPlayerMatchedFolders": {
+    "message": "Dossiers {visibleCount} correspondants / total {totalCount} dossiers"
+  },
+  "localPlayerNoFolderMatchesTitle": {
+    "message": "Aucun dossier correspondant"
+  },
+  "localPlayerNoFolderMatchesText": {
+    "message": "Ajustez la recherche de dossier et réessayez."
+  },
+  "localPlayerRescanAll": {
+    "message": "Réanalyser tout"
+  },
+  "localPlayerFolderMenuLabel": {
+    "message": "Actions sur les dossiers"
+  },
+  "localPlayerOpenFolderMenu": {
+    "message": "Ouvrir le dossier"
+  },
+  "localPlayerRescanThisFolder": {
+    "message": "Analyser à nouveau ce dossier"
+  },
+  "localPlayerRemoveFromLibrary": {
+    "message": "Supprimer de la bibliothèque"
+  },
+  "localPlayerFolderVideoCount": {
+    "message": "{count} vidéos"
+  },
+  "localPlayerFolderAssociatedSubtitleCount": {
+    "message": "{count} sous-titres associés"
+  },
+  "localPlayerFolderLastPlayed": {
+    "message": "Dernière lecture {time}"
+  },
+  "localPlayerFolderLastScanned": {
+    "message": "Dernière analyse {time}"
+  },
+  "localPlayerRemoveFolderTitle": {
+    "message": "Supprimer ce dossier de la bibliothèque?"
+  },
+  "localPlayerRemoveFolderText": {
+    "message": "Cela supprime uniquement les enregistrements de bibliothèque pour ce dossier. Les fichiers originaux sur le disque ne seront pas supprimés."
+  },
+  "localPlayerFolderRemoved": {
+    "message": "Supprimé {folderName}"
+  },
+  "localPlayerRemoveFolderFailed": {
+    "message": "Échec de la suppression du dossier de la bibliothèque."
+  },
+  "localPlayerRescanFailed": {
+    "message": "Échec de la nouvelle analyse de la bibliothèque locale."
+  },
+  "localPlayerRescanFolderUnavailable": {
+    "message": "Impossible de réanalyser ce dossier car l'accès au dossier enregistré n'est pas disponible."
+  },
+  "localPlayerCurrentDirectory": {
+    "message": "Répertoire actuel"
+  },
+  "localPlayerNoNewFilesFound": {
+    "message": "Aucun nouveau fichier trouvé."
+  },
+  "localPlayerScanComplete": {
+    "message": "Analyse terminée : ajout de vidéos {addedVideoCount}, sous-titres {addedSubtitleCount}, fichiers {updatedCount} mis à jour."
+  },
+  "localPlayerNever": {
+    "message": "Jamais"
+  },
+  "localPlayerSearchPlaceholder": {
+    "message": "Rechercher des vidéos ou des chemins de fichiers"
+  },
+  "localPlayerFilterAll": {
+    "message": "Tous"
+  },
+  "localPlayerFilterWithSubtitle": {
+    "message": "Avec sous-titres"
+  },
+  "localPlayerFilterNoSubtitle": {
+    "message": "Sans sous-titres"
+  },
+  "localPlayerSortLastPlayed": {
+    "message": "Vidéos récemment lues"
+  },
+  "localPlayerSortName": {
+    "message": "Nom du fichier"
+  },
+  "localPlayerSortDuration": {
+    "message": "Durée de la vidéo"
+  },
+  "localPlayerNoVideosTitle": {
+    "message": "Aucune vidéo locale pour l'instant"
+  },
+  "localPlayerNoMatchesTitle": {
+    "message": "Aucune vidéo correspondante"
+  },
+  "localPlayerNoVideosText": {
+    "message": "Ouvrez ici un dossier ou ajoutez des vidéos pour gérer les liens de sous-titres et le doublage vocal local."
+  },
+  "localPlayerNoMatchesText": {
+    "message": "Ajustez la recherche, le filtre ou le tri et réessayez."
+  },
+  "localPlayerDeleteVideoLabel": {
+    "message": "Supprimer {fileName}"
+  },
+  "localPlayerRecognitionSubmitted": {
+    "message": "Reconnaître les sous-titres"
+  },
+  "localPlayerPlay": {
+    "message": "Lire la vidéo"
+  },
+  "localPlayerSubtitles": {
+    "message": "Sous-titres"
+  },
+  "localPlayerStartDubbing": {
+    "message": "Démarrer le doublage vocal"
+  },
+  "localPlayerFloatingActionsLabel": {
+    "message": "Actions rapides de vidéo locale"
+  },
+  "localPlayerOpenSidebar": {
+    "message": "Ouvrir la barre latérale"
+  },
+  "localPlayerClose": {
+    "message": "Fermer"
+  },
+  "localPlayerSameDirectorySubtitleSummary": {
+    "message": "Sous-titres du même dossier {sameCount} · Lié {associatedCount}"
+  },
+  "localPlayerNoManageableSubtitles": {
+    "message": "Aucun sous-titre à gérer"
+  },
+  "localPlayerAssociateAndUseForDubbing": {
+    "message": "Associez le sous-titre et utilisez-le pour le doublage vocal"
+  },
+  "localPlayerSetForDubbing": {
+    "message": "Utiliser ce sous-titre pour le doublage vocal"
+  },
+  "localPlayerRemoveAssociation": {
+    "message": "Dissocier le sous-titre"
+  },
+  "localPlayerRemoveAllAssociations": {
+    "message": "Dissocier tous les sous-titres"
+  },
+  "localPlayerSelectVideoForSubtitleTitle": {
+    "message": "Sélectionnez une vidéo à lier à ce sous-titre"
+  },
+  "localPlayerAssociate": {
+    "message": "Associer le sous-titre"
+  },
+  "localPlayerInitialStatus": {
+    "message": "Ouvrez un dossier, ajoutez des vidéos ou déposez des fichiers pour démarrer."
+  },
+  "localPlayerAscendingSortTitle": {
+    "message": "Ascendant ; cliquez pour passer en mode décroissant"
+  },
+  "localPlayerDescendingSortTitle": {
+    "message": "Descendant ; cliquez pour passer en mode ascendant"
+  },
+  "localPlayerTotalVideos": {
+    "message": "Total de {count} vidéos"
+  },
+  "localPlayerMatchedVideos": {
+    "message": "Vidéos correspondantes {visibleCount} / total {totalCount}"
+  },
+  "localPlayerRouteVideoMissing": {
+    "message": "La vidéo spécifiée dans l'URL ne se trouve pas dans la vidéothèque locale actuelle."
+  },
+  "localPlayerFolderAccessUnsupported": {
+    "message": "Ce navigateur ne peut pas ouvrir les dossiers. Utilisez Ajouter une vidéo/Ajouter un sous-titre pour une importation temporaire."
+  },
+  "localPlayerImportComplete": {
+    "message": "Vidéos {videoCount} et sous-titres {subtitleCount} importés."
+  },
+  "localPlayerOpenFolderFailed": {
+    "message": "Échec de l'ouverture du dossier."
+  },
+  "localPlayerAddVideoFailed": {
+    "message": "Échec de l'ajout de la vidéo."
+  },
+  "localPlayerAddSubtitleFailed": {
+    "message": "Échec de l'ajout de sous-titres."
+  },
+  "localPlayerAssociationSaved": {
+    "message": "Lien de sous-titre enregistré."
+  },
+  "localPlayerAssociationSavedAndPreferred": {
+    "message": "Sous-titre lié et défini pour le doublage vocal."
+  },
+  "localPlayerPreferredSubtitleSaved": {
+    "message": "Sous-titre défini pour le doublage vocal."
+  },
+  "localPlayerAssociationRemoved": {
+    "message": "Lien de sous-titre supprimé."
+  },
+  "localPlayerRebindSubtitleTitle": {
+    "message": "Relier ce sous-titre?"
+  },
+  "localPlayerRebindSubtitleText": {
+    "message": "Ce sous-titre est déjà associé à \"{fromVideo}\". Continuer supprimera cette association et l’associera à « {toVideo} »."
+  },
+  "localPlayerRemoveAllAssociationsTitle": {
+    "message": "Dissocier tous les sous-titres ?"
+  },
+  "localPlayerRemoveAllAssociationsText": {
+    "message": "Seuls les liens de sous-titres pour cette vidéo seront supprimés. Les enregistrements des fichiers de sous-titres ne seront pas supprimés."
+  },
+  "localPlayerAllAssociationsRemoved": {
+    "message": "Tous les liens de sous-titres supprimés."
+  },
+  "localPlayerDeleteVideoTitle": {
+    "message": "Supprimer cette vidéo ?"
+  },
+  "localPlayerDeleteVideoText": {
+    "message": "Cela supprime les liens vidéo et sous-titres de la bibliothèque locale. Les fichiers originaux sur le disque ne seront pas supprimés."
+  },
+  "localPlayerDelete": {
+    "message": "Supprimer"
+  },
+  "localPlayerVideoDeleted": {
+    "message": "Supprimé {fileName}"
+  },
+  "localPlayerDeleteVideoFailed": {
+    "message": "Échec de la suppression de la vidéo."
+  },
+  "localPlayerVideoFileAccessLost": {
+    "message": "Impossible de restaurer l'accès à ce fichier vidéo. Veuillez ajouter à nouveau la vidéo."
+  },
+  "localPlayerVideoPlayerNotReady": {
+    "message": "Le lecteur vidéo n'est pas encore prêt."
+  },
+  "localPlayerNowPlaying": {
+    "message": "Lecture en cours de {fileName}"
+  },
+  "localPlayerDubbingStarted": {
+    "message": "Le doublage vocal local a démarré."
+  },
+  "localPlayerDubbingStartFailed": {
+    "message": "Échec du démarrage du doublage vocal local."
+  },
+  "localPlayerOpenSidebarFailed": {
+    "message": "Échec de l'ouverture de la barre latérale."
+  },
+  "localPlayerVideoFileReadFailed": {
+    "message": "Impossible de lire le fichier vidéo local. Veuillez ajouter à nouveau la vidéo."
+  },
+  "localPlayerUploadCancelled": {
+    "message": "Téléchargement annulé."
+  },
+  "localPlayerSubtitleAssociatedBadge": {
+    "message": "Sous-titres liés {count}"
+  },
+  "localPlayerNoSubtitleBadge": {
+    "message": "Aucun sous-titre lié"
+  },
+  "localPlayerUsedForDubbing": {
+    "message": "Utilisé pour le doublage vocal"
+  },
+  "localPlayerAssociated": {
+    "message": "Lié"
+  },
+  "localPlayerAssociatedOutsideFolder": {
+    "message": "Lié en dehors de ce dossier"
+  },
+  "localPlayerNotAssociated": {
+    "message": "Non lié"
+  },
+  "localPlayerNativeSubtitle": {
+    "message": "Sous-titres originaux"
+  },
+  "localPlayerDubbingAlreadyStarted": {
+    "message": "Le doublage vocal a commencé"
+  },
+  "localPlayerThumbnailBackfillComplete": {
+    "message": "Miniatures générées pour les vidéos {count}."
+  },
+  "localPlayerThumbnailGenerationFailed": {
+    "message": "Échec de la génération de vignette : {displayName} ({message})"
+  },
+  "localPlayerFreeUserNoSubtitleMessage": {
+    "message": "Cette vidéo locale n'a pas de sous-titre lié. Les utilisateurs gratuits ne peuvent pas encore utiliser la reconnaissance des sous-titres en arrière-plan pour les vidéos locales. Mettez à niveau votre abonnement pour utiliser la reconnaissance des sous-titres par IA ou téléversez manuellement un fichier de sous-titres avant de commencer le doublage vocal."
+  },
+  "localPlayerNoSubtitleUploadTitle": {
+    "message": "Cette vidéo n'a pas de sous-titres"
+  },
+  "localPlayerNoSubtitleUploadText": {
+    "message": "Télécharger cette vidéo pour la reconnaissance des sous-titres par l'IA ? Le téléchargement sert uniquement à reconnaître les sous-titres, la vidéo est supprimée immédiatement après la reconnaissance et vous serez averti par e-mail."
+  },
+  "localPlayerNavigationLabel": {
+    "message": "Vidéothèque locale / Doublage texte"
+  },
+  "localPlayerCurrentPageNav": {
+    "message": "Doublage vidéo"
+  },
+  "localPlayerTextDubbingNav": {
+    "message": "Doublage texte"
+  },
+  "localPlayerTextDubbingTitle": {
+    "message": "Doublage texte"
+  },
+  "localPlayerTextDubbingDescription": {
+    "message": "Doublage texte - Langue cible"
+  },
+  "localPlayerTextDubbingVoiceType": {
+    "message": "Type de voix"
+  },
+  "localPlayerTextDubbingLanguage": {
+    "message": "Langue cible"
+  },
+  "localPlayerTextDubbingGender": {
+    "message": "Sexe"
+  },
+  "localPlayerTextDubbingVoice": {
+    "message": "Voix"
+  },
+  "localPlayerTextDubbingInputLabel": {
+    "message": "Saisie manuelle"
+  },
+  "localPlayerTextDubbingInputPlaceholder": {
+    "message": "Saisie manuelle - Doublage texte"
+  },
+  "localPlayerTextDubbingLimitHint": {
+    "message": "Doublage texte: {chars} / {bytes}"
+  },
+  "localPlayerTextDubbingCounter": {
+    "message": "{chars} · {bytes}"
+  },
+  "localPlayerTextDubbingGenerate": {
+    "message": "Doublage texte MP3"
+  },
+  "localPlayerTextDubbingGenerating": {
+    "message": "Enregistrement..."
+  },
+  "localPlayerTextDubbingGenerated": {
+    "message": "Doublage texte MP3 · {seconds}s"
+  },
+  "localPlayerTextDubbingFailed": {
+    "message": "Échec sauvegarde"
+  },
+  "localPlayerTextDubbingNoVoice": {
+    "message": "Aucune voix n’est disponible pour cette sélection."
+  },
+  "localPlayerTextDubbingEmptyText": {
+    "message": "Le contenu des sous-titres ne peut pas être vide"
+  },
+  "localPlayerTextDubbingTooLong": {
+    "message": "Le texte est trop long. Raccourcissez-le, puis réessayez."
+  },
+  "localPlayerTextDubbingDownload": {
+    "message": "Exporter MP3"
+  },
+  "localPlayerTextDubbingClear": {
+    "message": "Annuler"
+  },
+  "translationDomainGeneral": {
+    "message": "Général"
+  },
+  "translationDomainWeb3": {
+    "message": "Web3 et crypto"
+  },
+  "translationDomainTech": {
+    "message": "Technologie"
+  },
+  "translationDomainNews": {
+    "message": "Actualités et médias"
+  },
+  "translationDomainProgramming": {
+    "message": "Programmation"
+  },
+  "translationDomainEducation": {
+    "message": "Éducation"
+  },
+  "translationDomainFinance": {
+    "message": "Finance"
+  },
+  "translationDomainLaw": {
+    "message": "Droit"
+  },
+  "translationDomainAuto": {
+    "message": "Automobile"
+  },
+  "translationDomainEcommerce": {
+    "message": "E-commerce"
+  },
+  "translationDomainFashion": {
+    "message": "Mode"
+  },
+  "translationDomainFood": {
+    "message": "Cuisine et alimentation"
+  },
+  "translationDomainGardening": {
+    "message": "Jardinage"
+  },
+  "translationDomainMedical": {
+    "message": "Médecine et santé"
+  },
+  "translationDomainMusic": {
+    "message": "Musique"
+  },
+  "translationDomainPets": {
+    "message": "Animaux de compagnie"
+  },
+  "translationDomainSports": {
+    "message": "Sports"
+  },
+  "translationDomainTravel": {
+    "message": "Voyage"
+  },
+  "translationDomainChess": {
+    "message": "Échecs"
+  },
+  "translationDomainGaming": {
+    "message": "Jeux vidéo"
+  },
+  "translationDomainGolf": {
+    "message": "Golf"
+  },
+  "translationDomainMovies": {
+    "message": "Films et TV"
+  },
+  "translationDomainPhotography": {
+    "message": "Photographie"
+  },
+  "translationPreferencesSectionTitle": {
+    "message": "Traduction par IA"
+  },
+  "translationRulesEnabledLabel": {
+    "message": "Appliquer le glossaire et les remplacements de texte à la traduction par IA"
+  },
+  "translationRulesEnabledDescription": {
+    "message": "Lorsque cette option est activée, la traduction par IA utilise les réglages ci-dessous. Lorsqu'elle est désactivée, vos réglages existants sont conservés."
+  },
+  "glossaryTitle": {
+    "message": "Glossaire"
+  },
+  "glossaryDescription": {
+    "message": "Définissez des traductions fixes pour les termes sources (par ex. Stratagem). Vos termes sont prioritaires sur le glossaire intégré."
+  },
+  "glossaryCreateButton": {
+    "message": "Ajouter un terme personnel"
+  },
+  "glossaryEditTitle": {
+    "message": "Modifier le terme personnel"
+  },
+  "glossaryEditorDescription": {
+    "message": "Seuls les termes personnels peuvent être ajoutés, modifiés, activés ou supprimés."
+  },
+  "glossaryTableTitle": {
+    "message": "Termes de la langue actuelle"
+  },
+  "glossaryCombinedEmpty": {
+    "message": "Il n'existe encore aucun terme personnel pour cette langue."
+  },
+  "glossarySearchEmpty": {
+    "message": "Aucun terme correspondant."
+  },
+  "glossarySearchPlaceholder": {
+    "message": "Rechercher dans les termes sources"
+  },
+  "glossarySourcePlaceholder": {
+    "message": "Terme source"
+  },
+  "glossaryTargetPlaceholder": {
+    "message": "Traduction imposée"
+  },
+  "glossarySourceTerm": {
+    "message": "Terme source"
+  },
+  "glossaryTargetTerm": {
+    "message": "Traduction"
+  },
+  "replacementTitle": {
+    "message": "Corrections des erreurs du texte source"
+  },
+  "replacementDescription": {
+    "message": "Corrigez les erreurs récurrentes de reconnaissance des sous-titres (par exemple, cloud code -> Claude Code) avant la traduction par IA."
+  },
+  "replacementCreateButton": {
+    "message": "Ajouter un remplacement personnel"
+  },
+  "replacementEditTitle": {
+    "message": "Modifier le remplacement personnel"
+  },
+  "replacementEditorDescription": {
+    "message": "Seuls les remplacements de texte personnels sont appliqués avant la traduction par IA."
+  },
+  "replacementFindPlaceholder": {
+    "message": "Texte incorrect, par ex. cloud code"
+  },
+  "replacementReplacePlaceholder": {
+    "message": "Remplacer par, par ex. claude code"
+  },
+  "replacementFindText": {
+    "message": "Texte incorrect"
+  },
+  "replacementReplaceText": {
+    "message": "Remplacer par"
+  },
+  "replacementEmpty": {
+    "message": "Aucune règle de correction pour le moment."
+  },
+  "replacementSearchEmpty": {
+    "message": "Aucun remplacement correspondant."
+  },
+  "replacementSearchPlaceholder": {
+    "message": "Rechercher des remplacements"
+  },
+  "translatedReplacementTitle": {
+    "message": "Remplacements dans le texte traduit"
+  },
+  "translatedReplacementDescription": {
+    "message": "Remplacez des mots ou expressions dans la traduction terminée à l’aide de règles personnelles."
+  },
+  "translatedReplacementCreateButton": {
+    "message": "Ajouter un remplacement dans la traduction"
+  },
+  "translatedReplacementLanguage": {
+    "message": "Langue cible"
+  },
+  "translatedReplacementFindText": {
+    "message": "Texte traduit"
+  },
+  "translatedReplacementReplaceText": {
+    "message": "Remplacer par"
+  },
+  "translatedReplacementSearchPlaceholder": {
+    "message": "Rechercher dans le texte traduit"
+  },
+  "translatedReplacementEmpty": {
+    "message": "Aucune règle de remplacement du texte traduit pour le moment."
+  },
+  "translatedReplacementSearchEmpty": {
+    "message": "Aucun remplacement correspondant dans le texte traduit."
+  },
+  "translatedReplacementCreateTitle": {
+    "message": "Ajouter un remplacement dans la traduction"
+  },
+  "translatedReplacementEditTitle": {
+    "message": "Modifier le remplacement dans la traduction"
+  },
+  "translatedReplacementEditorDescription": {
+    "message": "Seule la traduction terminée est modifiée ; le texte source et le cache de traduction restent inchangés."
+  },
+  "translatedReplacementFindPlaceholder": {
+    "message": "Mot ou expression dans le texte traduit"
+  },
+  "translatedReplacementReplacePlaceholder": {
+    "message": "Mot ou expression à afficher à la place"
+  },
+  "translatedReplacementEnabledDescription": {
+    "message": "Lorsqu’elle est désactivée, la règle est conservée, mais elle ne s’applique pas au texte traduit."
+  },
+  "preferenceAdd": {
+    "message": "Ajouter"
+  },
+  "preferenceDomain": {
+    "message": "Domaine"
+  },
+  "preferenceLanguage": {
+    "message": "Langue"
+  },
+  "preferenceEnabled": {
+    "message": "Activé"
+  },
+  "preferenceActions": {
+    "message": "Opérations"
+  },
+  "preferenceSource": {
+    "message": "Origine"
+  },
+  "preferenceSourceUser": {
+    "message": "Personnel"
+  },
+  "preferenceSourceBuiltin": {
+    "message": "Intégré"
+  },
+  "preferenceStatus": {
+    "message": "État"
+  },
+  "preferenceStatusEnabled": {
+    "message": "Activé"
+  },
+  "preferenceEdit": {
+    "message": "Modifier"
+  },
+  "preferenceDelete": {
+    "message": "Supprimer"
+  },
+  "preferenceAllDomains": {
+    "message": "Tous les domaines"
+  },
+  "preferenceSearch": {
+    "message": "Rechercher"
+  },
+  "preferenceClearSearch": {
+    "message": "Effacer"
+  },
+  "preferencePageLabel": {
+    "message": "Page n° {page}"
+  },
+  "preferencePreviousPage": {
+    "message": "Précédente"
+  },
+  "preferenceNextPage": {
+    "message": "Suivante"
+  },
+  "builtinGlossaryDomainsTitle": {
+    "message": "Ensembles terminologiques intégrés par domaine"
+  },
+  "builtinGlossaryDomainCount": {
+    "message": "{count} termes intégrés"
+  },
+  "builtinGlossaryEmptyHint": {
+    "message": "Aucun glossaire intégré n'est disponible pour la langue cible actuelle. Vous pouvez tout de même ajouter des termes personnels."
+  },
+  "builtinGlossaryEnabledSummary": {
+    "message": "{enabled} / {total} activés"
+  },
+  "builtinGlossaryManageDomains": {
+    "message": "Gérer les domaines"
+  },
+  "builtinGlossaryManageDomainsTitle": {
+    "message": "Gérer les ensembles terminologiques intégrés"
+  },
+  "builtinGlossaryManageDomainsDescription": {
+    "message": "Activez ou désactivez les domaines du glossaire intégré pour la langue cible."
+  },
+  "builtinGlossaryDomainSearchPlaceholder": {
+    "message": "Rechercher des domaines"
+  },
+  "builtinGlossaryEnableAllDomains": {
+    "message": "Tout activer"
+  },
+  "builtinGlossaryDisableAllDomains": {
+    "message": "Tout désactiver"
+  },
+  "builtinGlossaryDomainSearchEmpty": {
+    "message": "Aucun domaine correspondant."
+  },
+  "builtinGlossaryDomainTotal": {
+    "message": "{count} domaines"
+  },
+  "builtinGlossaryDomainDisabledStatus": {
+    "message": "Domaine désactivé"
+  },
+  "builtinGlossaryBlockedStatus": {
+    "message": "Exclu"
+  },
+  "builtinGlossaryReadOnlyHint": {
+    "message": "Règle intégrée"
+  },
+  "builtinTextReplacementManageDomainsTitle": {
+    "message": "Gérer les domaines intégrés de correction du texte source"
+  },
+  "builtinTextReplacementManageDomainsDescription": {
+    "message": "Activez ou désactivez les domaines intégrés de correction du texte source."
+  },
+  "builtinTextReplacementDomainCount": {
+    "message": "{count} règles intégrées"
+  },
+  "preferenceLoadFailed": {
+    "message": "Échec du chargement. Connectez-vous et réessayez."
+  },
+  "preferenceActionFailed": {
+    "message": "Échec de l'action. Réessayez plus tard."
+  },
+  "pronunciationSettingsSectionTitle": {
+    "message": "Prononciation"
+  },
+  "pronunciationSettingsTitle": {
+    "message": "Paramètres de prononciation"
+  },
+  "pronunciationSettingsDescription": {
+    "message": "Définissez des prononciations personnelles pour le texte traduit. Les règles s'appliquent uniquement au doublage local."
+  },
+  "optionsNavPronunciationShort": {
+    "message": "Prononciation"
+  },
+  "pronunciationNewRule": {
+    "message": "Nouvelle règle"
+  },
+  "pronunciationEditRule": {
+    "message": "Modifier la règle de prononciation"
+  },
+  "pronunciationTargetLanguage": {
+    "message": "Langue cible"
+  },
+  "pronunciationSearchPlaceholder": {
+    "message": "Rechercher le texte correspondant"
+  },
+  "pronunciationStatus": {
+    "message": "Statut"
+  },
+  "pronunciationMatchText": {
+    "message": "Texte correspondant"
+  },
+  "pronunciationMatchPlaceholder": {
+    "message": "Par exemple : bonjour"
+  },
+  "pronunciationTargetText": {
+    "message": "Partie corrigée"
+  },
+  "pronunciationReading": {
+    "message": "Prononciation spécifiée"
+  },
+  "pronunciationLoading": {
+    "message": "Chargement…"
+  },
+  "pronunciationEmpty": {
+    "message": "Aucune règle de prononciation personnelle ne correspond aux filtres actuels."
+  },
+  "pronunciationEditorHint": {
+    "message": "Sélectionnez la partie continue à corriger, puis saisissez sa prononciation."
+  },
+  "pronunciationSelectTarget": {
+    "message": "Sélectionnez le texte à corriger"
+  },
+  "pronunciationReselect": {
+    "message": "Sélectionnez à nouveau"
+  },
+  "pronunciationEnterMatchFirst": {
+    "message": "Saisissez d'abord le texte correspondant"
+  },
+  "pronunciationSelectionSummary": {
+    "message": "Sélectionné : {text} ; occurrence {occurrence}"
+  },
+  "pronunciationSelectionRestoreFailed": {
+    "message": "L'emplacement enregistré ne peut pas être restauré. Sélectionnez à nouveau le texte avant de l'enregistrer."
+  },
+  "pronunciationSelectionInvalid": {
+    "message": "Sélectionnez du texte continu."
+  },
+  "pronunciationModifier": {
+    "message": "Ton"
+  },
+  "pronunciationSelectModifier": {
+    "message": "Sélectionnez"
+  },
+  "pronunciationSaving": {
+    "message": "Sauvegarde…"
+  },
+  "pronunciationDeleteConfirm": {
+    "message": "Supprimer cette règle de prononciation ?"
+  },
+  "pronunciationOccurrence": {
+    "message": "occurrence n° {occurrence}"
+  },
+  "pronunciationUnknownError": {
+    "message": "L'action a échoué. Veuillez réessayer plus tard."
+  },
+  "preferenceAllStatuses": {
+    "message": "Tout"
+  },
+  "preferenceCancel": {
+    "message": "Annuler"
+  },
+  "preferenceDisabled": {
+    "message": "Désactivé"
+  },
+  "preferenceSave": {
+    "message": "Enregistrer"
+  },
+  "pronunciationFineSelection": {
+    "message": "Sélection précise"
+  },
+  "pronunciationMergeUnits": {
+    "message": "Fusionner les prononciations adjacentes"
+  },
+  "pronunciationPerUnitHint": {
+    "message": "Entrez une prononciation et un ton pour chaque partie. Divisez ou fusionnez des pièces selon vos besoins."
+  },
+  "pronunciationPrimarySelection": {
+    "message": "Sélection intelligente"
+  },
+  "pronunciationSelectionGranularity": {
+    "message": "Granularité de la sélection"
+  },
+  "pronunciationSelectionTooLong": {
+    "message": "La partie corrigée peut contenir au maximum 128 caractères."
+  },
+  "pronunciationSplitAt": {
+    "message": "Scinder à"
+  },
+  "pronunciationUnitReading": {
+    "message": "Prononciation par partie"
+  },
+  "pronunciationWholeReading": {
+    "message": "Prononciation complète"
+  },
+  "pronunciationWholeToneHint": {
+    "message": "Entrez la prononciation tonique complète. Divisez-le pour choisir un ton pour chaque partie."
+  },
+  "pronunciationPinyinSyllable": {
+    "message": "Syllabe pinyin"
+  },
+  "pronunciationPinyinPlaceholder": {
+    "message": "Entrez une syllabe Pinyin"
+  },
+  "pronunciationNumberedTone": {
+    "message": "Tonalité {tone}"
+  },
+  "pronunciationNeutralTone": {
+    "message": "Ton neutre"
+  },
+  "googleDriveNoCaptionsTitle": {
+    "message": "Cette vidéo Google Drive n'a pas encore de sous-titres"
+  },
+  "googleDriveNoCaptionsIntro": {
+    "message": "Le doublage utilise les sous-titres intégrés de Google Drive (CC). Activez d'abord les sous-titres de cette vidéo, puis revenez :"
+  },
+  "googleDriveNoCaptionsStep1": {
+    "message": "Dans Google Drive, faites un clic droit sur la vidéo et choisissez « Informations sur le fichier » → « Gérer les pistes de sous-titres »."
+  },
+  "googleDriveNoCaptionsStep2": {
+    "message": "S'il n'y a pas encore de piste : Drive génère automatiquement des sous-titres pour les langues prises en charge (dont l'anglais, le turc, le chinois, l'espagnol, le japonais). Cliquez sur « Générer des sous-titres automatiques » s'il est affiché, ou importez un fichier de sous-titres. Seuls le propriétaire ou les éditeurs de la vidéo peuvent gérer les sous-titres."
+  },
+  "googleDriveNoCaptionsStep3": {
+    "message": "La génération des sous-titres prend du temps. Lorsque le bouton CC du lecteur devient cliquable, actualisez la page et relancez le doublage."
+  },
+  "subtitleAudioLanguageMismatch": {
+    "message": "La langue des sous-titres ne correspond pas à celle des voix. Sous-titres : {subtitle}. Voix : {voice}. Une voix ne peut lire que du texte dans sa propre langue : la génération risque d’échouer ou de mal sonner. Traduisez d’abord les sous-titres, ou choisissez une langue cible qui leur correspond. Générer quand même ?"
+  },
+  "subtitleAudioNav": {
+    "message": "Doublage de sous-titres"
+  },
+  "subtitleAudioAiSubtitleBadge": {
+    "message": "Sous-titres IA"
+  },
+  "subtitleAudioUserSubtitleBadge": {
+    "message": "Sous-titres modifiés"
+  },
+  "subtitleAudioBack": {
+    "message": "Doublage vidéo"
+  },
+  "subtitleAudioProjectSubtitle": {
+    "message": "Sous-titres : {name} · répliques : {count}"
+  },
+  "subtitleAudioReplaceSubtitles": {
+    "message": "Remplacer les sous-titres"
+  },
+  "subtitleAudioExportVideoOption": {
+    "message": "Vidéo doublée"
+  },
+  "subtitleAudioExportVideoHint": {
+    "message": "L'image ralentit là où une réplique demande plus de temps : la vidéo peut donc durer un peu plus longtemps."
+  },
+  "subtitleAudioExportMp3Option": {
+    "message": "MP3 doublé"
+  },
+  "subtitleAudioExportMp3Hint": {
+    "message": "Exactement la durée de la vidéo d'origine : superposez-le à la vidéo ou mettez-le en ligne comme piste audio dans une autre langue."
+  },
+  "subtitleAudioDownloadSrt": {
+    "message": "Télécharger le SRT"
+  },
+  "subtitleAudioEditAndExport": {
+    "message": "Modifier et exporter"
+  },
+  "subtitleAudioEditNeedsSubtitle": {
+    "message": "Cette vidéo n'a pas encore de sous-titres. Associez un fichier de sous-titres, ou utilisez une fois « Démarrer le doublage vocal » pour que l'IA génère les sous-titres."
+  },
+  "subtitleAudioTitle": {
+    "message": "Une voix pour chaque réplique"
+  },
+  "subtitleAudioSubtitle": {
+    "message": "Importez un fichier SRT pour obtenir un MP3 doublé qui suit le minutage des sous-titres. Pour une vidéo doublée, sélectionnez-la dans « Doublage vidéo » puis choisissez « Modifier et exporter »."
+  },
+  "subtitleAudioImportStep": {
+    "message": "Importer les sous-titres"
+  },
+  "subtitleAudioVoicesStep": {
+    "message": "Choisir les voix"
+  },
+  "subtitleAudioExportStep": {
+    "message": "Exporter"
+  },
+  "subtitleAudioSubtitles": {
+    "message": "Sous-titres"
+  },
+  "subtitleAudioCueList": {
+    "message": "Répliques et voix"
+  },
+  "subtitleAudioSettings": {
+    "message": "Paramètres de voix"
+  },
+  "subtitleAudioImport": {
+    "message": "Choisir un fichier SRT"
+  },
+  "subtitleAudioReplace": {
+    "message": "Remplacer"
+  },
+  "subtitleAudioRemove": {
+    "message": "Retirer"
+  },
+  "subtitleAudioDrop": {
+    "message": "Déposez votre fichier SRT ici"
+  },
+  "subtitleAudioDropNote": {
+    "message": "UTF-8 · jusqu'à 2 MiB, 5 000 répliques et 3 heures"
+  },
+  "subtitleAudioEmpty": {
+    "message": "Vos sous-titres apparaîtront ici. Attribuez une voix à chaque réplique ou appliquez-en une à une sélection."
+  },
+  "subtitleAudioLines": {
+    "message": "Répliques"
+  },
+  "subtitleAudioDuration": {
+    "message": "Durée des sous-titres"
+  },
+  "subtitleAudioCharacters": {
+    "message": "Caractères"
+  },
+  "subtitleAudioSearch": {
+    "message": "Rechercher dans les sous-titres"
+  },
+  "subtitleAudioSelectPage": {
+    "message": "Sélectionner cette page"
+  },
+  "subtitleAudioSelectAll": {
+    "message": "Sélectionner tous les résultats"
+  },
+  "subtitleAudioSelected": {
+    "message": "Sélection : {count}"
+  },
+  "subtitleAudioApply": {
+    "message": "Appliquer la voix"
+  },
+  "subtitleAudioChooseVoice": {
+    "message": "Choisir une voix"
+  },
+  "subtitleAudioText": {
+    "message": "Texte du sous-titre"
+  },
+  "subtitleAudioTime": {
+    "message": "Minutage"
+  },
+  "subtitleAudioVoice": {
+    "message": "Voix"
+  },
+  "subtitleAudioFemale": {
+    "message": "Féminines"
+  },
+  "subtitleAudioMale": {
+    "message": "Masculines"
+  },
+  "subtitleAudioPage": {
+    "message": "Page {page} sur {total}"
+  },
+  "subtitleAudioPrevious": {
+    "message": "Précédent"
+  },
+  "subtitleAudioNext": {
+    "message": "Suivant"
+  },
+  "subtitleAudioPreview": {
+    "message": "Écouter la réplique {index}"
+  },
+  "subtitleAudioStopPreview": {
+    "message": "Arrêter l'écoute"
+  },
+  "subtitleAudioLanguage": {
+    "message": "Langue cible"
+  },
+  "subtitleAudioVoiceType": {
+    "message": "Type de voix"
+  },
+  "subtitleAudioFree": {
+    "message": "Gratuit"
+  },
+  "subtitleAudioVideoSync": {
+    "message": "L'aperçu suit la bande-son exportée. Le son d'origine de la vidéo est coupé."
+  },
+  "subtitleAudioTimelineTitle": {
+    "message": "Piste audio"
+  },
+  "subtitleAudioLayoutOnly": {
+    "message": "Position des sous-titres · forme d'onde disponible après l'export"
+  },
+  "subtitleAudioRealWave": {
+    "message": "Forme d'onde de l'audio exporté · cliquez ou utilisez le curseur pour naviguer"
+  },
+  "subtitleAudioTracks": {
+    "message": "{count} voix → un MP3"
+  },
+  "subtitleAudioTracksVideo": {
+    "message": "{count} voix → vidéo doublée"
+  },
+  "subtitleAudioSeek": {
+    "message": "Naviguer dans le fichier exporté"
+  },
+  "subtitleAudioNoTimeline": {
+    "message": "Importez des sous-titres pour voir leur minutage."
+  },
+  "subtitleAudioGenerate": {
+    "message": "Générer le MP3"
+  },
+  "subtitleAudioGenerateVideo": {
+    "message": "Générer la vidéo doublée"
+  },
+  "subtitleAudioRegenerate": {
+    "message": "Générer à nouveau"
+  },
+  "subtitleAudioRegenerateVideo": {
+    "message": "Générer à nouveau la vidéo"
+  },
+  "subtitleAudioRetry": {
+    "message": "Relancer la génération"
+  },
+  "subtitleAudioCancel": {
+    "message": "Annuler"
+  },
+  "subtitleAudioCancelling": {
+    "message": "Annulation…"
+  },
+  "subtitleAudioDownload": {
+    "message": "Télécharger le MP3"
+  },
+  "subtitleAudioDownloadVideo": {
+    "message": "Télécharger la vidéo doublée"
+  },
+  "subtitleAudioWorking": {
+    "message": "Génération des voix"
+  },
+  "subtitleAudioEncoding": {
+    "message": "Création de la piste audio"
+  },
+  "subtitleAudioFinalizing": {
+    "message": "Finalisation du MP3"
+  },
+  "subtitleAudioMuxing": {
+    "message": "Intégration de la bande-son doublée à la vidéo"
+  },
+  "subtitleAudioFinished": {
+    "message": "Votre MP3 est prêt"
+  },
+  "subtitleAudioFinishedVideo": {
+    "message": "Votre vidéo doublée est prête"
+  },
+  "subtitleAudioCancelled": {
+    "message": "Génération annulée. Les extraits vocaux terminés sont conservés en cache pour la prochaine tentative."
+  },
+  "subtitleAudioProgressNote": {
+    "message": "Gardez cette page ouverte. Vous pouvez annuler, puis reprendre grâce aux extraits en cache."
+  },
+  "subtitleAudioMissing": {
+    "message": "Répliques sans voix : {count}. Choisissez une voix pour chacune ou utilisez « Appliquer la voix »."
+  },
+  "subtitleAudioEmptyText": {
+    "message": "Répliques sans texte : {count}. Ajoutez du texte avant de générer."
+  },
+  "subtitleAudioCacheNote": {
+    "message": "Les voix sont générées par le service sélectionné. Les sous-titres et les extraits générés sont mis en cache sur cet appareil ; l'audio et la vidéo sont assemblés localement."
+  },
+  "subtitleAudioRestored": {
+    "message": "Brouillon restauré."
+  },
+  "subtitleAudioSaveError": {
+    "message": "Impossible d'enregistrer le brouillon. Gardez cette page ouverte pour conserver vos modifications."
+  },
+  "subtitleAudioFailed": {
+    "message": "Impossible de terminer. Les extraits vocaux terminés sont conservés ; réessayez pour reprendre."
+  },
+  "subtitleAudioDetails": {
+    "message": "Détails"
+  },
+  "subtitleAudioBadFile": {
+    "message": "Choisissez un fichier .srt en UTF-8 (2 MiB maximum)."
+  },
+  "subtitleAudioEncodingError": {
+    "message": "Ce fichier n'est pas en UTF-8 valide. Enregistrez-le en UTF-8, puis importez-le à nouveau."
+  },
+  "subtitleAudioImportFailed": {
+    "message": "Impossible de lire le fichier de sous-titres. Vérifiez ses horodatages SRT et son texte."
+  },
+  "subtitleAudioInvalidVideo": {
+    "message": "Cette vidéo n'a pas de piste image lisible, ou sa durée est introuvable."
+  },
+  "subtitleAudioVideoLimitError": {
+    "message": "Cette vidéo dure plus de 3 heures : impossible d'en exporter une version doublée. Choisissez un fichier plus court."
+  },
+  "subtitleAudioVideoStorageError": {
+    "message": "Espace libre insuffisant sur cet ordinateur pour cette vidéo : environ {needed} GB sont nécessaires, mais seuls {available} GB sont disponibles pour le navigateur. Libérez de l'espace disque et réessayez, ou choisissez une vidéo plus légère."
+  },
+  "subtitleAudioVideoCodecError": {
+    "message": "Cet appareil ne peut pas copier ce codec vidéo (par exemple HEVC). L'export a été interrompu pour éviter de produire un fichier corrompu. Essayez un MP4 en H.264."
+  },
+  "subtitleAudioVideoAacUnsupported": {
+    "message": "Ce navigateur ne peut pas encoder l’audio AAC : impossible d’exporter une vidéo doublée. L’export du MP3 doublé reste possible."
+  },
+  "subtitleAudioVideoCopyUnsupported": {
+    "message": "Le codec de cette vidéo ne peut pas être exporté en MP4 doublé. L’export du MP3 doublé reste possible ; pour une vidéo, utilisez un MP4 H.264."
+  },
+  "subtitleAudioPreviewFailed": {
+    "message": "Impossible d'écouter cette réplique. Vérifiez la voix sélectionnée et votre connexion."
+  },
+  "subtitleAudioPlayBlocked": {
+    "message": "L'audio est prêt. Appuyez sur Lecture dans le lecteur audio."
+  },
+  "subtitleAudioGeneralError": {
+    "message": "L'opération n'a pas pu aboutir. Vérifiez votre connexion et réessayez."
+  },
+  "subtitleAudioLimitError": {
+    "message": "Ce projet dépasse les limites prises en charge : 5 000 répliques et 3 heures au maximum, et chaque extrait vocal doit durer moins de 60 secondes."
+  },
+  "subtitleAudioStorageError": {
+    "message": "Espace de stockage local insuffisant pour cet export. Libérez de l'espace et réessayez."
+  },
+  "subtitleAudioAccountError": {
+    "message": "La génération des voix nécessite un compte valide et un quota disponible. Vérifiez votre compte, puis réessayez."
+  },
+  "subtitleAudioPaused": {
+    "message": "En attente"
+  },
+  "subtitleAudioGeneratingCue": {
+    "message": "Génération"
+  },
+  "subtitleAudioReadyCue": {
+    "message": "Prête"
+  },
+  "subtitleAudioErrorCue": {
+    "message": "Échec"
+  },
+  "subtitleAudioVoiceReset": {
+    "message": "Certaines voix ne sont pas disponibles avec ces paramètres. Choisissez des voix pour les répliques en surbrillance."
+  },
+  "subtitleAudioConfirmReplace": {
+    "message": "Remplacer le brouillon de sous-titres actuel ?"
+  },
+  "subtitleAudioClearDraft": {
+    "message": "Retirer tous les sous-titres de ce brouillon ?"
+  },
+  "subtitleAudioOutputChanged": {
+    "message": "Les paramètres ont changé. Générez à nouveau pour mettre à jour le téléchargement."
+  },
+  "subtitleAudioBrowserError": {
+    "message": "Ce navigateur n'a pas pu initialiser le traitement audio. Essayez un navigateur de bureau à jour."
+  },
+  "subtitleAudioOtherTabBusy": {
+    "message": "Un autre onglet génère ou écoute l'audio des sous-titres. Attendez la fin de cette tâche ou fermez cet onglet, puis réessayez."
+  },
+  "uploadVideoLanguageLabel": {
+    "message": "Langue de la vidéo (la choisir améliore la précision de la reconnaissance)"
+  },
+  "uploadVideoLanguageAuto": {
+    "message": "Détection automatique"
+  },
+  "subtitleAudioPreparing": {
+    "message": "Découpage en phrases et traduction"
+  },
+  "subtitleAudioPrepareFailed": {
+    "message": "Impossible de découper ou de traduire les sous-titres. Réessayez plus tard."
+  },
+  "subtitleAudioSourceLanguage": {
+    "message": "Langue des sous-titres"
+  },
+  "subtitleAudioSourceLanguageUnknown": {
+    "message": "Impossible de détecter la langue de ces sous-titres. Choisissez la langue dans laquelle ils sont écrits, puis relancez la génération."
+  },
+  "subtitleAudioPreparedNote": {
+    "message": "Découpé en phrases et traduit en {language} comme le doublage en ligne. Vous pouvez modifier les traductions ci-dessous."
+  },
+  "subtitleAudioRestoreSource": {
+    "message": "Restaurer l’original"
+  },
+  "subtitleAudioRestoreSourceConfirm": {
+    "message": "Restaurer l’original supprime vos modifications des traductions ; le prochain export redécoupera et retraduira. Continuer ?"
+  },
+  "subtitleAudioLanguageChangedRetranslate": {
+    "message": "La langue de doublage a changé : la liste affiche de nouveau le texte original. Il sera redécoupé et retraduit à l’export."
+  },
+  "subtitleAudioCueTooLong": {
+    "message": "La ligne {index} est trop longue. Divisez-la en lignes plus courtes, puis réessayez."
+  },
+  "subtitleAudioBackgroundOption": {
+    "message": "Ajouter le fond sonore"
+  },
+  "subtitleAudioBackgroundHint": {
+    "message": "Le fond sonore de cette vidéo (sans les voix) a été séparé lors de son envoi pour la reconnaissance. Il est placé sous le doublage, comme en doublage en ligne."
+  },
+  "subtitleAudioDownloadingBackground": {
+    "message": "Téléchargement du fond sonore"
+  },
+  "subtitleAudioBackgroundFailed": {
+    "message": "Impossible de télécharger le fond sonore. Réessayez plus tard ou décochez « Ajouter le fond sonore » puis exportez à nouveau."
+  },
+  "subtitleAudioPreparedSameLanguageNote": {
+    "message": "Les sous-titres sont déjà dans la langue du doublage : selon le réglage « ne pas traduire la même langue », ils ont seulement été découpés en phrases."
+  },
+  "dubbingToggleOn": {
+    "message": "Activer le doublage"
+  },
+  "dubbingToggleOff": {
+    "message": "Désactiver le doublage"
+  },
+  "dubbingTogglePreparing": {
+    "message": "Préparation du doublage, veuillez patienter…"
+  },
+  "dubbingSwitchedOffNotice": {
+    "message": "Doublage désactivé, audio original rétabli"
+  },
+  "dubbingSwitchedOnNotice": {
+    "message": "Doublage activé"
+  },
+  "toggleDubbingCommand": {
+    "message": "Activer / désactiver le doublage"
+  },
+  "spotifyPublicAudioShowNotFound": {
+    "message": "L'audio est chiffré et cette émission n'a pas de flux de podcast public (il s'agit peut-être d'une exclusivité Spotify)."
+  },
+  "spotifyPublicAudioEpisodeNotMatched": {
+    "message": "L'audio est chiffré et aucun épisode correspondant n'a été trouvé dans le flux de podcast public de l'émission."
+  },
+  "spotifyPublicAudioLookupFailed": {
+    "message": "Impossible de récupérer l'audio public de cet épisode. Veuillez réessayer plus tard."
+  }
+}

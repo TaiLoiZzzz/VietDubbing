@@ -1,0 +1,2315 @@
+{
+  "name": {
+    "message": "YouTube Dubbing – Překlad a Dabing"
+  },
+  "description": {
+    "message": "Video překlad a dabing—porozumíte cizím jazykům, přístup k celosvětovým znalostem"
+  },
+  "metadataNotFound": {
+    "message": "Metadata videa nebyla nalezena, obnovte stránku a zkuste to znovu"
+  },
+  "dubbingMediaNotFoundTitle": {
+    "message": "Nebylo nalezeno video pro dabing"
+  },
+  "dubbingMediaNotFoundText": {
+    "message": "Na této stránce momentálně není dostupné žádné použitelné video ani audio. Počkejte, až se video načte, a zkuste to znovu, nebo stránku obnovte."
+  },
+  "noSubtitlesFound": {
+    "message": "Toto video nemá titulky a nepodporuje překlad a dabing"
+  },
+  "liveVideoNotSupported": {
+    "message": "Přímá vysílání momentálně nejsou podporována pro dabing"
+  },
+  "universalDubbingNotSupported": {
+    "message": "Univerzální dabing není v aktuální verzi pro toto video podporován. Podpora je plánována v příští verzi. Pro další informace kontaktujte zákaznický servis."
+  },
+  "postLoginTranslationSettings": {
+    "message": "Přihlášení bylo úspěšné. Klikněte na ikonu pluginu pro výběr jazyka překladu a seznamu hlasů."
+  },
+  "noSubtitlesWaitOptimization": {
+    "message": "Titulky nejsou k dispozici. Prosím počkejte, až plugin rozpozná titulky k tomuto videu. Po dokončení rozpoznání obdržíte e-mailové upozornění na registrovanou e-mailovou adresu."
+  },
+  "privateVideoNoSubtitles": {
+    "message": "Toto video nemá titulky a je soukromé. Plugin nemůže pro toto video na pozadí rozpoznat titulky. Nastavte video jako veřejné nebo přidejte titulky ručně a zkuste to znovu."
+  },
+  "trialMemberDurationLimit": {
+    "message": "Toto video nemá titulky. Jako zkušební člen jsou momentálně podporována pouze videa kratší než 15 minut pro rozpoznání titulků. Prémiové členství podporuje videa kratší než 3 hodiny."
+  },
+  "premiumMemberDurationLimit": {
+    "message": "Toto video nemá titulky a délka videa přesahuje 3 hodiny, překlad a dabing nejsou podporovány. Vyberte prosím kratší video nebo video s titulky."
+  },
+  "freeUserNoSubtitles": {
+    "message": "Toto video nemá zabudované titulky. Prosím přihlaste se k členství pluginu pro rozpoznání titulků a užívejte si funkcí překladu a dabingu."
+  },
+  "freeUserDailyLimit": {
+    "message": "Bezplatní uživatelé mohou sledovat až 5 videí denně prostřednictvím pluginu. Upgradujte na členství a odemkněte neomezené sledování."
+  },
+  "upgradeEntryUpgradeButton": {
+    "message": "Upgradovat"
+  },
+  "upgradeEntryLaterButton": {
+    "message": "Možná později"
+  },
+  "aiSubtitlesRecognitionInBackground": {
+    "message": "AI titulky ještě nejsou k dispozici. Plugin začal rozpoznávat na pozadí. Po vyslechnutí první nadabované věty můžete zavřít stránku a počkat na e-mailové upozornění; až bude připraveno, tlačítko dabingu se zbarví na zeleno a kvalita překladu bude lepší."
+  },
+  "upgradeMembershipForBackgroundRecognition": {
+    "message": "Upgradujte na členství a plugin rozpozná AI titulky na pozadí. Po obdržení e-mailového upozornění se vraťte ke sledování; tlačítko dabingu se zbarví na zeleno a překlady budou přesnější."
+  },
+  "memberFreeVoiceAzureSuggestion": {
+    "message": "Právě dabujete pomocí bezplatného typu hlasu. Hlasy Azure znějí přirozeněji; členové teď mohou Azure používat bez omezení a bez dalšího dobíjení kreditů."
+  },
+  "memberAiSubtitlePlatformPrioritySuggestion": {
+    "message": "Právě se používají titulky rozpoznané AI rozšíření na pozadí. Pokud se vám překlad nezdá správný, změňte v základním nastavení prioritu titulků na titulky platformy."
+  },
+  "openBasicSettingsLink": {
+    "message": "Otevřít základní nastavení"
+  },
+  "doNotShowAgainLink": {
+    "message": "Už nezobrazovat"
+  },
+  "loginAndUsePlugin": {
+    "message": "Nejprve se prosím přihlaste kliknutím na ikonu pluginu a poté použijte plugin pro přehrávání s dabingem."
+  },
+  "voiceSettingsMismatch": {
+    "message": "Typ hlasu a nastavení hlasu se neshodují. Přejděte na stránku nastavení, vyberte znovu a uložte nastavení hlasu."
+  },
+  "contentMenusTitle": {
+    "message": "Spustit přehrávání s dabingem"
+  },
+  "videoDetectedDomainTooltip": {
+    "message": "Rozpoznaná oblast aktuálního videa: {domain}"
+  },
+  "dropboxClickCcToTranscribe": {
+    "message": "Toto video ještě nebylo přepsáno. Prosím klikněte na tlačítko CC ve spodní části Dropbox videa pro přepis titulků. Po dokončení přepisu klikněte na tlačítko dabingu pluginu pro překlad a dabing."
+  },
+  "iosInterceptorConflictTitle": {
+    "message": "Detekován konflikt rozšíření"
+  },
+  "iosInterceptorConflictMessage": {
+    "message": "Jiné rozšíření prohlížeče blokuje zachycování požadavků na titulky. Zakažte konfliktní rozšíření, obnovte stránku a zkuste to znovu."
+  },
+  "login": {
+    "message": "Přihlásit"
+  },
+  "logout": {
+    "message": "Odhlásit se"
+  },
+  "subscribe": {
+    "message": "Předplatit"
+  },
+  "save_settings": {
+    "message": "Uložit nastavení"
+  },
+  "saving": {
+    "message": "Ukládám..."
+  },
+  "saveSuccessTitle": {
+    "message": "Uložení úspěšné"
+  },
+  "saveSuccessText": {
+    "message": "Nastavení byla úspěšně uložena"
+  },
+  "saveFailedTitle": {
+    "message": "Uložení selhalo"
+  },
+  "saveFailedText": {
+    "message": "Nepodařilo se uložit nastavení, zkuste to prosím znovu"
+  },
+  "confirmButton": {
+    "message": "Pokračovat a uložit"
+  },
+  "cancelButton": {
+    "message": "Zrušit"
+  },
+  "back": {
+    "message": "Zpět"
+  },
+  "backToSettings": {
+    "message": "Zpět do nastavení"
+  },
+  "backToVideoLibrary": {
+    "message": "Zpět do knihovny videí"
+  },
+  "source_languages": {
+    "message": "Zdrojový jazyk:"
+  },
+  "target_languages": {
+    "message": "Cílový jazyk:"
+  },
+  "selectSourceLanguage": {
+    "message": "Vyberte zdrojový jazyk"
+  },
+  "selectTargetLanguage": {
+    "message": "Vyberte cílový jazyk"
+  },
+  "searchSourceLanguage": {
+    "message": "Hledat zdrojový jazyk..."
+  },
+  "searchTargetLanguage": {
+    "message": "Hledat cílový jazyk..."
+  },
+  "loading": {
+    "message": "načítám"
+  },
+  "sex": {
+    "message": "Pohlaví:"
+  },
+  "voices": {
+    "message": "Hlas:"
+  },
+  "voicesType": {
+    "message": "Typ hlasu:"
+  },
+  "man": {
+    "message": "Muž"
+  },
+  "woman": {
+    "message": "Žena"
+  },
+  "free": {
+    "message": "zdarma"
+  },
+  "memberFree": {
+    "message": "Zdarma pro členy"
+  },
+  "memberFreeRequireMembership": {
+    "message": "Tento typ hlasu je pouze pro členy. Upgradujte pro bezplatné použití."
+  },
+  "azureRequireMembership": {
+    "message": "Azure TTS je pouze pro členy. Upgradujte pro odemčení vysoce kvalitních hlasů Azure."
+  },
+  "originalAudio": {
+    "message": "Pův. hlas"
+  },
+  "translatedAudio": {
+    "message": "Přel. hlas"
+  },
+  "backgroundAudio": {
+    "message": "Pozadí zvuku"
+  },
+  "textToSpeech": {
+    "message": "Text na řeč:"
+  },
+  "textToSpeechToggle": {
+    "message": "Plovoucí tlačítko"
+  },
+  "showSubtitle": {
+    "message": "titulky:"
+  },
+  "subtitleSize": {
+    "message": "Velikost"
+  },
+  "subtitles": {
+    "message": "Titulky"
+  },
+  "toggleSubtitles": {
+    "message": "Přepnout titulky"
+  },
+  "subtitleDisplayMode": {
+    "message": "Režim titulků"
+  },
+  "subtitleModeTranslated": {
+    "message": "Pouze překlad"
+  },
+  "subtitleModeBilingual": {
+    "message": "Dvojjazyčné titulky"
+  },
+  "subtitleModeOff": {
+    "message": "Vypnout titulky"
+  },
+  "translateService": {
+    "message": "Překlad:"
+  },
+  "translationEngine": {
+    "message": "Překladový engine"
+  },
+  "translationService": {
+    "message": "Překladová služba"
+  },
+  "translationServiceTitle": {
+    "message": "Překladová služba"
+  },
+  "advancedSettings": {
+    "message": "Pokročilé nastavení"
+  },
+  "pauseVideo": {
+    "message": "Pozastavit video"
+  },
+  "iosOpenOriginVolume": {
+    "message": "Zapnout původní zvuk"
+  },
+  "voicesAndSubtitles": {
+    "message": "Hlas a titulky"
+  },
+  "voicesAndSubtitlesTitle": {
+    "message": "Hlas a titulky"
+  },
+  "speakerList": {
+    "message": "Seznam mluvčích"
+  },
+  "speakersTitle": {
+    "message": "Mluvčí"
+  },
+  "deleteSpeaker": {
+    "message": "Smazat"
+  },
+  "editSpeaker": {
+    "message": "Upravit"
+  },
+  "speakerName": {
+    "message": "Jméno mluvčího"
+  },
+  "enterSpeakerName": {
+    "message": "Zadejte jméno mluvčího"
+  },
+  "enterVoice": {
+    "message": "Zadejte název hlasu"
+  },
+  "voice": {
+    "message": "Hlas"
+  },
+  "gender": {
+    "message": "Pohlaví"
+  },
+  "male": {
+    "message": "Muž"
+  },
+  "female": {
+    "message": "Žena"
+  },
+  "edit": {
+    "message": "Upravit"
+  },
+  "delete": {
+    "message": "Smazat"
+  },
+  "save": {
+    "message": "Uložit"
+  },
+  "cancel": {
+    "message": "Zrušit"
+  },
+  "confirmDeleteSpeaker": {
+    "message": "Opravdu chcete smazat tohoto mluvčího?"
+  },
+  "noSpeakers": {
+    "message": "Žádní mluvčí"
+  },
+  "memberUser": {
+    "message": "PRO"
+  },
+  "accountBalance": {
+    "message": "Zůstatek účtu:"
+  },
+  "userAccountAriaLabel": {
+    "message": "Uživatelský účet"
+  },
+  "membershipExpires": {
+    "message": "Platí do"
+  },
+  "shortcutSettings": {
+    "message": "Klávesové zkratky"
+  },
+  "subscriptionRecharge": {
+    "message": "Předplatit & dobít"
+  },
+  "membershipIcon": {
+    "message": "Ikona členství"
+  },
+  "browserShortcutSettingsTip": {
+    "message": "Nastavte prosím klávesové zkratky v nastavení rozšíření prohlížeče"
+  },
+  "safariShortcutSettingsTip": {
+    "message": "Nastavte prosím zkratky v Safari > Předvolby > Rozšíření"
+  },
+  "edgeShortcutSettingsTip": {
+    "message": "Otevírám stránku nastavení klávesových zkratek rozšíření Edge"
+  },
+  "firefoxShortcutSettingsTip": {
+    "message": "Otevírám stránku doplňků Firefox, prosím nastavte zkratky v Rozšíření a Motivy"
+  },
+  "dubbingSettings": {
+    "message": "Nastavení dabingu"
+  },
+  "debugInfo": {
+    "message": "Ladicí informace"
+  },
+  "sourceLanguage": {
+    "message": "Zdrojový jazyk"
+  },
+  "targetLanguage": {
+    "message": "Cílový jazyk"
+  },
+  "vipRequiredTitle": {
+    "message": "Vyžadováno členství"
+  },
+  "vipRequiredText": {
+    "message": "K použití této funkce musíte být členem"
+  },
+  "vipAndBalanceRequiredTitle": {
+    "message": "Vyžadováno členství a zůstatek"
+  },
+  "vipAndBalanceRequiredText": {
+    "message": "K použití této funkce musíte být členem a mít dostatečný zůstatek"
+  },
+  "balanceRequiredTitle": {
+    "message": "Vyžadován zůstatek"
+  },
+  "balanceRequiredText": {
+    "message": "Váš zůstatek účtu je nedostatečný. Pro použití této funkce prosím dobijte kredit"
+  },
+  "lowBalanceTitle": {
+    "message": "Upozornění na nízký zůstatek"
+  },
+  "lowBalanceText": {
+    "message": "Váš zůstatek účtu je nižší než $1. Doporučujeme co nejdříve dobít, abyste zajistili nepřetržitou službu"
+  },
+  "insufficientBalance": {
+    "message": "Kvůli nedostatečnému zůstatku byla služba degradována na Google Překladač. Pro použití AI překladu prosím dobijte kredit."
+  },
+  "insufficientBalanceAlertMsg": {
+    "message": "Váš zůstatek je nedostatečný. Prosím dobijte kredit před použitím AI překladu a Azure TTS. Pokud nechcete dobíjet, můžete přepnout zpět na Google Překladač a bezplatné typy hlasů."
+  },
+  "balanceRunningLow": {
+    "message": "Váš kredit téměř došel. Abyste se vyhnuli špatnému zážitku při sledování, doporučujeme dobít předem."
+  },
+  "membershipRequired": {
+    "message": "Před použitím OpenAI překladu prosím upgradujte na členství."
+  },
+  "membershipRequiredForAI": {
+    "message": "Před použitím AI překladu prosím dobijte členství. Pokud nechcete dobíjet, můžete také zvolit Google Překladač."
+  },
+  "insufficientMembership": {
+    "message": "Vaše členství vypršelo. Před použitím AI překladu a Azure TTS prosím dobijte členství. Pokud nechcete dobíjet, můžete také zvolit Google Překladač a bezplatné typy hlasů."
+  },
+  "insufficientBalanceAndMembership": {
+    "message": "Před použitím AI překladu a Azure TTS prosím dobijte členství a kredit. Pokud nechcete dobíjet, můžete také zvolit Google Překladač a bezplatné typy hlasů."
+  },
+  "freeForVip": {
+    "message": "Zdarma pro VIP"
+  },
+  "freeOptionTipText": {
+    "message": "Pokud nechcete dobíjet, můžete zvolit bezplatnou možnost, "
+  },
+  "translateEngineTipText": {
+    "message": "změnit překladovou službu na Google"
+  },
+  "voiceTypeTipText": {
+    "message": "změnit typ hlasu na bezplatnou verzi"
+  },
+  "vipFreeOptionTipText": {
+    "message": "Jako člen můžete zdarma používat následující překladové služby"
+  },
+  "vipTranslateEngineTipText": {
+    "message": "Změňte překladovou službu na služby zdarma pro členy jako gemini, deepseek, gpt-3.5-turbo nebo claude-3-haiku"
+  },
+  "pay": {
+    "message": "zaplatit"
+  },
+  "switchModelWarning": {
+    "message": "Přepínání hlasu nebo překladového modelu během přehrávání videa způsobí dodatečné poplatky kvůli promarněným zdrojům. Doporučujeme přepnout až u dalšího videa. Pro pokračování přesto klikněte na Pokračovat a uložit."
+  },
+  "selectSpeaker": {
+    "message": "Vybrat"
+  },
+  "speaker": {
+    "message": "Mluvčí"
+  },
+  "rechargeLimit": {
+    "message": "Kredit+Členství"
+  },
+  "tooExpensive": {
+    "message": "Drahé"
+  },
+  "dropdownPlaceholder": {
+    "message": "Prosím vyberte"
+  },
+  "dropdownNoOptions": {
+    "message": "Žádné možnosti k dispozici"
+  },
+  "dropdownSearch": {
+    "message": "Hledat..."
+  },
+  "swapVolumeSettingsCommand": {
+    "message": "Přepnout nastavení hlasitosti mezi původním a dabovaným zvukem"
+  },
+  "cycleSubtitleModeCommand": {
+    "message": "Přepínat titulky: dvojjazyčné → jen překlad → vypnuto"
+  },
+  "trialMemberModelLimit": {
+    "message": "Zkušební členové mohou používat pouze Gemini a Google Překladač. Pro použití jiných modelů se prosím přihlaste k našemu členství."
+  },
+  "subtitlesRateLimitedByYouTube": {
+    "message": "Titulky k tomuto videu jsou momentálně omezeny YouTubem. Zkuste to prosím později."
+  },
+  "musicVideoNotSupported": {
+    "message": "Toto je hudební video. Překlad a dabing nejsou podporovány."
+  },
+  "hideUntilNextVisit": {
+    "message": "Skrýt do další návštěvy"
+  },
+  "disableGlobally": {
+    "message": "Zakázat globálně"
+  },
+  "sidebarHideUntilNextVisit": {
+    "message": "Skrýt do příští návštěvy"
+  },
+  "sidebarDisableForSite": {
+    "message": "Zakázat pro tento web"
+  },
+  "sidebarDisableGlobally": {
+    "message": "Zakázat globálně"
+  },
+  "sidebarReenableHint": {
+    "message": "Lze znovu povolit v "
+  },
+  "sidebarSettings": {
+    "message": "Nastavení"
+  },
+  "sidebarReenableHintSuffix": {
+    "message": " "
+  },
+  "notSupported": {
+    "message": "Nepodporováno"
+  },
+  "multiVideoNotSupported": {
+    "message": "Tato stránka obsahuje více videí. Univerzální dabing podporuje při použití HLS streamů pouze stránky s jedním videem."
+  },
+  "mediaSourceNotDetected": {
+    "message": "Nelze zjistit zdroj videa. Tento web nemusí být podporován."
+  },
+  "uploadMediaForRecognition": {
+    "message": "Nebyly nalezeny žádné titulky. Chcete nahrát video pro rozpoznávání titulků pomocí AI?"
+  },
+  "startUpload": {
+    "message": "Zahájit nahrávání"
+  },
+  "uploadingMedia": {
+    "message": "Nahrávání média..."
+  },
+  "downloading": {
+    "message": "Stahování"
+  },
+  "uploading": {
+    "message": "Nahrávání"
+  },
+  "completing": {
+    "message": "Dokončování"
+  },
+  "uploadComplete": {
+    "message": "Nahrávání dokončeno"
+  },
+  "waitingForRecognition": {
+    "message": "Video bylo úspěšně nahráno. Rozpoznávání titulků pomocí AI probíhá. Po dokončení obdržíte e-mailové upozornění."
+  },
+  "uploadFailed": {
+    "message": "Nahrávání selhalo"
+  },
+  "corsNotSupported": {
+    "message": "Tento web neumožňuje stahování mediálních souborů. Univerzální dabing není podporován."
+  },
+  "mediaDownloadInterrupted": {
+    "message": "Stahování média bylo přerušeno chybou sítě (nejde o omezení webu). Zkuste nahrání zopakovat."
+  },
+  "zoomRecordingDnrNotSupported": {
+    "message": "Váš prohlížeč nepodporuje rozpoznávání nahrávání záznamů Zoom. Použijte prosím Chrome/Edge."
+  },
+  "zoomRecordingDownloadForbidden403": {
+    "message": "Stahování záznamu Zoom bylo zakázáno (403). Přehrajte/obnovte stránku pro ověření a zkuste to znovu."
+  },
+  "liveStreamNotSupported": {
+    "message": "Živé vysílání není podporováno pro univerzální dabing."
+  },
+  "noAudioTrackFound": {
+    "message": "Nebyla detekována zvuková stopa. Toto video se zdá být pouze video bez zvuku a nelze ho použít pro rozpoznávání dabingu."
+  },
+  "universalDubbingMemberOnly": {
+    "message": "Univerzální dabing vyžaduje cloudovou GPU výpočetní kapacitu (vysoké náklady), pouze pro VIP."
+  },
+  "videoDurationExceedsLimit": {
+    "message": "Toto video přesahuje 3 hodiny. Univerzální dabing v současnosti není podporován pro videa delší než 3 hodiny."
+  },
+  "videoDrmProtected": {
+    "message": "Toto video je chráněno DRM a nelze jej použít pro dabing."
+  },
+  "pleaseClickVideoToPlay": {
+    "message": "Klikněte na video, abyste ho otevřeli, a poté použijte funkci dabingu."
+  },
+  "iosUniversalDubbingNotSupported": {
+    "message": "Univerzální dabing není podporován na zařízeních iOS. Použijte prosím desktopový prohlížeč."
+  },
+  "membershipRequiredTitle": {
+    "message": "Vyžadováno členství"
+  },
+  "error": {
+    "message": "Chyba"
+  },
+  "unknownError": {
+    "message": "Došlo k neznámé chybě. Zkuste to prosím znovu."
+  },
+  "doNotClosePage": {
+    "message": "Prosím nezavírejte a neobnovujte tuto stránku během nahrávání, jinak bude nahrávání přerušeno."
+  },
+  "taskAlreadySubmitted": {
+    "message": "Toto video již prochází zpracováním pro rozpoznávání titulků pomocí AI. Počkejte prosím na e-mailové oznámení."
+  },
+  "sampleAesNotSupported": {
+    "message": "Toto video používá šifrování SAMPLE-AES, které v současné době není podporováno pro stahování."
+  },
+  "hlsKeyFetchFailed": {
+    "message": "Nepodařilo se získat dešifrovací klíč pro toto video. Video může být chráněno nebo server klíčů není k dispozici."
+  },
+  "hlsDecryptionFailed": {
+    "message": "Nepodařilo se dešifrovat obsah videa. Šifrovací klíč může být nesprávný nebo formát videa není kompatibilní."
+  },
+  "subtitleStyleOptionsTitle": {
+    "message": "Nastavení stylu titulků"
+  },
+  "subtitleStyleOptionsDesc": {
+    "message": "Změny se okamžitě uloží a projeví."
+  },
+  "subtitleStyleSectionTitle": {
+    "message": "Styl titulků"
+  },
+  "subtitleStylePreviewTitle": {
+    "message": "Náhled"
+  },
+  "subtitleStylePreviewTag": {
+    "message": "V reálném čase"
+  },
+  "subtitleStylePreviewText": {
+    "message": "V mladíkovi viděl velký potenciál."
+  },
+  "subtitleStylePosition": {
+    "message": "Pozice"
+  },
+  "subtitleStylePositionTop": {
+    "message": "Nahoře"
+  },
+  "subtitleStylePositionMiddle": {
+    "message": "Uprostřed"
+  },
+  "subtitleStylePositionBottom": {
+    "message": "Dole"
+  },
+  "subtitleStyleFontFamily": {
+    "message": "Písmo"
+  },
+  "subtitleStyleFontSize": {
+    "message": "Velikost písma"
+  },
+  "subtitleStyleCustomOption": {
+    "message": "Vlastní"
+  },
+  "subtitleStyleCustomFont": {
+    "message": "Vlastní písmo"
+  },
+  "subtitleStyleCustomFontPlaceholder": {
+    "message": "Například: PingFang SC, Arial"
+  },
+  "subtitleStyleTextColor": {
+    "message": "Barva písma"
+  },
+  "subtitleStyleFontWeight": {
+    "message": "Tloušťka písma"
+  },
+  "subtitleStyleBackgroundColor": {
+    "message": "Barva pozadí"
+  },
+  "subtitleStyleBackgroundOpacity": {
+    "message": "Neprůhlednost pozadí"
+  },
+  "subtitleStyleEdgeStyle": {
+    "message": "Styl okraje"
+  },
+  "subtitleStyleEdgeNone": {
+    "message": "Žádný"
+  },
+  "subtitleStyleEdgeShadow": {
+    "message": "Stín"
+  },
+  "subtitleStyleEdgeOutline": {
+    "message": "Obrys"
+  },
+  "subtitleStyleFontNone": {
+    "message": "Žádné"
+  },
+  "subtitleStyleFontDefault": {
+    "message": "Výchozí"
+  },
+  "subtitleStyleFontPingFang": {
+    "message": "PingFang SC"
+  },
+  "subtitleStyleFontYaHei": {
+    "message": "Microsoft YaHei"
+  },
+  "subtitleStyleFontHeiti": {
+    "message": "STHeiti"
+  },
+  "subtitleStyleFontKaiti": {
+    "message": "Kaiti SC"
+  },
+  "subtitleStyleFontSongti": {
+    "message": "STSong"
+  },
+  "subtitleStyleFontFangsong": {
+    "message": "FangSong"
+  },
+  "subtitleStyleFontDongqingHeiti": {
+    "message": "Dongqing Heiti"
+  },
+  "subtitleStyleFontLantingHei": {
+    "message": "Lanting Hei"
+  },
+  "subtitleStyleFontHanyiHeiliu": {
+    "message": "Hanyi Heiliu"
+  },
+  "subtitleStyleFontHanyiZhonghei": {
+    "message": "Hanyi Zhonghei"
+  },
+  "subtitleStyleFontSTSong": {
+    "message": "Songti"
+  },
+  "subtitleStyleFontWawati": {
+    "message": "Wawati"
+  },
+  "subtitleStyleFontWeibei": {
+    "message": "Weibei"
+  },
+  "subtitleStyleFontXingkai": {
+    "message": "Xingkai"
+  },
+  "subtitleStyleFontYuanti": {
+    "message": "Yuanti"
+  },
+  "subtitleStyleFontArialUnicode": {
+    "message": "Arial Unicode MS"
+  },
+  "subtitleStyleFontArial": {
+    "message": "Arial"
+  },
+  "subtitleStyleFontCourierNew": {
+    "message": "Courier New"
+  },
+  "subtitleStyleFontGeorgia": {
+    "message": "Georgia"
+  },
+  "subtitleStyleFontTahoma": {
+    "message": "Tahoma"
+  },
+  "subtitleStyleFontTimesNewRoman": {
+    "message": "Times New Roman"
+  },
+  "subtitleStyleFontTrebuchetMS": {
+    "message": "Trebuchet MS"
+  },
+  "subtitleStyleFontVerdana": {
+    "message": "Verdana"
+  },
+  "subtitleStyleFontHelveticaNeue": {
+    "message": "Helvetica Neue"
+  },
+  "subtitleStyleFontHiraginoMincho": {
+    "message": "Hiragino Mincho ProN"
+  },
+  "subtitleStyleFontHiraginoKaku": {
+    "message": "Hiragino Kaku Gothic ProN"
+  },
+  "subtitleStyleFontKohinoor": {
+    "message": "Kohinoor Devanagari"
+  },
+  "subtitleStyleFontAppleSD": {
+    "message": "Apple SD Gothic Neo"
+  },
+  "subtitleStyleFontNanumGothic": {
+    "message": "Nanum Gothic"
+  },
+  "subtitleStyleFontCustom": {
+    "message": "Vlastní"
+  },
+  "subtitleStyleColorWhite": {
+    "message": "Bílá"
+  },
+  "subtitleStyleColorYellow": {
+    "message": "žlutá"
+  },
+  "subtitleStyleColorOrange": {
+    "message": "Oranžová"
+  },
+  "subtitleStyleColorGray": {
+    "message": "Šedá"
+  },
+  "subtitleStyleColorGreen": {
+    "message": "Zelená"
+  },
+  "subtitleStyleColorCyan": {
+    "message": "Azurová"
+  },
+  "subtitleStyleColorBlue": {
+    "message": "Modrá"
+  },
+  "subtitleStyleColorMagenta": {
+    "message": "Purpurová"
+  },
+  "subtitleStyleColorRed": {
+    "message": "Červená"
+  },
+  "subtitleStyleColorBlack": {
+    "message": "Černá"
+  },
+  "subtitleStyleEditorViewLabel": {
+    "message": "Režim úprav stylu"
+  },
+  "subtitleStyleEditorViewTranslated": {
+    "message": "Pouze překlad"
+  },
+  "subtitleStyleEditorViewBilingual": {
+    "message": "Dvojjazyčné"
+  },
+  "subtitleStyleLayoutSectionTitle": {
+    "message": "Dvojjazyčné rozložení"
+  },
+  "subtitleStyleOrder": {
+    "message": "Pořadí titulků"
+  },
+  "subtitleStyleOrderTranslatedFirst": {
+    "message": "Překlad nahoře"
+  },
+  "subtitleStyleOrderOriginalFirst": {
+    "message": "Originál nahoře"
+  },
+  "subtitleStyleLineGap": {
+    "message": "Řádkování"
+  },
+  "subtitleStyleTextAlign": {
+    "message": "Vodorovné zarovnání"
+  },
+  "subtitleStyleTextAlignLeft": {
+    "message": "Vlevo"
+  },
+  "subtitleStyleTextAlignCenter": {
+    "message": "Na střed"
+  },
+  "subtitleStyleTextAlignRight": {
+    "message": "Vpravo"
+  },
+  "subtitleStyleTranslatedSectionTitle": {
+    "message": "Styl překladu"
+  },
+  "subtitleStyleOriginalSectionTitle": {
+    "message": "Styl originálu"
+  },
+  "subtitleStyleFollowTranslated": {
+    "message": "Použít stejný styl jako překlad"
+  },
+  "subtitleStyleUsesCurrentSettings": {
+    "message": "Používá aktuální nastavení"
+  },
+  "subtitleStyleOriginalSizePercent": {
+    "message": "Poměr velikosti písma"
+  },
+  "subtitleStyleSharedBackgroundSectionTitle": {
+    "message": "Sdílené pozadí"
+  },
+  "subtitleStyleRestoreDefaults": {
+    "message": "Obnovit výchozí nastavení"
+  },
+  "subtitleStylePreviewOriginalText": {
+    "message": "He thought this young man had great potential."
+  },
+  "subtitleStyleColorLightGray": {
+    "message": "Světle šedá"
+  },
+  "disabledSitesSectionTitle": {
+    "message": "Zakázané stránky"
+  },
+  "disabledSitesTitle": {
+    "message": "Správa zakázaných stránek"
+  },
+  "disabledSitesDescription": {
+    "message": "Plovoucí tlačítko se na následujících stránkách nezobrazí. Zde můžete přidávat nebo odebírat zakázané stránky."
+  },
+  "disabledSitesPlaceholder": {
+    "message": "Zadejte doménu, např. youtube.com"
+  },
+  "disabledSitesAdd": {
+    "message": "Přidat"
+  },
+  "disabledSitesDomain": {
+    "message": "Doména"
+  },
+  "disabledSitesActions": {
+    "message": "Akce"
+  },
+  "disabledSitesDelete": {
+    "message": "Smazat"
+  },
+  "disabledSitesEmpty": {
+    "message": "Žádné zakázané stránky"
+  },
+  "preferencesSectionTitle": {
+    "message": "Základní nastavení"
+  },
+  "optionsNavPreferencesShort": {
+    "message": "Základ"
+  },
+  "optionsNavSubtitleShort": {
+    "message": "Titulky"
+  },
+  "optionsNavAiShort": {
+    "message": "AI"
+  },
+  "optionsNavSitesShort": {
+    "message": "Weby"
+  },
+  "preferenceStatusDisabled": {
+    "message": "Vypnuto"
+  },
+  "preferencesTitle": {
+    "message": "Základní nastavení"
+  },
+  "preferencesDescription": {
+    "message": "Spravujte zde své základní předvolby."
+  },
+  "emailNotificationLabel": {
+    "message": "E-mailová oznámení"
+  },
+  "emailNotificationDescription": {
+    "message": "Upozorněte mě e-mailem, až bude rozpoznávání titulků dokončeno."
+  },
+  "emailNotificationSaveFailed": {
+    "message": "Uložení se nezdařilo. Zkuste to prosím později."
+  },
+  "skipTranslationWhenSameLanguageLabel": {
+    "message": "Přeskočit překlad při stejném jazyce"
+  },
+  "skipTranslationWhenSameLanguageDescription": {
+    "message": "Je-li zapnuto a jazyk titulků se shoduje s cílovým jazykem, dabing se spustí přímo bez překladu."
+  },
+  "userSubtitleSegmentationEnabledLabel": {
+    "message": "Chytré dělení uživatelských titulků"
+  },
+  "userSubtitleSegmentationEnabledDescription": {
+    "message": "Po zapnutí automaticky rozdělí upravené nebo místně nahrané titulky. Po vypnutí zachová jejich původní dělení."
+  },
+  "subtitlePriorityTitle": {
+    "message": "Priorita překladu titulků"
+  },
+  "subtitlePriorityDescription": {
+    "message": "Vyberte, který zdroj titulků má být upřednostněn pro překlad."
+  },
+  "subtitlePriorityAiSubtitle": {
+    "message": "Titulky rozpoznané AI pluginu"
+  },
+  "subtitlePriorityAiSubtitleDesc": {
+    "message": "Upřednostnit titulky generované AI rozpoznáváním řeči pluginu pro vyšší přesnost."
+  },
+  "subtitlePriorityPlatformSubtitle": {
+    "message": "Vestavěné titulky platformy"
+  },
+  "subtitlePriorityPlatformSubtitleDesc": {
+    "message": "Upřednostnit původní titulky poskytované video platformou."
+  },
+  "subtitlePriorityQuickLabel": {
+    "message": "Titulky"
+  },
+  "subtitlePriorityQuickAi": {
+    "message": "AI"
+  },
+  "subtitlePriorityQuickPlatform": {
+    "message": "Platforma"
+  },
+  "panelTabVideoSummary": {
+    "message": "Shrnutí"
+  },
+  "panelTabSubtitleEdit": {
+    "message": "Titulky"
+  },
+  "panelSummaryTitle": {
+    "message": "Shrnutí a osnova videa"
+  },
+  "panelSummaryDesc": {
+    "message": "Využijte pokročilé AI modely k rychlému pochopení obsahu videa"
+  },
+  "panelSummaryGenerate": {
+    "message": "Vytvořit shrnutí"
+  },
+  "panelSummaryGenerating": {
+    "message": "Generování..."
+  },
+  "panelSummaryReGenerating": {
+    "message": "Opětovné generování..."
+  },
+  "panelSummarySectionSummary": {
+    "message": "Shrnutí"
+  },
+  "panelSummarySectionHighlights": {
+    "message": "Hlavní body"
+  },
+  "panelSummaryExpandAll": {
+    "message": "Rozbalit vše"
+  },
+  "panelSummaryCollapseAll": {
+    "message": "Sbalit vše"
+  },
+  "panelSummaryExpand": {
+    "message": "Rozbalit"
+  },
+  "panelSummaryCollapse": {
+    "message": "Sbalit"
+  },
+  "panelSummaryShare": {
+    "message": "Sdílet"
+  },
+  "panelSummaryCopy": {
+    "message": "Kopírovat"
+  },
+  "panelSummaryReGenerate": {
+    "message": "Vygenerovat znovu"
+  },
+  "panelSummaryCopySuccess": {
+    "message": "Zkopírováno"
+  },
+  "panelSummaryPlay": {
+    "message": "Přehrát"
+  },
+  "panelSummaryPause": {
+    "message": "Pozastavit"
+  },
+  "panelSummaryPlayFailed": {
+    "message": "Přehrávání se nezdařilo, zkuste to znovu"
+  },
+  "panelSummaryNoSubtitle": {
+    "message": "Pro toto video nejsou k dispozici žádné titulky"
+  },
+  "panelSummaryError": {
+    "message": "Generování shrnutí selhalo, zkuste to prosím znovu"
+  },
+  "panelSummaryErrorInvalidVideoId": {
+    "message": "Nelze rozpoznat aktuální video, obnovte stránku a zkuste to znovu"
+  },
+  "panelSummaryErrorMemberRequired": {
+    "message": "Shrnutí videa je funkce dostupná pouze pro členy, pro použití se prosím přihlaste k odběru"
+  },
+  "panelSummaryErrorNoSubtitles": {
+    "message": "Pro toto video nejsou k dispozici titulky, shrnutí nelze vygenerovat"
+  },
+  "panelSummaryErrorServiceError": {
+    "message": "Služba shrnutí je dočasně nedostupná, zkuste to prosím znovu později"
+  },
+  "subtitleEditorManualInput": {
+    "message": "Ruční vstup"
+  },
+  "subtitleEditorSwitchTip": {
+    "message": "Klepnutím sem přepnete titulky"
+  },
+  "subtitleEditorExport": {
+    "message": "Export titulků"
+  },
+  "subtitleEditorTrackFallback": {
+    "message": "Titulková stopa"
+  },
+  "subtitleEditorMySubtitles": {
+    "message": "Moje titulky"
+  },
+  "subtitleEditorNoSourceManual": {
+    "message": "Nejsou dostupné žádné zdroje titulků (můžete je zadat ručně)."
+  },
+  "subtitleEditorSaveInvalidVideo": {
+    "message": "Nelze identifikovat aktuální video. Uložení se nezdařilo."
+  },
+  "subtitleEditorSaveFailed": {
+    "message": "Uložení se nezdařilo. Zkuste to znovu později."
+  },
+  "subtitleEditorValidationEmpty": {
+    "message": "Obsah titulků nemůže být prázdný"
+  },
+  "subtitleEditorValidationBlockStructure": {
+    "message": "Neplatná struktura bloku SRT: je vyžadováno alespoň pořadové číslo, časový údaj a obsah."
+  },
+  "subtitleEditorValidationSequenceFormat": {
+    "message": "Neplatný formát pořadového čísla SRT"
+  },
+  "subtitleEditorValidationSequenceIncrement": {
+    "message": "Pořadová čísla v SRT musí začínat číslem 1 a zvyšovat se po jedné."
+  },
+  "subtitleEditorValidationTimeFormat": {
+    "message": "Neplatný formát času. Prosím zkontrolujte a opravte."
+  },
+  "subtitleEditorValidationEndAfterStart": {
+    "message": "Čas ukončení musí být větší než čas zahájení"
+  },
+  "subtitleEditorValidationContentRequired": {
+    "message": "Každý titulek musí obsahovat alespoň jeden řádek textu"
+  },
+  "subtitleEditorValidationSpeakerPrefix": {
+    "message": "U některých titulků byly zjištěny značky mluvčích. Všechny titulky musí mít předponu [speaker]."
+  },
+  "localPlayerTemporaryImportMode": {
+    "message": "Režim dočasného importu"
+  },
+  "localPlayerLibraryTitle": {
+    "message": "Místní videotéka"
+  },
+  "localPlayerEntryButton": {
+    "message": "Místní video"
+  },
+  "localPlayerPageTitle": {
+    "message": "Místní video · YouTube Dubbing"
+  },
+  "localPlayerFolderAccessDescription": {
+    "message": "Otevření složky uloží popisovače souborů, takže přístup může být obnoven po obnovení."
+  },
+  "localPlayerTemporaryImportDescription": {
+    "message": "Tento prohlížeč nepodporuje File System Access API. Můžete dočasně přidávat videa a titulky."
+  },
+  "localPlayerOpenFolder": {
+    "message": "Otevřete složku"
+  },
+  "localPlayerAddVideo": {
+    "message": "Přidat video"
+  },
+  "localPlayerAddSubtitle": {
+    "message": "Přidat titulky"
+  },
+  "localPlayerVideoList": {
+    "message": "Seznam videí"
+  },
+  "localPlayerFolders": {
+    "message": "Složky"
+  },
+  "localPlayerFoldersDescription": {
+    "message": "Procházejte importovaná média podle složek."
+  },
+  "localPlayerAllVideos": {
+    "message": "Všechna videa"
+  },
+  "localPlayerAllVideosDescription": {
+    "message": "Prohledávejte a spravujte každé importované video."
+  },
+  "localPlayerLibraryView": {
+    "message": "Zobrazení knihovny"
+  },
+  "localPlayerBackToFolders": {
+    "message": "Zpět do složek"
+  },
+  "localPlayerFolderSearchPlaceholder": {
+    "message": "Prohledávejte složky, cesty nebo soubory"
+  },
+  "localPlayerTotalFolders": {
+    "message": "Celkem {count} složek"
+  },
+  "localPlayerMatchedFolders": {
+    "message": "Shodných {visibleCount} / celkem {totalCount} složek"
+  },
+  "localPlayerNoFolderMatchesTitle": {
+    "message": "Žádné odpovídající složky"
+  },
+  "localPlayerNoFolderMatchesText": {
+    "message": "Upravte hledání složky a zkuste to znovu."
+  },
+  "localPlayerRescanAll": {
+    "message": "Znovu prohledat vše"
+  },
+  "localPlayerFolderMenuLabel": {
+    "message": "Akce složky"
+  },
+  "localPlayerOpenFolderMenu": {
+    "message": "Otevřete složku"
+  },
+  "localPlayerRescanThisFolder": {
+    "message": "Znovu prohledejte tuto složku"
+  },
+  "localPlayerRemoveFromLibrary": {
+    "message": "Odebrat z knihovny"
+  },
+  "localPlayerFolderVideoCount": {
+    "message": "{count} videa"
+  },
+  "localPlayerFolderAssociatedSubtitleCount": {
+    "message": "{count} související titulky"
+  },
+  "localPlayerFolderLastPlayed": {
+    "message": "Naposledy hráno {time}"
+  },
+  "localPlayerFolderLastScanned": {
+    "message": "Naposledy naskenováno {time}"
+  },
+  "localPlayerRemoveFolderTitle": {
+    "message": "Odebrat tuto složku z knihovny?"
+  },
+  "localPlayerRemoveFolderText": {
+    "message": "To odstraní pouze záznamy knihovny pro tuto složku. Původní soubory na disku nebudou smazány."
+  },
+  "localPlayerFolderRemoved": {
+    "message": "Odebráno {folderName}"
+  },
+  "localPlayerRemoveFolderFailed": {
+    "message": "Nepodařilo se odstranit složku z knihovny."
+  },
+  "localPlayerRescanFailed": {
+    "message": "Selhalo opětovné skenování místní knihovny."
+  },
+  "localPlayerRescanFolderUnavailable": {
+    "message": "Tuto složku nelze znovu prohledat, protože přístup k uložené složce není dostupný."
+  },
+  "localPlayerCurrentDirectory": {
+    "message": "Aktuální adresář"
+  },
+  "localPlayerNoNewFilesFound": {
+    "message": "Nebyly nalezeny žádné nové soubory."
+  },
+  "localPlayerScanComplete": {
+    "message": "Skenování dokončeno: přidáno {addedVideoCount} videí, {addedSubtitleCount} titulků, aktualizováno {updatedCount} souborů."
+  },
+  "localPlayerNever": {
+    "message": "Nikdy"
+  },
+  "localPlayerSearchPlaceholder": {
+    "message": "Vyhledávání videí nebo cest k souborům"
+  },
+  "localPlayerFilterAll": {
+    "message": "Vše"
+  },
+  "localPlayerFilterWithSubtitle": {
+    "message": "S titulky"
+  },
+  "localPlayerFilterNoSubtitle": {
+    "message": "Bez titulků"
+  },
+  "localPlayerSortLastPlayed": {
+    "message": "Nedávno přehrávaná videa"
+  },
+  "localPlayerSortName": {
+    "message": "Název souboru"
+  },
+  "localPlayerSortDuration": {
+    "message": "Délka videa"
+  },
+  "localPlayerNoVideosTitle": {
+    "message": "Zatím žádná místní videa"
+  },
+  "localPlayerNoMatchesTitle": {
+    "message": "Žádná odpovídající videa"
+  },
+  "localPlayerNoVideosText": {
+    "message": "Otevřete složku nebo přidejte videa, abyste zde mohli spravovat odkazy na titulky a místní hlasový dabing."
+  },
+  "localPlayerNoMatchesText": {
+    "message": "Upravte vyhledávání, filtr nebo řazení a zkuste to znovu."
+  },
+  "localPlayerDeleteVideoLabel": {
+    "message": "Smazat {fileName}"
+  },
+  "localPlayerRecognitionSubmitted": {
+    "message": "Rozpoznávání titulků"
+  },
+  "localPlayerPlay": {
+    "message": "Přehrát video"
+  },
+  "localPlayerSubtitles": {
+    "message": "Titulky"
+  },
+  "localPlayerStartDubbing": {
+    "message": "Spusťte hlasový dabing"
+  },
+  "localPlayerFloatingActionsLabel": {
+    "message": "Rychlé akce místního videa"
+  },
+  "localPlayerOpenSidebar": {
+    "message": "Otevřete postranní panel"
+  },
+  "localPlayerClose": {
+    "message": "Blízko"
+  },
+  "localPlayerSameDirectorySubtitleSummary": {
+    "message": "Titulky ve stejné složce {sameCount} · Propojeno {associatedCount}"
+  },
+  "localPlayerNoManageableSubtitles": {
+    "message": "Žádné titulky ke správě"
+  },
+  "localPlayerAssociateAndUseForDubbing": {
+    "message": "Propojte titulky a použijte je pro hlasový dabing"
+  },
+  "localPlayerSetForDubbing": {
+    "message": "Použijte tyto titulky pro hlasový dabing"
+  },
+  "localPlayerRemoveAssociation": {
+    "message": "Odpojit titulky"
+  },
+  "localPlayerRemoveAllAssociations": {
+    "message": "Odpojte všechny titulky"
+  },
+  "localPlayerSelectVideoForSubtitleTitle": {
+    "message": "Vyberte video, které chcete propojit s tímto titulkem"
+  },
+  "localPlayerAssociate": {
+    "message": "Podtitul odkazu"
+  },
+  "localPlayerInitialStatus": {
+    "message": "Začněte otevřením složky, přidáním videí nebo přetažením souborů."
+  },
+  "localPlayerAscendingSortTitle": {
+    "message": "Vzestupně; kliknutím přepnete na sestupné"
+  },
+  "localPlayerDescendingSortTitle": {
+    "message": "Klesající; kliknutím přepnete na vzestupné"
+  },
+  "localPlayerTotalVideos": {
+    "message": "Celkem {count} videí"
+  },
+  "localPlayerMatchedVideos": {
+    "message": "Odpovídajících {visibleCount} / celkem {totalCount} videí"
+  },
+  "localPlayerRouteVideoMissing": {
+    "message": "Video zadané v adrese URL není v aktuální místní knihovně videí."
+  },
+  "localPlayerFolderAccessUnsupported": {
+    "message": "Tento prohlížeč nemůže otevírat složky. Pro dočasný import použijte Přidat video/Přidat titulky."
+  },
+  "localPlayerImportComplete": {
+    "message": "Importováno {videoCount} videí a {subtitleCount} titulků."
+  },
+  "localPlayerOpenFolderFailed": {
+    "message": "Složku se nepodařilo otevřít."
+  },
+  "localPlayerAddVideoFailed": {
+    "message": "Nepodařilo se přidat video."
+  },
+  "localPlayerAddSubtitleFailed": {
+    "message": "Nepodařilo se přidat titulky."
+  },
+  "localPlayerAssociationSaved": {
+    "message": "Odkaz na titulky byl uložen."
+  },
+  "localPlayerAssociationSavedAndPreferred": {
+    "message": "Titulky jsou propojeny a nastaveny pro hlasový dabing."
+  },
+  "localPlayerPreferredSubtitleSaved": {
+    "message": "Nastavení titulků pro hlasový dabing."
+  },
+  "localPlayerAssociationRemoved": {
+    "message": "Odkaz na titulky odstraněn."
+  },
+  "localPlayerRebindSubtitleTitle": {
+    "message": "Znovu svázat tento titulek?"
+  },
+  "localPlayerRebindSubtitleText": {
+    "message": "Tyto titulky jsou již spojeny s \"{fromVideo}\". Pokračováním toto přidružení odstraníte a přiřadíte k „{toVideo}\"."
+  },
+  "localPlayerRemoveAllAssociationsTitle": {
+    "message": "Odpojit všechny titulky?"
+  },
+  "localPlayerRemoveAllAssociationsText": {
+    "message": "U tohoto videa budou odstraněny pouze odkazy na titulky. Záznamy souboru s titulky nebudou smazány."
+  },
+  "localPlayerAllAssociationsRemoved": {
+    "message": "Všechny odkazy na titulky odstraněny."
+  },
+  "localPlayerDeleteVideoTitle": {
+    "message": "Smazat toto video?"
+  },
+  "localPlayerDeleteVideoText": {
+    "message": "Toto odstraní odkazy na video a titulky z místní knihovny. Původní soubory na disku nebudou smazány."
+  },
+  "localPlayerDelete": {
+    "message": "Smazat"
+  },
+  "localPlayerVideoDeleted": {
+    "message": "Smazáno {fileName}"
+  },
+  "localPlayerDeleteVideoFailed": {
+    "message": "Smazání videa se nezdařilo."
+  },
+  "localPlayerVideoFileAccessLost": {
+    "message": "Nelze obnovit přístup k tomuto video souboru. Přidejte video znovu."
+  },
+  "localPlayerVideoPlayerNotReady": {
+    "message": "Přehrávač videa ještě není připraven."
+  },
+  "localPlayerNowPlaying": {
+    "message": "Právě hraje {fileName}"
+  },
+  "localPlayerDubbingStarted": {
+    "message": "Místní hlasový dabing byl zahájen."
+  },
+  "localPlayerDubbingStartFailed": {
+    "message": "Nepodařilo se spustit místní hlasový dabing."
+  },
+  "localPlayerOpenSidebarFailed": {
+    "message": "Nepodařilo se otevřít postranní panel."
+  },
+  "localPlayerVideoFileReadFailed": {
+    "message": "Nelze přečíst místní video soubor. Přidejte video znovu."
+  },
+  "localPlayerUploadCancelled": {
+    "message": "Nahrávání zrušeno."
+  },
+  "localPlayerSubtitleAssociatedBadge": {
+    "message": "{count} propojené titulky"
+  },
+  "localPlayerNoSubtitleBadge": {
+    "message": "Žádné připojené titulky"
+  },
+  "localPlayerUsedForDubbing": {
+    "message": "Používá se pro hlasový dabing"
+  },
+  "localPlayerAssociated": {
+    "message": "Propojeno"
+  },
+  "localPlayerAssociatedOutsideFolder": {
+    "message": "Propojeno mimo tuto složku"
+  },
+  "localPlayerNotAssociated": {
+    "message": "Nepropojeno"
+  },
+  "localPlayerNativeSubtitle": {
+    "message": "Původní titulky"
+  },
+  "localPlayerDubbingAlreadyStarted": {
+    "message": "Hlasový dabing byl zahájen"
+  },
+  "localPlayerThumbnailBackfillComplete": {
+    "message": "Vygenerované miniatury pro {count} videa."
+  },
+  "localPlayerThumbnailGenerationFailed": {
+    "message": "Generování miniatur se nezdařilo: {displayName} ({message})"
+  },
+  "localPlayerFreeUserNoSubtitleMessage": {
+    "message": "Toto místní video nemá propojené titulky. Bezplatní uživatelé zatím nemohou používat rozpoznávání titulků na pozadí pro místní videa. Upgradujte členství, abyste mohli používat rozpoznávání titulků AI, nebo před zahájením hlasového dabingu nahrajte soubor s titulky ručně."
+  },
+  "localPlayerNoSubtitleUploadTitle": {
+    "message": "Toto video nemá žádné titulky"
+  },
+  "localPlayerNoSubtitleUploadText": {
+    "message": "Nahrát toto video pro rozpoznání titulků AI? Nahrání slouží pouze k rozpoznání titulků, video se po rozpoznání ihned smaže a budete o tom informováni e-mailem."
+  },
+  "localPlayerNavigationLabel": {
+    "message": "Místní videotéka / Text na řeč"
+  },
+  "localPlayerCurrentPageNav": {
+    "message": "Dabing videa"
+  },
+  "localPlayerTextDubbingNav": {
+    "message": "Text na řeč"
+  },
+  "localPlayerTextDubbingTitle": {
+    "message": "Text na řeč"
+  },
+  "localPlayerTextDubbingDescription": {
+    "message": "Text na řeč - Cílový jazyk"
+  },
+  "localPlayerTextDubbingVoiceType": {
+    "message": "Typ hlasu"
+  },
+  "localPlayerTextDubbingLanguage": {
+    "message": "Cílový jazyk"
+  },
+  "localPlayerTextDubbingGender": {
+    "message": "Pohlaví"
+  },
+  "localPlayerTextDubbingVoice": {
+    "message": "Hlas"
+  },
+  "localPlayerTextDubbingInputLabel": {
+    "message": "Ruční vstup"
+  },
+  "localPlayerTextDubbingInputPlaceholder": {
+    "message": "Ruční vstup - Text na řeč"
+  },
+  "localPlayerTextDubbingLimitHint": {
+    "message": "Text na řeč: {chars} / {bytes}"
+  },
+  "localPlayerTextDubbingCounter": {
+    "message": "{chars} · {bytes}"
+  },
+  "localPlayerTextDubbingGenerate": {
+    "message": "Text na řeč MP3"
+  },
+  "localPlayerTextDubbingGenerating": {
+    "message": "Ukládám..."
+  },
+  "localPlayerTextDubbingGenerated": {
+    "message": "Text na řeč MP3 · {seconds}s"
+  },
+  "localPlayerTextDubbingFailed": {
+    "message": "Uložení selhalo"
+  },
+  "localPlayerTextDubbingNoVoice": {
+    "message": "Pro tento výběr není k dispozici žádný hlas."
+  },
+  "localPlayerTextDubbingEmptyText": {
+    "message": "Obsah titulků nemůže být prázdný"
+  },
+  "localPlayerTextDubbingTooLong": {
+    "message": "Text je příliš dlouhý. Zkraťte jej a zkuste to znovu."
+  },
+  "localPlayerTextDubbingDownload": {
+    "message": "Export titulků MP3"
+  },
+  "localPlayerTextDubbingClear": {
+    "message": "Zrušit"
+  },
+  "translationDomainGeneral": {
+    "message": "Obecné"
+  },
+  "translationDomainWeb3": {
+    "message": "Web3 a krypto"
+  },
+  "translationDomainTech": {
+    "message": "Technologie"
+  },
+  "translationDomainNews": {
+    "message": "Zprávy a média"
+  },
+  "translationDomainProgramming": {
+    "message": "Programování"
+  },
+  "translationDomainEducation": {
+    "message": "Vzdělávání"
+  },
+  "translationDomainFinance": {
+    "message": "Finance"
+  },
+  "translationDomainLaw": {
+    "message": "Právo"
+  },
+  "translationDomainAuto": {
+    "message": "Automobily"
+  },
+  "translationDomainEcommerce": {
+    "message": "E-commerce"
+  },
+  "translationDomainFashion": {
+    "message": "Móda"
+  },
+  "translationDomainFood": {
+    "message": "Jídlo a vaření"
+  },
+  "translationDomainGardening": {
+    "message": "Zahradničení"
+  },
+  "translationDomainMedical": {
+    "message": "Medicína a zdraví"
+  },
+  "translationDomainMusic": {
+    "message": "Hudba"
+  },
+  "translationDomainPets": {
+    "message": "Domácí mazlíčci"
+  },
+  "translationDomainSports": {
+    "message": "Sport"
+  },
+  "translationDomainTravel": {
+    "message": "Cestování"
+  },
+  "translationDomainChess": {
+    "message": "Šachy"
+  },
+  "translationDomainGaming": {
+    "message": "Hry"
+  },
+  "translationDomainGolf": {
+    "message": "Golf"
+  },
+  "translationDomainMovies": {
+    "message": "Filmy a TV"
+  },
+  "translationDomainPhotography": {
+    "message": "Fotografie"
+  },
+  "translationPreferencesSectionTitle": {
+    "message": "Překlad pomocí AI"
+  },
+  "translationRulesEnabledLabel": {
+    "message": "Používat glosář a náhrady textu při překladu pomocí AI"
+  },
+  "translationRulesEnabledDescription": {
+    "message": "Je-li tato možnost zapnutá, překlad pomocí AI používá níže uvedená nastavení. Po vypnutí zůstanou stávající nastavení zachována."
+  },
+  "glossaryTitle": {
+    "message": "Glosář"
+  },
+  "glossaryDescription": {
+    "message": "Nastavte pevné překlady zdrojových termínů (např. Stratagem). Vaše termíny mají přednost před vestavěným glosářem."
+  },
+  "glossaryCreateButton": {
+    "message": "Přidat vlastní termín"
+  },
+  "glossaryEditTitle": {
+    "message": "Upravit vlastní termín"
+  },
+  "glossaryEditorDescription": {
+    "message": "Přidávat, upravovat, zapínat nebo odstraňovat lze pouze vlastní termíny."
+  },
+  "glossaryTableTitle": {
+    "message": "Termíny pro aktuální jazyk"
+  },
+  "glossaryCombinedEmpty": {
+    "message": "Pro tento jazyk zatím nejsou žádné vlastní termíny."
+  },
+  "glossarySearchEmpty": {
+    "message": "Nebyly nalezeny žádné odpovídající termíny."
+  },
+  "glossarySearchPlaceholder": {
+    "message": "Hledat zdrojové termíny"
+  },
+  "glossarySourcePlaceholder": {
+    "message": "Zdrojový termín"
+  },
+  "glossaryTargetPlaceholder": {
+    "message": "Požadovaný překlad"
+  },
+  "glossarySourceTerm": {
+    "message": "Zdrojový termín"
+  },
+  "glossaryTargetTerm": {
+    "message": "Překlad"
+  },
+  "replacementTitle": {
+    "message": "Opravy chyb ve zdrojovém textu"
+  },
+  "replacementDescription": {
+    "message": "Před překladem pomocí AI opravte opakující se chyby v rozpoznávání titulků (například cloud code -> Claude Code)."
+  },
+  "replacementCreateButton": {
+    "message": "Přidat vlastní náhradu"
+  },
+  "replacementEditTitle": {
+    "message": "Upravit vlastní náhradu"
+  },
+  "replacementEditorDescription": {
+    "message": "Před překladem pomocí AI se použijí pouze vlastní náhrady textu."
+  },
+  "replacementFindPlaceholder": {
+    "message": "Nesprávný text, např. cloud code"
+  },
+  "replacementReplacePlaceholder": {
+    "message": "Nahradit textem, např. claude code"
+  },
+  "replacementFindText": {
+    "message": "Nesprávný text"
+  },
+  "replacementReplaceText": {
+    "message": "Nahradit textem"
+  },
+  "replacementEmpty": {
+    "message": "Zatím nejsou nastavena žádná pravidla oprav."
+  },
+  "replacementSearchEmpty": {
+    "message": "Nebyly nalezeny žádné odpovídající náhrady."
+  },
+  "replacementSearchPlaceholder": {
+    "message": "Hledat náhrady"
+  },
+  "translatedReplacementTitle": {
+    "message": "Náhrady v přeloženém textu"
+  },
+  "translatedReplacementDescription": {
+    "message": "Nahrazujte slova nebo fráze v hotovém překladu pomocí vlastních pravidel."
+  },
+  "translatedReplacementCreateButton": {
+    "message": "Přidat náhradu v překladu"
+  },
+  "translatedReplacementLanguage": {
+    "message": "Cílový jazyk"
+  },
+  "translatedReplacementFindText": {
+    "message": "Přeložený text"
+  },
+  "translatedReplacementReplaceText": {
+    "message": "Nahradit za"
+  },
+  "translatedReplacementSearchPlaceholder": {
+    "message": "Hledat v přeloženém textu"
+  },
+  "translatedReplacementEmpty": {
+    "message": "Zatím nejsou vytvořena žádná pravidla náhrad v překladu."
+  },
+  "translatedReplacementSearchEmpty": {
+    "message": "Nebyly nalezeny žádné odpovídající náhrady."
+  },
+  "translatedReplacementCreateTitle": {
+    "message": "Přidat náhradu v překladu"
+  },
+  "translatedReplacementEditTitle": {
+    "message": "Upravit náhradu v překladu"
+  },
+  "translatedReplacementEditorDescription": {
+    "message": "Mění se pouze hotový překlad; zdrojový text ani mezipaměť překladů se nezmění."
+  },
+  "translatedReplacementFindPlaceholder": {
+    "message": "Slovo nebo fráze v přeloženém textu"
+  },
+  "translatedReplacementReplacePlaceholder": {
+    "message": "Slovo nebo fráze, která se má zobrazit místo nich"
+  },
+  "translatedReplacementEnabledDescription": {
+    "message": "Po vypnutí se pravidlo zachová, ale na přeložený text se nepoužije."
+  },
+  "preferenceAdd": {
+    "message": "Přidat"
+  },
+  "preferenceDomain": {
+    "message": "Oblast"
+  },
+  "preferenceLanguage": {
+    "message": "Jazyk"
+  },
+  "preferenceEnabled": {
+    "message": "Zapnuto"
+  },
+  "preferenceActions": {
+    "message": "Akce"
+  },
+  "preferenceSource": {
+    "message": "Zdroj"
+  },
+  "preferenceSourceUser": {
+    "message": "Vlastní"
+  },
+  "preferenceSourceBuiltin": {
+    "message": "Vestavěný"
+  },
+  "preferenceStatus": {
+    "message": "Stav"
+  },
+  "preferenceStatusEnabled": {
+    "message": "Zapnuto"
+  },
+  "preferenceEdit": {
+    "message": "Upravit"
+  },
+  "preferenceDelete": {
+    "message": "Odstranit"
+  },
+  "preferenceAllDomains": {
+    "message": "Všechny oblasti"
+  },
+  "preferenceSearch": {
+    "message": "Hledat"
+  },
+  "preferenceClearSearch": {
+    "message": "Vymazat"
+  },
+  "preferencePageLabel": {
+    "message": "Strana {page}"
+  },
+  "preferencePreviousPage": {
+    "message": "Předchozí"
+  },
+  "preferenceNextPage": {
+    "message": "Další"
+  },
+  "builtinGlossaryDomainsTitle": {
+    "message": "Vestavěné oborové sady"
+  },
+  "builtinGlossaryDomainCount": {
+    "message": "{count} vestavěných termínů"
+  },
+  "builtinGlossaryEmptyHint": {
+    "message": "Pro aktuální cílový jazyk není k dispozici vestavěný glosář. Vlastní termíny však můžete přidávat dál."
+  },
+  "builtinGlossaryEnabledSummary": {
+    "message": "Zapnuto {enabled} z {total}"
+  },
+  "builtinGlossaryManageDomains": {
+    "message": "Spravovat oblasti"
+  },
+  "builtinGlossaryManageDomainsTitle": {
+    "message": "Správa vestavěných oborových sad"
+  },
+  "builtinGlossaryManageDomainsDescription": {
+    "message": "Zapněte nebo vypněte oblasti vestavěného glosáře pro cílový jazyk."
+  },
+  "builtinGlossaryDomainSearchPlaceholder": {
+    "message": "Hledat oblasti"
+  },
+  "builtinGlossaryEnableAllDomains": {
+    "message": "Zapnout vše"
+  },
+  "builtinGlossaryDisableAllDomains": {
+    "message": "Vypnout vše"
+  },
+  "builtinGlossaryDomainSearchEmpty": {
+    "message": "Nebyly nalezeny žádné odpovídající oblasti."
+  },
+  "builtinGlossaryDomainTotal": {
+    "message": "Počet oblastí: {count}"
+  },
+  "builtinGlossaryDomainDisabledStatus": {
+    "message": "Oblast je vypnutá"
+  },
+  "builtinGlossaryBlockedStatus": {
+    "message": "Vyloučeno"
+  },
+  "builtinGlossaryReadOnlyHint": {
+    "message": "Vestavěné pravidlo"
+  },
+  "builtinTextReplacementManageDomainsTitle": {
+    "message": "Správa vestavěných oblastí oprav zdrojového textu"
+  },
+  "builtinTextReplacementManageDomainsDescription": {
+    "message": "Zapněte nebo vypněte vestavěné oblasti oprav zdrojového textu."
+  },
+  "builtinTextReplacementDomainCount": {
+    "message": "{count} vestavěných pravidel"
+  },
+  "preferenceLoadFailed": {
+    "message": "Načtení se nezdařilo. Přihlaste se a zkuste to znovu."
+  },
+  "preferenceActionFailed": {
+    "message": "Akce se nezdařila. Zkuste to znovu později."
+  },
+  "pronunciationSettingsSectionTitle": {
+    "message": "Výslovnost"
+  },
+  "pronunciationSettingsTitle": {
+    "message": "Nastavení výslovnosti"
+  },
+  "pronunciationSettingsDescription": {
+    "message": "Nastavte osobní výslovnost pro přeložený text. Pravidla platí pouze pro místní dabing."
+  },
+  "optionsNavPronunciationShort": {
+    "message": "Výslovnost"
+  },
+  "pronunciationNewRule": {
+    "message": "Nové pravidlo"
+  },
+  "pronunciationEditRule": {
+    "message": "Upravit pravidlo výslovnosti"
+  },
+  "pronunciationTargetLanguage": {
+    "message": "Cílový jazyk"
+  },
+  "pronunciationSearchPlaceholder": {
+    "message": "Vyhledejte odpovídající text"
+  },
+  "pronunciationStatus": {
+    "message": "Stav"
+  },
+  "pronunciationMatchText": {
+    "message": "Odpovídající text"
+  },
+  "pronunciationMatchPlaceholder": {
+    "message": "Například: ahoj"
+  },
+  "pronunciationTargetText": {
+    "message": "Opravená část"
+  },
+  "pronunciationReading": {
+    "message": "Specifikovaná výslovnost"
+  },
+  "pronunciationLoading": {
+    "message": "Načítání…"
+  },
+  "pronunciationEmpty": {
+    "message": "Aktuálním filtrům neodpovídají žádná osobní pravidla výslovnosti."
+  },
+  "pronunciationEditorHint": {
+    "message": "Vyberte souvislou část, kterou chcete opravit, a poté zadejte její výslovnost."
+  },
+  "pronunciationSelectTarget": {
+    "message": "Vyberte text, který chcete opravit"
+  },
+  "pronunciationReselect": {
+    "message": "Vyberte znovu"
+  },
+  "pronunciationEnterMatchFirst": {
+    "message": "Nejprve zadejte odpovídající text"
+  },
+  "pronunciationSelectionSummary": {
+    "message": "Vybráno: {text}; výskyt {occurrence}"
+  },
+  "pronunciationSelectionRestoreFailed": {
+    "message": "Uložené místo nelze obnovit. Před uložením vyberte text znovu."
+  },
+  "pronunciationSelectionInvalid": {
+    "message": "Vyberte souvislý text."
+  },
+  "pronunciationModifier": {
+    "message": "Tón"
+  },
+  "pronunciationSelectModifier": {
+    "message": "Vyberte"
+  },
+  "pronunciationSaving": {
+    "message": "Ukládání…"
+  },
+  "pronunciationDeleteConfirm": {
+    "message": "Smazat toto pravidlo výslovnosti?"
+  },
+  "pronunciationOccurrence": {
+    "message": "výskyt {occurrence}"
+  },
+  "pronunciationUnknownError": {
+    "message": "Akce se nezdařila. Zkuste to znovu později."
+  },
+  "preferenceAllStatuses": {
+    "message": "všechny"
+  },
+  "preferenceCancel": {
+    "message": "Zrušit"
+  },
+  "preferenceDisabled": {
+    "message": "Zakázáno"
+  },
+  "preferenceSave": {
+    "message": "Uložit"
+  },
+  "pronunciationFineSelection": {
+    "message": "Přesný výběr"
+  },
+  "pronunciationMergeUnits": {
+    "message": "Sloučit sousední výslovnosti"
+  },
+  "pronunciationPerUnitHint": {
+    "message": "Zadejte výslovnost a tón pro každou část. Rozdělte nebo spojte části podle potřeby."
+  },
+  "pronunciationPrimarySelection": {
+    "message": "Chytrý výběr"
+  },
+  "pronunciationSelectionGranularity": {
+    "message": "Zrnitost výběru"
+  },
+  "pronunciationSelectionTooLong": {
+    "message": "Opravená část může obsahovat maximálně 128 znaků."
+  },
+  "pronunciationSplitAt": {
+    "message": "Rozdělit na"
+  },
+  "pronunciationUnitReading": {
+    "message": "Výslovnost po částech"
+  },
+  "pronunciationWholeReading": {
+    "message": "Celá výslovnost"
+  },
+  "pronunciationWholeToneHint": {
+    "message": "Zadejte úplnou tónovanou výslovnost. Rozdělte jej a vyberte tón pro každou část."
+  },
+  "pronunciationPinyinSyllable": {
+    "message": "Pchin-jin slabika"
+  },
+  "pronunciationPinyinPlaceholder": {
+    "message": "Zadejte slabiku Pinyin"
+  },
+  "pronunciationNumberedTone": {
+    "message": "Tón {tone}"
+  },
+  "pronunciationNeutralTone": {
+    "message": "Neutrální tón"
+  },
+  "googleDriveNoCaptionsTitle": {
+    "message": "Toto video na Disku Google zatím nemá titulky"
+  },
+  "googleDriveNoCaptionsIntro": {
+    "message": "Dabing používá vestavěné titulky Disku Google (CC). Nejprve pro toto video zapněte titulky a pak se vraťte:"
+  },
+  "googleDriveNoCaptionsStep1": {
+    "message": "Na Disku Google klikněte na video pravým tlačítkem a zvolte „Informace o souboru“ → „Spravovat stopy titulků“."
+  },
+  "googleDriveNoCaptionsStep2": {
+    "message": "Pokud zatím žádná stopa titulků není: Disk automaticky generuje titulky v podporovaných jazycích (mimo jiné angličtina, turečtina, čínština, španělština, japonština). Klikněte na „Generovat automatické titulky“, pokud se zobrazí, nebo nahrajte soubor s titulky. Titulky může spravovat jen vlastník nebo editoři videa."
+  },
+  "googleDriveNoCaptionsStep3": {
+    "message": "Generování titulků chvíli trvá. Jakmile bude tlačítko CC v přehrávači klikatelné, obnovte stránku a spusťte dabing znovu."
+  },
+  "subtitleAudioLanguageMismatch": {
+    "message": "Jazyk titulků neodpovídá jazyku hlasů. Titulky: {subtitle}. Hlasy: {voice}. Hlas umí číst jen text ve svém jazyce, takže generování může selhat nebo znít špatně. Nejprve titulky přeložte, nebo změňte cílový jazyk tak, aby odpovídal titulkům. Přesto generovat?"
+  },
+  "subtitleAudioNav": {
+    "message": "Dabing z titulků"
+  },
+  "subtitleAudioAiSubtitleBadge": {
+    "message": "AI titulky"
+  },
+  "subtitleAudioUserSubtitleBadge": {
+    "message": "Upravené titulky"
+  },
+  "subtitleAudioBack": {
+    "message": "Dabing videa"
+  },
+  "subtitleAudioProjectSubtitle": {
+    "message": "Titulky: {name} · replik: {count}"
+  },
+  "subtitleAudioReplaceSubtitles": {
+    "message": "Vyměnit titulky"
+  },
+  "subtitleAudioExportVideoOption": {
+    "message": "Nadabované video"
+  },
+  "subtitleAudioExportVideoHint": {
+    "message": "Kde replika potřebuje víc času, obraz se zpomalí, takže výsledné video může být o něco delší."
+  },
+  "subtitleAudioExportMp3Option": {
+    "message": "Nadabované MP3"
+  },
+  "subtitleAudioExportMp3Hint": {
+    "message": "Má přesně stejnou délku jako původní video – můžete ho vrátit zpět do videa nebo nahrát jako zvukovou stopu v dalším jazyce."
+  },
+  "subtitleAudioDownloadSrt": {
+    "message": "Stáhnout SRT"
+  },
+  "subtitleAudioEditAndExport": {
+    "message": "Upravit a exportovat"
+  },
+  "subtitleAudioEditNeedsSubtitle": {
+    "message": "Toto video zatím nemá titulky. Připojte soubor s titulky, nebo jednou použijte „Spusťte hlasový dabing“ a nechte vygenerovat AI titulky."
+  },
+  "subtitleAudioTitle": {
+    "message": "Dejte hlas každé replice"
+  },
+  "subtitleAudioSubtitle": {
+    "message": "Importujte soubor SRT a získáte nadabované MP3 podle časování titulků. Pro nadabované video vyberte video v sekci „Dabing videa“ a zvolte „Upravit a exportovat“."
+  },
+  "subtitleAudioImportStep": {
+    "message": "Importovat titulky"
+  },
+  "subtitleAudioVoicesStep": {
+    "message": "Vybrat hlasy"
+  },
+  "subtitleAudioExportStep": {
+    "message": "Exportovat"
+  },
+  "subtitleAudioSubtitles": {
+    "message": "Titulky"
+  },
+  "subtitleAudioCueList": {
+    "message": "Repliky a hlasy"
+  },
+  "subtitleAudioSettings": {
+    "message": "Nastavení hlasu"
+  },
+  "subtitleAudioImport": {
+    "message": "Vybrat soubor SRT"
+  },
+  "subtitleAudioReplace": {
+    "message": "Nahradit"
+  },
+  "subtitleAudioRemove": {
+    "message": "Odebrat"
+  },
+  "subtitleAudioDrop": {
+    "message": "Přetáhněte sem soubor SRT"
+  },
+  "subtitleAudioDropNote": {
+    "message": "UTF-8 · max. 2 MiB, 5 000 replik, 3 hodiny"
+  },
+  "subtitleAudioEmpty": {
+    "message": "Zde se zobrazí vaše titulky. Každé replice přiřaďte hlas, nebo jeden hlas použijte pro výběr."
+  },
+  "subtitleAudioLines": {
+    "message": "Repliky"
+  },
+  "subtitleAudioDuration": {
+    "message": "Délka titulků"
+  },
+  "subtitleAudioCharacters": {
+    "message": "Znaky"
+  },
+  "subtitleAudioSearch": {
+    "message": "Hledat v textu titulků"
+  },
+  "subtitleAudioSelectPage": {
+    "message": "Vybrat tuto stránku"
+  },
+  "subtitleAudioSelectAll": {
+    "message": "Vybrat všechny výsledky"
+  },
+  "subtitleAudioSelected": {
+    "message": "Vybráno: {count}"
+  },
+  "subtitleAudioApply": {
+    "message": "Použít hlas"
+  },
+  "subtitleAudioChooseVoice": {
+    "message": "Vyberte hlas"
+  },
+  "subtitleAudioText": {
+    "message": "Text titulku"
+  },
+  "subtitleAudioTime": {
+    "message": "Čas"
+  },
+  "subtitleAudioVoice": {
+    "message": "Hlas"
+  },
+  "subtitleAudioFemale": {
+    "message": "Ženské hlasy"
+  },
+  "subtitleAudioMale": {
+    "message": "Mužské hlasy"
+  },
+  "subtitleAudioPage": {
+    "message": "Stránka {page} z {total}"
+  },
+  "subtitleAudioPrevious": {
+    "message": "Předchozí"
+  },
+  "subtitleAudioNext": {
+    "message": "Další"
+  },
+  "subtitleAudioPreview": {
+    "message": "Přehrát repliku č. {index}"
+  },
+  "subtitleAudioStopPreview": {
+    "message": "Zastavit přehrávání"
+  },
+  "subtitleAudioLanguage": {
+    "message": "Cílový jazyk"
+  },
+  "subtitleAudioVoiceType": {
+    "message": "Typ hlasu"
+  },
+  "subtitleAudioFree": {
+    "message": "Zdarma"
+  },
+  "subtitleAudioVideoSync": {
+    "message": "Náhled přehrává exportovanou zvukovou stopu. Původní zvuk videa je ztlumený."
+  },
+  "subtitleAudioTimelineTitle": {
+    "message": "Zvuková stopa"
+  },
+  "subtitleAudioLayoutOnly": {
+    "message": "Rozmístění titulků · průběh vlny bude k dispozici po exportu"
+  },
+  "subtitleAudioRealWave": {
+    "message": "Průběh vlny exportovaného zvuku · pro posun klikněte nebo použijte posuvník"
+  },
+  "subtitleAudioTracks": {
+    "message": "Hlasy: {count} → jedno MP3"
+  },
+  "subtitleAudioTracksVideo": {
+    "message": "Hlasy: {count} → nadabované video"
+  },
+  "subtitleAudioSeek": {
+    "message": "Přejít v exportovaném médiu"
+  },
+  "subtitleAudioNoTimeline": {
+    "message": "Po importu titulků zde uvidíte jejich časování."
+  },
+  "subtitleAudioGenerate": {
+    "message": "Vygenerovat MP3"
+  },
+  "subtitleAudioGenerateVideo": {
+    "message": "Vygenerovat nadabované video"
+  },
+  "subtitleAudioRegenerate": {
+    "message": "Vygenerovat znovu"
+  },
+  "subtitleAudioRegenerateVideo": {
+    "message": "Vygenerovat video znovu"
+  },
+  "subtitleAudioRetry": {
+    "message": "Zopakovat neúspěšné generování"
+  },
+  "subtitleAudioCancel": {
+    "message": "Zrušit"
+  },
+  "subtitleAudioCancelling": {
+    "message": "Ruší se…"
+  },
+  "subtitleAudioDownload": {
+    "message": "Stáhnout MP3"
+  },
+  "subtitleAudioDownloadVideo": {
+    "message": "Stáhnout nadabované video"
+  },
+  "subtitleAudioWorking": {
+    "message": "Generování řeči"
+  },
+  "subtitleAudioEncoding": {
+    "message": "Sestavování zvukové stopy"
+  },
+  "subtitleAudioFinalizing": {
+    "message": "Dokončování MP3"
+  },
+  "subtitleAudioMuxing": {
+    "message": "Vkládání nadabované zvukové stopy do videa"
+  },
+  "subtitleAudioFinished": {
+    "message": "Vaše MP3 je připravené"
+  },
+  "subtitleAudioFinishedVideo": {
+    "message": "Vaše nadabované video je připravené"
+  },
+  "subtitleAudioCancelled": {
+    "message": "Generování bylo zrušeno. Hotové úseky řeči zůstaly v mezipaměti pro opakování."
+  },
+  "subtitleAudioProgressNote": {
+    "message": "Nechte tuto stránku otevřenou. Generování můžete zrušit a později na něj navázat pomocí uložených úseků."
+  },
+  "subtitleAudioMissing": {
+    "message": "Replik bez hlasu: {count}. Vyberte hlas pro každou repliku, nebo použijte „Použít hlas“."
+  },
+  "subtitleAudioEmptyText": {
+    "message": "Replik bez textu: {count}. Před generováním doplňte text."
+  },
+  "subtitleAudioCacheNote": {
+    "message": "Řeč generuje vybraná služba. Titulky a vygenerované úseky se ukládají do mezipaměti v tomto zařízení; zvuk a video se sestavují lokálně."
+  },
+  "subtitleAudioRestored": {
+    "message": "Koncept byl obnoven."
+  },
+  "subtitleAudioSaveError": {
+    "message": "Koncept se nepodařilo uložit. Nechte tuto stránku otevřenou, abyste o úpravy nepřišli."
+  },
+  "subtitleAudioFailed": {
+    "message": "Dokončení se nezdařilo. Hotové úseky řeči zůstaly zachovány – pro pokračování to zkuste znovu."
+  },
+  "subtitleAudioDetails": {
+    "message": "Podrobnosti"
+  },
+  "subtitleAudioBadFile": {
+    "message": "Vyberte soubor .srt v kódování UTF-8 (max. 2 MiB)."
+  },
+  "subtitleAudioEncodingError": {
+    "message": "Tento soubor není v platném kódování UTF-8. Uložte ho v UTF-8 a importujte znovu."
+  },
+  "subtitleAudioImportFailed": {
+    "message": "Soubor s titulky se nepodařilo načíst. Zkontrolujte časové značky a text v SRT."
+  },
+  "subtitleAudioInvalidVideo": {
+    "message": "Toto video nemá čitelnou obrazovou stopu nebo nelze zjistit jeho délku."
+  },
+  "subtitleAudioVideoLimitError": {
+    "message": "Toto video je delší než 3 hodiny, proto z něj nelze exportovat nadabované video. Vyberte kratší soubor."
+  },
+  "subtitleAudioVideoStorageError": {
+    "message": "Na tomto počítači není pro toto video dost volného místa: je potřeba asi {needed} GB, prohlížeč má k dispozici {available} GB. Uvolněte místo na disku a zkuste to znovu, nebo vyberte menší video."
+  },
+  "subtitleAudioVideoCodecError": {
+    "message": "Toto zařízení neumí zkopírovat tento video kodek (například HEVC). Export byl přerušen, aby nevznikl poškozený soubor. Zkuste MP4 ve formátu H.264."
+  },
+  "subtitleAudioVideoAacUnsupported": {
+    "message": "Tento prohlížeč neumí kódovat zvuk AAC, proto nelze exportovat video s dabingem. Export MP3 s dabingem stále funguje."
+  },
+  "subtitleAudioVideoCopyUnsupported": {
+    "message": "Kodek tohoto videa nelze exportovat jako MP4 s dabingem. Export MP3 s dabingem stále funguje; pro video použijte MP4 s H.264."
+  },
+  "subtitleAudioPreviewFailed": {
+    "message": "Tuto repliku se nepodařilo přehrát. Zkontrolujte vybraný hlas a připojení."
+  },
+  "subtitleAudioPlayBlocked": {
+    "message": "Zvuk je připravený. Stiskněte Přehrát v přehrávači."
+  },
+  "subtitleAudioGeneralError": {
+    "message": "Operaci se nepodařilo dokončit. Zkontrolujte připojení a zkuste to znovu."
+  },
+  "subtitleAudioLimitError": {
+    "message": "Projekt překračuje podporované limity. Maximum je 5 000 replik / 3 hodiny a každý úsek řeči musí být kratší než 60 sekund."
+  },
+  "subtitleAudioStorageError": {
+    "message": "Pro tento export není dost místa v místním úložišti. Uvolněte místo a zkuste to znovu."
+  },
+  "subtitleAudioAccountError": {
+    "message": "Generování řeči vyžaduje platný účet a dostupnou kvótu. Zkontrolujte svůj účet a zkuste to znovu."
+  },
+  "subtitleAudioPaused": {
+    "message": "Čeká"
+  },
+  "subtitleAudioGeneratingCue": {
+    "message": "Generuje se"
+  },
+  "subtitleAudioReadyCue": {
+    "message": "Hotovo"
+  },
+  "subtitleAudioErrorCue": {
+    "message": "Chyba"
+  },
+  "subtitleAudioVoiceReset": {
+    "message": "Některé hlasy nejsou s tímto nastavením dostupné. Vyberte hlasy pro zvýrazněné repliky."
+  },
+  "subtitleAudioConfirmReplace": {
+    "message": "Nahradit aktuální koncept titulků?"
+  },
+  "subtitleAudioClearDraft": {
+    "message": "Odebrat z tohoto konceptu všechny titulky?"
+  },
+  "subtitleAudioOutputChanged": {
+    "message": "Nastavení se změnilo. Vygenerujte výstup znovu, aby se aktualizoval soubor ke stažení."
+  },
+  "subtitleAudioBrowserError": {
+    "message": "Tento prohlížeč nedokázal spustit zpracování zvuku. Zkuste aktuální verzi desktopového prohlížeče."
+  },
+  "subtitleAudioOtherTabBusy": {
+    "message": "Jiná karta právě generuje nebo přehrává zvuk titulků. Počkejte na dokončení, nebo tu kartu zavřete a zkuste to znovu."
+  },
+  "uploadVideoLanguageLabel": {
+    "message": "Jazyk videa (výběr zlepší přesnost rozpoznávání)"
+  },
+  "uploadVideoLanguageAuto": {
+    "message": "Automaticky rozpoznat"
+  },
+  "subtitleAudioPreparing": {
+    "message": "Dělení na věty a překlad"
+  },
+  "subtitleAudioPrepareFailed": {
+    "message": "Titulky se nepodařilo rozdělit ani přeložit. Zkuste to prosím později."
+  },
+  "subtitleAudioSourceLanguage": {
+    "message": "Jazyk titulků"
+  },
+  "subtitleAudioSourceLanguageUnknown": {
+    "message": "Jazyk těchto titulků se nepodařilo rozpoznat. Vyberte jazyk, ve kterém jsou napsané, a vygenerujte znovu."
+  },
+  "subtitleAudioPreparedNote": {
+    "message": "Rozděleno na věty a přeloženo do jazyka {language} stejně jako u online dabingu. Překlady můžete upravit níže."
+  },
+  "subtitleAudioRestoreSource": {
+    "message": "Obnovit originál"
+  },
+  "subtitleAudioRestoreSourceConfirm": {
+    "message": "Obnovením originálu přijdete o úpravy překladů; při dalším exportu se text znovu rozdělí a přeloží. Pokračovat?"
+  },
+  "subtitleAudioLanguageChangedRetranslate": {
+    "message": "Jazyk dabingu se změnil, proto seznam znovu zobrazuje původní text. Při exportu se znovu rozdělí a přeloží."
+  },
+  "subtitleAudioCueTooLong": {
+    "message": "Řádek {index} je příliš dlouhý. Rozdělte ho na kratší řádky a zkuste to znovu."
+  },
+  "subtitleAudioBackgroundOption": {
+    "message": "Přimíchat zvuk pozadí"
+  },
+  "subtitleAudioBackgroundHint": {
+    "message": "Zvuk pozadí tohoto videa (bez hlasů) byl oddělen při nahrání k rozpoznání. Hraje pod dabingem stejně jako u online dabingu."
+  },
+  "subtitleAudioDownloadingBackground": {
+    "message": "Stahování zvuku pozadí"
+  },
+  "subtitleAudioBackgroundFailed": {
+    "message": "Zvuk pozadí se nepodařilo stáhnout. Zkuste to později nebo zrušte „Přimíchat zvuk pozadí“ a exportujte znovu."
+  },
+  "subtitleAudioPreparedSameLanguageNote": {
+    "message": "Titulky už jsou v jazyce dabingu, proto byly podle nastavení „nepřekládat stejný jazyk“ jen rozděleny na věty."
+  },
+  "dubbingToggleOn": {
+    "message": "Zapnout dabing"
+  },
+  "dubbingToggleOff": {
+    "message": "Vypnout dabing"
+  },
+  "dubbingTogglePreparing": {
+    "message": "Připravuje se dabing, počkejte…"
+  },
+  "dubbingSwitchedOffNotice": {
+    "message": "Dabing vypnut, obnoven původní zvuk"
+  },
+  "dubbingSwitchedOnNotice": {
+    "message": "Dabing zapnut"
+  },
+  "toggleDubbingCommand": {
+    "message": "Zapnout / vypnout dabing"
+  },
+  "spotifyPublicAudioShowNotFound": {
+    "message": "Zvuk je šifrovaný a tento pořad nemá veřejný podcastový kanál (může jít o exkluzivitu Spotify)."
+  },
+  "spotifyPublicAudioEpisodeNotMatched": {
+    "message": "Zvuk je šifrovaný a ve veřejném podcastovém kanálu pořadu nebyl nalezen odpovídající díl."
+  },
+  "spotifyPublicAudioLookupFailed": {
+    "message": "Veřejný zvuk tohoto dílu se nepodařilo získat. Zkuste to prosím později."
+  }
+}

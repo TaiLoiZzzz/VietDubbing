@@ -1,0 +1,2315 @@
+{
+  "name": {
+    "message": "YouTube Dubbing – Μετάφραση & Μεταγλώττιση"
+  },
+  "description": {
+    "message": "Μετάφραση και μεταγλώττιση βίντεο—κατανοήστε ξένες γλώσσες, πρόσβαση σε παγκόσμια γνώση"
+  },
+  "metadataNotFound": {
+    "message": "Τα μεταδεδομένα του βίντεο δεν βρέθηκαν, ανανεώστε και δοκιμάστε ξανά"
+  },
+  "dubbingMediaNotFoundTitle": {
+    "message": "Δεν βρέθηκε βίντεο για μεταγλώττιση"
+  },
+  "dubbingMediaNotFoundText": {
+    "message": "Δεν υπάρχει διαθέσιμο βίντεο ή ήχος σε αυτήν τη σελίδα αυτήν τη στιγμή. Περιμένετε να ολοκληρωθεί η φόρτωση του βίντεο και δοκιμάστε ξανά ή ανανεώστε τη σελίδα."
+  },
+  "noSubtitlesFound": {
+    "message": "Αυτό το βίντεο δεν έχει υπότιτλους και δεν υποστηρίζει μετάφραση και μεταγλώττιση"
+  },
+  "liveVideoNotSupported": {
+    "message": "Τα βίντεο ζωντανής μετάδοσης δεν υποστηρίζονται προς το παρόν"
+  },
+  "universalDubbingNotSupported": {
+    "message": "Η γενική μεταγλώττιση δεν υποστηρίζεται για αυτό το βίντεο στην τρέχουσα έκδοση. Η υποστήριξη είναι προγραμματισμένη για την επόμενη έκδοση. Επικοινωνήστε με την εξυπηρέτηση πελατών για λεπτομέρειες."
+  },
+  "postLoginTranslationSettings": {
+    "message": "Επιτυχής σύνδεση. Κάντε κλικ στο εικονίδιο του πρόσθετου για να επιλέξετε τη γλώσσα μετάφρασης και τη λίστα φωνών."
+  },
+  "noSubtitlesWaitOptimization": {
+    "message": "Δεν υπάρχουν διαθέσιμοι υπότιτλοι. Περιμένετε το πρόσθετο να αναγνωρίσει τους υπότιτλους για αυτό το βίντεο. Θα λάβετε ειδοποίηση μέσω email όταν ολοκληρωθεί η αναγνώριση."
+  },
+  "privateVideoNoSubtitles": {
+    "message": "Αυτό το βίντεο δεν έχει υπότιτλους και είναι ιδιωτικό. Το πρόσθετο δεν μπορεί να αναγνωρίσει υπότιτλους για αυτό το βίντεο στο παρασκήνιο. Κάντε το βίντεο δημόσιο ή προσθέστε υπότιτλους χειροκίνητα και δοκιμάστε ξανά."
+  },
+  "trialMemberDurationLimit": {
+    "message": "Αυτό το βίντεο δεν έχει υπότιτλους. Ως δοκιμαστικό μέλος, υποστηρίζονται προς το παρόν μόνο βίντεο κάτω των 15 λεπτών για αναγνώριση υπότιτλων. Τα premium μέλη υποστηρίζουν βίντεο κάτω των 3 ωρών."
+  },
+  "premiumMemberDurationLimit": {
+    "message": "Αυτό το βίντεο δεν έχει υπότιτλους και η διάρκειά του υπερβαίνει τις 3 ώρες, δεν υποστηρίζεται μετάφραση και μεταγλώττιση. Επιλέξτε ένα βραχύτερο βίντεο ή ένα βίντεο με υπότιτλους."
+  },
+  "freeUserNoSubtitles": {
+    "message": "Αυτό το βίντεο δεν έχει ενσωματωμένους υπότιτλους. Εγγραφείτε στη συνδρομή του πρόσθετου για αναγνώριση υπότιτλων και απολαύστε τις λειτουργίες μετάφρασης και μεταγλώττισης."
+  },
+  "freeUserDailyLimit": {
+    "message": "Οι δωρεάν χρήστες μπορούν να παρακολουθήσουν έως 5 βίντεο την ημέρα μέσω του πρόσθετου. Αναβαθμιστείτε σε συνδρομή για να ξεκλειδώσετε απεριόριστη θέαση."
+  },
+  "upgradeEntryUpgradeButton": {
+    "message": "Αναβάθμιση"
+  },
+  "upgradeEntryLaterButton": {
+    "message": "Ίσως αργότερα"
+  },
+  "aiSubtitlesRecognitionInBackground": {
+    "message": "Οι υπότιτλοι AI δεν είναι ακόμα διαθέσιμοι. Το πρόσθετο ξεκίνησε να τους αναγνωρίζει στο παρασκήνιο. Αφού ακούσετε την πρώτη μεταγλωττισμένη πρόταση, μπορείτε να κλείσετε τη σελίδα και να περιμένετε την ειδοποίηση μέσω email· όταν είναι έτοιμο, το κουμπί μεταγλώττισης θα γίνει πράσινο και η ποιότητα μετάφρασης θα είναι καλύτερη."
+  },
+  "upgradeMembershipForBackgroundRecognition": {
+    "message": "Αναβαθμιστείτε σε συνδρομή και το πρόσθετο θα αναγνωρίσει τους υπότιτλους AI στο παρασκήνιο. Αφού λάβετε την ειδοποίηση μέσω email, επιστρέψτε για να παρακολουθήσετε· το κουμπί μεταγλώττισης θα γίνει πράσινο και οι μεταφράσεις θα είναι πιο ακριβείς."
+  },
+  "memberFreeVoiceAzureSuggestion": {
+    "message": "Αυτή τη στιγμή κάνετε μεταγλώττιση με τον δωρεάν τύπο φωνής. Οι φωνές Azure ακούγονται πιο φυσικές· τα μέλη μπορούν πλέον να χρησιμοποιούν το Azure χωρίς περιορισμούς και χωρίς επιπλέον ανανέωση πιστώσεων."
+  },
+  "memberAiSubtitlePlatformPrioritySuggestion": {
+    "message": "Χρησιμοποιούνται υπότιτλοι που αναγνωρίστηκαν από το AI της επέκτασης στο παρασκήνιο. Αν η μετάφραση δεν φαίνεται σωστή, αλλάξτε την προτεραιότητα υποτίτλων σε υπότιτλους πλατφόρμας στις βασικές ρυθμίσεις."
+  },
+  "openBasicSettingsLink": {
+    "message": "Άνοιγμα βασικών ρυθμίσεων"
+  },
+  "doNotShowAgainLink": {
+    "message": "Να μην εμφανιστεί ξανά"
+  },
+  "loginAndUsePlugin": {
+    "message": "Κάντε κλικ στο εικονίδιο του πρόσθετου για να συνδεθείτε πρώτα, στη συνέχεια χρησιμοποιήστε το πρόσθετο για αναπαραγωγή με φωνητική σχολίαση."
+  },
+  "voiceSettingsMismatch": {
+    "message": "Ο τύπος φωνής και οι ρυθμίσεις φωνής δεν ταιριάζουν. Μεταβείτε στη σελίδα ρυθμίσεων για να επιλέξετε ξανά και να αποθηκεύσετε τις ρυθμίσεις φωνής."
+  },
+  "contentMenusTitle": {
+    "message": "Έναρξη Αναπαραγωγής με Φωνητική Σχολίαση"
+  },
+  "videoDetectedDomainTooltip": {
+    "message": "Αναγνωρισμένος τομέας του τρέχοντος βίντεο: {domain}"
+  },
+  "dropboxClickCcToTranscribe": {
+    "message": "Αυτό το βίντεο δεν έχει μεταγραφεί ακόμα. Κάντε κλικ στο κουμπί CC στο κάτω μέρος του βίντεο Dropbox για να μεταγράψετε τους υπότιτλους. Μετά την ολοκλήρωση της μεταγραφής, κάντε κλικ στο κουμπί μεταγλώττισης του πρόσθετου για μετάφραση και μεταγλώττιση."
+  },
+  "iosInterceptorConflictTitle": {
+    "message": "Εντοπίστηκε σύγκρουση επέκτασης"
+  },
+  "iosInterceptorConflictMessage": {
+    "message": "Μια άλλη επέκταση προγράμματος περιήγησης μπλοκάρει την παρεμβολή αιτημάτων υπότιτλων. Απενεργοποιήστε τις επεκτάσεις που έρχονται σε σύγκρουση, ανανεώστε τη σελίδα και δοκιμάστε ξανά."
+  },
+  "login": {
+    "message": "Σύνδεση"
+  },
+  "logout": {
+    "message": "Αποσύνδεση"
+  },
+  "subscribe": {
+    "message": "Συνδρομή"
+  },
+  "save_settings": {
+    "message": "Αποθήκευση"
+  },
+  "saving": {
+    "message": "Αποθήκευση..."
+  },
+  "saveSuccessTitle": {
+    "message": "Επιτυχής Αποθήκευση"
+  },
+  "saveSuccessText": {
+    "message": "Οι ρυθμίσεις αποθηκεύτηκαν επιτυχώς"
+  },
+  "saveFailedTitle": {
+    "message": "Αποτυχία Αποθήκευσης"
+  },
+  "saveFailedText": {
+    "message": "Αποτυχία αποθήκευσης ρυθμίσεων, δοκιμάστε ξανά"
+  },
+  "confirmButton": {
+    "message": "Συνέχεια"
+  },
+  "cancelButton": {
+    "message": "Ακύρωση"
+  },
+  "back": {
+    "message": "Επιστροφή"
+  },
+  "backToSettings": {
+    "message": "Επιστροφή στις ρυθμίσεις"
+  },
+  "backToVideoLibrary": {
+    "message": "Επιστροφή στη βιβλιοθήκη βίντεο"
+  },
+  "source_languages": {
+    "message": "Γλώσσα Πηγής:"
+  },
+  "target_languages": {
+    "message": "Γλώσσα Στόχου:"
+  },
+  "selectSourceLanguage": {
+    "message": "Επιλογή γλώσσας πηγής"
+  },
+  "selectTargetLanguage": {
+    "message": "Επιλογή γλώσσας στόχου"
+  },
+  "searchSourceLanguage": {
+    "message": "Αναζήτηση γλώσσας πηγής..."
+  },
+  "searchTargetLanguage": {
+    "message": "Αναζήτηση γλώσσας στόχου..."
+  },
+  "loading": {
+    "message": "φόρτωση"
+  },
+  "sex": {
+    "message": "Φύλο:"
+  },
+  "voices": {
+    "message": "Φωνή:"
+  },
+  "voicesType": {
+    "message": "Τύπος Φωνής:"
+  },
+  "man": {
+    "message": "Άνδρας"
+  },
+  "woman": {
+    "message": "Γυναίκα"
+  },
+  "free": {
+    "message": "δωρεάν"
+  },
+  "memberFree": {
+    "message": "Δωρεάν για μέλη"
+  },
+  "memberFreeRequireMembership": {
+    "message": "Αυτός ο τύπος φωνής είναι μόνο για μέλη. Αναβαθμίστε για δωρεάν χρήση."
+  },
+  "azureRequireMembership": {
+    "message": "Το Azure TTS είναι μόνο για μέλη. Αναβαθμίστε για να ξεκλειδώσετε υψηλής ποιότητας φωνές Azure."
+  },
+  "originalAudio": {
+    "message": "Αρχικό"
+  },
+  "translatedAudio": {
+    "message": "Μετάφραση"
+  },
+  "backgroundAudio": {
+    "message": "Φόντο"
+  },
+  "textToSpeech": {
+    "message": "Κείμενο σε Ομιλία:"
+  },
+  "textToSpeechToggle": {
+    "message": "Πλωτή Μπάλα"
+  },
+  "showSubtitle": {
+    "message": "υπότιτλοι:"
+  },
+  "subtitleSize": {
+    "message": "Μέγεθος"
+  },
+  "subtitles": {
+    "message": "Υπότιτλοι"
+  },
+  "toggleSubtitles": {
+    "message": "Εναλλαγή υπότιτλων"
+  },
+  "subtitleDisplayMode": {
+    "message": "Λειτουργία υπότιτλων"
+  },
+  "subtitleModeTranslated": {
+    "message": "Μόνο μετάφραση"
+  },
+  "subtitleModeBilingual": {
+    "message": "Δίγλωσσοι υπότιτλοι"
+  },
+  "subtitleModeOff": {
+    "message": "Χωρίς υπότιτλους"
+  },
+  "translateService": {
+    "message": "Μετάφραση:"
+  },
+  "translationEngine": {
+    "message": "Μηχανή Μετάφρασης"
+  },
+  "translationService": {
+    "message": "Υπηρεσία Μετάφρασης"
+  },
+  "translationServiceTitle": {
+    "message": "Υπηρεσία Μετάφρασης"
+  },
+  "advancedSettings": {
+    "message": "Προηγμένες Ρυθμίσεις"
+  },
+  "pauseVideo": {
+    "message": "Παύση Βίντεο"
+  },
+  "iosOpenOriginVolume": {
+    "message": "Ενεργοποίηση αρχικού ήχου"
+  },
+  "voicesAndSubtitles": {
+    "message": "Φωνή & Υπότιτλοι"
+  },
+  "voicesAndSubtitlesTitle": {
+    "message": "Φωνή & Υπότιτλοι"
+  },
+  "speakerList": {
+    "message": "Λίστα Ομιλητών"
+  },
+  "speakersTitle": {
+    "message": "Ομιλητές"
+  },
+  "deleteSpeaker": {
+    "message": "Διαγραφή"
+  },
+  "editSpeaker": {
+    "message": "Επεξεργασία"
+  },
+  "speakerName": {
+    "message": "Όνομα Ομιλητή"
+  },
+  "enterSpeakerName": {
+    "message": "Εισάγετε όνομα ομιλητή"
+  },
+  "enterVoice": {
+    "message": "Εισάγετε όνομα φωνής"
+  },
+  "voice": {
+    "message": "Φωνή"
+  },
+  "gender": {
+    "message": "Φύλο"
+  },
+  "male": {
+    "message": "Άνδρας"
+  },
+  "female": {
+    "message": "Γυναίκα"
+  },
+  "edit": {
+    "message": "Επεξεργασία"
+  },
+  "delete": {
+    "message": "Διαγραφή"
+  },
+  "save": {
+    "message": "Αποθήκευση"
+  },
+  "cancel": {
+    "message": "Ακύρωση"
+  },
+  "confirmDeleteSpeaker": {
+    "message": "Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτόν τον ομιλητή;"
+  },
+  "noSpeakers": {
+    "message": "Δεν υπάρχουν ομιλητές"
+  },
+  "memberUser": {
+    "message": "PRO"
+  },
+  "accountBalance": {
+    "message": "Υπόλοιπο:"
+  },
+  "userAccountAriaLabel": {
+    "message": "Λογαριασμός χρήστη"
+  },
+  "membershipExpires": {
+    "message": "Λήξη:"
+  },
+  "shortcutSettings": {
+    "message": "Συντομεύσεις"
+  },
+  "subscriptionRecharge": {
+    "message": "Συνδρομή"
+  },
+  "membershipIcon": {
+    "message": "Εικονίδιο Συνδρομής"
+  },
+  "browserShortcutSettingsTip": {
+    "message": "Ρυθμίστε τις συντομεύσεις στις ρυθμίσεις επέκτασης του προγράμματος περιήγησης"
+  },
+  "safariShortcutSettingsTip": {
+    "message": "Ορίστε συντομεύσεις στο Safari > Προτιμήσεις > Επεκτάσεις"
+  },
+  "edgeShortcutSettingsTip": {
+    "message": "Άνοιγμα σελίδας ρυθμίσεων συντομεύσεων επέκτασης Edge"
+  },
+  "firefoxShortcutSettingsTip": {
+    "message": "Άνοιγμα σελίδας πρόσθετων Firefox, ορίστε συντομεύσεις στις Επεκτάσεις και Θέματα"
+  },
+  "dubbingSettings": {
+    "message": "Ρυθμίσεις Μεταγλώττισης"
+  },
+  "debugInfo": {
+    "message": "Πληροφορίες Εντοπισμού Σφαλμάτων"
+  },
+  "sourceLanguage": {
+    "message": "Γλώσσα Πηγής"
+  },
+  "targetLanguage": {
+    "message": "Γλώσσα Στόχου"
+  },
+  "vipRequiredTitle": {
+    "message": "Απαιτείται Συνδρομή"
+  },
+  "vipRequiredText": {
+    "message": "Πρέπει να είστε μέλος για να χρησιμοποιήσετε αυτή τη λειτουργία"
+  },
+  "vipAndBalanceRequiredTitle": {
+    "message": "Απαιτείται Συνδρομή και Υπόλοιπο"
+  },
+  "vipAndBalanceRequiredText": {
+    "message": "Πρέπει να είστε μέλος και να έχετε επαρκές υπόλοιπο για να χρησιμοποιήσετε αυτή τη λειτουργία"
+  },
+  "balanceRequiredTitle": {
+    "message": "Απαιτείται Υπόλοιπο"
+  },
+  "balanceRequiredText": {
+    "message": "Το υπόλοιπο του λογαριασμού σας είναι ανεπαρκές. Επαναφορτίστε για να χρησιμοποιήσετε αυτή τη λειτουργία"
+  },
+  "lowBalanceTitle": {
+    "message": "Ειδοποίηση Χαμηλού Υπολοίπου"
+  },
+  "lowBalanceText": {
+    "message": "Το υπόλοιπο του λογαριασμού σας είναι κάτω από $1. Συνιστούμε την επαναφόρτιση σύντομα για αδιάκοπη υπηρεσία"
+  },
+  "insufficientBalance": {
+    "message": "Λόγω ανεπαρκούς υπολοίπου, η υπηρεσία υποβαθμίστηκε σε Google Translate. Για χρήση μετάφρασης AI, επαναφορτίστε το υπόλοιπό σας."
+  },
+  "insufficientBalanceAlertMsg": {
+    "message": "Το υπόλοιπό σας είναι ανεπαρκές. Επαναφορτίστε το υπόλοιπό σας πριν χρησιμοποιήσετε μετάφραση AI και Azure TTS. Αν δεν θέλετε να επαναφορτίσετε, μπορείτε να επιστρέψετε στο Google Translate και δωρεάν τύπους φωνής."
+  },
+  "balanceRunningLow": {
+    "message": "Το υπόλοιπό σας τελειώνει. Για να αποφύγετε κακή εμπειρία θέασης, συνιστάται η εκ των προτέρων επαναφόρτιση."
+  },
+  "membershipRequired": {
+    "message": "Αναβαθμιστείτε σε συνδρομή πριν χρησιμοποιήσετε μετάφραση OpenAI."
+  },
+  "membershipRequiredForAI": {
+    "message": "Επαναφορτίστε τη συνδρομή σας πριν χρησιμοποιήσετε μετάφραση AI. Αν δεν θέλετε να επαναφορτίσετε, μπορείτε επίσης να επιλέξετε Google Translate."
+  },
+  "insufficientMembership": {
+    "message": "Η συνδρομή σας έληξε. Επαναφορτίστε τη συνδρομή σας πριν χρησιμοποιήσετε μετάφραση AI και Azure TTS. Αν δεν θέλετε να επαναφορτίσετε, μπορείτε επίσης να επιλέξετε Google Translate και δωρεάν τύπους φωνής."
+  },
+  "insufficientBalanceAndMembership": {
+    "message": "Επαναφορτίστε τη συνδρομή και το υπόλοιπό σας πριν χρησιμοποιήσετε μετάφραση AI και Azure TTS. Αν δεν θέλετε να επαναφορτίσετε, μπορείτε επίσης να επιλέξετε Google Translate και δωρεάν τύπους φωνής."
+  },
+  "freeForVip": {
+    "message": "Δωρεάν για VIP"
+  },
+  "freeOptionTipText": {
+    "message": "Αν δεν θέλετε να επαναφορτίσετε, μπορείτε να επιλέξετε τη δωρεάν επιλογή, "
+  },
+  "translateEngineTipText": {
+    "message": "αλλάξτε την υπηρεσία μετάφρασης σε Google"
+  },
+  "voiceTypeTipText": {
+    "message": "αλλάξτε τον τύπο φωνής στη δωρεάν έκδοση"
+  },
+  "vipFreeOptionTipText": {
+    "message": "Ως μέλος, μπορείτε να χρησιμοποιήσετε τις ακόλουθες υπηρεσίες μετάφρασης δωρεάν"
+  },
+  "vipTranslateEngineTipText": {
+    "message": "Αλλάξτε την υπηρεσία μετάφρασης σε δωρεάν υπηρεσίες για μέλη όπως gemini, deepseek, gpt-3.5-turbo ή claude-3-haiku"
+  },
+  "pay": {
+    "message": "πληρωμή"
+  },
+  "switchModelWarning": {
+    "message": "Η αλλαγή της φωνής ή του μοντέλου μετάφρασης κατά την αναπαραγωγή βίντεο θα επιφέρει επιπλέον χρεώσεις λόγω σπατάλης πόρων. Συνιστούμε την αλλαγή στο επόμενο βίντεο. Για να συνεχίσετε ούτως ή άλλως, κάντε κλικ στο Συνέχεια και Αποθήκευση."
+  },
+  "selectSpeaker": {
+    "message": "Επιλογή"
+  },
+  "speaker": {
+    "message": "Ομιλητής"
+  },
+  "rechargeLimit": {
+    "message": "Πίστωση+Μέλος"
+  },
+  "tooExpensive": {
+    "message": "Πολύ ακριβό"
+  },
+  "dropdownPlaceholder": {
+    "message": "Επιλέξτε"
+  },
+  "dropdownNoOptions": {
+    "message": "Δεν υπάρχουν διαθέσιμες επιλογές"
+  },
+  "dropdownSearch": {
+    "message": "Αναζήτηση..."
+  },
+  "swapVolumeSettingsCommand": {
+    "message": "Εναλλαγή ρυθμίσεων έντασης μεταξύ αρχικού και μεταγλωττισμένου ήχου"
+  },
+  "cycleSubtitleModeCommand": {
+    "message": "Εναλλαγή υποτίτλων: δίγλωσσοι → μόνο μετάφραση → απενεργοποίηση"
+  },
+  "trialMemberModelLimit": {
+    "message": "Τα δοκιμαστικά μέλη μπορούν να χρησιμοποιήσουν μόνο Gemini και Google Translate. Για χρήση άλλων μοντέλων, εγγραφείτε στη συνδρομή μας."
+  },
+  "subtitlesRateLimitedByYouTube": {
+    "message": "Οι υπότιτλοι για αυτό το βίντεο περιορίζονται προς το παρόν από το YouTube. Δοκιμάστε ξανά αργότερα."
+  },
+  "musicVideoNotSupported": {
+    "message": "Αυτό είναι μουσικό βίντεο. Η μετάφραση και η μεταγλώττιση δεν υποστηρίζονται."
+  },
+  "hideUntilNextVisit": {
+    "message": "Απόκρυψη μέχρι την επόμενη επίσκεψη"
+  },
+  "disableGlobally": {
+    "message": "Απενεργοποίηση καθολικά"
+  },
+  "sidebarHideUntilNextVisit": {
+    "message": "Απόκρυψη μέχρι την επόμενη επίσκεψη"
+  },
+  "sidebarDisableForSite": {
+    "message": "Απενεργοποίηση για αυτόν τον ιστότοπο"
+  },
+  "sidebarDisableGlobally": {
+    "message": "Καθολική απενεργοποίηση"
+  },
+  "sidebarReenableHint": {
+    "message": "Μπορεί να ενεργοποιηθεί ξανά στις "
+  },
+  "sidebarSettings": {
+    "message": "Ρυθμίσεις"
+  },
+  "sidebarReenableHintSuffix": {
+    "message": " "
+  },
+  "notSupported": {
+    "message": "Δεν υποστηρίζεται"
+  },
+  "multiVideoNotSupported": {
+    "message": "Αυτή η σελίδα έχει πολλαπλά βίντεο. Η καθολική μεταγλώττιση υποστηρίζει μόνο σελίδες με ένα βίντεο κατά τη χρήση ροών HLS."
+  },
+  "mediaSourceNotDetected": {
+    "message": "Αδυναμία εντοπισμού πηγής βίντεο. Αυτός ο ιστότοπος ενδέχεται να μην υποστηρίζεται."
+  },
+  "uploadMediaForRecognition": {
+    "message": "Δεν βρέθηκαν υπότιτλοι. Θέλετε να ανεβάσετε το βίντεο για αναγνώριση υποτίτλων AI;"
+  },
+  "startUpload": {
+    "message": "Έναρξη μεταφόρτωσης"
+  },
+  "uploadingMedia": {
+    "message": "Μεταφόρτωση πολυμέσου..."
+  },
+  "downloading": {
+    "message": "Λήψη"
+  },
+  "uploading": {
+    "message": "Μεταφόρτωση"
+  },
+  "completing": {
+    "message": "Ολοκλήρωση"
+  },
+  "uploadComplete": {
+    "message": "Η μεταφόρτωση ολοκληρώθηκε"
+  },
+  "waitingForRecognition": {
+    "message": "Το βίντεο μεταφορτώθηκε επιτυχώς. Η αναγνώριση υποτίτλων AI βρίσκεται σε εξέλιξη. Θα λάβετε ειδοποίηση μέσω email όταν είναι έτοιμο."
+  },
+  "uploadFailed": {
+    "message": "Η μεταφόρτωση απέτυχε"
+  },
+  "corsNotSupported": {
+    "message": "Αυτός ο ιστότοπος δεν επιτρέπει τη λήψη αρχείων πολυμέσων. Η καθολική μεταγλώττιση δεν υποστηρίζεται."
+  },
+  "mediaDownloadInterrupted": {
+    "message": "Η λήψη του πολυμέσου διακόπηκε λόγω σφάλματος δικτύου (δεν πρόκειται για περιορισμό του ιστότοπου). Δοκιμάστε ξανά τη μεταφόρτωση."
+  },
+  "zoomRecordingDnrNotSupported": {
+    "message": "Ο περιηγητής σας δεν υποστηρίζει αναγνώριση μεταφόρτωσης εγγραφής Zoom. Χρησιμοποιήστε Chrome/Edge."
+  },
+  "zoomRecordingDownloadForbidden403": {
+    "message": "Η λήψη εγγραφής Zoom απαγορεύτηκε (403). Παίξτε/ανανεώστε τη σελίδα για επαλήθευση και δοκιμάστε ξανά."
+  },
+  "liveStreamNotSupported": {
+    "message": "Οι ζωντανές ροές δεν υποστηρίζονται για καθολική μεταγλώττιση."
+  },
+  "noAudioTrackFound": {
+    "message": "Δεν εντοπίστηκε κομμάτι ήχου. Αυτό το βίντεο φαίνεται να είναι μόνο βίντεο χωρίς ήχο και δεν μπορεί να χρησιμοποιηθεί για αναγνώριση μεταγλώττισης."
+  },
+  "universalDubbingMemberOnly": {
+    "message": "Η καθολική μεταγλώττιση απαιτεί υπολογιστική ισχύ GPU cloud (υψηλό κόστος), μόνο για VIP."
+  },
+  "videoDurationExceedsLimit": {
+    "message": "Αυτό το βίντεο υπερβαίνει τις 3 ώρες σε διάρκεια. Η καθολική μεταγλώττιση δεν υποστηρίζεται προς το παρόν για βίντεο μεγαλύτερα από 3 ώρες."
+  },
+  "videoDrmProtected": {
+    "message": "Αυτό το βίντεο προστατεύεται από DRM και δεν μπορεί να χρησιμοποιηθεί για μεταγλώττιση."
+  },
+  "pleaseClickVideoToPlay": {
+    "message": "Κάντε κλικ στο βίντεο για να το ανοίξετε και στη συνέχεια χρησιμοποιήστε τη λειτουργία μεταγλώττισης."
+  },
+  "iosUniversalDubbingNotSupported": {
+    "message": "Η καθολική μεταγλώττιση δεν υποστηρίζεται σε συσκευές iOS. Παρακαλώ χρησιμοποιήστε επιτραπέζιο πρόγραμμα περιήγησης."
+  },
+  "membershipRequiredTitle": {
+    "message": "Απαιτείται συνδρομή"
+  },
+  "error": {
+    "message": "Σφάλμα"
+  },
+  "unknownError": {
+    "message": "Παρουσιάστηκε άγνωστο σφάλμα. Παρακαλώ δοκιμάστε ξανά."
+  },
+  "doNotClosePage": {
+    "message": "Παρακαλώ μην κλείνετε ή ανανεώνετε αυτήν τη σελίδα κατά τη διάρκεια της μεταφόρτωσης, διαφορετικά η μεταφόρτωση θα διακοπεί."
+  },
+  "taskAlreadySubmitted": {
+    "message": "Αυτό το βίντεο επεξεργάζεται ήδη για αναγνώριση υποτίτλων AI. Παρακαλώ περιμένετε την ειδοποίηση μέσω email."
+  },
+  "sampleAesNotSupported": {
+    "message": "Αυτό το βίντεο χρησιμοποιεί κρυπτογράφηση SAMPLE-AES που δεν υποστηρίζεται αυτή τη στιγμή για λήψη."
+  },
+  "hlsKeyFetchFailed": {
+    "message": "Αποτυχία ανάκτησης του κλειδιού αποκρυπτογράφησης για αυτό το βίντεο. Το βίντεο μπορεί να είναι προστατευμένο ή ο διακομιστής κλειδιών δεν είναι διαθέσιμος."
+  },
+  "hlsDecryptionFailed": {
+    "message": "Αποτυχία αποκρυπτογράφησης του περιεχομένου βίντεο. Το κλειδί κρυπτογράφησης μπορεί να είναι λανθασμένο ή η μορφή βίντεο δεν είναι συμβατή."
+  },
+  "subtitleStyleOptionsTitle": {
+    "message": "Ρύθμιση στυλ υπότιτλων"
+  },
+  "subtitleStyleOptionsDesc": {
+    "message": "Οι αλλαγές αποθηκεύονται και εφαρμόζονται αμέσως."
+  },
+  "subtitleStyleSectionTitle": {
+    "message": "Στυλ υπότιτλων"
+  },
+  "subtitleStylePreviewTitle": {
+    "message": "Προεπισκόπηση"
+  },
+  "subtitleStylePreviewTag": {
+    "message": "Σε πραγματικό χρόνο"
+  },
+  "subtitleStylePreviewText": {
+    "message": "Πίστευε ότι αυτός ο νεαρός είχε μεγάλες δυνατότητες."
+  },
+  "subtitleStylePosition": {
+    "message": "Θέση υποτίτλων"
+  },
+  "subtitleStylePositionTop": {
+    "message": "Πάνω"
+  },
+  "subtitleStylePositionMiddle": {
+    "message": "Μέση"
+  },
+  "subtitleStylePositionBottom": {
+    "message": "Κάτω"
+  },
+  "subtitleStyleFontFamily": {
+    "message": "Γραμματοσειρά"
+  },
+  "subtitleStyleFontSize": {
+    "message": "Μέγεθος γραμματοσειράς"
+  },
+  "subtitleStyleCustomOption": {
+    "message": "Προσαρμοσμένο"
+  },
+  "subtitleStyleCustomFont": {
+    "message": "Προσαρμοσμένη γραμματοσειρά"
+  },
+  "subtitleStyleCustomFontPlaceholder": {
+    "message": "Για παράδειγμα: PingFang SC, Arial"
+  },
+  "subtitleStyleTextColor": {
+    "message": "Χρώμα γραμματοσειράς"
+  },
+  "subtitleStyleFontWeight": {
+    "message": "Βάρος γραμματοσειράς"
+  },
+  "subtitleStyleBackgroundColor": {
+    "message": "Χρώμα φόντου"
+  },
+  "subtitleStyleBackgroundOpacity": {
+    "message": "Αδιαφάνεια φόντου"
+  },
+  "subtitleStyleEdgeStyle": {
+    "message": "Στυλ ακμής"
+  },
+  "subtitleStyleEdgeNone": {
+    "message": "Κανένα"
+  },
+  "subtitleStyleEdgeShadow": {
+    "message": "Σκιά"
+  },
+  "subtitleStyleEdgeOutline": {
+    "message": "Περίγραμμα"
+  },
+  "subtitleStyleFontNone": {
+    "message": "Καμία"
+  },
+  "subtitleStyleFontDefault": {
+    "message": "Προεπιλογή"
+  },
+  "subtitleStyleFontPingFang": {
+    "message": "PingFang SC"
+  },
+  "subtitleStyleFontYaHei": {
+    "message": "Microsoft YaHei"
+  },
+  "subtitleStyleFontHeiti": {
+    "message": "STHeiti"
+  },
+  "subtitleStyleFontKaiti": {
+    "message": "Kaiti SC"
+  },
+  "subtitleStyleFontSongti": {
+    "message": "STSong"
+  },
+  "subtitleStyleFontFangsong": {
+    "message": "FangSong"
+  },
+  "subtitleStyleFontDongqingHeiti": {
+    "message": "Dongqing Heiti"
+  },
+  "subtitleStyleFontLantingHei": {
+    "message": "Lanting Hei"
+  },
+  "subtitleStyleFontHanyiHeiliu": {
+    "message": "Hanyi Heiliu"
+  },
+  "subtitleStyleFontHanyiZhonghei": {
+    "message": "Hanyi Zhonghei"
+  },
+  "subtitleStyleFontSTSong": {
+    "message": "Songti"
+  },
+  "subtitleStyleFontWawati": {
+    "message": "Wawati"
+  },
+  "subtitleStyleFontWeibei": {
+    "message": "Weibei"
+  },
+  "subtitleStyleFontXingkai": {
+    "message": "Xingkai"
+  },
+  "subtitleStyleFontYuanti": {
+    "message": "Yuanti"
+  },
+  "subtitleStyleFontArialUnicode": {
+    "message": "Arial Unicode MS"
+  },
+  "subtitleStyleFontArial": {
+    "message": "Arial"
+  },
+  "subtitleStyleFontCourierNew": {
+    "message": "Courier New"
+  },
+  "subtitleStyleFontGeorgia": {
+    "message": "Georgia"
+  },
+  "subtitleStyleFontTahoma": {
+    "message": "Tahoma"
+  },
+  "subtitleStyleFontTimesNewRoman": {
+    "message": "Times New Roman"
+  },
+  "subtitleStyleFontTrebuchetMS": {
+    "message": "Trebuchet MS"
+  },
+  "subtitleStyleFontVerdana": {
+    "message": "Verdana"
+  },
+  "subtitleStyleFontHelveticaNeue": {
+    "message": "Helvetica Neue"
+  },
+  "subtitleStyleFontHiraginoMincho": {
+    "message": "Hiragino Mincho ProN"
+  },
+  "subtitleStyleFontHiraginoKaku": {
+    "message": "Hiragino Kaku Gothic ProN"
+  },
+  "subtitleStyleFontKohinoor": {
+    "message": "Kohinoor Devanagari"
+  },
+  "subtitleStyleFontAppleSD": {
+    "message": "Apple SD Gothic Neo"
+  },
+  "subtitleStyleFontNanumGothic": {
+    "message": "Nanum Gothic"
+  },
+  "subtitleStyleFontCustom": {
+    "message": "Προσαρμοσμένη"
+  },
+  "subtitleStyleColorWhite": {
+    "message": "Λευκό"
+  },
+  "subtitleStyleColorYellow": {
+    "message": "Κίτρινο"
+  },
+  "subtitleStyleColorOrange": {
+    "message": "Πορτοκαλί"
+  },
+  "subtitleStyleColorGray": {
+    "message": "Γκρι"
+  },
+  "subtitleStyleColorGreen": {
+    "message": "Πράσινο"
+  },
+  "subtitleStyleColorCyan": {
+    "message": "Κυανό"
+  },
+  "subtitleStyleColorBlue": {
+    "message": "Μπλε"
+  },
+  "subtitleStyleColorMagenta": {
+    "message": "Ματζέντα"
+  },
+  "subtitleStyleColorRed": {
+    "message": "Κόκκινο"
+  },
+  "subtitleStyleColorBlack": {
+    "message": "Μαύρο"
+  },
+  "subtitleStyleEditorViewLabel": {
+    "message": "Προβολή επεξεργασίας στυλ"
+  },
+  "subtitleStyleEditorViewTranslated": {
+    "message": "Μόνο μετάφραση"
+  },
+  "subtitleStyleEditorViewBilingual": {
+    "message": "Δίγλωσσο"
+  },
+  "subtitleStyleLayoutSectionTitle": {
+    "message": "Δίγλωσση διάταξη"
+  },
+  "subtitleStyleOrder": {
+    "message": "Σειρά υπότιτλων"
+  },
+  "subtitleStyleOrderTranslatedFirst": {
+    "message": "Μετάφραση επάνω"
+  },
+  "subtitleStyleOrderOriginalFirst": {
+    "message": "Πρωτότυπο επάνω"
+  },
+  "subtitleStyleLineGap": {
+    "message": "Απόσταση γραμμών"
+  },
+  "subtitleStyleTextAlign": {
+    "message": "Οριζόντια στοίχιση"
+  },
+  "subtitleStyleTextAlignLeft": {
+    "message": "Αριστερά"
+  },
+  "subtitleStyleTextAlignCenter": {
+    "message": "Κέντρο"
+  },
+  "subtitleStyleTextAlignRight": {
+    "message": "Δεξιά"
+  },
+  "subtitleStyleTranslatedSectionTitle": {
+    "message": "Στυλ μετάφρασης"
+  },
+  "subtitleStyleOriginalSectionTitle": {
+    "message": "Στυλ πρωτοτύπου"
+  },
+  "subtitleStyleFollowTranslated": {
+    "message": "Ίδιο στυλ με τη μετάφραση"
+  },
+  "subtitleStyleUsesCurrentSettings": {
+    "message": "Χρησιμοποιεί τις τρέχουσες ρυθμίσεις"
+  },
+  "subtitleStyleOriginalSizePercent": {
+    "message": "Αναλογία μεγέθους γραμματοσειράς"
+  },
+  "subtitleStyleSharedBackgroundSectionTitle": {
+    "message": "Κοινό φόντο"
+  },
+  "subtitleStyleRestoreDefaults": {
+    "message": "Επαναφορά προεπιλογών"
+  },
+  "subtitleStylePreviewOriginalText": {
+    "message": "He thought this young man had great potential."
+  },
+  "subtitleStyleColorLightGray": {
+    "message": "Ανοιχτό γκρι"
+  },
+  "disabledSitesSectionTitle": {
+    "message": "Απενεργά"
+  },
+  "disabledSitesTitle": {
+    "message": "Απενεργοί ιστότοποι"
+  },
+  "disabledSitesDescription": {
+    "message": "Το αιωρούμενο κουμπί δεν εμφανίζεται σε αυτούς τους ιστοτόπους. Προσθέστε ή αφαιρέστε ιστοτόπους εδώ."
+  },
+  "disabledSitesPlaceholder": {
+    "message": "Εισαγάγετε domain, π.χ. youtube.com"
+  },
+  "disabledSitesAdd": {
+    "message": "Προσθήκη"
+  },
+  "disabledSitesDomain": {
+    "message": "Domain"
+  },
+  "disabledSitesActions": {
+    "message": "Ενέργειες"
+  },
+  "disabledSitesDelete": {
+    "message": "Διαγραφή"
+  },
+  "disabledSitesEmpty": {
+    "message": "Δεν υπάρχουν απενεργοποιημένοι ιστότοποι"
+  },
+  "preferencesSectionTitle": {
+    "message": "Βασικές ρυθμίσεις"
+  },
+  "optionsNavPreferencesShort": {
+    "message": "Βασικά"
+  },
+  "optionsNavSubtitleShort": {
+    "message": "Υπότιτλοι"
+  },
+  "optionsNavAiShort": {
+    "message": "AI"
+  },
+  "optionsNavSitesShort": {
+    "message": "Ιστότοποι"
+  },
+  "preferenceStatusDisabled": {
+    "message": "Ανενεργό"
+  },
+  "preferencesTitle": {
+    "message": "Βασικές ρυθμίσεις"
+  },
+  "preferencesDescription": {
+    "message": "Διαχειριστείτε εδώ τις βασικές προτιμήσεις σας."
+  },
+  "emailNotificationLabel": {
+    "message": "Ειδοποιήσεις email"
+  },
+  "emailNotificationDescription": {
+    "message": "Ειδοποίησέ με με email όταν ολοκληρωθεί η αναγνώριση υποτίτλων."
+  },
+  "emailNotificationSaveFailed": {
+    "message": "Η αποθήκευση απέτυχε. Δοκιμάστε ξανά αργότερα."
+  },
+  "skipTranslationWhenSameLanguageLabel": {
+    "message": "Παράλειψη μετάφρασης για ίδια γλώσσα"
+  },
+  "skipTranslationWhenSameLanguageDescription": {
+    "message": "Όταν είναι ενεργό και η γλώσσα υποτίτλων ταιριάζει με τη γλώσσα στόχο, η μεταγλώττιση ξεκινά απευθείας χωρίς μετάφραση."
+  },
+  "userSubtitleSegmentationEnabledLabel": {
+    "message": "Έξυπνη κατάτμηση υποτίτλων χρήστη"
+  },
+  "userSubtitleSegmentationEnabledDescription": {
+    "message": "Όταν είναι ενεργή, κατατμεί αυτόματα τους επεξεργασμένους ή τοπικά μεταφορτωμένους υπότιτλους. Όταν είναι ανενεργή, διατηρεί την αρχική τους κατάτμηση."
+  },
+  "subtitlePriorityTitle": {
+    "message": "Προτεραιότητα μετάφρασης υποτίτλων"
+  },
+  "subtitlePriorityDescription": {
+    "message": "Επιλέξτε ποια πηγή υποτίτλων θα έχει προτεραιότητα για μετάφραση."
+  },
+  "subtitlePriorityAiSubtitle": {
+    "message": "Υπότιτλοι αναγνωρισμένοι από AI του πρόσθετου"
+  },
+  "subtitlePriorityAiSubtitleDesc": {
+    "message": "Προτεραιότητα στους υπότιτλους που δημιουργούνται από την αναγνώριση ομιλίας AI του πρόσθετου για υψηλότερη ακρίβεια."
+  },
+  "subtitlePriorityPlatformSubtitle": {
+    "message": "Ενσωματωμένοι υπότιτλοι πλατφόρμας"
+  },
+  "subtitlePriorityPlatformSubtitleDesc": {
+    "message": "Προτεραιότητα στους αρχικούς υπότιτλους που παρέχονται από την πλατφόρμα βίντεο."
+  },
+  "subtitlePriorityQuickLabel": {
+    "message": "Υπότιτλοι"
+  },
+  "subtitlePriorityQuickAi": {
+    "message": "AI"
+  },
+  "subtitlePriorityQuickPlatform": {
+    "message": "Πλατφόρμα"
+  },
+  "panelTabVideoSummary": {
+    "message": "Περίληψη"
+  },
+  "panelTabSubtitleEdit": {
+    "message": "Υπότιτλοι"
+  },
+  "panelSummaryTitle": {
+    "message": "Περίληψη και δομή βίντεο"
+  },
+  "panelSummaryDesc": {
+    "message": "Χρησιμοποιήστε προηγμένα μοντέλα AI για γρήγορη κατανόηση του περιεχομένου βίντεο"
+  },
+  "panelSummaryGenerate": {
+    "message": "Δημιουργία περίληψης"
+  },
+  "panelSummaryGenerating": {
+    "message": "Δημιουργία..."
+  },
+  "panelSummaryReGenerating": {
+    "message": "Εκ νέου δημιουργία..."
+  },
+  "panelSummarySectionSummary": {
+    "message": "Περίληψη"
+  },
+  "panelSummarySectionHighlights": {
+    "message": "Σημαντικά σημεία"
+  },
+  "panelSummaryExpandAll": {
+    "message": "Ανάπτυξη όλων"
+  },
+  "panelSummaryCollapseAll": {
+    "message": "Σύμπτυξη όλων"
+  },
+  "panelSummaryExpand": {
+    "message": "Ανάπτυξη"
+  },
+  "panelSummaryCollapse": {
+    "message": "Σύμπτυξη"
+  },
+  "panelSummaryShare": {
+    "message": "Κοινοποίηση"
+  },
+  "panelSummaryCopy": {
+    "message": "Αντιγραφή"
+  },
+  "panelSummaryReGenerate": {
+    "message": "Δημιουργία εκ νέου"
+  },
+  "panelSummaryCopySuccess": {
+    "message": "Αντιγράφηκε"
+  },
+  "panelSummaryPlay": {
+    "message": "Αναπαραγωγή"
+  },
+  "panelSummaryPause": {
+    "message": "Παύση"
+  },
+  "panelSummaryPlayFailed": {
+    "message": "Η αναπαραγωγή απέτυχε, δοκιμάστε ξανά"
+  },
+  "panelSummaryNoSubtitle": {
+    "message": "Δεν υπάρχουν διαθέσιμοι υπότιτλοι για αυτό το βίντεο"
+  },
+  "panelSummaryError": {
+    "message": "Η δημιουργία περίληψης απέτυχε, παρακαλώ δοκιμάστε ξανά"
+  },
+  "panelSummaryErrorInvalidVideoId": {
+    "message": "Δεν είναι δυνατή η αναγνώριση του τρέχοντος βίντεο, ανανεώστε τη σελίδα και δοκιμάστε ξανά"
+  },
+  "panelSummaryErrorMemberRequired": {
+    "message": "Η σύνοψη βίντεο είναι αποκλειστική λειτουργία για μέλη, εγγραφείτε για να τη χρησιμοποιήσετε"
+  },
+  "panelSummaryErrorNoSubtitles": {
+    "message": "Δεν υπάρχουν διαθέσιμοι υπότιτλοι για αυτό το βίντεο, δεν είναι δυνατή η δημιουργία σύνοψης"
+  },
+  "panelSummaryErrorServiceError": {
+    "message": "Η υπηρεσία σύνοψης είναι προσωρινά μη διαθέσιμη, δοκιμάστε ξανά αργότερα"
+  },
+  "subtitleEditorManualInput": {
+    "message": "Χειροκίνητη εισαγωγή"
+  },
+  "subtitleEditorSwitchTip": {
+    "message": "Κάντε κλικ εδώ για να αλλάξετε υπότιτλους"
+  },
+  "subtitleEditorExport": {
+    "message": "Εξαγωγή"
+  },
+  "subtitleEditorTrackFallback": {
+    "message": "Πηγή υπότιτλων"
+  },
+  "subtitleEditorMySubtitles": {
+    "message": "Οι υπότιτλοι μου"
+  },
+  "subtitleEditorNoSourceManual": {
+    "message": "Δεν υπάρχουν διαθέσιμες πηγές υπότιτλων (διαθέσιμη μη αυτόματη εισαγωγή)"
+  },
+  "subtitleEditorSaveInvalidVideo": {
+    "message": "Δεν είναι δυνατή η αναγνώριση του τρέχοντος βίντεο. Η αποθήκευση απέτυχε."
+  },
+  "subtitleEditorSaveFailed": {
+    "message": "Η αποθήκευση απέτυχε. Δοκιμάστε ξανά αργότερα."
+  },
+  "subtitleEditorValidationEmpty": {
+    "message": "Το περιεχόμενο υπότιτλων δεν μπορεί να είναι κενό"
+  },
+  "subtitleEditorValidationBlockStructure": {
+    "message": "Μη έγκυρο μπλοκ SRT. Απαιτείται η ακολουθία, η χρονική σήμανση και το περιεχόμενο."
+  },
+  "subtitleEditorValidationSequenceFormat": {
+    "message": "Μη έγκυρη μορφή αριθμού ακολουθίας SRT"
+  },
+  "subtitleEditorValidationSequenceIncrement": {
+    "message": "Οι αριθμοί ακολουθίας SRT πρέπει να ξεκινούν από το 1 και να αυξάνονται κατά 1"
+  },
+  "subtitleEditorValidationTimeFormat": {
+    "message": "Μη έγκυρη μορφή ώρας. Ελέγξτε και διορθώστε το."
+  },
+  "subtitleEditorValidationEndAfterStart": {
+    "message": "Η ώρα λήξης πρέπει να είναι μεγαλύτερη από την ώρα έναρξης"
+  },
+  "subtitleEditorValidationContentRequired": {
+    "message": "Κάθε υπότιτλος πρέπει να περιέχει τουλάχιστον μία γραμμή κειμένου"
+  },
+  "subtitleEditorValidationSpeakerPrefix": {
+    "message": "Ορισμένοι υπότιτλοι περιλαμβάνουν ετικέτες ηχείων. Όλοι οι υπότιτλοι πρέπει να χρησιμοποιούν το πρόθεμα [speaker]."
+  },
+  "localPlayerTemporaryImportMode": {
+    "message": "Λειτουργία προσωρινής εισαγωγής"
+  },
+  "localPlayerLibraryTitle": {
+    "message": "Τοπική βιβλιοθήκη βίντεο"
+  },
+  "localPlayerEntryButton": {
+    "message": "Τοπικό βίντεο"
+  },
+  "localPlayerPageTitle": {
+    "message": "Τοπικό βίντεο · YouTube Dubbing"
+  },
+  "localPlayerFolderAccessDescription": {
+    "message": "Το άνοιγμα ενός φακέλου αποθηκεύει τις λαβές αρχείων, ώστε η πρόσβαση να μπορεί να αποκατασταθεί μετά την ανανέωση."
+  },
+  "localPlayerTemporaryImportDescription": {
+    "message": "Αυτό το πρόγραμμα περιήγησης δεν υποστηρίζει το File System Access API. Μπορείτε να προσθέσετε προσωρινά βίντεο και υπότιτλους."
+  },
+  "localPlayerOpenFolder": {
+    "message": "Άνοιγμα φακέλου"
+  },
+  "localPlayerAddVideo": {
+    "message": "Προσθήκη βίντεο"
+  },
+  "localPlayerAddSubtitle": {
+    "message": "Προσθήκη υπότιτλου"
+  },
+  "localPlayerVideoList": {
+    "message": "Λίστα βίντεο"
+  },
+  "localPlayerFolders": {
+    "message": "Φάκελοι"
+  },
+  "localPlayerFoldersDescription": {
+    "message": "Περιήγηση στα εισαγόμενα μέσα ανά φάκελο."
+  },
+  "localPlayerAllVideos": {
+    "message": "Όλα τα βίντεο"
+  },
+  "localPlayerAllVideosDescription": {
+    "message": "Αναζητήστε και διαχειριστείτε κάθε εισαγόμενο βίντεο."
+  },
+  "localPlayerLibraryView": {
+    "message": "Προβολή βιβλιοθήκης"
+  },
+  "localPlayerBackToFolders": {
+    "message": "Επιστροφή στους φακέλους"
+  },
+  "localPlayerFolderSearchPlaceholder": {
+    "message": "Αναζήτηση φακέλων, διαδρομών ή αρχείων"
+  },
+  "localPlayerTotalFolders": {
+    "message": "Σύνολο φακέλων {count}"
+  },
+  "localPlayerMatchedFolders": {
+    "message": "Αντιστοιχισμένοι {visibleCount} / σύνολο φακέλων {totalCount}"
+  },
+  "localPlayerNoFolderMatchesTitle": {
+    "message": "Δεν υπάρχουν φάκελοι που να ταιριάζουν"
+  },
+  "localPlayerNoFolderMatchesText": {
+    "message": "Προσαρμόστε την αναζήτηση φακέλου και δοκιμάστε ξανά."
+  },
+  "localPlayerRescanAll": {
+    "message": "Εκ νέου σάρωση όλων"
+  },
+  "localPlayerFolderMenuLabel": {
+    "message": "Ενέργειες φακέλου"
+  },
+  "localPlayerOpenFolderMenu": {
+    "message": "Άνοιγμα φακέλου"
+  },
+  "localPlayerRescanThisFolder": {
+    "message": "Επαναλάβετε τη σάρωση αυτού του φακέλου"
+  },
+  "localPlayerRemoveFromLibrary": {
+    "message": "Κατάργηση από τη βιβλιοθήκη"
+  },
+  "localPlayerFolderVideoCount": {
+    "message": "{count} βίντεο"
+  },
+  "localPlayerFolderAssociatedSubtitleCount": {
+    "message": "{count} συσχετισμένοι υπότιτλοι"
+  },
+  "localPlayerFolderLastPlayed": {
+    "message": "Τελευταίο παιχνίδι {time}"
+  },
+  "localPlayerFolderLastScanned": {
+    "message": "Τελευταία σάρωση {time}"
+  },
+  "localPlayerRemoveFolderTitle": {
+    "message": "Να καταργηθεί αυτός ο φάκελος από τη βιβλιοθήκη;"
+  },
+  "localPlayerRemoveFolderText": {
+    "message": "Αυτό καταργεί μόνο τις εγγραφές της βιβλιοθήκης για αυτόν τον φάκελο. Τα πρωτότυπα αρχεία στο δίσκο δεν θα διαγραφούν."
+  },
+  "localPlayerFolderRemoved": {
+    "message": "Αφαιρέθηκε {folderName}"
+  },
+  "localPlayerRemoveFolderFailed": {
+    "message": "Αποτυχία κατάργησης του φακέλου από τη βιβλιοθήκη."
+  },
+  "localPlayerRescanFailed": {
+    "message": "Απέτυχε η εκ νέου σάρωση της τοπικής βιβλιοθήκης."
+  },
+  "localPlayerRescanFolderUnavailable": {
+    "message": "Δεν είναι δυνατή η εκ νέου σάρωση αυτού του φακέλου επειδή η πρόσβαση στον αποθηκευμένο φάκελο δεν είναι διαθέσιμη."
+  },
+  "localPlayerCurrentDirectory": {
+    "message": "Τρέχων κατάλογος"
+  },
+  "localPlayerNoNewFilesFound": {
+    "message": "Δεν βρέθηκαν νέα αρχεία."
+  },
+  "localPlayerScanComplete": {
+    "message": "Η σάρωση ολοκληρώθηκε: προστέθηκαν {addedVideoCount} βίντεο, {addedSubtitleCount} υπότιτλοι, ενημερωμένα {updatedCount} αρχεία."
+  },
+  "localPlayerNever": {
+    "message": "Ποτέ"
+  },
+  "localPlayerSearchPlaceholder": {
+    "message": "Αναζήτηση βίντεο ή διαδρομών αρχείων"
+  },
+  "localPlayerFilterAll": {
+    "message": "Όλα"
+  },
+  "localPlayerFilterWithSubtitle": {
+    "message": "Με υπότιτλους"
+  },
+  "localPlayerFilterNoSubtitle": {
+    "message": "Χωρίς υπότιτλους"
+  },
+  "localPlayerSortLastPlayed": {
+    "message": "Βίντεο που παίχτηκαν πρόσφατα"
+  },
+  "localPlayerSortName": {
+    "message": "Όνομα αρχείου"
+  },
+  "localPlayerSortDuration": {
+    "message": "Διάρκεια βίντεο"
+  },
+  "localPlayerNoVideosTitle": {
+    "message": "Δεν υπάρχουν ακόμη τοπικά βίντεο"
+  },
+  "localPlayerNoMatchesTitle": {
+    "message": "Δεν υπάρχουν βίντεο που να ταιριάζουν"
+  },
+  "localPlayerNoVideosText": {
+    "message": "Ανοίξτε έναν φάκελο ή προσθέστε βίντεο για να διαχειριστείτε συνδέσμους υπότιτλων και τοπική μεταγλώττιση φωνής εδώ."
+  },
+  "localPlayerNoMatchesText": {
+    "message": "Προσαρμόστε την αναζήτηση, το φίλτρο ή την ταξινόμηση και δοκιμάστε ξανά."
+  },
+  "localPlayerDeleteVideoLabel": {
+    "message": "Διαγραφή {fileName}"
+  },
+  "localPlayerRecognitionSubmitted": {
+    "message": "Αναγνώριση υπότιτλων"
+  },
+  "localPlayerPlay": {
+    "message": "Αναπαραγωγή βίντεο"
+  },
+  "localPlayerSubtitles": {
+    "message": "Υπότιτλοι"
+  },
+  "localPlayerStartDubbing": {
+    "message": "Έναρξη μεταγλώττισης φωνής"
+  },
+  "localPlayerFloatingActionsLabel": {
+    "message": "Τοπικές γρήγορες ενέργειες βίντεο"
+  },
+  "localPlayerOpenSidebar": {
+    "message": "Άνοιγμα πλαϊνής γραμμής"
+  },
+  "localPlayerClose": {
+    "message": "Κλείσιμο"
+  },
+  "localPlayerSameDirectorySubtitleSummary": {
+    "message": "Υπότιτλοι ίδιου φακέλου {sameCount} · Συνδεδεμένοι {associatedCount}"
+  },
+  "localPlayerNoManageableSubtitles": {
+    "message": "Δεν υπάρχουν υπότιτλοι για διαχείριση"
+  },
+  "localPlayerAssociateAndUseForDubbing": {
+    "message": "Συνδέστε τον υπότιτλο και χρησιμοποιήστε τον για μεταγλώττιση φωνής"
+  },
+  "localPlayerSetForDubbing": {
+    "message": "Χρησιμοποιήστε αυτόν τον υπότιτλο για μεταγλώττιση φωνής"
+  },
+  "localPlayerRemoveAssociation": {
+    "message": "Αποσύνδεση υποτίτλων"
+  },
+  "localPlayerRemoveAllAssociations": {
+    "message": "Αποσυνδέστε όλους τους υπότιτλους"
+  },
+  "localPlayerSelectVideoForSubtitleTitle": {
+    "message": "Επιλέξτε ένα βίντεο για σύνδεση σε αυτόν τον υπότιτλο"
+  },
+  "localPlayerAssociate": {
+    "message": "Σύνδεσμος υπότιτλος"
+  },
+  "localPlayerInitialStatus": {
+    "message": "Ανοίξτε έναν φάκελο, προσθέστε βίντεο ή αποθέστε αρχεία για να ξεκινήσετε."
+  },
+  "localPlayerAscendingSortTitle": {
+    "message": "Αύξουσα; κάντε κλικ για μετάβαση σε φθίνουσα"
+  },
+  "localPlayerDescendingSortTitle": {
+    "message": "Φθίνουσα; κάντε κλικ για μετάβαση σε αύξουσα"
+  },
+  "localPlayerTotalVideos": {
+    "message": "Σύνολο {count} βίντεο"
+  },
+  "localPlayerMatchedVideos": {
+    "message": "Αντιστοιχισμένα {visibleCount} / συνολικά {totalCount} βίντεο"
+  },
+  "localPlayerRouteVideoMissing": {
+    "message": "Το βίντεο που καθορίζεται στη διεύθυνση URL δεν βρίσκεται στην τρέχουσα τοπική βιβλιοθήκη βίντεο."
+  },
+  "localPlayerFolderAccessUnsupported": {
+    "message": "Αυτό το πρόγραμμα περιήγησης δεν μπορεί να ανοίξει φακέλους. Χρησιμοποιήστε Προσθήκη βίντεο/Προσθήκη υπότιτλου για μια προσωρινή εισαγωγή."
+  },
+  "localPlayerImportComplete": {
+    "message": "Εισήχθησαν {videoCount} βίντεο και {subtitleCount} υπότιτλοι."
+  },
+  "localPlayerOpenFolderFailed": {
+    "message": "Απέτυχε το άνοιγμα του φακέλου."
+  },
+  "localPlayerAddVideoFailed": {
+    "message": "Αποτυχία προσθήκης βίντεο."
+  },
+  "localPlayerAddSubtitleFailed": {
+    "message": "Αποτυχία προσθήκης υποτίτλων."
+  },
+  "localPlayerAssociationSaved": {
+    "message": "Ο σύνδεσμος υπότιτλων αποθηκεύτηκε."
+  },
+  "localPlayerAssociationSavedAndPreferred": {
+    "message": "Ο υπότιτλος συνδέθηκε και ρυθμίστηκε για μεταγλώττιση φωνής."
+  },
+  "localPlayerPreferredSubtitleSaved": {
+    "message": "Σετ υποτίτλων για μεταγλώττιση φωνής."
+  },
+  "localPlayerAssociationRemoved": {
+    "message": "Ο σύνδεσμος υπότιτλων καταργήθηκε."
+  },
+  "localPlayerRebindSubtitleTitle": {
+    "message": "Επανασύνδεση αυτού του υπότιτλου;"
+  },
+  "localPlayerRebindSubtitleText": {
+    "message": "Αυτός ο υπότιτλος έχει ήδη συσχετιστεί με το \"{fromVideo}\". Αν συνεχίσετε, θα καταργηθεί αυτή η συσχέτιση και θα συσχετιστεί με το \"{toVideo}\"."
+  },
+  "localPlayerRemoveAllAssociationsTitle": {
+    "message": "Αποσύνδεση όλων των υπότιτλων;"
+  },
+  "localPlayerRemoveAllAssociationsText": {
+    "message": "Μόνο οι σύνδεσμοι υπότιτλων για αυτό το βίντεο θα καταργηθούν. Οι εγγραφές του αρχείου υπότιτλων δεν θα διαγραφούν."
+  },
+  "localPlayerAllAssociationsRemoved": {
+    "message": "Καταργήθηκαν όλοι οι σύνδεσμοι υπότιτλων."
+  },
+  "localPlayerDeleteVideoTitle": {
+    "message": "Διαγραφή αυτού του βίντεο;"
+  },
+  "localPlayerDeleteVideoText": {
+    "message": "Αυτό καταργεί τους συνδέσμους βίντεο και υποτίτλων από την τοπική βιβλιοθήκη. Τα πρωτότυπα αρχεία στο δίσκο δεν θα διαγραφούν."
+  },
+  "localPlayerDelete": {
+    "message": "Διαγραφή"
+  },
+  "localPlayerVideoDeleted": {
+    "message": "Διαγράφηκε {fileName}"
+  },
+  "localPlayerDeleteVideoFailed": {
+    "message": "Αποτυχία διαγραφής βίντεο."
+  },
+  "localPlayerVideoFileAccessLost": {
+    "message": "Δεν είναι δυνατή η επαναφορά της πρόσβασης σε αυτό το αρχείο βίντεο. Προσθέστε ξανά το βίντεο."
+  },
+  "localPlayerVideoPlayerNotReady": {
+    "message": "Το πρόγραμμα αναπαραγωγής βίντεο δεν είναι ακόμα έτοιμο."
+  },
+  "localPlayerNowPlaying": {
+    "message": "Παίζει τώρα {fileName}"
+  },
+  "localPlayerDubbingStarted": {
+    "message": "Ξεκίνησε η τοπική μεταγλώττιση φωνής."
+  },
+  "localPlayerDubbingStartFailed": {
+    "message": "Αποτυχία έναρξης τοπικής μεταγλώττισης φωνής."
+  },
+  "localPlayerOpenSidebarFailed": {
+    "message": "Αποτυχία ανοίγματος πλαϊνής γραμμής."
+  },
+  "localPlayerVideoFileReadFailed": {
+    "message": "Δεν είναι δυνατή η ανάγνωση του τοπικού αρχείου βίντεο. Προσθέστε ξανά το βίντεο."
+  },
+  "localPlayerUploadCancelled": {
+    "message": "Η μεταφόρτωση ακυρώθηκε."
+  },
+  "localPlayerSubtitleAssociatedBadge": {
+    "message": "{count} συνδεδεμένοι υπότιτλοι"
+  },
+  "localPlayerNoSubtitleBadge": {
+    "message": "Δεν υπάρχουν συνδεδεμένοι υπότιτλοι"
+  },
+  "localPlayerUsedForDubbing": {
+    "message": "Χρησιμοποιείται για μεταγλώττιση φωνής"
+  },
+  "localPlayerAssociated": {
+    "message": "Συνδεδεμένο"
+  },
+  "localPlayerAssociatedOutsideFolder": {
+    "message": "Συνδέθηκε εκτός αυτού του φακέλου"
+  },
+  "localPlayerNotAssociated": {
+    "message": "Μη συνδεδεμένο"
+  },
+  "localPlayerNativeSubtitle": {
+    "message": "Πρωτότυποι υπότιτλοι"
+  },
+  "localPlayerDubbingAlreadyStarted": {
+    "message": "Ξεκίνησε η μεταγλώττιση φωνής"
+  },
+  "localPlayerThumbnailBackfillComplete": {
+    "message": "Δημιουργήθηκαν μικρογραφίες για {count} βίντεο."
+  },
+  "localPlayerThumbnailGenerationFailed": {
+    "message": "Η δημιουργία μικρογραφιών απέτυχε: {displayName} ({message})"
+  },
+  "localPlayerFreeUserNoSubtitleMessage": {
+    "message": "Αυτό το τοπικό βίντεο δεν έχει συνδεδεμένο υπότιτλο. Οι δωρεάν χρήστες δεν μπορούν ακόμα να χρησιμοποιήσουν την αναγνώριση υποτίτλων φόντου για τοπικά βίντεο. Αναβαθμίστε τη συνδρομή για να χρησιμοποιήσετε την αναγνώριση υποτίτλων με τεχνητή νοημοσύνη ή μεταφορτώστε ένα αρχείο υποτίτλων με μη αυτόματο τρόπο πριν ξεκινήσετε τη μεταγλώττιση φωνής."
+  },
+  "localPlayerNoSubtitleUploadTitle": {
+    "message": "Αυτό το βίντεο δεν έχει υπότιτλους"
+  },
+  "localPlayerNoSubtitleUploadText": {
+    "message": "Μεταφόρτωση αυτού του βίντεο για αναγνώριση υποτίτλων AI; Η μεταφόρτωση χρησιμοποιείται μόνο για την αναγνώριση υπότιτλων, το βίντεο διαγράφεται αμέσως μετά την αναγνώριση και θα ειδοποιηθείτε μέσω email."
+  },
+  "localPlayerNavigationLabel": {
+    "message": "Τοπική βιβλιοθήκη βίντεο / Κείμενο σε Ομιλία"
+  },
+  "localPlayerCurrentPageNav": {
+    "message": "Ντουμπλάζ βίντεο"
+  },
+  "localPlayerTextDubbingNav": {
+    "message": "Κείμενο σε Ομιλία"
+  },
+  "localPlayerTextDubbingTitle": {
+    "message": "Κείμενο σε Ομιλία"
+  },
+  "localPlayerTextDubbingDescription": {
+    "message": "Κείμενο σε Ομιλία - Γλώσσα Στόχου"
+  },
+  "localPlayerTextDubbingVoiceType": {
+    "message": "Τύπος Φωνής"
+  },
+  "localPlayerTextDubbingLanguage": {
+    "message": "Γλώσσα Στόχου"
+  },
+  "localPlayerTextDubbingGender": {
+    "message": "Φύλο"
+  },
+  "localPlayerTextDubbingVoice": {
+    "message": "Φωνή"
+  },
+  "localPlayerTextDubbingInputLabel": {
+    "message": "Χειροκίνητη εισαγωγή"
+  },
+  "localPlayerTextDubbingInputPlaceholder": {
+    "message": "Χειροκίνητη εισαγωγή - Κείμενο σε Ομιλία"
+  },
+  "localPlayerTextDubbingLimitHint": {
+    "message": "Κείμενο σε Ομιλία: {chars} / {bytes}"
+  },
+  "localPlayerTextDubbingCounter": {
+    "message": "{chars} · {bytes}"
+  },
+  "localPlayerTextDubbingGenerate": {
+    "message": "Κείμενο σε Ομιλία MP3"
+  },
+  "localPlayerTextDubbingGenerating": {
+    "message": "Αποθήκευση..."
+  },
+  "localPlayerTextDubbingGenerated": {
+    "message": "Κείμενο σε Ομιλία MP3 · {seconds}s"
+  },
+  "localPlayerTextDubbingFailed": {
+    "message": "Αποτυχία Αποθήκευσης"
+  },
+  "localPlayerTextDubbingNoVoice": {
+    "message": "Δεν υπάρχει διαθέσιμη φωνή για αυτήν την επιλογή."
+  },
+  "localPlayerTextDubbingEmptyText": {
+    "message": "Το περιεχόμενο υπότιτλων δεν μπορεί να είναι κενό"
+  },
+  "localPlayerTextDubbingTooLong": {
+    "message": "Το κείμενο είναι πολύ μεγάλο. Συντομεύστε το και δοκιμάστε ξανά."
+  },
+  "localPlayerTextDubbingDownload": {
+    "message": "Εξαγωγή MP3"
+  },
+  "localPlayerTextDubbingClear": {
+    "message": "Ακύρωση"
+  },
+  "translationDomainGeneral": {
+    "message": "Γενικά"
+  },
+  "translationDomainWeb3": {
+    "message": "Web3 και κρυπτονομίσματα"
+  },
+  "translationDomainTech": {
+    "message": "Τεχνολογία"
+  },
+  "translationDomainNews": {
+    "message": "Ειδήσεις και μέσα"
+  },
+  "translationDomainProgramming": {
+    "message": "Προγραμματισμός"
+  },
+  "translationDomainEducation": {
+    "message": "Εκπαίδευση"
+  },
+  "translationDomainFinance": {
+    "message": "Οικονομικά"
+  },
+  "translationDomainLaw": {
+    "message": "Νομικά"
+  },
+  "translationDomainAuto": {
+    "message": "Αυτοκίνητο"
+  },
+  "translationDomainEcommerce": {
+    "message": "Ηλεκτρονικό εμπόριο"
+  },
+  "translationDomainFashion": {
+    "message": "Μόδα"
+  },
+  "translationDomainFood": {
+    "message": "Φαγητό και μαγειρική"
+  },
+  "translationDomainGardening": {
+    "message": "Κηπουρική"
+  },
+  "translationDomainMedical": {
+    "message": "Ιατρική και υγεία"
+  },
+  "translationDomainMusic": {
+    "message": "Μουσική"
+  },
+  "translationDomainPets": {
+    "message": "Κατοικίδια"
+  },
+  "translationDomainSports": {
+    "message": "Αθλητισμός"
+  },
+  "translationDomainTravel": {
+    "message": "Ταξίδια"
+  },
+  "translationDomainChess": {
+    "message": "Σκάκι"
+  },
+  "translationDomainGaming": {
+    "message": "Παιχνίδια"
+  },
+  "translationDomainGolf": {
+    "message": "Γκολφ"
+  },
+  "translationDomainMovies": {
+    "message": "Ταινίες και τηλεόραση"
+  },
+  "translationDomainPhotography": {
+    "message": "Φωτογραφία"
+  },
+  "translationPreferencesSectionTitle": {
+    "message": "Μετάφραση AI"
+  },
+  "translationRulesEnabledLabel": {
+    "message": "Εφαρμογή γλωσσαρίου και αντικαταστάσεων κειμένου στη μετάφραση AI"
+  },
+  "translationRulesEnabledDescription": {
+    "message": "Όταν είναι ενεργό, η μετάφραση AI χρησιμοποιεί τις παρακάτω ρυθμίσεις. Όταν είναι ανενεργό, οι υπάρχουσες ρυθμίσεις σας διατηρούνται."
+  },
+  "glossaryTitle": {
+    "message": "Γλωσσάρι"
+  },
+  "glossaryDescription": {
+    "message": "Ορίστε σταθερές μεταφράσεις για όρους του πρωτοτύπου (π.χ. Stratagem). Οι δικοί σας όροι υπερισχύουν του ενσωματωμένου γλωσσαρίου."
+  },
+  "glossaryCreateButton": {
+    "message": "Προσθήκη προσωπικού όρου"
+  },
+  "glossaryEditTitle": {
+    "message": "Επεξεργασία προσωπικού όρου"
+  },
+  "glossaryEditorDescription": {
+    "message": "Μόνο οι προσωπικοί όροι μπορούν να προστεθούν, να τροποποιηθούν, να ενεργοποιηθούν ή να διαγραφούν."
+  },
+  "glossaryTableTitle": {
+    "message": "Όροι για την τρέχουσα γλώσσα"
+  },
+  "glossaryCombinedEmpty": {
+    "message": "Δεν υπάρχουν ακόμη προσωπικοί όροι για αυτή τη γλώσσα."
+  },
+  "glossarySearchEmpty": {
+    "message": "Δεν βρέθηκαν όροι που να ταιριάζουν."
+  },
+  "glossarySearchPlaceholder": {
+    "message": "Αναζήτηση όρων πρωτοτύπου"
+  },
+  "glossarySourcePlaceholder": {
+    "message": "Όρος πρωτοτύπου"
+  },
+  "glossaryTargetPlaceholder": {
+    "message": "Απαιτούμενη μετάφραση"
+  },
+  "glossarySourceTerm": {
+    "message": "Όρος πρωτοτύπου"
+  },
+  "glossaryTargetTerm": {
+    "message": "Μετάφραση"
+  },
+  "replacementTitle": {
+    "message": "Διορθώσεις λαθών στο αρχικό κείμενο"
+  },
+  "replacementDescription": {
+    "message": "Διορθώστε επαναλαμβανόμενα σφάλματα αναγνώρισης υποτίτλων (για παράδειγμα, cloud code -> Claude Code) πριν από τη μετάφραση AI."
+  },
+  "replacementCreateButton": {
+    "message": "Προσθήκη προσωπικής αντικατάστασης"
+  },
+  "replacementEditTitle": {
+    "message": "Επεξεργασία προσωπικής αντικατάστασης"
+  },
+  "replacementEditorDescription": {
+    "message": "Μόνο οι προσωπικές αντικαταστάσεις κειμένου εφαρμόζονται πριν από τη μετάφραση AI."
+  },
+  "replacementFindPlaceholder": {
+    "message": "Λανθασμένο κείμενο, π.χ. cloud code"
+  },
+  "replacementReplacePlaceholder": {
+    "message": "Αντικατάσταση με, π.χ. claude code"
+  },
+  "replacementFindText": {
+    "message": "Λανθασμένο κείμενο"
+  },
+  "replacementReplaceText": {
+    "message": "Αντικατάσταση με"
+  },
+  "replacementEmpty": {
+    "message": "Δεν υπάρχουν ακόμη κανόνες διόρθωσης."
+  },
+  "replacementSearchEmpty": {
+    "message": "Δεν βρέθηκαν αντικαταστάσεις που να ταιριάζουν."
+  },
+  "replacementSearchPlaceholder": {
+    "message": "Αναζήτηση αντικαταστάσεων"
+  },
+  "translatedReplacementTitle": {
+    "message": "Αντικαταστάσεις στο μεταφρασμένο κείμενο"
+  },
+  "translatedReplacementDescription": {
+    "message": "Αντικαταστήστε λέξεις ή φράσεις στην ολοκληρωμένη μετάφραση με προσωπικούς κανόνες."
+  },
+  "translatedReplacementCreateButton": {
+    "message": "Προσθήκη αντικατάστασης στη μετάφραση"
+  },
+  "translatedReplacementLanguage": {
+    "message": "Γλώσσα προορισμού"
+  },
+  "translatedReplacementFindText": {
+    "message": "Μεταφρασμένο κείμενο"
+  },
+  "translatedReplacementReplaceText": {
+    "message": "Αντικατάσταση με"
+  },
+  "translatedReplacementSearchPlaceholder": {
+    "message": "Αναζήτηση στο μεταφρασμένο κείμενο"
+  },
+  "translatedReplacementEmpty": {
+    "message": "Δεν υπάρχουν ακόμη κανόνες αντικατάστασης στη μετάφραση."
+  },
+  "translatedReplacementSearchEmpty": {
+    "message": "Δεν βρέθηκαν αντίστοιχες αντικαταστάσεις στη μετάφραση."
+  },
+  "translatedReplacementCreateTitle": {
+    "message": "Προσθήκη αντικατάστασης στη μετάφραση"
+  },
+  "translatedReplacementEditTitle": {
+    "message": "Επεξεργασία αντικατάστασης στη μετάφραση"
+  },
+  "translatedReplacementEditorDescription": {
+    "message": "Αλλάζει μόνο η ολοκληρωμένη μετάφραση· το αρχικό κείμενο και η προσωρινή μνήμη μεταφράσεων παραμένουν αμετάβλητα."
+  },
+  "translatedReplacementFindPlaceholder": {
+    "message": "Λέξη ή φράση στο μεταφρασμένο κείμενο"
+  },
+  "translatedReplacementReplacePlaceholder": {
+    "message": "Λέξη ή φράση που θα εμφανίζεται στη θέση της"
+  },
+  "translatedReplacementEnabledDescription": {
+    "message": "Όταν απενεργοποιηθεί, ο κανόνας διατηρείται αλλά δεν εφαρμόζεται στο μεταφρασμένο κείμενο."
+  },
+  "preferenceAdd": {
+    "message": "Προσθήκη"
+  },
+  "preferenceDomain": {
+    "message": "Τομέας"
+  },
+  "preferenceLanguage": {
+    "message": "Γλώσσα"
+  },
+  "preferenceEnabled": {
+    "message": "Ενεργό"
+  },
+  "preferenceActions": {
+    "message": "Ενέργειες"
+  },
+  "preferenceSource": {
+    "message": "Προέλευση"
+  },
+  "preferenceSourceUser": {
+    "message": "Προσωπικό"
+  },
+  "preferenceSourceBuiltin": {
+    "message": "Ενσωματωμένο"
+  },
+  "preferenceStatus": {
+    "message": "Κατάσταση"
+  },
+  "preferenceStatusEnabled": {
+    "message": "Ενεργό"
+  },
+  "preferenceEdit": {
+    "message": "Επεξεργασία"
+  },
+  "preferenceDelete": {
+    "message": "Διαγραφή"
+  },
+  "preferenceAllDomains": {
+    "message": "Όλοι οι τομείς"
+  },
+  "preferenceSearch": {
+    "message": "Αναζήτηση"
+  },
+  "preferenceClearSearch": {
+    "message": "Εκκαθάριση"
+  },
+  "preferencePageLabel": {
+    "message": "Σελίδα {page}"
+  },
+  "preferencePreviousPage": {
+    "message": "Προηγούμενη"
+  },
+  "preferenceNextPage": {
+    "message": "Επόμενη"
+  },
+  "builtinGlossaryDomainsTitle": {
+    "message": "Ενσωματωμένα σύνολα ανά τομέα"
+  },
+  "builtinGlossaryDomainCount": {
+    "message": "{count} ενσωματωμένοι όροι"
+  },
+  "builtinGlossaryEmptyHint": {
+    "message": "Δεν υπάρχει ενσωματωμένο γλωσσάρι για την τρέχουσα γλώσσα-στόχο. Μπορείτε ακόμη να προσθέσετε προσωπικούς όρους."
+  },
+  "builtinGlossaryEnabledSummary": {
+    "message": "{enabled} / {total} ενεργά"
+  },
+  "builtinGlossaryManageDomains": {
+    "message": "Διαχείριση τομέων"
+  },
+  "builtinGlossaryManageDomainsTitle": {
+    "message": "Διαχείριση ενσωματωμένων συνόλων ανά τομέα"
+  },
+  "builtinGlossaryManageDomainsDescription": {
+    "message": "Ενεργοποιήστε ή απενεργοποιήστε τους τομείς του ενσωματωμένου γλωσσαρίου για τη γλώσσα-στόχο."
+  },
+  "builtinGlossaryDomainSearchPlaceholder": {
+    "message": "Αναζήτηση τομέων"
+  },
+  "builtinGlossaryEnableAllDomains": {
+    "message": "Ενεργοποίηση όλων"
+  },
+  "builtinGlossaryDisableAllDomains": {
+    "message": "Απενεργοποίηση όλων"
+  },
+  "builtinGlossaryDomainSearchEmpty": {
+    "message": "Δεν βρέθηκαν τομείς που να ταιριάζουν."
+  },
+  "builtinGlossaryDomainTotal": {
+    "message": "{count} τομείς"
+  },
+  "builtinGlossaryDomainDisabledStatus": {
+    "message": "Ο τομέας είναι ανενεργός"
+  },
+  "builtinGlossaryBlockedStatus": {
+    "message": "Εξαιρέθηκε"
+  },
+  "builtinGlossaryReadOnlyHint": {
+    "message": "Ενσωματωμένος κανόνας"
+  },
+  "builtinTextReplacementManageDomainsTitle": {
+    "message": "Διαχείριση ενσωματωμένων τομέων διόρθωσης αρχικού κειμένου"
+  },
+  "builtinTextReplacementManageDomainsDescription": {
+    "message": "Ενεργοποιήστε ή απενεργοποιήστε τους ενσωματωμένους τομείς διόρθωσης αρχικού κειμένου."
+  },
+  "builtinTextReplacementDomainCount": {
+    "message": "{count} ενσωματωμένοι κανόνες"
+  },
+  "preferenceLoadFailed": {
+    "message": "Η φόρτωση απέτυχε. Συνδεθείτε και δοκιμάστε ξανά."
+  },
+  "preferenceActionFailed": {
+    "message": "Η ενέργεια απέτυχε. Δοκιμάστε ξανά αργότερα."
+  },
+  "pronunciationSettingsSectionTitle": {
+    "message": "Προφορά"
+  },
+  "pronunciationSettingsTitle": {
+    "message": "Ρυθμίσεις προφοράς"
+  },
+  "pronunciationSettingsDescription": {
+    "message": "Ορίστε προσωπικές προφορές για μεταφρασμένο κείμενο. Οι κανόνες ισχύουν μόνο για την τοπική μεταγλώττιση."
+  },
+  "optionsNavPronunciationShort": {
+    "message": "Προφορά"
+  },
+  "pronunciationNewRule": {
+    "message": "Νέος κανόνας"
+  },
+  "pronunciationEditRule": {
+    "message": "Επεξεργασία κανόνα προφοράς"
+  },
+  "pronunciationTargetLanguage": {
+    "message": "Γλώσσα-στόχος"
+  },
+  "pronunciationSearchPlaceholder": {
+    "message": "Αναζήτηση αντίστοιχου κειμένου"
+  },
+  "pronunciationStatus": {
+    "message": "Κατάσταση"
+  },
+  "pronunciationMatchText": {
+    "message": "Κείμενο που ταιριάζει"
+  },
+  "pronunciationMatchPlaceholder": {
+    "message": "Για παράδειγμα: γεια"
+  },
+  "pronunciationTargetText": {
+    "message": "Διορθωμένο μέρος"
+  },
+  "pronunciationReading": {
+    "message": "Καθορισμένη προφορά"
+  },
+  "pronunciationLoading": {
+    "message": "Φόρτωση…"
+  },
+  "pronunciationEmpty": {
+    "message": "Κανένας προσωπικός κανόνας προφοράς δεν ταιριάζει με τα τρέχοντα φίλτρα."
+  },
+  "pronunciationEditorHint": {
+    "message": "Επιλέξτε το συνεχές τμήμα που θέλετε να διορθώσετε και, στη συνέχεια, εισαγάγετε την προφορά του."
+  },
+  "pronunciationSelectTarget": {
+    "message": "Επιλέξτε κείμενο για διόρθωση"
+  },
+  "pronunciationReselect": {
+    "message": "Επιλέξτε ξανά"
+  },
+  "pronunciationEnterMatchFirst": {
+    "message": "Εισαγάγετε πρώτα το αντίστοιχο κείμενο"
+  },
+  "pronunciationSelectionSummary": {
+    "message": "Επιλεγμένα: {text}; εμφάνιση {occurrence}"
+  },
+  "pronunciationSelectionRestoreFailed": {
+    "message": "Δεν είναι δυνατή η επαναφορά της αποθηκευμένης τοποθεσίας. Επιλέξτε ξανά το κείμενο πριν το αποθηκεύσετε."
+  },
+  "pronunciationSelectionInvalid": {
+    "message": "Επιλέξτε συνεχές κείμενο."
+  },
+  "pronunciationModifier": {
+    "message": "Τόνος"
+  },
+  "pronunciationSelectModifier": {
+    "message": "Επιλέξτε"
+  },
+  "pronunciationSaving": {
+    "message": "Αποθήκευση…"
+  },
+  "pronunciationDeleteConfirm": {
+    "message": "Διαγραφή αυτού του κανόνα προφοράς;"
+  },
+  "pronunciationOccurrence": {
+    "message": "εμφάνιση {occurrence}"
+  },
+  "pronunciationUnknownError": {
+    "message": "Η ενέργεια απέτυχε. Δοκιμάστε ξανά αργότερα."
+  },
+  "preferenceAllStatuses": {
+    "message": "Όλα"
+  },
+  "preferenceCancel": {
+    "message": "Ακύρωση"
+  },
+  "preferenceDisabled": {
+    "message": "Απενεργοποιημένο"
+  },
+  "preferenceSave": {
+    "message": "Αποθήκευση"
+  },
+  "pronunciationFineSelection": {
+    "message": "Ακριβής επιλογή"
+  },
+  "pronunciationMergeUnits": {
+    "message": "Συγχώνευση παρακείμενων προφορών"
+  },
+  "pronunciationPerUnitHint": {
+    "message": "Εισαγάγετε μια προφορά και έναν τόνο για κάθε μέρος. Διαχωρίστε ή συγχωνεύστε εξαρτήματα όπως απαιτείται."
+  },
+  "pronunciationPrimarySelection": {
+    "message": "Έξυπνη επιλογή"
+  },
+  "pronunciationSelectionGranularity": {
+    "message": "Κοκκοποίηση επιλογής"
+  },
+  "pronunciationSelectionTooLong": {
+    "message": "Το διορθωμένο τμήμα μπορεί να περιέχει το πολύ 128 χαρακτήρες."
+  },
+  "pronunciationSplitAt": {
+    "message": "Διαχωρισμός σε"
+  },
+  "pronunciationUnitReading": {
+    "message": "Προφορά ανά μέρος"
+  },
+  "pronunciationWholeReading": {
+    "message": "Ολόκληρη προφορά"
+  },
+  "pronunciationWholeToneHint": {
+    "message": "Εισαγάγετε την πλήρη τονισμένη προφορά. Διαχωρίστε το για να επιλέξετε έναν τόνο για κάθε μέρος."
+  },
+  "pronunciationPinyinSyllable": {
+    "message": "Συλλαβή Pinyin"
+  },
+  "pronunciationPinyinPlaceholder": {
+    "message": "Εισαγάγετε μια συλλαβή Pinyin"
+  },
+  "pronunciationNumberedTone": {
+    "message": "Ήχος {tone}"
+  },
+  "pronunciationNeutralTone": {
+    "message": "Ουδέτερος τόνος"
+  },
+  "googleDriveNoCaptionsTitle": {
+    "message": "Αυτό το βίντεο του Google Drive δεν έχει ακόμη υπότιτλους"
+  },
+  "googleDriveNoCaptionsIntro": {
+    "message": "Η μεταγλώττιση χρησιμοποιεί τους ενσωματωμένους υπότιτλους (CC) του Google Drive. Ενεργοποιήστε πρώτα υπότιτλους για αυτό το βίντεο και μετά επιστρέψτε:"
+  },
+  "googleDriveNoCaptionsStep1": {
+    "message": "Στο Google Drive, κάντε δεξί κλικ στο βίντεο και επιλέξτε «Πληροφορίες αρχείου» → «Διαχείριση κομματιών υποτίτλων»."
+  },
+  "googleDriveNoCaptionsStep2": {
+    "message": "Αν δεν υπάρχει ακόμη κομμάτι υποτίτλων: το Drive δημιουργεί αυτόματα υπότιτλους για τις υποστηριζόμενες γλώσσες (μεταξύ άλλων αγγλικά, τουρκικά, κινεζικά, ισπανικά, ιαπωνικά). Κάντε κλικ στο «Δημιουργία αυτόματων υποτίτλων» αν εμφανίζεται ή ανεβάστε ένα αρχείο υποτίτλων. Μόνο ο κάτοχος ή οι συντάκτες του βίντεο μπορούν να διαχειριστούν τους υπότιτλους."
+  },
+  "googleDriveNoCaptionsStep3": {
+    "message": "Η δημιουργία υποτίτλων χρειάζεται λίγο χρόνο. Όταν το κουμπί CC στο πρόγραμμα αναπαραγωγής γίνει διαθέσιμο, ανανεώστε τη σελίδα και ξεκινήστε ξανά τη μεταγλώττιση."
+  },
+  "subtitleAudioLanguageMismatch": {
+    "message": "Η γλώσσα των υποτίτλων δεν ταιριάζει με τη γλώσσα των φωνών. Υπότιτλοι: {subtitle}. Φωνές: {voice}. Μια φωνή μπορεί να διαβάσει μόνο κείμενο στη δική της γλώσσα, οπότε η δημιουργία μπορεί να αποτύχει ή να ακούγεται λάθος. Μεταφράστε πρώτα τους υπότιτλους ή αλλάξτε τη γλώσσα προορισμού ώστε να ταιριάζει με αυτούς. Δημιουργία παρ’ όλα αυτά;"
+  },
+  "subtitleAudioNav": {
+    "message": "Ντουμπλάζ από υπότιτλους"
+  },
+  "subtitleAudioAiSubtitleBadge": {
+    "message": "Υπότιτλοι AI"
+  },
+  "subtitleAudioUserSubtitleBadge": {
+    "message": "Επεξεργασμένοι υπότιτλοι"
+  },
+  "subtitleAudioBack": {
+    "message": "Ντουμπλάζ βίντεο"
+  },
+  "subtitleAudioProjectSubtitle": {
+    "message": "Υπότιτλοι: {name} · γραμμές: {count}"
+  },
+  "subtitleAudioReplaceSubtitles": {
+    "message": "Αντικατάσταση υποτίτλων"
+  },
+  "subtitleAudioExportVideoOption": {
+    "message": "Μεταγλωττισμένο βίντεο"
+  },
+  "subtitleAudioExportVideoHint": {
+    "message": "Η εικόνα επιβραδύνεται όπου μια γραμμή χρειάζεται περισσότερο χρόνο, οπότε το βίντεο μπορεί να βγει λίγο μεγαλύτερο."
+  },
+  "subtitleAudioExportMp3Option": {
+    "message": "Μεταγλωττισμένο MP3"
+  },
+  "subtitleAudioExportMp3Hint": {
+    "message": "Έχει ακριβώς την ίδια διάρκεια με το αρχικό βίντεο· τοποθετήστε το ξανά πάνω στο βίντεο ή ανεβάστε το ως επιπλέον γλώσσα ήχου."
+  },
+  "subtitleAudioDownloadSrt": {
+    "message": "Λήψη SRT"
+  },
+  "subtitleAudioEditAndExport": {
+    "message": "Επεξεργασία & εξαγωγή"
+  },
+  "subtitleAudioEditNeedsSubtitle": {
+    "message": "Αυτό το βίντεο δεν έχει ακόμη υπότιτλους. Συνδέστε ένα αρχείο υπότιτλων ή πατήστε μία φορά «Έναρξη μεταγλώττισης φωνής» για να δημιουργηθούν υπότιτλοι AI."
+  },
+  "subtitleAudioTitle": {
+    "message": "Δώστε φωνή σε κάθε γραμμή"
+  },
+  "subtitleAudioSubtitle": {
+    "message": "Εισαγάγετε ένα αρχείο SRT για να πάρετε ένα μεταγλωττισμένο MP3 που ακολουθεί τον χρονισμό των υπότιτλων. Για μεταγλωττισμένο βίντεο, επιλέξτε το βίντεο στο «Ντουμπλάζ βίντεο» και πατήστε «Επεξεργασία & εξαγωγή»."
+  },
+  "subtitleAudioImportStep": {
+    "message": "Εισαγωγή υπότιτλων"
+  },
+  "subtitleAudioVoicesStep": {
+    "message": "Επιλογή φωνών"
+  },
+  "subtitleAudioExportStep": {
+    "message": "Εξαγωγή"
+  },
+  "subtitleAudioSubtitles": {
+    "message": "Υπότιτλοι"
+  },
+  "subtitleAudioCueList": {
+    "message": "Γραμμές & φωνές"
+  },
+  "subtitleAudioSettings": {
+    "message": "Ρυθμίσεις φωνής"
+  },
+  "subtitleAudioImport": {
+    "message": "Επιλογή αρχείου SRT"
+  },
+  "subtitleAudioReplace": {
+    "message": "Αντικατάσταση"
+  },
+  "subtitleAudioRemove": {
+    "message": "Κατάργηση"
+  },
+  "subtitleAudioDrop": {
+    "message": "Αφήστε εδώ το αρχείο SRT"
+  },
+  "subtitleAudioDropNote": {
+    "message": "UTF-8 · έως 2 MiB, 5.000 γραμμές, 3 ώρες"
+  },
+  "subtitleAudioEmpty": {
+    "message": "Οι υπότιτλοί σας θα εμφανιστούν εδώ. Ορίστε φωνή σε κάθε γραμμή ή εφαρμόστε μία φωνή σε πολλές επιλεγμένες γραμμές."
+  },
+  "subtitleAudioLines": {
+    "message": "Γραμμές"
+  },
+  "subtitleAudioDuration": {
+    "message": "Διάρκεια υπότιτλων"
+  },
+  "subtitleAudioCharacters": {
+    "message": "Χαρακτήρες"
+  },
+  "subtitleAudioSearch": {
+    "message": "Αναζήτηση στο κείμενο υπότιτλων"
+  },
+  "subtitleAudioSelectPage": {
+    "message": "Επιλογή αυτής της σελίδας"
+  },
+  "subtitleAudioSelectAll": {
+    "message": "Επιλογή όλων των αποτελεσμάτων"
+  },
+  "subtitleAudioSelected": {
+    "message": "Επιλεγμένες: {count}"
+  },
+  "subtitleAudioApply": {
+    "message": "Εφαρμογή φωνής"
+  },
+  "subtitleAudioChooseVoice": {
+    "message": "Επιλέξτε φωνή"
+  },
+  "subtitleAudioText": {
+    "message": "Κείμενο υπότιτλου"
+  },
+  "subtitleAudioTime": {
+    "message": "Χρόνος"
+  },
+  "subtitleAudioVoice": {
+    "message": "Φωνή"
+  },
+  "subtitleAudioFemale": {
+    "message": "Γυναικείες φωνές"
+  },
+  "subtitleAudioMale": {
+    "message": "Ανδρικές φωνές"
+  },
+  "subtitleAudioPage": {
+    "message": "Σελίδα {page} από {total}"
+  },
+  "subtitleAudioPrevious": {
+    "message": "Προηγούμενη"
+  },
+  "subtitleAudioNext": {
+    "message": "Επόμενη"
+  },
+  "subtitleAudioPreview": {
+    "message": "Ακρόαση γραμμής {index}"
+  },
+  "subtitleAudioStopPreview": {
+    "message": "Διακοπή ακρόασης"
+  },
+  "subtitleAudioLanguage": {
+    "message": "Γλώσσα στόχου"
+  },
+  "subtitleAudioVoiceType": {
+    "message": "Τύπος φωνής"
+  },
+  "subtitleAudioFree": {
+    "message": "Δωρεάν"
+  },
+  "subtitleAudioVideoSync": {
+    "message": "Η προεπισκόπηση ακολουθεί το εξαγόμενο ηχητικό κομμάτι. Ο αρχικός ήχος του βίντεο είναι σε σίγαση."
+  },
+  "subtitleAudioTimelineTitle": {
+    "message": "Κομμάτι ήχου"
+  },
+  "subtitleAudioLayoutOnly": {
+    "message": "Θέσεις υπότιτλων · η κυματομορφή εμφανίζεται μετά την εξαγωγή"
+  },
+  "subtitleAudioRealWave": {
+    "message": "Κυματομορφή εξαγόμενου ήχου · κάντε κλικ ή χρησιμοποιήστε το ρυθμιστικό για μετάβαση"
+  },
+  "subtitleAudioTracks": {
+    "message": "Φωνές: {count} → ένα MP3"
+  },
+  "subtitleAudioTracksVideo": {
+    "message": "Φωνές: {count} → μεταγλωττισμένο βίντεο"
+  },
+  "subtitleAudioSeek": {
+    "message": "Μετάβαση στο εξαγόμενο μέσο"
+  },
+  "subtitleAudioNoTimeline": {
+    "message": "Εισαγάγετε υπότιτλους για να δείτε τον χρονισμό τους."
+  },
+  "subtitleAudioGenerate": {
+    "message": "Δημιουργία MP3"
+  },
+  "subtitleAudioGenerateVideo": {
+    "message": "Δημιουργία μεταγλωττισμένου βίντεο"
+  },
+  "subtitleAudioRegenerate": {
+    "message": "Νέα δημιουργία"
+  },
+  "subtitleAudioRegenerateVideo": {
+    "message": "Νέα δημιουργία βίντεο"
+  },
+  "subtitleAudioRetry": {
+    "message": "Επανάληψη αποτυχημένης δημιουργίας"
+  },
+  "subtitleAudioCancel": {
+    "message": "Ακύρωση"
+  },
+  "subtitleAudioCancelling": {
+    "message": "Ακύρωση…"
+  },
+  "subtitleAudioDownload": {
+    "message": "Λήψη MP3"
+  },
+  "subtitleAudioDownloadVideo": {
+    "message": "Λήψη μεταγλωττισμένου βίντεο"
+  },
+  "subtitleAudioWorking": {
+    "message": "Δημιουργία ομιλίας"
+  },
+  "subtitleAudioEncoding": {
+    "message": "Δημιουργία ηχητικού κομματιού"
+  },
+  "subtitleAudioFinalizing": {
+    "message": "Ολοκλήρωση MP3"
+  },
+  "subtitleAudioMuxing": {
+    "message": "Τοποθέτηση του μεταγλωττισμένου ήχου στο βίντεο"
+  },
+  "subtitleAudioFinished": {
+    "message": "Το MP3 σας είναι έτοιμο"
+  },
+  "subtitleAudioFinishedVideo": {
+    "message": "Το μεταγλωττισμένο βίντεό σας είναι έτοιμο"
+  },
+  "subtitleAudioCancelled": {
+    "message": "Η δημιουργία ακυρώθηκε. Τα ολοκληρωμένα αποσπάσματα ομιλίας διατηρούνται στην κρυφή μνήμη για νέα προσπάθεια."
+  },
+  "subtitleAudioProgressNote": {
+    "message": "Κρατήστε αυτή τη σελίδα ανοιχτή. Μπορείτε να ακυρώσετε και να συνεχίσετε αργότερα με τα αποθηκευμένα αποσπάσματα."
+  },
+  "subtitleAudioMissing": {
+    "message": "Γραμμές χωρίς φωνή: {count}. Επιλέξτε φωνή για κάθε γραμμή ή χρησιμοποιήστε την «Εφαρμογή φωνής»."
+  },
+  "subtitleAudioEmptyText": {
+    "message": "Γραμμές χωρίς κείμενο: {count}. Προσθέστε κείμενο πριν από τη δημιουργία."
+  },
+  "subtitleAudioCacheNote": {
+    "message": "Η ομιλία δημιουργείται από την επιλεγμένη υπηρεσία. Οι υπότιτλοι και τα αποσπάσματα αποθηκεύονται σε αυτήν τη συσκευή· ο ήχος και το βίντεο συντίθενται τοπικά."
+  },
+  "subtitleAudioRestored": {
+    "message": "Το πρόχειρο επανήλθε."
+  },
+  "subtitleAudioSaveError": {
+    "message": "Δεν ήταν δυνατή η αποθήκευση του πρόχειρου. Κρατήστε αυτή τη σελίδα ανοιχτή για να μη χαθούν οι αλλαγές σας."
+  },
+  "subtitleAudioFailed": {
+    "message": "Δεν ήταν δυνατή η ολοκλήρωση. Τα ολοκληρωμένα αποσπάσματα ομιλίας διατηρούνται· δοκιμάστε ξανά για να συνεχίσετε."
+  },
+  "subtitleAudioDetails": {
+    "message": "Λεπτομέρειες"
+  },
+  "subtitleAudioBadFile": {
+    "message": "Επιλέξτε ένα αρχείο .srt σε UTF-8 (έως 2 MiB)."
+  },
+  "subtitleAudioEncodingError": {
+    "message": "Αυτό το αρχείο δεν είναι έγκυρο UTF-8. Αποθηκεύστε το ως UTF-8 και εισαγάγετέ το ξανά."
+  },
+  "subtitleAudioImportFailed": {
+    "message": "Δεν ήταν δυνατή η ανάγνωση του αρχείου υπότιτλων. Ελέγξτε τις χρονοσημάνσεις SRT και το κείμενο."
+  },
+  "subtitleAudioInvalidVideo": {
+    "message": "Αυτό το βίντεο δεν έχει αναγνώσιμο κομμάτι εικόνας ή η διάρκειά του δεν είναι διαθέσιμη."
+  },
+  "subtitleAudioVideoLimitError": {
+    "message": "Αυτό το βίντεο διαρκεί περισσότερο από 3 ώρες, οπότε δεν μπορεί να εξαχθεί μεταγλωττισμένο βίντεο. Επιλέξτε ένα μικρότερο αρχείο."
+  },
+  "subtitleAudioVideoStorageError": {
+    "message": "Δεν υπάρχει αρκετός ελεύθερος χώρος σε αυτόν τον υπολογιστή για αυτό το βίντεο: χρειάζονται περίπου {needed} GB, ενώ το πρόγραμμα περιήγησης έχει διαθέσιμα {available} GB. Ελευθερώστε χώρο στον δίσκο και δοκιμάστε ξανά ή επιλέξτε ένα μικρότερο βίντεο."
+  },
+  "subtitleAudioVideoCodecError": {
+    "message": "Αυτή η συσκευή δεν μπορεί να αντιγράψει αυτόν τον κωδικοποιητή βίντεο (π.χ. HEVC). Η εξαγωγή διακόπηκε για να μη δημιουργηθεί κατεστραμμένο αρχείο. Δοκιμάστε ένα MP4 με H.264."
+  },
+  "subtitleAudioVideoAacUnsupported": {
+    "message": "Αυτό το πρόγραμμα περιήγησης δεν μπορεί να κωδικοποιήσει ήχο AAC, οπότε δεν είναι δυνατή η εξαγωγή μεταγλωττισμένου βίντεο. Η εξαγωγή μεταγλωττισμένου MP3 εξακολουθεί να λειτουργεί."
+  },
+  "subtitleAudioVideoCopyUnsupported": {
+    "message": "Ο κωδικοποιητής αυτού του βίντεο δεν μπορεί να εξαχθεί ως μεταγλωττισμένο MP4. Η εξαγωγή μεταγλωττισμένου MP3 εξακολουθεί να λειτουργεί· για βίντεο, χρησιμοποιήστε MP4 H.264."
+  },
+  "subtitleAudioPreviewFailed": {
+    "message": "Δεν ήταν δυνατή η ακρόαση αυτής της γραμμής. Ελέγξτε την επιλεγμένη φωνή και τη σύνδεσή σας."
+  },
+  "subtitleAudioPlayBlocked": {
+    "message": "Ο ήχος είναι έτοιμος. Πατήστε «Αναπαραγωγή» στο πρόγραμμα αναπαραγωγής ήχου."
+  },
+  "subtitleAudioGeneralError": {
+    "message": "Δεν ήταν δυνατή η ολοκλήρωση της ενέργειας. Ελέγξτε τη σύνδεσή σας και δοκιμάστε ξανά."
+  },
+  "subtitleAudioLimitError": {
+    "message": "Αυτό το έργο υπερβαίνει τα υποστηριζόμενα όρια. Χρησιμοποιήστε έως 5.000 γραμμές / 3 ώρες· κάθε απόσπασμα ομιλίας πρέπει να διαρκεί λιγότερο από 60 δευτερόλεπτα."
+  },
+  "subtitleAudioStorageError": {
+    "message": "Δεν υπάρχει αρκετός τοπικός χώρος αποθήκευσης για αυτή την εξαγωγή. Ελευθερώστε χώρο και δοκιμάστε ξανά."
+  },
+  "subtitleAudioAccountError": {
+    "message": "Για τη δημιουργία ομιλίας απαιτείται έγκυρος λογαριασμός και διαθέσιμο όριο χρήσης. Ελέγξτε τον λογαριασμό σας και δοκιμάστε ξανά."
+  },
+  "subtitleAudioPaused": {
+    "message": "Σε αναμονή"
+  },
+  "subtitleAudioGeneratingCue": {
+    "message": "Δημιουργείται"
+  },
+  "subtitleAudioReadyCue": {
+    "message": "Έτοιμο"
+  },
+  "subtitleAudioErrorCue": {
+    "message": "Απέτυχε"
+  },
+  "subtitleAudioVoiceReset": {
+    "message": "Ορισμένες φωνές δεν είναι διαθέσιμες με αυτές τις ρυθμίσεις. Επιλέξτε φωνές για τις επισημασμένες γραμμές."
+  },
+  "subtitleAudioConfirmReplace": {
+    "message": "Αντικατάσταση του τρέχοντος πρόχειρου υπότιτλων;"
+  },
+  "subtitleAudioClearDraft": {
+    "message": "Κατάργηση όλων των υπότιτλων από αυτό το πρόχειρο;"
+  },
+  "subtitleAudioOutputChanged": {
+    "message": "Οι ρυθμίσεις άλλαξαν. Δημιουργήστε ξανά για να ενημερωθεί το αρχείο λήψης."
+  },
+  "subtitleAudioBrowserError": {
+    "message": "Αυτό το πρόγραμμα περιήγησης δεν μπόρεσε να ξεκινήσει την επεξεργασία ήχου. Δοκιμάστε ένα ενημερωμένο πρόγραμμα περιήγησης για υπολογιστή."
+  },
+  "subtitleAudioOtherTabBusy": {
+    "message": "Μια άλλη καρτέλα δημιουργεί ή αναπαράγει δοκιμαστικά ήχο υπότιτλων. Περιμένετε να ολοκληρωθεί η εργασία ή κλείστε εκείνη την καρτέλα και δοκιμάστε ξανά."
+  },
+  "uploadVideoLanguageLabel": {
+    "message": "Γλώσσα βίντεο (η επιλογή βελτιώνει την ακρίβεια αναγνώρισης)"
+  },
+  "uploadVideoLanguageAuto": {
+    "message": "Αυτόματος εντοπισμός"
+  },
+  "subtitleAudioPreparing": {
+    "message": "Χωρισμός σε προτάσεις και μετάφραση"
+  },
+  "subtitleAudioPrepareFailed": {
+    "message": "Δεν ήταν δυνατός ο χωρισμός ή η μετάφραση των υποτίτλων. Δοκιμάστε ξανά αργότερα."
+  },
+  "subtitleAudioSourceLanguage": {
+    "message": "Γλώσσα υποτίτλων"
+  },
+  "subtitleAudioSourceLanguageUnknown": {
+    "message": "Δεν ήταν δυνατός ο εντοπισμός της γλώσσας αυτών των υποτίτλων. Επιλέξτε τη γλώσσα στην οποία είναι γραμμένοι και δημιουργήστε ξανά."
+  },
+  "subtitleAudioPreparedNote": {
+    "message": "Χωρίστηκαν σε προτάσεις και μεταφράστηκαν στα {language} όπως στη διαδικτυακή μεταγλώττιση. Μπορείτε να επεξεργαστείτε τις μεταφράσεις παρακάτω."
+  },
+  "subtitleAudioRestoreSource": {
+    "message": "Επαναφορά πρωτοτύπου"
+  },
+  "subtitleAudioRestoreSourceConfirm": {
+    "message": "Η επαναφορά του πρωτοτύπου διαγράφει τις αλλαγές στις μεταφράσεις· η επόμενη εξαγωγή θα χωρίσει και θα μεταφράσει ξανά. Συνέχεια;"
+  },
+  "subtitleAudioLanguageChangedRetranslate": {
+    "message": "Η γλώσσα μεταγλώττισης άλλαξε, οπότε η λίστα δείχνει ξανά το αρχικό κείμενο. Θα χωριστεί και θα μεταφραστεί ξανά κατά την εξαγωγή."
+  },
+  "subtitleAudioCueTooLong": {
+    "message": "Η γραμμή {index} είναι πολύ μεγάλη. Χωρίστε την σε μικρότερες γραμμές και δοκιμάστε ξανά."
+  },
+  "subtitleAudioBackgroundOption": {
+    "message": "Μίξη ήχου υποβάθρου"
+  },
+  "subtitleAudioBackgroundHint": {
+    "message": "Ο ήχος υποβάθρου αυτού του βίντεο (χωρίς φωνές) διαχωρίστηκε κατά τη μεταφόρτωση για αναγνώριση. Ακούγεται κάτω από τη μεταγλώττιση, όπως στη διαδικτυακή μεταγλώττιση."
+  },
+  "subtitleAudioDownloadingBackground": {
+    "message": "Λήψη ήχου υποβάθρου"
+  },
+  "subtitleAudioBackgroundFailed": {
+    "message": "Δεν ήταν δυνατή η λήψη του ήχου υποβάθρου. Δοκιμάστε αργότερα ή αποεπιλέξτε «Μίξη ήχου υποβάθρου» και κάντε ξανά εξαγωγή."
+  },
+  "subtitleAudioPreparedSameLanguageNote": {
+    "message": "Οι υπότιτλοι είναι ήδη στη γλώσσα μεταγλώττισης, οπότε σύμφωνα με τη ρύθμιση «να μη μεταφράζεται η ίδια γλώσσα» απλώς χωρίστηκαν σε προτάσεις."
+  },
+  "dubbingToggleOn": {
+    "message": "Ενεργοποίηση μεταγλώττισης"
+  },
+  "dubbingToggleOff": {
+    "message": "Απενεργοποίηση μεταγλώττισης"
+  },
+  "dubbingTogglePreparing": {
+    "message": "Προετοιμασία μεταγλώττισης, περιμένετε…"
+  },
+  "dubbingSwitchedOffNotice": {
+    "message": "Η μεταγλώττιση απενεργοποιήθηκε, επαναφέρθηκε ο αρχικός ήχος"
+  },
+  "dubbingSwitchedOnNotice": {
+    "message": "Η μεταγλώττιση ενεργοποιήθηκε"
+  },
+  "toggleDubbingCommand": {
+    "message": "Ενεργοποίηση / απενεργοποίηση μεταγλώττισης"
+  },
+  "spotifyPublicAudioShowNotFound": {
+    "message": "Ο ήχος είναι κρυπτογραφημένος και η εκπομπή δεν έχει δημόσια ροή podcast (ίσως είναι αποκλειστικό του Spotify)."
+  },
+  "spotifyPublicAudioEpisodeNotMatched": {
+    "message": "Ο ήχος είναι κρυπτογραφημένος και δεν βρέθηκε αντίστοιχο επεισόδιο στη δημόσια ροή podcast της εκπομπής."
+  },
+  "spotifyPublicAudioLookupFailed": {
+    "message": "Δεν ήταν δυνατή η λήψη του δημόσιου ήχου αυτού του επεισοδίου. Δοκιμάστε ξανά αργότερα."
+  }
+}

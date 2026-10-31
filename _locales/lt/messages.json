@@ -1,0 +1,2315 @@
+{
+  "name": {
+    "message": "YouTube Dubbing – Versti ir Dubliuoti"
+  },
+  "description": {
+    "message": "Vieno paspaudimo vaizdo įrašų vertimas ir dubliavimas – suprasite užsienio kalbas akimirksniu"
+  },
+  "metadataNotFound": {
+    "message": "Vaizdo įrašo metaduomenų nerasta, atnaujinkite puslapį ir bandykite dar kartą"
+  },
+  "dubbingMediaNotFoundTitle": {
+    "message": "Nerasta dubliavimui tinkamo vaizdo įrašo"
+  },
+  "dubbingMediaNotFoundText": {
+    "message": "Šiame puslapyje šiuo metu nėra tinkamo vaizdo ar garso. Palaukite, kol vaizdo įrašas bus įkeltas, ir bandykite dar kartą arba atnaujinkite puslapį."
+  },
+  "noSubtitlesFound": {
+    "message": "Šis vaizdo įrašas neturi subtitrų ir nepalaiko vertimo bei dubliavimo"
+  },
+  "liveVideoNotSupported": {
+    "message": "Tiesioginiai vaizdo įrašai šiuo metu nepalaiko dubliavimo"
+  },
+  "universalDubbingNotSupported": {
+    "message": "Universalus dubliavimas šiai versijoje nepalaikomas šiam vaizdo įrašui. Palaikymas planuojamas kitoje versijoje. Dėl detalių kreipkitės į klientų aptarnavimą."
+  },
+  "postLoginTranslationSettings": {
+    "message": "Prisijungimas sėkmingas. Spustelėkite įskiepio piktogramą, kad pasirinktumėte vertimo kalbą ir balsų sąrašą."
+  },
+  "noSubtitlesWaitOptimization": {
+    "message": "Subtitrų nėra. Palaukite, kol įskiepis atpažins šio vaizdo įrašo subtitrus. Gausite el. pašto pranešimą į registruotą el. pašto adresą, kai atpažinimas bus baigtas."
+  },
+  "privateVideoNoSubtitles": {
+    "message": "Šis vaizdo įrašas neturi subtitrų ir yra privatus. Įskiepis negali fone atpažinti šio vaizdo įrašo subtitrų. Padarykite vaizdo įrašą viešą arba pridėkite subtitrus rankiniu būdu ir bandykite dar kartą."
+  },
+  "trialMemberDurationLimit": {
+    "message": "Šis vaizdo įrašas neturi subtitrų. Kaip bandomojo laikotarpio nariui, šiuo metu palaikomi tik iki 15 minučių trukmės vaizdo įrašai subtitrų atpažinimui. Pilnateisiai nariai palaiko iki 3 valandų vaizdo įrašus."
+  },
+  "premiumMemberDurationLimit": {
+    "message": "Šis vaizdo įrašas neturi subtitrų, o trukmė viršija 3 valandas, vertimas ir dubliavimas nepalaikomi. Pasirinkite trumpesnį vaizdo įrašą arba vaizdo įrašą su subtitrais."
+  },
+  "freeUserNoSubtitles": {
+    "message": "Šis vaizdo įrašas neturi įmontuotų subtitrų. Prenumeruokite įskiepio narystę subtitrų atpažinimui ir mėgaukitės vertimo bei dubliavimo funkcijomis."
+  },
+  "freeUserDailyLimit": {
+    "message": "Nemokamos versijos naudotojai per dieną gali žiūrėti iki 5 vaizdo įrašų per įskiepį. Atnaujinkite į narystę, kad atrakintumėte neriboto žiūrėjimo galimybes."
+  },
+  "upgradeEntryUpgradeButton": {
+    "message": "Atnaujinti planą"
+  },
+  "upgradeEntryLaterButton": {
+    "message": "Galbūt vėliau"
+  },
+  "aiSubtitlesRecognitionInBackground": {
+    "message": "AI subtitrų dar nėra. Įskiepis pradėjo juos atpažinti fone. Išgirdę pirmą dubliuotą sakinį, galite uždaryti puslapį ir laukti el. pašto pranešimo; kai bus paruošta, dubliavimo mygtukas taps žalias, o vertimo kokybė bus geresnė."
+  },
+  "upgradeMembershipForBackgroundRecognition": {
+    "message": "Atnaujinkite į narystę ir įskiepis atpažins AI subtitrus fone. Gavę el. pašto pranešimą, grįžkite žiūrėti; dubliavimo mygtukas taps žalias, o vertimai bus tikslesni."
+  },
+  "memberFreeVoiceAzureSuggestion": {
+    "message": "Šiuo metu dubliuojate naudodami nemokamą balso tipą. Azure balsai skamba natūraliau; nariai dabar gali naudoti Azure be apribojimų ir be papildomo kreditų papildymo."
+  },
+  "memberAiSubtitlePlatformPrioritySuggestion": {
+    "message": "Šiuo metu naudojami plėtinio foninio AI atpažinti subtitrai. Jei vertimas atrodo netikslus, pagrindiniuose nustatymuose pakeiskite subtitrų prioritetą į platformos subtitrus."
+  },
+  "openBasicSettingsLink": {
+    "message": "Atidaryti pagrindinius nustatymus"
+  },
+  "doNotShowAgainLink": {
+    "message": "Daugiau nerodyti"
+  },
+  "loginAndUsePlugin": {
+    "message": "Pirmiausia spustelėkite įskiepio piktogramą, kad prisijungtumėte, tada naudokite įskiepį balso įrašymo atkūrimui."
+  },
+  "voiceSettingsMismatch": {
+    "message": "Balso tipas ir balso nustatymai nesutampa. Eikite į nustatymų puslapį, kad iš naujo pasirinktumėte ir išsaugotumėte balso nustatymus."
+  },
+  "contentMenusTitle": {
+    "message": "Pradėti balso įrašymo atkūrimą"
+  },
+  "videoDetectedDomainTooltip": {
+    "message": "Dabartiniame vaizdo įraše aptikta sritis: {domain}"
+  },
+  "dropboxClickCcToTranscribe": {
+    "message": "Šis vaizdo įrašas dar nebuvo transkribuotas. Spustelėkite CC mygtuką Dropbox vaizdo įrašo apačioje, kad transkribuotumėte subtitrus. Pasibaigus transkribavimui, spustelėkite įskiepio dubliavimo mygtuką, kad versti ir dubliuotumėte."
+  },
+  "iosInterceptorConflictTitle": {
+    "message": "Aptiktas plėtinio konfliktas"
+  },
+  "iosInterceptorConflictMessage": {
+    "message": "Kitas naršyklės plėtinys blokuoja subtitrų užklausų perėmimą. Išjunkite konfliktuojančius plėtinius, atnaujinkite puslapį ir bandykite dar kartą."
+  },
+  "login": {
+    "message": "Prisijungti"
+  },
+  "logout": {
+    "message": "Atsijungti"
+  },
+  "subscribe": {
+    "message": "Prenumerata"
+  },
+  "save_settings": {
+    "message": "Išsaugoti"
+  },
+  "saving": {
+    "message": "Išsaugoma..."
+  },
+  "saveSuccessTitle": {
+    "message": "Išsaugota sėkmingai"
+  },
+  "saveSuccessText": {
+    "message": "Nustatymai išsaugoti sėkmingai"
+  },
+  "saveFailedTitle": {
+    "message": "Išsaugoti nepavyko"
+  },
+  "saveFailedText": {
+    "message": "Nepavyko išsaugoti nustatymų, bandykite dar kartą"
+  },
+  "confirmButton": {
+    "message": "Tęsti"
+  },
+  "cancelButton": {
+    "message": "Atšaukti"
+  },
+  "back": {
+    "message": "Atgal"
+  },
+  "backToSettings": {
+    "message": "Grįžti į nustatymus"
+  },
+  "backToVideoLibrary": {
+    "message": "Grįžti į vaizdo įrašų biblioteką"
+  },
+  "source_languages": {
+    "message": "Šaltinio kalba:"
+  },
+  "target_languages": {
+    "message": "Paskirties kalba:"
+  },
+  "selectSourceLanguage": {
+    "message": "Pasirinkite šaltinio kalbą"
+  },
+  "selectTargetLanguage": {
+    "message": "Pasirinkite paskirties kalbą"
+  },
+  "searchSourceLanguage": {
+    "message": "Ieškoti šaltinio kalbos..."
+  },
+  "searchTargetLanguage": {
+    "message": "Ieškoti paskirties kalbos..."
+  },
+  "loading": {
+    "message": "įkeliama"
+  },
+  "sex": {
+    "message": "Lytis:"
+  },
+  "voices": {
+    "message": "Balsas:"
+  },
+  "voicesType": {
+    "message": "Balso tipas:"
+  },
+  "man": {
+    "message": "Vyras"
+  },
+  "woman": {
+    "message": "Moteris"
+  },
+  "free": {
+    "message": "Nemokama"
+  },
+  "memberFree": {
+    "message": "Nemokama nariams"
+  },
+  "memberFreeRequireMembership": {
+    "message": "Šis balso tipas skirtas tik nariams. Atnaujinkite, kad galėtumėte naudoti nemokamai."
+  },
+  "azureRequireMembership": {
+    "message": "Azure TTS skirtas tik nariams. Atnaujinkite, kad atrakintumėte aukštos kokybės Azure balsus."
+  },
+  "originalAudio": {
+    "message": "Orig."
+  },
+  "translatedAudio": {
+    "message": "Dubl."
+  },
+  "backgroundAudio": {
+    "message": "Fono garsas"
+  },
+  "textToSpeech": {
+    "message": "Tekstas į kalbą:"
+  },
+  "textToSpeechToggle": {
+    "message": "Ekrano burbulas"
+  },
+  "showSubtitle": {
+    "message": "subtitrai:"
+  },
+  "subtitleSize": {
+    "message": "Dydis"
+  },
+  "subtitles": {
+    "message": "Subtitrai"
+  },
+  "toggleSubtitles": {
+    "message": "Perjungti subtitrus"
+  },
+  "subtitleDisplayMode": {
+    "message": "Subtitrų režimas"
+  },
+  "subtitleModeTranslated": {
+    "message": "Tik vertimas"
+  },
+  "subtitleModeBilingual": {
+    "message": "Dvikalbiai subtitrai"
+  },
+  "subtitleModeOff": {
+    "message": "Subtitrai išjungti"
+  },
+  "translateService": {
+    "message": "Vertimas:"
+  },
+  "translationEngine": {
+    "message": "Vertimo variklis"
+  },
+  "translationService": {
+    "message": "Vertimas"
+  },
+  "translationServiceTitle": {
+    "message": "Vertimas"
+  },
+  "advancedSettings": {
+    "message": "Išplėstiniai nustatymai"
+  },
+  "pauseVideo": {
+    "message": "Pristabdyti vaizdo įrašą"
+  },
+  "iosOpenOriginVolume": {
+    "message": "Įjungti originalų garsą"
+  },
+  "voicesAndSubtitles": {
+    "message": "Balsas ir subtitrai"
+  },
+  "voicesAndSubtitlesTitle": {
+    "message": "Balsas ir subtitrai"
+  },
+  "speakerList": {
+    "message": "Kalbėtojų sąrašas"
+  },
+  "speakersTitle": {
+    "message": "Kalbėtojai"
+  },
+  "deleteSpeaker": {
+    "message": "Ištrinti"
+  },
+  "editSpeaker": {
+    "message": "Redaguoti"
+  },
+  "speakerName": {
+    "message": "Kalbėtojo vardas"
+  },
+  "enterSpeakerName": {
+    "message": "Įveskite kalbėtojo vardą"
+  },
+  "enterVoice": {
+    "message": "Įveskite balso pavadinimą"
+  },
+  "voice": {
+    "message": "Balsas"
+  },
+  "gender": {
+    "message": "Lytis"
+  },
+  "male": {
+    "message": "Vyras"
+  },
+  "female": {
+    "message": "Moteris"
+  },
+  "edit": {
+    "message": "Redaguoti"
+  },
+  "delete": {
+    "message": "Ištrinti"
+  },
+  "save": {
+    "message": "Išsaugoti"
+  },
+  "cancel": {
+    "message": "Atšaukti"
+  },
+  "confirmDeleteSpeaker": {
+    "message": "Ar tikrai norite ištrinti šį kalbėtoją?"
+  },
+  "noSpeakers": {
+    "message": "Nėra kalbėtojų"
+  },
+  "memberUser": {
+    "message": "PRO"
+  },
+  "accountBalance": {
+    "message": "Likutis:"
+  },
+  "userAccountAriaLabel": {
+    "message": "Vartotojo paskyra"
+  },
+  "membershipExpires": {
+    "message": "Galioja iki"
+  },
+  "shortcutSettings": {
+    "message": "Spartieji klavišai"
+  },
+  "subscriptionRecharge": {
+    "message": "Prenumeruoti & papildyti"
+  },
+  "membershipIcon": {
+    "message": "Narystės ženklelis"
+  },
+  "browserShortcutSettingsTip": {
+    "message": "Sukonfigūruokite sparčiuosius klavišus naršyklės plėtinio nustatymuose"
+  },
+  "safariShortcutSettingsTip": {
+    "message": "Nustatykite sparčiuosius klavišus Safari > Nuostatos > Plėtiniai"
+  },
+  "edgeShortcutSettingsTip": {
+    "message": "Atidaroma Edge plėtinio spartųjų klavišų nustatymų puslapis"
+  },
+  "firefoxShortcutSettingsTip": {
+    "message": "Atidaromas Firefox priedų puslapis, nustatykite sparčiuosius klavišus plėtiniuose ir temose"
+  },
+  "dubbingSettings": {
+    "message": "Dubliavimo nustatymai"
+  },
+  "debugInfo": {
+    "message": "Derinimo informacija"
+  },
+  "sourceLanguage": {
+    "message": "Šaltinio kalba"
+  },
+  "targetLanguage": {
+    "message": "Paskirties kalba"
+  },
+  "vipRequiredTitle": {
+    "message": "Reikalinga narystė"
+  },
+  "vipRequiredText": {
+    "message": "Jums reikia būti nariu, kad naudotumėte šią funkciją"
+  },
+  "vipAndBalanceRequiredTitle": {
+    "message": "Reikalinga narystė ir likutis"
+  },
+  "vipAndBalanceRequiredText": {
+    "message": "Jums reikia būti nariu ir turėti pakankamai lėšų, kad naudotumėte šią funkciją"
+  },
+  "balanceRequiredTitle": {
+    "message": "Reikalingas likutis"
+  },
+  "balanceRequiredText": {
+    "message": "Jūsų sąskaitos likutis nepakankamas. Papildykite, kad naudotumėte šią funkciją"
+  },
+  "lowBalanceTitle": {
+    "message": "Mažo likučio įspėjimas"
+  },
+  "lowBalanceText": {
+    "message": "Jūsų sąskaitos likutis yra žemiau $1. Rekomenduojame netrukus papildyti, kad užtikrintumėte nepertraukiamą paslaugą"
+  },
+  "insufficientBalance": {
+    "message": "Dėl nepakankamo likučio paslauga buvo pakeista į Google Translate. Norėdami naudoti AI vertimą, papildykite savo kreditą."
+  },
+  "insufficientBalanceAlertMsg": {
+    "message": "Jūsų likutis nepakankamas. Papildykite savo likutį prieš naudodami AI vertimą ir Azure TTS. Jei nenorite papildyti, galite grįžti į Google Translate ir nemokamus balso tipus."
+  },
+  "balanceRunningLow": {
+    "message": "Jūsų likutis senka. Kad išvengtumėte prasto žiūrėjimo patirties, rekomenduojama iš anksto papildyti."
+  },
+  "membershipRequired": {
+    "message": "Prašome atnaujinti į narystę prieš naudojant OpenAI vertimą."
+  },
+  "membershipRequiredForAI": {
+    "message": "Papildykite savo narystę prieš naudodami AI vertimą. Jei nenorite papildyti, taip pat galite pasirinkti Google Translate."
+  },
+  "insufficientMembership": {
+    "message": "Jūsų narystė baigėsi. Papildykite savo narystę prieš naudodami AI vertimą ir Azure TTS. Jei nenorite papildyti, taip pat galite pasirinkti Google Translate ir nemokamus balso tipus."
+  },
+  "insufficientBalanceAndMembership": {
+    "message": "Papildykite savo narystę ir likutį prieš naudodami AI vertimą ir Azure TTS. Jei nenorite papildyti, taip pat galite pasirinkti Google Translate ir nemokamus balso tipus."
+  },
+  "freeForVip": {
+    "message": "VIP nemokama"
+  },
+  "freeOptionTipText": {
+    "message": "Jei nenorite papildyti, galite pasirinkti nemokamą variantą, "
+  },
+  "translateEngineTipText": {
+    "message": "pakeisti vertimo paslaugą į Google"
+  },
+  "voiceTypeTipText": {
+    "message": "pakeisti balso tipą į nemokamą versiją"
+  },
+  "vipFreeOptionTipText": {
+    "message": "Kaip narys galite nemokamai naudoti šias vertimo paslaugas"
+  },
+  "vipTranslateEngineTipText": {
+    "message": "Pakeisti vertimo paslaugą į nariams nemokamas paslaugas, tokias kaip gemini, deepseek, gpt-3.5-turbo arba claude-3-haiku"
+  },
+  "pay": {
+    "message": "mokėti"
+  },
+  "switchModelWarning": {
+    "message": "Perjungiant balsą ar vertimo modelį vaizdo įrašo atkūrimo metu bus taikomi papildomi mokesčiai dėl iššvaistytų išteklių. Rekomenduojame perjungti kitame vaizdo įraše. Jei vis tiek norite tęsti, spustelėkite Tęsti ir išsaugoti."
+  },
+  "selectSpeaker": {
+    "message": "Pasirinkti"
+  },
+  "speaker": {
+    "message": "Kalbėtojas"
+  },
+  "rechargeLimit": {
+    "message": "Kreditai+narystė"
+  },
+  "tooExpensive": {
+    "message": "Per brangu"
+  },
+  "dropdownPlaceholder": {
+    "message": "Pasirinkite"
+  },
+  "dropdownNoOptions": {
+    "message": "Nėra pasirinkimų"
+  },
+  "dropdownSearch": {
+    "message": "Ieškoti..."
+  },
+  "swapVolumeSettingsCommand": {
+    "message": "Perjungti garso nustatymus tarp originalaus ir dubliuoto garso"
+  },
+  "cycleSubtitleModeCommand": {
+    "message": "Perjungti subtitrus: dvikalbiai → tik vertimas → išjungta"
+  },
+  "trialMemberModelLimit": {
+    "message": "Bandomojo laikotarpio nariai gali naudoti tik Gemini ir Google Translate. Norėdami naudoti kitus modelius, prenumeruokite mūsų narystę."
+  },
+  "subtitlesRateLimitedByYouTube": {
+    "message": "Šio vaizdo įrašo subtitrai šiuo metu ribojami YouTube. Bandykite dar kartą vėliau."
+  },
+  "musicVideoNotSupported": {
+    "message": "Tai muzikinis vaizdo įrašas. Vertimas ir dubliavimas nepalaikomi."
+  },
+  "hideUntilNextVisit": {
+    "message": "Slėpti iki kito apsilankymo"
+  },
+  "disableGlobally": {
+    "message": "Išjungti visuotinai"
+  },
+  "sidebarHideUntilNextVisit": {
+    "message": "Slėpti iki kito apsilankymo"
+  },
+  "sidebarDisableForSite": {
+    "message": "Išjungti šiai svetainei"
+  },
+  "sidebarDisableGlobally": {
+    "message": "Išjungti globaliai"
+  },
+  "sidebarReenableHint": {
+    "message": "Galima vėl įjungti "
+  },
+  "sidebarSettings": {
+    "message": "Nustatymuose"
+  },
+  "sidebarReenableHintSuffix": {
+    "message": " "
+  },
+  "notSupported": {
+    "message": "Nepalaikoma"
+  },
+  "multiVideoNotSupported": {
+    "message": "Šiame puslapyje yra keli vaizdo įrašai. Universalus dubliavimas palaiko tik puslapius su vienu vaizdo įrašu, kai naudojami HLS srautai."
+  },
+  "mediaSourceNotDetected": {
+    "message": "Nepavyko aptikti vaizdo įrašo šaltinio. Ši svetainė gali būti nepalaikoma."
+  },
+  "uploadMediaForRecognition": {
+    "message": "Subtitrų nerasta. Ar norite įkelti vaizdo įrašą AI subtitrų atpažinimui?"
+  },
+  "startUpload": {
+    "message": "Pradėti įkėlimą"
+  },
+  "uploadingMedia": {
+    "message": "Įkeliama medija..."
+  },
+  "downloading": {
+    "message": "Atsisiunčiama"
+  },
+  "uploading": {
+    "message": "Įkeliama"
+  },
+  "completing": {
+    "message": "Baigiama"
+  },
+  "uploadComplete": {
+    "message": "Įkėlimas baigtas"
+  },
+  "waitingForRecognition": {
+    "message": "Vaizdo įrašas sėkmingai įkeltas. Vyksta AI subtitrų atpažinimas. Gausite el. pašto pranešimą, kai bus paruošta."
+  },
+  "uploadFailed": {
+    "message": "Įkėlimas nepavyko"
+  },
+  "corsNotSupported": {
+    "message": "Ši svetainė neleidžia atsisiųsti medijos failų. Universalus dubliavimas nepalaikomas."
+  },
+  "mediaDownloadInterrupted": {
+    "message": "Medijos atsisiuntimą nutraukė tinklo klaida (tai ne svetainės apribojimas). Bandykite įkelti dar kartą."
+  },
+  "zoomRecordingDnrNotSupported": {
+    "message": "Jūsų naršyklė nepalaiko Zoom įrašų įkėlimo atpažinimo. Naudokite Chrome/Edge."
+  },
+  "zoomRecordingDownloadForbidden403": {
+    "message": "Zoom įrašo atsisiuntimas uždrausta (403). Paleiskite/atnaujinkite puslapį patikrinimui, tada bandykite dar kartą."
+  },
+  "liveStreamNotSupported": {
+    "message": "Tiesioginės transliacijos nepalaikomos universaliam dubliavimui."
+  },
+  "noAudioTrackFound": {
+    "message": "Garso takelis neaptiktas. Šis vaizdo įrašas atrodo tik vaizdo be garso ir negali būti naudojamas dubliavimo atpažinimui."
+  },
+  "universalDubbingMemberOnly": {
+    "message": "Universaliam dubliavimui reikalinga debesų GPU skaičiavimo galia (didelės išlaidos), tik VIP."
+  },
+  "videoDurationExceedsLimit": {
+    "message": "Šis vaizdo įrašas viršija 3 valandas. Universalus dubliavimas šiuo metu nepalaikomas vaizdo įrašams, ilgesniems nei 3 valandos."
+  },
+  "videoDrmProtected": {
+    "message": "Šis vaizdo įrašas apsaugotas DRM ir negali būti naudojamas dubliavimui."
+  },
+  "pleaseClickVideoToPlay": {
+    "message": "Spustelėkite vaizdo įrašą, kad jį atidarytumėte, tada naudokite dubliavimo funkciją."
+  },
+  "iosUniversalDubbingNotSupported": {
+    "message": "Universalus dubliavimas nepalaikomas iOS įrenginiuose. Prašome naudoti darbalaukio naršyklę."
+  },
+  "membershipRequiredTitle": {
+    "message": "Reikalinga narystė"
+  },
+  "error": {
+    "message": "Klaida"
+  },
+  "unknownError": {
+    "message": "Įvyko nežinoma klaida. Bandykite dar kartą."
+  },
+  "doNotClosePage": {
+    "message": "Prašome neuždaryti ir neatnaujinti šio puslapio įkėlimo metu, kitaip įkėlimas bus nutrauktas."
+  },
+  "taskAlreadySubmitted": {
+    "message": "Šis vaizdo įrašas jau apdorojamas AI subtitrų atpažinimui. Palaukite pranešimo el. paštu."
+  },
+  "sampleAesNotSupported": {
+    "message": "Šis vaizdo įrašas naudoja SAMPLE-AES šifravimą, kuris šiuo metu nepalaikomas atsisiuntimui."
+  },
+  "hlsKeyFetchFailed": {
+    "message": "Nepavyko gauti šio vaizdo įrašo iššifravimo rakto. Vaizdo įrašas gali būti apsaugotas arba raktų serveris nepasiekiamas."
+  },
+  "hlsDecryptionFailed": {
+    "message": "Nepavyko iššifruoti vaizdo įrašo turinio. Šifravimo raktas gali būti neteisingas arba vaizdo įrašo formatas nesuderinamas."
+  },
+  "subtitleStyleOptionsTitle": {
+    "message": "Subtitrų stiliaus nustatymai"
+  },
+  "subtitleStyleOptionsDesc": {
+    "message": "Koregavimai bus išsaugoti ir įsigalios nedelsiant."
+  },
+  "subtitleStyleSectionTitle": {
+    "message": "Subtitrų stilius"
+  },
+  "subtitleStylePreviewTitle": {
+    "message": "Peržiūra"
+  },
+  "subtitleStylePreviewTag": {
+    "message": "Realiu laiku"
+  },
+  "subtitleStylePreviewText": {
+    "message": "Jis manė, kad šis jaunuolis turi didelį potencialą."
+  },
+  "subtitleStylePosition": {
+    "message": "Pozicija"
+  },
+  "subtitleStylePositionTop": {
+    "message": "Viršuje"
+  },
+  "subtitleStylePositionMiddle": {
+    "message": "Viduryje"
+  },
+  "subtitleStylePositionBottom": {
+    "message": "Apačioje"
+  },
+  "subtitleStyleFontFamily": {
+    "message": "Šriftas"
+  },
+  "subtitleStyleFontSize": {
+    "message": "Šrifto dydis"
+  },
+  "subtitleStyleCustomOption": {
+    "message": "Pasirinktinis"
+  },
+  "subtitleStyleCustomFont": {
+    "message": "Pasirinktinis šriftas"
+  },
+  "subtitleStyleCustomFontPlaceholder": {
+    "message": "Pavyzdžiui: PingFang SC, Arial"
+  },
+  "subtitleStyleTextColor": {
+    "message": "Šrifto spalva"
+  },
+  "subtitleStyleFontWeight": {
+    "message": "Šrifto storis"
+  },
+  "subtitleStyleBackgroundColor": {
+    "message": "Fono spalva"
+  },
+  "subtitleStyleBackgroundOpacity": {
+    "message": "Fono neskaidrumas"
+  },
+  "subtitleStyleEdgeStyle": {
+    "message": "Krašto stilius"
+  },
+  "subtitleStyleEdgeNone": {
+    "message": "Nėra"
+  },
+  "subtitleStyleEdgeShadow": {
+    "message": "Šešėlis"
+  },
+  "subtitleStyleEdgeOutline": {
+    "message": "Kontūras"
+  },
+  "subtitleStyleFontNone": {
+    "message": "Nėra"
+  },
+  "subtitleStyleFontDefault": {
+    "message": "Numatytasis"
+  },
+  "subtitleStyleFontPingFang": {
+    "message": "PingFang SC"
+  },
+  "subtitleStyleFontYaHei": {
+    "message": "Microsoft YaHei"
+  },
+  "subtitleStyleFontHeiti": {
+    "message": "STHeiti"
+  },
+  "subtitleStyleFontKaiti": {
+    "message": "Kaiti SC"
+  },
+  "subtitleStyleFontSongti": {
+    "message": "STSong"
+  },
+  "subtitleStyleFontFangsong": {
+    "message": "FangSong"
+  },
+  "subtitleStyleFontDongqingHeiti": {
+    "message": "Dongqing Heiti"
+  },
+  "subtitleStyleFontLantingHei": {
+    "message": "Lanting Hei"
+  },
+  "subtitleStyleFontHanyiHeiliu": {
+    "message": "Hanyi Heiliu"
+  },
+  "subtitleStyleFontHanyiZhonghei": {
+    "message": "Hanyi Zhonghei"
+  },
+  "subtitleStyleFontSTSong": {
+    "message": "Songti"
+  },
+  "subtitleStyleFontWawati": {
+    "message": "Wawati"
+  },
+  "subtitleStyleFontWeibei": {
+    "message": "Weibei"
+  },
+  "subtitleStyleFontXingkai": {
+    "message": "Xingkai"
+  },
+  "subtitleStyleFontYuanti": {
+    "message": "Yuanti"
+  },
+  "subtitleStyleFontArialUnicode": {
+    "message": "Arial Unicode MS"
+  },
+  "subtitleStyleFontArial": {
+    "message": "Arial"
+  },
+  "subtitleStyleFontCourierNew": {
+    "message": "Courier New"
+  },
+  "subtitleStyleFontGeorgia": {
+    "message": "Georgia"
+  },
+  "subtitleStyleFontTahoma": {
+    "message": "Tahoma"
+  },
+  "subtitleStyleFontTimesNewRoman": {
+    "message": "Times New Roman"
+  },
+  "subtitleStyleFontTrebuchetMS": {
+    "message": "Trebuchet MS"
+  },
+  "subtitleStyleFontVerdana": {
+    "message": "Verdana"
+  },
+  "subtitleStyleFontHelveticaNeue": {
+    "message": "Helvetica Neue"
+  },
+  "subtitleStyleFontHiraginoMincho": {
+    "message": "Hiragino Mincho ProN"
+  },
+  "subtitleStyleFontHiraginoKaku": {
+    "message": "Hiragino Kaku Gothic ProN"
+  },
+  "subtitleStyleFontKohinoor": {
+    "message": "Kohinoor Devanagari"
+  },
+  "subtitleStyleFontAppleSD": {
+    "message": "Apple SD Gothic Neo"
+  },
+  "subtitleStyleFontNanumGothic": {
+    "message": "Nanum Gothic"
+  },
+  "subtitleStyleFontCustom": {
+    "message": "Pasirinktinis"
+  },
+  "subtitleStyleColorWhite": {
+    "message": "balta"
+  },
+  "subtitleStyleColorYellow": {
+    "message": "geltona"
+  },
+  "subtitleStyleColorOrange": {
+    "message": "oranžinė"
+  },
+  "subtitleStyleColorGray": {
+    "message": "pilka"
+  },
+  "subtitleStyleColorGreen": {
+    "message": "žalia"
+  },
+  "subtitleStyleColorCyan": {
+    "message": "žydra"
+  },
+  "subtitleStyleColorBlue": {
+    "message": "mėlyna"
+  },
+  "subtitleStyleColorMagenta": {
+    "message": "purpurinė"
+  },
+  "subtitleStyleColorRed": {
+    "message": "raudona"
+  },
+  "subtitleStyleColorBlack": {
+    "message": "juoda"
+  },
+  "subtitleStyleEditorViewLabel": {
+    "message": "Stiliaus redagavimo rodinys"
+  },
+  "subtitleStyleEditorViewTranslated": {
+    "message": "Tik vertimas"
+  },
+  "subtitleStyleEditorViewBilingual": {
+    "message": "Dvikalbis"
+  },
+  "subtitleStyleLayoutSectionTitle": {
+    "message": "Dvikalbis išdėstymas"
+  },
+  "subtitleStyleOrder": {
+    "message": "Subtitrų tvarka"
+  },
+  "subtitleStyleOrderTranslatedFirst": {
+    "message": "Vertimas viršuje"
+  },
+  "subtitleStyleOrderOriginalFirst": {
+    "message": "Originalas viršuje"
+  },
+  "subtitleStyleLineGap": {
+    "message": "Eilučių intervalas"
+  },
+  "subtitleStyleTextAlign": {
+    "message": "Horizontalioji lygiuotė"
+  },
+  "subtitleStyleTextAlignLeft": {
+    "message": "Kairėje"
+  },
+  "subtitleStyleTextAlignCenter": {
+    "message": "Centre"
+  },
+  "subtitleStyleTextAlignRight": {
+    "message": "Dešinėje"
+  },
+  "subtitleStyleTranslatedSectionTitle": {
+    "message": "Vertimo stilius"
+  },
+  "subtitleStyleOriginalSectionTitle": {
+    "message": "Originalo stilius"
+  },
+  "subtitleStyleFollowTranslated": {
+    "message": "Sekti vertimo stilių"
+  },
+  "subtitleStyleUsesCurrentSettings": {
+    "message": "Naudoja dabartinius nustatymus"
+  },
+  "subtitleStyleOriginalSizePercent": {
+    "message": "Šrifto dydžio santykis"
+  },
+  "subtitleStyleSharedBackgroundSectionTitle": {
+    "message": "Bendras fonas"
+  },
+  "subtitleStyleRestoreDefaults": {
+    "message": "Atkurti numatytuosius"
+  },
+  "subtitleStylePreviewOriginalText": {
+    "message": "He thought this young man had great potential."
+  },
+  "subtitleStyleColorLightGray": {
+    "message": "šviesiai pilka"
+  },
+  "disabledSitesSectionTitle": {
+    "message": "Išjungtos svetainės"
+  },
+  "disabledSitesTitle": {
+    "message": "Išjungtų svetainių valdymas"
+  },
+  "disabledSitesDescription": {
+    "message": "Plaukiojantis mygtukas nebus rodomas šiose svetainėse. Čia galite pridėti arba pašalinti išjungtas svetaines."
+  },
+  "disabledSitesPlaceholder": {
+    "message": "Įveskite domeną, pvz. youtube.com"
+  },
+  "disabledSitesAdd": {
+    "message": "Pridėti"
+  },
+  "disabledSitesDomain": {
+    "message": "Domenas"
+  },
+  "disabledSitesActions": {
+    "message": "Veiksmai"
+  },
+  "disabledSitesDelete": {
+    "message": "Ištrinti"
+  },
+  "disabledSitesEmpty": {
+    "message": "Nėra išjungtų svetainių"
+  },
+  "preferencesSectionTitle": {
+    "message": "Pagrindiniai nustatymai"
+  },
+  "optionsNavPreferencesShort": {
+    "message": "Bazė"
+  },
+  "optionsNavSubtitleShort": {
+    "message": "Subtitrai"
+  },
+  "optionsNavAiShort": {
+    "message": "AI"
+  },
+  "optionsNavSitesShort": {
+    "message": "Svetainės"
+  },
+  "preferenceStatusDisabled": {
+    "message": "Išjungta"
+  },
+  "preferencesTitle": {
+    "message": "Pagrindiniai nustatymai"
+  },
+  "preferencesDescription": {
+    "message": "Čia tvarkykite pagrindines nuostatas."
+  },
+  "emailNotificationLabel": {
+    "message": "El. pašto pranešimai"
+  },
+  "emailNotificationDescription": {
+    "message": "Praneškite man el. paštu, kai subtitrų atpažinimas bus baigtas."
+  },
+  "emailNotificationSaveFailed": {
+    "message": "Išsaugoti nepavyko. Bandykite dar kartą vėliau."
+  },
+  "skipTranslationWhenSameLanguageLabel": {
+    "message": "Praleisti vertimą, kai kalba ta pati"
+  },
+  "skipTranslationWhenSameLanguageDescription": {
+    "message": "Kai įjungta ir subtitrų kalba sutampa su tiksline kalba, įgarsinimas pradedamas iškart be vertimo."
+  },
+  "userSubtitleSegmentationEnabledLabel": {
+    "message": "Išmanus naudotojo subtitrų skaidymas"
+  },
+  "userSubtitleSegmentationEnabledDescription": {
+    "message": "Įjungus automatiškai suskaidomi redaguoti arba vietoje įkelti subtitrai. Išjungus išlaikomas pradinis jų suskirstymas."
+  },
+  "subtitlePriorityTitle": {
+    "message": "Subtitrų vertimo prioritetas"
+  },
+  "subtitlePriorityDescription": {
+    "message": "Pasirinkite, kurį subtitrų šaltinį teikti pirmenybę vertimui."
+  },
+  "subtitlePriorityAiSubtitle": {
+    "message": "Papildinio AI atpažinti subtitrai"
+  },
+  "subtitlePriorityAiSubtitleDesc": {
+    "message": "Pirmenybė teikiama papildinio AI kalbos atpažinimo sugeneruotiems subtitrams didesniam tikslumui."
+  },
+  "subtitlePriorityPlatformSubtitle": {
+    "message": "Platformos integruoti subtitrai"
+  },
+  "subtitlePriorityPlatformSubtitleDesc": {
+    "message": "Pirmenybė teikiama vaizdo platformos pateiktiems originaliems subtitrams."
+  },
+  "subtitlePriorityQuickLabel": {
+    "message": "Subtitrai"
+  },
+  "subtitlePriorityQuickAi": {
+    "message": "DI"
+  },
+  "subtitlePriorityQuickPlatform": {
+    "message": "Platforma"
+  },
+  "panelTabVideoSummary": {
+    "message": "Santrauka"
+  },
+  "panelTabSubtitleEdit": {
+    "message": "Subtitrai"
+  },
+  "panelSummaryTitle": {
+    "message": "Vaizdo santrauka ir apžvalga"
+  },
+  "panelSummaryDesc": {
+    "message": "Naudokite pažangius AI modelius greitai suprasti vaizdo turinį"
+  },
+  "panelSummaryGenerate": {
+    "message": "Sukurti santrauką"
+  },
+  "panelSummaryGenerating": {
+    "message": "Generuojama..."
+  },
+  "panelSummaryReGenerating": {
+    "message": "Pergeneruojama..."
+  },
+  "panelSummarySectionSummary": {
+    "message": "Santrauka"
+  },
+  "panelSummarySectionHighlights": {
+    "message": "Pagrindiniai akcentai"
+  },
+  "panelSummaryExpandAll": {
+    "message": "Išskleisti viską"
+  },
+  "panelSummaryCollapseAll": {
+    "message": "Sutraukti viską"
+  },
+  "panelSummaryExpand": {
+    "message": "Išskleisti"
+  },
+  "panelSummaryCollapse": {
+    "message": "Sutraukti"
+  },
+  "panelSummaryShare": {
+    "message": "Dalintis"
+  },
+  "panelSummaryCopy": {
+    "message": "Kopijuoti"
+  },
+  "panelSummaryReGenerate": {
+    "message": "Pergeneruoti"
+  },
+  "panelSummaryCopySuccess": {
+    "message": "Nukopijuota"
+  },
+  "panelSummaryPlay": {
+    "message": "Leisti"
+  },
+  "panelSummaryPause": {
+    "message": "Pristabdyti"
+  },
+  "panelSummaryPlayFailed": {
+    "message": "Nepavyko paleisti, bandykite dar kartą"
+  },
+  "panelSummaryNoSubtitle": {
+    "message": "Šiam vaizdo įrašui nėra subtitrų"
+  },
+  "panelSummaryError": {
+    "message": "Santraukos generavimas nepavyko, bandykite dar kartą"
+  },
+  "panelSummaryErrorInvalidVideoId": {
+    "message": "Nepavyksta atpažinti dabartinio vaizdo įrašo, atnaujinkite puslapį ir bandykite dar kartą"
+  },
+  "panelSummaryErrorMemberRequired": {
+    "message": "Vaizdo įrašo santrauka yra tik nariams skirta funkcija, norėdami naudoti, prenumeruokite"
+  },
+  "panelSummaryErrorNoSubtitles": {
+    "message": "Šiam vaizdo įrašui nėra subtitrų, santraukos sugeneruoti negalima"
+  },
+  "panelSummaryErrorServiceError": {
+    "message": "Santraukos paslauga laikinai nepasiekiama, bandykite dar kartą vėliau"
+  },
+  "subtitleEditorManualInput": {
+    "message": "Rankinis įvedimas"
+  },
+  "subtitleEditorSwitchTip": {
+    "message": "Spustelėkite čia, kad perjungtumėte subtitrus"
+  },
+  "subtitleEditorExport": {
+    "message": "Eksportuoti"
+  },
+  "subtitleEditorTrackFallback": {
+    "message": "Subtitrų šaltinis"
+  },
+  "subtitleEditorMySubtitles": {
+    "message": "Mano subtitrai"
+  },
+  "subtitleEditorNoSourceManual": {
+    "message": "Subtitrų šaltinių nėra (galima įvesti rankiniu būdu)"
+  },
+  "subtitleEditorSaveInvalidVideo": {
+    "message": "Nepavyko nustatyti dabartinio vaizdo įrašo. Išsaugoti nepavyko."
+  },
+  "subtitleEditorSaveFailed": {
+    "message": "Išsaugoti nepavyko. Bandykite dar kartą vėliau."
+  },
+  "subtitleEditorValidationEmpty": {
+    "message": "Subtitrų turinys negali būti tuščias"
+  },
+  "subtitleEditorValidationBlockStructure": {
+    "message": "Netinkamas SRT blokas. Būtina seka, laiko žyma ir turinys."
+  },
+  "subtitleEditorValidationSequenceFormat": {
+    "message": "Netinkamas SRT eilės numerio formatas"
+  },
+  "subtitleEditorValidationSequenceIncrement": {
+    "message": "SRT eilės numeriai turi prasidėti nuo 1 ir didėti 1"
+  },
+  "subtitleEditorValidationTimeFormat": {
+    "message": "Netinkamas laiko formatas. Peržiūrėkite ir pataisykite."
+  },
+  "subtitleEditorValidationEndAfterStart": {
+    "message": "Pabaigos laikas turi būti ilgesnis nei pradžios laikas"
+  },
+  "subtitleEditorValidationContentRequired": {
+    "message": "Kiekviename paantraštyje turi būti bent viena teksto eilutė"
+  },
+  "subtitleEditorValidationSpeakerPrefix": {
+    "message": "Kai kuriuose subtitruose yra garsiakalbių žymos. Visuose subtitruose turi būti naudojamas priešdėlis [speaker]."
+  },
+  "localPlayerTemporaryImportMode": {
+    "message": "Laikinojo importo režimas"
+  },
+  "localPlayerLibraryTitle": {
+    "message": "Vietinė vaizdo biblioteka"
+  },
+  "localPlayerEntryButton": {
+    "message": "Vietinis video"
+  },
+  "localPlayerPageTitle": {
+    "message": "Vietinis video · YouTube Dubbing"
+  },
+  "localPlayerFolderAccessDescription": {
+    "message": "Atidarius aplanką, failų rankenos išsaugomos, kad būtų galima atkurti prieigą po atnaujinimo."
+  },
+  "localPlayerTemporaryImportDescription": {
+    "message": "Ši naršyklė nepalaiko File System Access API. Galite laikinai pridėti vaizdo įrašų ir subtitrų."
+  },
+  "localPlayerOpenFolder": {
+    "message": "Atidaryti aplanką"
+  },
+  "localPlayerAddVideo": {
+    "message": "Pridėti vaizdo įrašą"
+  },
+  "localPlayerAddSubtitle": {
+    "message": "Pridėti paantraštę"
+  },
+  "localPlayerVideoList": {
+    "message": "Vaizdo įrašų sąrašas"
+  },
+  "localPlayerFolders": {
+    "message": "Aplankai"
+  },
+  "localPlayerFoldersDescription": {
+    "message": "Naršykite importuotą laikmeną pagal aplanką."
+  },
+  "localPlayerAllVideos": {
+    "message": "Visi vaizdo įrašai"
+  },
+  "localPlayerAllVideosDescription": {
+    "message": "Ieškokite ir valdykite kiekvieną importuotą vaizdo įrašą."
+  },
+  "localPlayerLibraryView": {
+    "message": "Bibliotekos rodinys"
+  },
+  "localPlayerBackToFolders": {
+    "message": "Atgal į aplankus"
+  },
+  "localPlayerFolderSearchPlaceholder": {
+    "message": "Ieškokite aplankų, kelių arba failų"
+  },
+  "localPlayerTotalFolders": {
+    "message": "Iš viso {count} aplankų"
+  },
+  "localPlayerMatchedFolders": {
+    "message": "Atitiko {visibleCount} / iš viso {totalCount} aplankų"
+  },
+  "localPlayerNoFolderMatchesTitle": {
+    "message": "Atitinkamų aplankų nėra"
+  },
+  "localPlayerNoFolderMatchesText": {
+    "message": "Sureguliuokite aplanko paiešką ir bandykite dar kartą."
+  },
+  "localPlayerRescanAll": {
+    "message": "Iš naujo nuskaityti viską"
+  },
+  "localPlayerFolderMenuLabel": {
+    "message": "Aplanko veiksmai"
+  },
+  "localPlayerOpenFolderMenu": {
+    "message": "Atidarykite aplanką"
+  },
+  "localPlayerRescanThisFolder": {
+    "message": "Iš naujo nuskaitykite šį aplanką"
+  },
+  "localPlayerRemoveFromLibrary": {
+    "message": "Pašalinti iš bibliotekos"
+  },
+  "localPlayerFolderVideoCount": {
+    "message": "{count} vaizdo įrašų"
+  },
+  "localPlayerFolderAssociatedSubtitleCount": {
+    "message": "{count} susiję subtitrai"
+  },
+  "localPlayerFolderLastPlayed": {
+    "message": "Paskutinį kartą grota {time}"
+  },
+  "localPlayerFolderLastScanned": {
+    "message": "Paskutinį kartą nuskaityta {time}"
+  },
+  "localPlayerRemoveFolderTitle": {
+    "message": "Pašalinti šį aplanką iš bibliotekos?"
+  },
+  "localPlayerRemoveFolderText": {
+    "message": "Tai pašalina tik šio aplanko bibliotekos įrašus. Originalūs failai diske nebus ištrinti."
+  },
+  "localPlayerFolderRemoved": {
+    "message": "Pašalinta {folderName}"
+  },
+  "localPlayerRemoveFolderFailed": {
+    "message": "Nepavyko pašalinti aplanko iš bibliotekos."
+  },
+  "localPlayerRescanFailed": {
+    "message": "Nepavyko iš naujo nuskaityti vietinės bibliotekos."
+  },
+  "localPlayerRescanFolderUnavailable": {
+    "message": "Negalima iš naujo nuskaityti šio aplanko, nes prieiga prie išsaugoto aplanko negalima."
+  },
+  "localPlayerCurrentDirectory": {
+    "message": "Dabartinis katalogas"
+  },
+  "localPlayerNoNewFilesFound": {
+    "message": "Naujų failų nerasta."
+  },
+  "localPlayerScanComplete": {
+    "message": "Nuskaitymas baigtas: pridėta {addedVideoCount} vaizdo įrašų, {addedSubtitleCount} subtitrų, atnaujinta {updatedCount} failų."
+  },
+  "localPlayerNever": {
+    "message": "Niekada"
+  },
+  "localPlayerSearchPlaceholder": {
+    "message": "Ieškokite vaizdo įrašų arba failų kelių"
+  },
+  "localPlayerFilterAll": {
+    "message": "Viskas"
+  },
+  "localPlayerFilterWithSubtitle": {
+    "message": "Su subtitrais"
+  },
+  "localPlayerFilterNoSubtitle": {
+    "message": "Be subtitrų"
+  },
+  "localPlayerSortLastPlayed": {
+    "message": "Neseniai leisti vaizdo įrašai"
+  },
+  "localPlayerSortName": {
+    "message": "Failo pavadinimas"
+  },
+  "localPlayerSortDuration": {
+    "message": "Vaizdo įrašo trukmė"
+  },
+  "localPlayerNoVideosTitle": {
+    "message": "Dar nėra vietinių vaizdo įrašų"
+  },
+  "localPlayerNoMatchesTitle": {
+    "message": "Nėra atitinkančių vaizdo įrašų"
+  },
+  "localPlayerNoVideosText": {
+    "message": "Atidarykite aplanką arba pridėkite vaizdo įrašų, kad galėtumėte čia tvarkyti subtitrų nuorodas ir vietinį balso dubliavimą."
+  },
+  "localPlayerNoMatchesText": {
+    "message": "Sureguliuokite paiešką, filtrą arba rūšiavimą ir bandykite dar kartą."
+  },
+  "localPlayerDeleteVideoLabel": {
+    "message": "Ištrinti {fileName}"
+  },
+  "localPlayerRecognitionSubmitted": {
+    "message": "Subtitrų atpažinimas"
+  },
+  "localPlayerPlay": {
+    "message": "Leisti vaizdo įrašą"
+  },
+  "localPlayerSubtitles": {
+    "message": "Subtitrai"
+  },
+  "localPlayerStartDubbing": {
+    "message": "Pradėti balso dubliavimą"
+  },
+  "localPlayerFloatingActionsLabel": {
+    "message": "Greiti vietiniai vaizdo įrašai"
+  },
+  "localPlayerOpenSidebar": {
+    "message": "Atidaryti šoninę juostą"
+  },
+  "localPlayerClose": {
+    "message": "Uždaryti"
+  },
+  "localPlayerSameDirectorySubtitleSummary": {
+    "message": "To paties aplanko subtitrai {sameCount} · Susieti {associatedCount}"
+  },
+  "localPlayerNoManageableSubtitles": {
+    "message": "Nėra tvarkomų subtitrų"
+  },
+  "localPlayerAssociateAndUseForDubbing": {
+    "message": "Susiekite subtitrus ir naudokite juos balsui dubliuoti"
+  },
+  "localPlayerSetForDubbing": {
+    "message": "Naudokite šiuos subtitrus balso dubliavimui"
+  },
+  "localPlayerRemoveAssociation": {
+    "message": "Atsieti subtitrus"
+  },
+  "localPlayerRemoveAllAssociations": {
+    "message": "Atsieti visus subtitrus"
+  },
+  "localPlayerSelectVideoForSubtitleTitle": {
+    "message": "Pasirinkite vaizdo įrašą, kurį norite susieti su šiais subtitrais"
+  },
+  "localPlayerAssociate": {
+    "message": "Nuorodos paantraštė"
+  },
+  "localPlayerInitialStatus": {
+    "message": "Norėdami pradėti, atidarykite aplanką, pridėkite vaizdo įrašų arba numeskite failus."
+  },
+  "localPlayerAscendingSortTitle": {
+    "message": "Didėjantis; spustelėkite, kad perjungtumėte į mažėjimo režimą"
+  },
+  "localPlayerDescendingSortTitle": {
+    "message": "Mažėjantis; spustelėkite, kad perjungtumėte į didėjančią eigą"
+  },
+  "localPlayerTotalVideos": {
+    "message": "Iš viso {count} vaizdo įrašų"
+  },
+  "localPlayerMatchedVideos": {
+    "message": "Atitiko {visibleCount} / iš viso {totalCount} vaizdo įrašų"
+  },
+  "localPlayerRouteVideoMissing": {
+    "message": "URL nurodyto vaizdo įrašo nėra dabartinėje vietinėje vaizdo įrašų bibliotekoje."
+  },
+  "localPlayerFolderAccessUnsupported": {
+    "message": "Ši naršyklė negali atidaryti aplankų. Laikinam importui naudokite Pridėti vaizdo įrašą / Pridėti subtitrus."
+  },
+  "localPlayerImportComplete": {
+    "message": "Importuota {videoCount} vaizdo įrašų ir {subtitleCount} subtitrų."
+  },
+  "localPlayerOpenFolderFailed": {
+    "message": "Nepavyko atidaryti aplanko."
+  },
+  "localPlayerAddVideoFailed": {
+    "message": "Nepavyko pridėti vaizdo įrašo."
+  },
+  "localPlayerAddSubtitleFailed": {
+    "message": "Nepavyko pridėti subtitrų."
+  },
+  "localPlayerAssociationSaved": {
+    "message": "Subtitrų nuoroda išsaugota."
+  },
+  "localPlayerAssociationSavedAndPreferred": {
+    "message": "Subtitrai susieti ir nustatyti balso dubliavimui."
+  },
+  "localPlayerPreferredSubtitleSaved": {
+    "message": "Subtitrai nustatyti balso dubliavimui."
+  },
+  "localPlayerAssociationRemoved": {
+    "message": "Subtitrų nuoroda pašalinta."
+  },
+  "localPlayerRebindSubtitleTitle": {
+    "message": "Iš naujo susieti šiuos subtitrus?"
+  },
+  "localPlayerRebindSubtitleText": {
+    "message": "Ši subtitrai jau susieta su \"{fromVideo}\". Jei tęsite, susiejimas bus pašalintas ir susietas su „{toVideo}\"."
+  },
+  "localPlayerRemoveAllAssociationsTitle": {
+    "message": "Atsieti visus subtitrus?"
+  },
+  "localPlayerRemoveAllAssociationsText": {
+    "message": "Bus pašalintos tik šio vaizdo įrašo subtitrų nuorodos. Subtitrų failo įrašai nebus ištrinti."
+  },
+  "localPlayerAllAssociationsRemoved": {
+    "message": "Visos subtitrų nuorodos pašalintos."
+  },
+  "localPlayerDeleteVideoTitle": {
+    "message": "Ištrinti šį vaizdo įrašą?"
+  },
+  "localPlayerDeleteVideoText": {
+    "message": "Tai pašalina vaizdo įrašo ir subtitrų nuorodas iš vietinės bibliotekos. Originalūs failai diske nebus ištrinti."
+  },
+  "localPlayerDelete": {
+    "message": "Ištrinti"
+  },
+  "localPlayerVideoDeleted": {
+    "message": "Ištrinta {fileName}"
+  },
+  "localPlayerDeleteVideoFailed": {
+    "message": "Nepavyko ištrinti vaizdo įrašo."
+  },
+  "localPlayerVideoFileAccessLost": {
+    "message": "Negalima atkurti prieigos prie šio vaizdo failo. Dar kartą pridėkite vaizdo įrašą."
+  },
+  "localPlayerVideoPlayerNotReady": {
+    "message": "Vaizdo įrašų grotuvas dar neparengtas."
+  },
+  "localPlayerNowPlaying": {
+    "message": "Dabar žaidžiama {fileName}"
+  },
+  "localPlayerDubbingStarted": {
+    "message": "Pradėtas vietinis balso dubliavimas."
+  },
+  "localPlayerDubbingStartFailed": {
+    "message": "Nepavyko pradėti vietinio balso dubliavimo."
+  },
+  "localPlayerOpenSidebarFailed": {
+    "message": "Nepavyko atidaryti šoninės juostos."
+  },
+  "localPlayerVideoFileReadFailed": {
+    "message": "Negalima nuskaityti vietinio vaizdo failo. Dar kartą pridėkite vaizdo įrašą."
+  },
+  "localPlayerUploadCancelled": {
+    "message": "Įkėlimas atšauktas."
+  },
+  "localPlayerSubtitleAssociatedBadge": {
+    "message": "{count} subtitrai"
+  },
+  "localPlayerNoSubtitleBadge": {
+    "message": "Nėra susietų subtitrų"
+  },
+  "localPlayerUsedForDubbing": {
+    "message": "Naudojamas balsui dubliuoti"
+  },
+  "localPlayerAssociated": {
+    "message": "Susieta"
+  },
+  "localPlayerAssociatedOutsideFolder": {
+    "message": "Susieta už šio aplanko ribų"
+  },
+  "localPlayerNotAssociated": {
+    "message": "Nesusieta"
+  },
+  "localPlayerNativeSubtitle": {
+    "message": "Originalūs subtitrai"
+  },
+  "localPlayerDubbingAlreadyStarted": {
+    "message": "Balso įgarsinimas pradėtas"
+  },
+  "localPlayerThumbnailBackfillComplete": {
+    "message": "Sugeneruotos {count} vaizdo įrašų miniatiūros."
+  },
+  "localPlayerThumbnailGenerationFailed": {
+    "message": "Nepavyko generuoti miniatiūros: {displayName} ({message})"
+  },
+  "localPlayerFreeUserNoSubtitleMessage": {
+    "message": "Šiam vietiniam vaizdo įrašui nėra susietų subtitrų. Nemokami vartotojai dar negali naudoti foninio subtitrų atpažinimo vietiniams vaizdo įrašams. Atnaujinkite narystę, kad galėtumėte naudoti AI subtitrų atpažinimą, arba įkelkite subtitrų failą rankiniu būdu prieš pradėdami dubliuoti balsu."
+  },
+  "localPlayerNoSubtitleUploadTitle": {
+    "message": "Šis vaizdo įrašas neturi subtitrų"
+  },
+  "localPlayerNoSubtitleUploadText": {
+    "message": "Įkelti šį vaizdo įrašą dirbtinio intelekto subtitrų atpažinimui? Įkėlimas naudojamas tik subtitrams atpažinti, vaizdo įrašas iškart po atpažinimo ištrinamas ir jums bus pranešta el. paštu."
+  },
+  "localPlayerNavigationLabel": {
+    "message": "Vietinė vaizdo biblioteka / Tekstas į kalbą"
+  },
+  "localPlayerCurrentPageNav": {
+    "message": "Vaizdo dubliavimas"
+  },
+  "localPlayerTextDubbingNav": {
+    "message": "Tekstas į kalbą"
+  },
+  "localPlayerTextDubbingTitle": {
+    "message": "Tekstas į kalbą"
+  },
+  "localPlayerTextDubbingDescription": {
+    "message": "Tekstas į kalbą - Paskirties kalba"
+  },
+  "localPlayerTextDubbingVoiceType": {
+    "message": "Balso tipas"
+  },
+  "localPlayerTextDubbingLanguage": {
+    "message": "Paskirties kalba"
+  },
+  "localPlayerTextDubbingGender": {
+    "message": "Lytis"
+  },
+  "localPlayerTextDubbingVoice": {
+    "message": "Balsas"
+  },
+  "localPlayerTextDubbingInputLabel": {
+    "message": "Rankinis įvedimas"
+  },
+  "localPlayerTextDubbingInputPlaceholder": {
+    "message": "Rankinis įvedimas - Tekstas į kalbą"
+  },
+  "localPlayerTextDubbingLimitHint": {
+    "message": "Tekstas į kalbą: {chars} / {bytes}"
+  },
+  "localPlayerTextDubbingCounter": {
+    "message": "{chars} · {bytes}"
+  },
+  "localPlayerTextDubbingGenerate": {
+    "message": "Tekstas į kalbą MP3"
+  },
+  "localPlayerTextDubbingGenerating": {
+    "message": "Išsaugoma..."
+  },
+  "localPlayerTextDubbingGenerated": {
+    "message": "Tekstas į kalbą MP3 · {seconds}s"
+  },
+  "localPlayerTextDubbingFailed": {
+    "message": "Išsaugoti nepavyko"
+  },
+  "localPlayerTextDubbingNoVoice": {
+    "message": "Šiam pasirinkimui nėra pasiekiamo balso."
+  },
+  "localPlayerTextDubbingEmptyText": {
+    "message": "Subtitrų turinys negali būti tuščias"
+  },
+  "localPlayerTextDubbingTooLong": {
+    "message": "Tekstas per ilgas. Sutrumpinkite jį ir bandykite dar kartą."
+  },
+  "localPlayerTextDubbingDownload": {
+    "message": "Eksportuoti MP3"
+  },
+  "localPlayerTextDubbingClear": {
+    "message": "Atšaukti"
+  },
+  "translationDomainGeneral": {
+    "message": "Bendra"
+  },
+  "translationDomainWeb3": {
+    "message": "Web3 ir kripto"
+  },
+  "translationDomainTech": {
+    "message": "Technologijos"
+  },
+  "translationDomainNews": {
+    "message": "Naujienos ir žiniasklaida"
+  },
+  "translationDomainProgramming": {
+    "message": "Programavimas"
+  },
+  "translationDomainEducation": {
+    "message": "Švietimas"
+  },
+  "translationDomainFinance": {
+    "message": "Finansai"
+  },
+  "translationDomainLaw": {
+    "message": "Teisė"
+  },
+  "translationDomainAuto": {
+    "message": "Automobiliai"
+  },
+  "translationDomainEcommerce": {
+    "message": "El. prekyba"
+  },
+  "translationDomainFashion": {
+    "message": "Mada"
+  },
+  "translationDomainFood": {
+    "message": "Maistas ir gaminimas"
+  },
+  "translationDomainGardening": {
+    "message": "Sodininkystė"
+  },
+  "translationDomainMedical": {
+    "message": "Medicina ir sveikata"
+  },
+  "translationDomainMusic": {
+    "message": "Muzika"
+  },
+  "translationDomainPets": {
+    "message": "Augintiniai"
+  },
+  "translationDomainSports": {
+    "message": "Sportas"
+  },
+  "translationDomainTravel": {
+    "message": "Kelionės"
+  },
+  "translationDomainChess": {
+    "message": "Šachmatai"
+  },
+  "translationDomainGaming": {
+    "message": "Žaidimai"
+  },
+  "translationDomainGolf": {
+    "message": "Golfas"
+  },
+  "translationDomainMovies": {
+    "message": "Filmai ir TV"
+  },
+  "translationDomainPhotography": {
+    "message": "Fotografija"
+  },
+  "translationPreferencesSectionTitle": {
+    "message": "AI vertimas"
+  },
+  "translationRulesEnabledLabel": {
+    "message": "Taikyti terminų žodyną ir teksto keitimus AI vertime"
+  },
+  "translationRulesEnabledDescription": {
+    "message": "Įjungus AI vertimas naudos toliau pateiktus nustatymus. Išjungus esami nustatymai bus išsaugoti."
+  },
+  "glossaryTitle": {
+    "message": "Terminų žodynas"
+  },
+  "glossaryDescription": {
+    "message": "Nustatykite pastovius pradinių terminų vertimus (pvz., Stratagem). Jūsų terminai turi pirmenybę prieš integruotą žodyną."
+  },
+  "glossaryCreateButton": {
+    "message": "Pridėti asmeninį terminą"
+  },
+  "glossaryEditTitle": {
+    "message": "Redaguoti asmeninį terminą"
+  },
+  "glossaryEditorDescription": {
+    "message": "Pridėti, redaguoti, įjungti ar ištrinti galima tik asmeninio žodyno terminus."
+  },
+  "glossaryTableTitle": {
+    "message": "Dabartinės kalbos terminai"
+  },
+  "glossaryCombinedEmpty": {
+    "message": "Šiai kalbai asmeninių terminų dar nėra."
+  },
+  "glossarySearchEmpty": {
+    "message": "Atitinkančių terminų nėra."
+  },
+  "glossarySearchPlaceholder": {
+    "message": "Ieškoti pradinių terminų"
+  },
+  "glossarySourcePlaceholder": {
+    "message": "Pradinis terminas"
+  },
+  "glossaryTargetPlaceholder": {
+    "message": "Privalomas vertimas"
+  },
+  "glossarySourceTerm": {
+    "message": "Pradinis terminas"
+  },
+  "glossaryTargetTerm": {
+    "message": "Vertimas"
+  },
+  "replacementTitle": {
+    "message": "Šaltinio teksto klaidų taisymai"
+  },
+  "replacementDescription": {
+    "message": "Prieš AI vertimą ištaisykite pasikartojančias subtitrų atpažinimo klaidas (pvz., cloud code -> Claude Code)."
+  },
+  "replacementCreateButton": {
+    "message": "Pridėti asmeninį keitimą"
+  },
+  "replacementEditTitle": {
+    "message": "Redaguoti asmeninį keitimą"
+  },
+  "replacementEditorDescription": {
+    "message": "Prieš AI vertimą taikomi tik asmeniniai teksto keitimai."
+  },
+  "replacementFindPlaceholder": {
+    "message": "Klaidingas tekstas, pvz., cloud code"
+  },
+  "replacementReplacePlaceholder": {
+    "message": "Keisti į, pvz., claude code"
+  },
+  "replacementFindText": {
+    "message": "Klaidingas tekstas"
+  },
+  "replacementReplaceText": {
+    "message": "Keisti į"
+  },
+  "replacementEmpty": {
+    "message": "Taisymo taisyklių dar nėra."
+  },
+  "replacementSearchEmpty": {
+    "message": "Atitinkančių keitimų nėra."
+  },
+  "replacementSearchPlaceholder": {
+    "message": "Ieškoti keitimų"
+  },
+  "translatedReplacementTitle": {
+    "message": "Pakeitimai išverstame tekste"
+  },
+  "translatedReplacementDescription": {
+    "message": "Asmeninėmis taisyklėmis pakeiskite žodžius ar frazes užbaigtame vertime."
+  },
+  "translatedReplacementCreateButton": {
+    "message": "Pridėti pakeitimą vertime"
+  },
+  "translatedReplacementLanguage": {
+    "message": "Tikslinė kalba"
+  },
+  "translatedReplacementFindText": {
+    "message": "Išverstas tekstas"
+  },
+  "translatedReplacementReplaceText": {
+    "message": "Pakeisti į"
+  },
+  "translatedReplacementSearchPlaceholder": {
+    "message": "Ieškoti išverstame tekste"
+  },
+  "translatedReplacementEmpty": {
+    "message": "Išversto teksto pakeitimo taisyklių dar nėra."
+  },
+  "translatedReplacementSearchEmpty": {
+    "message": "Atitinkančių pakeitimų išverstame tekste nerasta."
+  },
+  "translatedReplacementCreateTitle": {
+    "message": "Pridėti pakeitimą vertime"
+  },
+  "translatedReplacementEditTitle": {
+    "message": "Redaguoti pakeitimą vertime"
+  },
+  "translatedReplacementEditorDescription": {
+    "message": "Keičiamas tik užbaigtas vertimas; šaltinio tekstas ir vertimo podėlis lieka nepakeisti."
+  },
+  "translatedReplacementFindPlaceholder": {
+    "message": "Žodis ar frazė išverstame tekste"
+  },
+  "translatedReplacementReplacePlaceholder": {
+    "message": "Vietoje jo rodomas žodis ar frazė"
+  },
+  "translatedReplacementEnabledDescription": {
+    "message": "Išjungus taisyklė išsaugoma, bet išverstam tekstui netaikoma."
+  },
+  "preferenceAdd": {
+    "message": "Pridėti"
+  },
+  "preferenceDomain": {
+    "message": "Sritis"
+  },
+  "preferenceLanguage": {
+    "message": "Kalba"
+  },
+  "preferenceEnabled": {
+    "message": "Įjungta"
+  },
+  "preferenceActions": {
+    "message": "Veiksmai"
+  },
+  "preferenceSource": {
+    "message": "Šaltinis"
+  },
+  "preferenceSourceUser": {
+    "message": "Asmeninis"
+  },
+  "preferenceSourceBuiltin": {
+    "message": "Integruotas"
+  },
+  "preferenceStatus": {
+    "message": "Būsena"
+  },
+  "preferenceStatusEnabled": {
+    "message": "Įjungta"
+  },
+  "preferenceEdit": {
+    "message": "Redaguoti"
+  },
+  "preferenceDelete": {
+    "message": "Ištrinti"
+  },
+  "preferenceAllDomains": {
+    "message": "Visos sritys"
+  },
+  "preferenceSearch": {
+    "message": "Ieškoti"
+  },
+  "preferenceClearSearch": {
+    "message": "Išvalyti"
+  },
+  "preferencePageLabel": {
+    "message": "{page} puslapis"
+  },
+  "preferencePreviousPage": {
+    "message": "Ankstesnis"
+  },
+  "preferenceNextPage": {
+    "message": "Kitas"
+  },
+  "builtinGlossaryDomainsTitle": {
+    "message": "Integruoti sričių rinkiniai"
+  },
+  "builtinGlossaryDomainCount": {
+    "message": "{count} integruotų terminų"
+  },
+  "builtinGlossaryEmptyHint": {
+    "message": "Dabartinei tikslinei kalbai integruoto žodyno nėra. Vis tiek galite pridėti asmeninių terminų."
+  },
+  "builtinGlossaryEnabledSummary": {
+    "message": "Įjungta {enabled} iš {total}"
+  },
+  "builtinGlossaryManageDomains": {
+    "message": "Tvarkyti sritis"
+  },
+  "builtinGlossaryManageDomainsTitle": {
+    "message": "Tvarkyti integruotus sričių rinkinius"
+  },
+  "builtinGlossaryManageDomainsDescription": {
+    "message": "Įjunkite arba išjunkite tikslinės kalbos integruoto žodyno sritis."
+  },
+  "builtinGlossaryDomainSearchPlaceholder": {
+    "message": "Ieškoti sričių"
+  },
+  "builtinGlossaryEnableAllDomains": {
+    "message": "Įjungti visas"
+  },
+  "builtinGlossaryDisableAllDomains": {
+    "message": "Išjungti visas"
+  },
+  "builtinGlossaryDomainSearchEmpty": {
+    "message": "Atitinkančių sričių nėra."
+  },
+  "builtinGlossaryDomainTotal": {
+    "message": "{count} sričių"
+  },
+  "builtinGlossaryDomainDisabledStatus": {
+    "message": "Sritis išjungta"
+  },
+  "builtinGlossaryBlockedStatus": {
+    "message": "Neįtraukta"
+  },
+  "builtinGlossaryReadOnlyHint": {
+    "message": "Integruota taisyklė"
+  },
+  "builtinTextReplacementManageDomainsTitle": {
+    "message": "Tvarkyti integruotas šaltinio teksto taisymo sritis"
+  },
+  "builtinTextReplacementManageDomainsDescription": {
+    "message": "Įjunkite arba išjunkite integruotas šaltinio teksto taisymo sritis."
+  },
+  "builtinTextReplacementDomainCount": {
+    "message": "{count} integruotų taisyklių"
+  },
+  "preferenceLoadFailed": {
+    "message": "Nepavyko įkelti. Prisijunkite ir bandykite dar kartą."
+  },
+  "preferenceActionFailed": {
+    "message": "Veiksmas nepavyko. Bandykite dar kartą vėliau."
+  },
+  "pronunciationSettingsSectionTitle": {
+    "message": "Tarimas"
+  },
+  "pronunciationSettingsTitle": {
+    "message": "Tarimo nustatymai"
+  },
+  "pronunciationSettingsDescription": {
+    "message": "Nustatykite asmeninį išversto teksto tarimą. Taisyklės taikomos tik vietiniam dubliavimui."
+  },
+  "optionsNavPronunciationShort": {
+    "message": "Tarimas"
+  },
+  "pronunciationNewRule": {
+    "message": "Nauja taisyklė"
+  },
+  "pronunciationEditRule": {
+    "message": "Redaguoti tarimo taisyklę"
+  },
+  "pronunciationTargetLanguage": {
+    "message": "Tikslinė kalba"
+  },
+  "pronunciationSearchPlaceholder": {
+    "message": "Ieškoti atitinkančio teksto"
+  },
+  "pronunciationStatus": {
+    "message": "Būsena"
+  },
+  "pronunciationMatchText": {
+    "message": "Atitinkamas tekstas"
+  },
+  "pronunciationMatchPlaceholder": {
+    "message": "Pavyzdžiui: labas"
+  },
+  "pronunciationTargetText": {
+    "message": "Pataisyta dalis"
+  },
+  "pronunciationReading": {
+    "message": "Nurodytas tarimas"
+  },
+  "pronunciationLoading": {
+    "message": "Įkeliama…"
+  },
+  "pronunciationEmpty": {
+    "message": "Jokios asmeninės tarimo taisyklės neatitinka dabartinių filtrų."
+  },
+  "pronunciationEditorHint": {
+    "message": "Pasirinkite ištisinę dalį, kurią norite taisyti, tada įveskite jos tarimą."
+  },
+  "pronunciationSelectTarget": {
+    "message": "Pasirinkite tekstą, kurį norite taisyti"
+  },
+  "pronunciationReselect": {
+    "message": "Pasirinkite dar kartą"
+  },
+  "pronunciationEnterMatchFirst": {
+    "message": "Pirmiausia įveskite atitinkamą tekstą"
+  },
+  "pronunciationSelectionSummary": {
+    "message": "Pasirinkta: {text}; įvykis {occurrence}"
+  },
+  "pronunciationSelectionRestoreFailed": {
+    "message": "Išsaugotos vietos atkurti negalima. Prieš išsaugodami dar kartą pasirinkite tekstą."
+  },
+  "pronunciationSelectionInvalid": {
+    "message": "Pasirinkite tęstinį tekstą."
+  },
+  "pronunciationModifier": {
+    "message": "Tonas"
+  },
+  "pronunciationSelectModifier": {
+    "message": "Pasirinkite"
+  },
+  "pronunciationSaving": {
+    "message": "Išsaugoma…"
+  },
+  "pronunciationDeleteConfirm": {
+    "message": "Ištrinti šią tarimo taisyklę?"
+  },
+  "pronunciationOccurrence": {
+    "message": "įvykis {occurrence}"
+  },
+  "pronunciationUnknownError": {
+    "message": "Veiksmas nepavyko. Bandykite dar kartą vėliau."
+  },
+  "preferenceAllStatuses": {
+    "message": "Visi"
+  },
+  "preferenceCancel": {
+    "message": "Atšaukti"
+  },
+  "preferenceDisabled": {
+    "message": "Išjungta"
+  },
+  "preferenceSave": {
+    "message": "Išsaugoti"
+  },
+  "pronunciationFineSelection": {
+    "message": "Tikslus pasirinkimas"
+  },
+  "pronunciationMergeUnits": {
+    "message": "Sujunkite gretimus tarimus"
+  },
+  "pronunciationPerUnitHint": {
+    "message": "Įveskite kiekvienos dalies tarimą ir toną. Jei reikia, padalinkite arba sujunkite dalis."
+  },
+  "pronunciationPrimarySelection": {
+    "message": "Protingas pasirinkimas"
+  },
+  "pronunciationSelectionGranularity": {
+    "message": "Pasirinkimo detalumas"
+  },
+  "pronunciationSelectionTooLong": {
+    "message": "Pataisytoje dalyje gali būti daugiausia 128 simbolių."
+  },
+  "pronunciationSplitAt": {
+    "message": "Skaidyti ties"
+  },
+  "pronunciationUnitReading": {
+    "message": "Vienos dalies tarimas"
+  },
+  "pronunciationWholeReading": {
+    "message": "Visas tarimas"
+  },
+  "pronunciationWholeToneHint": {
+    "message": "Įveskite visą tonuotą tarimą. Padalinkite jį, kad pasirinktumėte kiekvienos dalies toną."
+  },
+  "pronunciationPinyinSyllable": {
+    "message": "Pinyin skiemuo"
+  },
+  "pronunciationPinyinPlaceholder": {
+    "message": "Įveskite Pinyin skiemenį"
+  },
+  "pronunciationNumberedTone": {
+    "message": "Tonas {tone}"
+  },
+  "pronunciationNeutralTone": {
+    "message": "Neutralus tonas"
+  },
+  "googleDriveNoCaptionsTitle": {
+    "message": "Šis „Google“ disko vaizdo įrašas dar neturi subtitrų"
+  },
+  "googleDriveNoCaptionsIntro": {
+    "message": "Dubliavimui naudojami „Google“ disko integruoti subtitrai (CC). Pirmiausia įjunkite šio vaizdo įrašo subtitrus, tada grįžkite:"
+  },
+  "googleDriveNoCaptionsStep1": {
+    "message": "„Google“ diske dešiniuoju pelės klavišu spustelėkite vaizdo įrašą ir pasirinkite „Failo informacija“ → „Tvarkyti subtitrų takelius“."
+  },
+  "googleDriveNoCaptionsStep2": {
+    "message": "Jei subtitrų takelio dar nėra: diskas automatiškai sukuria subtitrus palaikomomis kalbomis (įskaitant anglų, turkų, kinų, ispanų, japonų). Spustelėkite „Generuoti automatinius subtitrus“, jei ši parinktis rodoma, arba įkelkite subtitrų failą. Subtitrus gali tvarkyti tik vaizdo įrašo savininkas arba redaktoriai."
+  },
+  "googleDriveNoCaptionsStep3": {
+    "message": "Subtitrų kūrimas užtrunka. Kai grotuvo CC mygtukas taps aktyvus, atnaujinkite puslapį ir vėl pradėkite dubliavimą."
+  },
+  "subtitleAudioLanguageMismatch": {
+    "message": "Subtitrų kalba nesutampa su balsų kalba. Subtitrai: {subtitle}. Balsai: {voice}. Balsas gali skaityti tik savo kalbos tekstą, todėl generavimas gali nepavykti arba skambėti netaisyklingai. Pirmiausia išverskite subtitrus arba pakeiskite tikslinę kalbą, kad ji atitiktų subtitrus. Vis tiek generuoti?"
+  },
+  "subtitleAudioNav": {
+    "message": "Subtitrų įgarsinimas"
+  },
+  "subtitleAudioAiSubtitleBadge": {
+    "message": "AI subtitrai"
+  },
+  "subtitleAudioUserSubtitleBadge": {
+    "message": "Redaguoti subtitrai"
+  },
+  "subtitleAudioBack": {
+    "message": "Vaizdo dubliavimas"
+  },
+  "subtitleAudioProjectSubtitle": {
+    "message": "Subtitrai: {name} · eilučių: {count}"
+  },
+  "subtitleAudioReplaceSubtitles": {
+    "message": "Pakeisti subtitrus"
+  },
+  "subtitleAudioExportVideoOption": {
+    "message": "Dubliuotas vaizdo įrašas"
+  },
+  "subtitleAudioExportVideoHint": {
+    "message": "Ten, kur eilutei reikia daugiau laiko, vaizdas sulėtėja, todėl įrašas gali tapti šiek tiek ilgesnis."
+  },
+  "subtitleAudioExportMp3Option": {
+    "message": "Dubliuotas MP3"
+  },
+  "subtitleAudioExportMp3Hint": {
+    "message": "Lygiai tokio pat ilgio kaip originalus vaizdo įrašas: uždėkite jį ant vaizdo arba įkelkite kaip papildomos kalbos garso takelį."
+  },
+  "subtitleAudioDownloadSrt": {
+    "message": "Atsisiųsti SRT"
+  },
+  "subtitleAudioEditAndExport": {
+    "message": "Redaguoti ir eksportuoti"
+  },
+  "subtitleAudioEditNeedsSubtitle": {
+    "message": "Šis vaizdo įrašas dar neturi subtitrų. Susiekite subtitrų failą arba vieną kartą spustelėkite „Pradėti balso dubliavimą“, kad būtų sugeneruoti AI subtitrai."
+  },
+  "subtitleAudioTitle": {
+    "message": "Suteikite balsą kiekvienai eilutei"
+  },
+  "subtitleAudioSubtitle": {
+    "message": "Importuokite SRT failą ir gaukite dubliuotą MP3, kuris atitinka subtitrų laiką. Norėdami gauti dubliuotą vaizdo įrašą, skiltyje „Vaizdo dubliavimas“ pasirinkite vaizdo įrašą ir spustelėkite „Redaguoti ir eksportuoti“."
+  },
+  "subtitleAudioImportStep": {
+    "message": "Importuoti subtitrus"
+  },
+  "subtitleAudioVoicesStep": {
+    "message": "Pasirinkti balsus"
+  },
+  "subtitleAudioExportStep": {
+    "message": "Eksportuoti"
+  },
+  "subtitleAudioSubtitles": {
+    "message": "Subtitrai"
+  },
+  "subtitleAudioCueList": {
+    "message": "Eilutės ir balsai"
+  },
+  "subtitleAudioSettings": {
+    "message": "Balso nustatymai"
+  },
+  "subtitleAudioImport": {
+    "message": "Pasirinkti SRT failą"
+  },
+  "subtitleAudioReplace": {
+    "message": "Pakeisti"
+  },
+  "subtitleAudioRemove": {
+    "message": "Pašalinti"
+  },
+  "subtitleAudioDrop": {
+    "message": "Nutempkite SRT failą čia"
+  },
+  "subtitleAudioDropNote": {
+    "message": "UTF-8 · iki 2 MiB, 5 000 eilučių ir 3 valandų"
+  },
+  "subtitleAudioEmpty": {
+    "message": "Čia bus rodomi jūsų subtitrai. Priskirkite balsą kiekvienai eilutei arba pritaikykite jį pažymėtoms eilutėms."
+  },
+  "subtitleAudioLines": {
+    "message": "Eilutės"
+  },
+  "subtitleAudioDuration": {
+    "message": "Subtitrų trukmė"
+  },
+  "subtitleAudioCharacters": {
+    "message": "Simboliai"
+  },
+  "subtitleAudioSearch": {
+    "message": "Ieškoti subtitrų tekste"
+  },
+  "subtitleAudioSelectPage": {
+    "message": "Pažymėti šį puslapį"
+  },
+  "subtitleAudioSelectAll": {
+    "message": "Pažymėti visus rezultatus"
+  },
+  "subtitleAudioSelected": {
+    "message": "Pažymėta: {count}"
+  },
+  "subtitleAudioApply": {
+    "message": "Pritaikyti balsą"
+  },
+  "subtitleAudioChooseVoice": {
+    "message": "Pasirinkite balsą"
+  },
+  "subtitleAudioText": {
+    "message": "Subtitrų tekstas"
+  },
+  "subtitleAudioTime": {
+    "message": "Laikas"
+  },
+  "subtitleAudioVoice": {
+    "message": "Balsas"
+  },
+  "subtitleAudioFemale": {
+    "message": "Moterų balsai"
+  },
+  "subtitleAudioMale": {
+    "message": "Vyrų balsai"
+  },
+  "subtitleAudioPage": {
+    "message": "Puslapis {page} iš {total}"
+  },
+  "subtitleAudioPrevious": {
+    "message": "Ankstesnis"
+  },
+  "subtitleAudioNext": {
+    "message": "Kitas"
+  },
+  "subtitleAudioPreview": {
+    "message": "Perklausyti eilutę Nr. {index}"
+  },
+  "subtitleAudioStopPreview": {
+    "message": "Sustabdyti perklausą"
+  },
+  "subtitleAudioLanguage": {
+    "message": "Paskirties kalba"
+  },
+  "subtitleAudioVoiceType": {
+    "message": "Balso tipas"
+  },
+  "subtitleAudioFree": {
+    "message": "Nemokami"
+  },
+  "subtitleAudioVideoSync": {
+    "message": "Peržiūra seka eksportuotą garso takelį. Originalus vaizdo įrašo garsas nutildytas."
+  },
+  "subtitleAudioTimelineTitle": {
+    "message": "Garso takelis"
+  },
+  "subtitleAudioLayoutOnly": {
+    "message": "Subtitrų išdėstymas · garso banga bus matoma po eksporto"
+  },
+  "subtitleAudioRealWave": {
+    "message": "Eksportuoto garso banga · spustelėkite arba naudokite slankiklį, kad peršoktumėte"
+  },
+  "subtitleAudioTracks": {
+    "message": "Balsų: {count} → vienas MP3"
+  },
+  "subtitleAudioTracksVideo": {
+    "message": "Balsų: {count} → dubliuotas vaizdo įrašas"
+  },
+  "subtitleAudioSeek": {
+    "message": "Peršokti eksportuotame įraše"
+  },
+  "subtitleAudioNoTimeline": {
+    "message": "Importuokite subtitrus, kad pamatytumėte jų laiko juostą."
+  },
+  "subtitleAudioGenerate": {
+    "message": "Generuoti MP3"
+  },
+  "subtitleAudioGenerateVideo": {
+    "message": "Generuoti dubliuotą vaizdo įrašą"
+  },
+  "subtitleAudioRegenerate": {
+    "message": "Generuoti dar kartą"
+  },
+  "subtitleAudioRegenerateVideo": {
+    "message": "Generuoti vaizdo įrašą dar kartą"
+  },
+  "subtitleAudioRetry": {
+    "message": "Pakartoti nepavykusį generavimą"
+  },
+  "subtitleAudioCancel": {
+    "message": "Atšaukti"
+  },
+  "subtitleAudioCancelling": {
+    "message": "Atšaukiama…"
+  },
+  "subtitleAudioDownload": {
+    "message": "Atsisiųsti MP3"
+  },
+  "subtitleAudioDownloadVideo": {
+    "message": "Atsisiųsti dubliuotą vaizdo įrašą"
+  },
+  "subtitleAudioWorking": {
+    "message": "Generuojama kalba"
+  },
+  "subtitleAudioEncoding": {
+    "message": "Kuriamas garso takelis"
+  },
+  "subtitleAudioFinalizing": {
+    "message": "Baigiamas MP3"
+  },
+  "subtitleAudioMuxing": {
+    "message": "Dubliuotas garso takelis dedamas ant vaizdo"
+  },
+  "subtitleAudioFinished": {
+    "message": "Jūsų MP3 paruoštas"
+  },
+  "subtitleAudioFinishedVideo": {
+    "message": "Jūsų dubliuotas vaizdo įrašas paruoštas"
+  },
+  "subtitleAudioCancelled": {
+    "message": "Generavimas atšauktas. Jau sugeneruoti kalbos fragmentai išsaugoti talpykloje, kad galėtumėte pakartoti."
+  },
+  "subtitleAudioProgressNote": {
+    "message": "Neuždarykite šio puslapio. Galite atšaukti ir vėliau tęsti naudodami talpykloje išsaugotus fragmentus."
+  },
+  "subtitleAudioMissing": {
+    "message": "Eilučių be balso: {count}. Pasirinkite balsą kiekvienai eilutei arba naudokite „Pritaikyti balsą“."
+  },
+  "subtitleAudioEmptyText": {
+    "message": "Eilučių be teksto: {count}. Prieš generuodami įrašykite tekstą."
+  },
+  "subtitleAudioCacheNote": {
+    "message": "Kalbą generuoja pasirinkta paslauga. Subtitrai ir sugeneruoti fragmentai saugomi šiame įrenginyje; garsas ir vaizdas sujungiami vietoje."
+  },
+  "subtitleAudioRestored": {
+    "message": "Juodraštis atkurtas."
+  },
+  "subtitleAudioSaveError": {
+    "message": "Nepavyko išsaugoti juodraščio. Neuždarykite šio puslapio, kad neprarastumėte pakeitimų."
+  },
+  "subtitleAudioFailed": {
+    "message": "Nepavyko užbaigti. Sugeneruoti kalbos fragmentai išsaugoti – bandykite dar kartą, kad tęstumėte."
+  },
+  "subtitleAudioDetails": {
+    "message": "Išsami informacija"
+  },
+  "subtitleAudioBadFile": {
+    "message": "Pasirinkite UTF-8 koduotės .srt failą (iki 2 MiB)."
+  },
+  "subtitleAudioEncodingError": {
+    "message": "Šis failas nėra tinkamos UTF-8 koduotės. Išsaugokite jį kaip UTF-8 ir importuokite dar kartą."
+  },
+  "subtitleAudioImportFailed": {
+    "message": "Nepavyko perskaityti subtitrų failo. Patikrinkite SRT laiko žymas ir tekstą."
+  },
+  "subtitleAudioInvalidVideo": {
+    "message": "Šiame vaizdo įraše nėra nuskaitomo vaizdo takelio arba nepavyksta nustatyti jo trukmės."
+  },
+  "subtitleAudioVideoLimitError": {
+    "message": "Šis vaizdo įrašas ilgesnis nei 3 valandos, todėl dubliuoto vaizdo įrašo eksportuoti negalima. Pasirinkite trumpesnį failą."
+  },
+  "subtitleAudioVideoStorageError": {
+    "message": "Šiame kompiuteryje nepakanka laisvos vietos šiam vaizdo įrašui: reikia apie {needed} GB, o naršyklei pasiekiama {available} GB. Atlaisvinkite vietos diske ir bandykite dar kartą arba pasirinkite mažesnį vaizdo įrašą."
+  },
+  "subtitleAudioVideoCodecError": {
+    "message": "Šis įrenginys negali nukopijuoti šio vaizdo kodeko (pvz., HEVC). Eksportas sustabdytas, kad nebūtų sukurtas sugadintas failas. Pabandykite H.264 MP4 failą."
+  },
+  "subtitleAudioVideoAacUnsupported": {
+    "message": "Ši naršyklė negali koduoti AAC garso, todėl įgarsinto vaizdo įrašo eksportuoti negalima. Įgarsinto MP3 eksportavimas vis dar veikia."
+  },
+  "subtitleAudioVideoCopyUnsupported": {
+    "message": "Šio vaizdo įrašo kodeko negalima eksportuoti kaip įgarsinto MP4. Įgarsinto MP3 eksportavimas vis dar veikia; vaizdo įrašui naudokite H.264 MP4."
+  },
+  "subtitleAudioPreviewFailed": {
+    "message": "Nepavyko perklausyti šios eilutės. Patikrinkite pasirinktą balsą ir interneto ryšį."
+  },
+  "subtitleAudioPlayBlocked": {
+    "message": "Garsas paruoštas. Garso grotuve paspauskite „Leisti“."
+  },
+  "subtitleAudioGeneralError": {
+    "message": "Nepavyko atlikti veiksmo. Patikrinkite interneto ryšį ir bandykite dar kartą."
+  },
+  "subtitleAudioLimitError": {
+    "message": "Šis projektas viršija palaikomus apribojimus. Daugiausia 5 000 eilučių / 3 valandos; kiekvienas kalbos fragmentas turi būti trumpesnis nei 60 sekundžių."
+  },
+  "subtitleAudioStorageError": {
+    "message": "Šiam eksportui nepakanka vietinės saugyklos. Atlaisvinkite vietos ir bandykite dar kartą."
+  },
+  "subtitleAudioAccountError": {
+    "message": "Kalbai generuoti reikia galiojančios paskyros ir likusios kvotos. Patikrinkite paskyrą ir bandykite dar kartą."
+  },
+  "subtitleAudioPaused": {
+    "message": "Laukiama"
+  },
+  "subtitleAudioGeneratingCue": {
+    "message": "Generuojama"
+  },
+  "subtitleAudioReadyCue": {
+    "message": "Paruošta"
+  },
+  "subtitleAudioErrorCue": {
+    "message": "Nepavyko"
+  },
+  "subtitleAudioVoiceReset": {
+    "message": "Kai kurie balsai su šiais nustatymais nepasiekiami. Pasirinkite balsus paryškintoms eilutėms."
+  },
+  "subtitleAudioConfirmReplace": {
+    "message": "Pakeisti dabartinį subtitrų juodraštį?"
+  },
+  "subtitleAudioClearDraft": {
+    "message": "Pašalinti visus subtitrus iš šio juodraščio?"
+  },
+  "subtitleAudioOutputChanged": {
+    "message": "Nustatymai pakeisti. Generuokite dar kartą, kad atnaujintumėte atsisiunčiamą failą."
+  },
+  "subtitleAudioBrowserError": {
+    "message": "Ši naršyklė negalėjo inicijuoti garso apdorojimo. Pabandykite atnaujintą stalinio kompiuterio naršyklę."
+  },
+  "subtitleAudioOtherTabBusy": {
+    "message": "Kitame skirtuke šiuo metu generuojamas arba perklausomas subtitrų garsas. Palaukite, kol ta užduotis baigsis, arba uždarykite tą skirtuką ir bandykite dar kartą."
+  },
+  "uploadVideoLanguageLabel": {
+    "message": "Vaizdo įrašo kalba (pasirinkus pagerėja atpažinimo tikslumas)"
+  },
+  "uploadVideoLanguageAuto": {
+    "message": "Aptikti automatiškai"
+  },
+  "subtitleAudioPreparing": {
+    "message": "Skaidoma į sakinius ir verčiama"
+  },
+  "subtitleAudioPrepareFailed": {
+    "message": "Nepavyko suskaidyti ar išversti subtitrų. Bandykite vėliau."
+  },
+  "subtitleAudioSourceLanguage": {
+    "message": "Subtitrų kalba"
+  },
+  "subtitleAudioSourceLanguageUnknown": {
+    "message": "Nepavyko atpažinti šių subtitrų kalbos. Pasirinkite kalbą, kuria jie parašyti, ir generuokite iš naujo."
+  },
+  "subtitleAudioPreparedNote": {
+    "message": "Suskaidyta į sakinius ir išversta į {language} taip pat kaip internetiniame dubliavime. Vertimus galite redaguoti žemiau."
+  },
+  "subtitleAudioRestoreSource": {
+    "message": "Atkurti originalą"
+  },
+  "subtitleAudioRestoreSourceConfirm": {
+    "message": "Atkūrus originalą vertimų pakeitimai bus prarasti; kito eksporto metu tekstas bus vėl suskaidytas ir išverstas. Tęsti?"
+  },
+  "subtitleAudioLanguageChangedRetranslate": {
+    "message": "Pasikeitė dubliavimo kalba, todėl sąraše vėl rodomas originalus tekstas. Eksportuojant jis bus vėl suskaidytas ir išverstas."
+  },
+  "subtitleAudioCueTooLong": {
+    "message": "{index} eilutė per ilga. Padalykite ją į trumpesnes eilutes ir bandykite dar kartą."
+  },
+  "subtitleAudioBackgroundOption": {
+    "message": "Įmaišyti foninį garsą"
+  },
+  "subtitleAudioBackgroundHint": {
+    "message": "Šio vaizdo įrašo foninis garsas (be balsų) buvo atskirtas įkeliant atpažinimui. Jis skamba po dubliavimu, kaip internetiniame dubliavime."
+  },
+  "subtitleAudioDownloadingBackground": {
+    "message": "Atsisiunčiamas foninis garsas"
+  },
+  "subtitleAudioBackgroundFailed": {
+    "message": "Nepavyko atsisiųsti foninio garso. Bandykite vėliau arba atžymėkite „Įmaišyti foninį garsą“ ir eksportuokite iš naujo."
+  },
+  "subtitleAudioPreparedSameLanguageNote": {
+    "message": "Subtitrai jau yra dubliavimo kalba, todėl pagal nustatymą „neversti tos pačios kalbos“ jie tik suskaidyti į sakinius."
+  },
+  "dubbingToggleOn": {
+    "message": "Įjungti įgarsinimą"
+  },
+  "dubbingToggleOff": {
+    "message": "Išjungti įgarsinimą"
+  },
+  "dubbingTogglePreparing": {
+    "message": "Ruošiamas įgarsinimas, palaukite…"
+  },
+  "dubbingSwitchedOffNotice": {
+    "message": "Įgarsinimas išjungtas, atkurtas originalus garsas"
+  },
+  "dubbingSwitchedOnNotice": {
+    "message": "Įgarsinimas įjungtas"
+  },
+  "toggleDubbingCommand": {
+    "message": "Įjungti / išjungti įgarsinimą"
+  },
+  "spotifyPublicAudioShowNotFound": {
+    "message": "Garsas užšifruotas, o ši laida neturi viešo tinklalaidės srauto (galbūt tai Spotify išskirtinis turinys)."
+  },
+  "spotifyPublicAudioEpisodeNotMatched": {
+    "message": "Garsas užšifruotas, o viešame laidos tinklalaidės sraute nerasta atitinkamo epizodo."
+  },
+  "spotifyPublicAudioLookupFailed": {
+    "message": "Nepavyko gauti šio epizodo viešo garso. Bandykite vėliau."
+  }
+}

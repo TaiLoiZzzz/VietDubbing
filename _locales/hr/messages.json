@@ -1,0 +1,2315 @@
+{
+  "name": {
+    "message": "YouTube Dubbing – Prijevod i Sinkronizacija"
+  },
+  "description": {
+    "message": "Prijevod i sinkronizacija videozapisa—razumijte strane jezike, pristupite globalnom znanju"
+  },
+  "metadataNotFound": {
+    "message": "Metapodaci videozapisa nisu pronađeni, osvježite stranicu i pokušajte ponovno"
+  },
+  "dubbingMediaNotFoundTitle": {
+    "message": "Nije pronađen video za sinkronizaciju"
+  },
+  "dubbingMediaNotFoundText": {
+    "message": "Na ovoj stranici trenutačno nema dostupnog videozapisa ili zvuka. Pričekajte da se video učita pa pokušajte ponovno ili osvježite stranicu."
+  },
+  "noSubtitlesFound": {
+    "message": "Ovaj videozapis nema titlove i ne podržava prijevod i sinkronizaciju"
+  },
+  "liveVideoNotSupported": {
+    "message": "Sinkronizacija live prijenosa trenutno nije podržana"
+  },
+  "universalDubbingNotSupported": {
+    "message": "Univerzalna sinkronizacija nije podržana za ovaj videozapis u trenutnoj verziji. Podrška je planirana u sljedećoj verziji. Molimo kontaktirajte korisničku podršku za detalje."
+  },
+  "postLoginTranslationSettings": {
+    "message": "Prijava uspješna. Kliknite na ikonu dodatka za odabir jezika prijevoda i popisa glasova."
+  },
+  "noSubtitlesWaitOptimization": {
+    "message": "Titlovi nisu dostupni. Molimo pričekajte da dodatak prepozna titlove za ovaj videozapis. Primit ćete obavijest e-poštom na vašu registriranu adresu nakon što prepoznavanje bude dovršeno."
+  },
+  "privateVideoNoSubtitles": {
+    "message": "Ovaj videozapis nema titlove i privatan je. Dodatak ne može u pozadini prepoznati titlove za ovaj videozapis. Postavite videozapis kao javni ili ručno dodajte titlove pa pokušajte ponovno."
+  },
+  "trialMemberDurationLimit": {
+    "message": "Ovaj videozapis nema titlove. Kao probni član, trenutno su podržani samo videozapisi kraći od 15 minuta za prepoznavanje titlova. Premium članovi podržavaju videozapise do 3 sata."
+  },
+  "premiumMemberDurationLimit": {
+    "message": "Ovaj videozapis nema titlove i trajanje videozapisa prelazi 3 sata, prijevod i sinkronizacija nisu podržani. Molimo odaberite kraći videozapis ili videozapis s titlovima."
+  },
+  "freeUserNoSubtitles": {
+    "message": "Ovaj videozapis nema ugrađene titlove. Molimo pretplatite se na članstvo dodatka za prepoznavanje titlova i uživajte u značajkama prijevoda i sinkronizacije."
+  },
+  "freeUserDailyLimit": {
+    "message": "Besplatni korisnici mogu gledati do 5 videozapisa dnevno putem dodatka. Nadogradite na članstvo za neograničeno gledanje."
+  },
+  "upgradeEntryUpgradeButton": {
+    "message": "Nadogradi"
+  },
+  "upgradeEntryLaterButton": {
+    "message": "Možda kasnije"
+  },
+  "aiSubtitlesRecognitionInBackground": {
+    "message": "AI titlovi još nisu dostupni. Dodatak je započeo njihovo prepoznavanje u pozadini. Nakon što čujete prvu sinkroniziranu rečenicu, možete zatvoriti stranicu i pričekati obavijest e-poštom; kada bude spremno, gumb za sinkronizaciju će postati zelen i kvaliteta prijevoda će biti bolja."
+  },
+  "upgradeMembershipForBackgroundRecognition": {
+    "message": "Nadogradite na članstvo i dodatak će prepoznati AI titlove u pozadini. Nakon što primite obavijest e-poštom, vratite se gledati; gumb za sinkronizaciju će postati zelen i prijevodi će biti točniji."
+  },
+  "memberFreeVoiceAzureSuggestion": {
+    "message": "Trenutačno sinkronizirate s besplatnom vrstom glasa. Azure glasovi zvuče prirodnije; članovi sada mogu koristiti Azure bez ograničenja i bez dodatne nadoplate kredita."
+  },
+  "memberAiSubtitlePlatformPrioritySuggestion": {
+    "message": "Trenutačno se koriste titlovi koje je prepoznao AI proširenja u pozadini. Ako prijevod ne izgleda točno, u osnovnim postavkama promijenite prioritet titlova na titlove platforme."
+  },
+  "openBasicSettingsLink": {
+    "message": "Otvori osnovne postavke"
+  },
+  "doNotShowAgainLink": {
+    "message": "Ne prikazuj ponovno"
+  },
+  "loginAndUsePlugin": {
+    "message": "Molimo prvo kliknite na ikonu dodatka za prijavu, zatim koristite dodatak za reprodukciju sinkronizacije."
+  },
+  "voiceSettingsMismatch": {
+    "message": "Vrsta glasa i postavke glasa ne odgovaraju. Idite na stranicu postavki da ponovno odaberete i spremite postavke glasa."
+  },
+  "contentMenusTitle": {
+    "message": "Pokreni reprodukciju sinkronizacije"
+  },
+  "videoDetectedDomainTooltip": {
+    "message": "Prepoznato područje trenutačnog videozapisa: {domain}"
+  },
+  "dropboxClickCcToTranscribe": {
+    "message": "Ovaj videozapis još nije transkribiran. Molimo kliknite na CC gumb na dnu Dropbox videozapisa za transkripciju titlova. Nakon završetka transkripcije, kliknite na gumb za sinkronizaciju dodatka za prijevod i sinkronizaciju."
+  },
+  "iosInterceptorConflictTitle": {
+    "message": "Otkriven sukob proširenja"
+  },
+  "iosInterceptorConflictMessage": {
+    "message": "Drugo proširenje preglednika blokira presretanje zahtjeva za titlove. Onemogućite proširenja u sukobu, osvježite stranicu i pokušajte ponovno."
+  },
+  "login": {
+    "message": "Prijava"
+  },
+  "logout": {
+    "message": "Odjava"
+  },
+  "subscribe": {
+    "message": "Pretplati se"
+  },
+  "save_settings": {
+    "message": "Spremi postavke"
+  },
+  "saving": {
+    "message": "Spremanje..."
+  },
+  "saveSuccessTitle": {
+    "message": "Spremanje uspješno"
+  },
+  "saveSuccessText": {
+    "message": "Postavke uspješno spremljene"
+  },
+  "saveFailedTitle": {
+    "message": "Spremanje neuspjelo"
+  },
+  "saveFailedText": {
+    "message": "Spremanje postavki nije uspjelo, pokušajte ponovno"
+  },
+  "confirmButton": {
+    "message": "Nastavi i spremi"
+  },
+  "cancelButton": {
+    "message": "Odustani"
+  },
+  "back": {
+    "message": "Natrag"
+  },
+  "backToSettings": {
+    "message": "Natrag na postavke"
+  },
+  "backToVideoLibrary": {
+    "message": "Natrag u videoteku"
+  },
+  "source_languages": {
+    "message": "Izvorni jezik:"
+  },
+  "target_languages": {
+    "message": "Ciljni jezik:"
+  },
+  "selectSourceLanguage": {
+    "message": "Odaberi izvorni jezik"
+  },
+  "selectTargetLanguage": {
+    "message": "Odaberi ciljni jezik"
+  },
+  "searchSourceLanguage": {
+    "message": "Pretraži izvorni jezik..."
+  },
+  "searchTargetLanguage": {
+    "message": "Pretraži ciljni jezik..."
+  },
+  "loading": {
+    "message": "učitavanje"
+  },
+  "sex": {
+    "message": "Spol:"
+  },
+  "voices": {
+    "message": "Glas:"
+  },
+  "voicesType": {
+    "message": "Tip glasa:"
+  },
+  "man": {
+    "message": "Muški"
+  },
+  "woman": {
+    "message": "Ženski"
+  },
+  "free": {
+    "message": "Besplatno"
+  },
+  "memberFree": {
+    "message": "Besplatno za članove"
+  },
+  "memberFreeRequireMembership": {
+    "message": "Ova vrsta glasa dostupna je samo članovima. Nadogradite za besplatno korištenje."
+  },
+  "azureRequireMembership": {
+    "message": "Azure TTS dostupan je samo članovima. Nadogradite za otključavanje visokokvalitetnih Azure glasova."
+  },
+  "originalAudio": {
+    "message": "Izvorni"
+  },
+  "translatedAudio": {
+    "message": "Prijevod"
+  },
+  "backgroundAudio": {
+    "message": "Pozadinski zvuk"
+  },
+  "textToSpeech": {
+    "message": "Tekst u govor:"
+  },
+  "textToSpeechToggle": {
+    "message": "Plutajući gumb"
+  },
+  "showSubtitle": {
+    "message": "titlovi:"
+  },
+  "subtitleSize": {
+    "message": "Veličina"
+  },
+  "subtitles": {
+    "message": "Titlovi"
+  },
+  "toggleSubtitles": {
+    "message": "Uključi/isključi titlove"
+  },
+  "subtitleDisplayMode": {
+    "message": "Način prikaza titlova"
+  },
+  "subtitleModeTranslated": {
+    "message": "Samo prijevod"
+  },
+  "subtitleModeBilingual": {
+    "message": "Dvojezični titlovi"
+  },
+  "subtitleModeOff": {
+    "message": "Titlovi isključeni"
+  },
+  "translateService": {
+    "message": "Prijevod:"
+  },
+  "translationEngine": {
+    "message": "Prevodilački sustav"
+  },
+  "translationService": {
+    "message": "Usluga prijevoda"
+  },
+  "translationServiceTitle": {
+    "message": "Usluga prijevoda"
+  },
+  "advancedSettings": {
+    "message": "Napredne postavke"
+  },
+  "pauseVideo": {
+    "message": "Pauziraj videozapis"
+  },
+  "iosOpenOriginVolume": {
+    "message": "Uključi izvorni zvuk"
+  },
+  "voicesAndSubtitles": {
+    "message": "Glas i titlovi"
+  },
+  "voicesAndSubtitlesTitle": {
+    "message": "Glas i titlovi"
+  },
+  "speakerList": {
+    "message": "Popis govornika"
+  },
+  "speakersTitle": {
+    "message": "Govornici"
+  },
+  "deleteSpeaker": {
+    "message": "Izbriši"
+  },
+  "editSpeaker": {
+    "message": "Uredi"
+  },
+  "speakerName": {
+    "message": "Ime govornika"
+  },
+  "enterSpeakerName": {
+    "message": "Unesite ime govornika"
+  },
+  "enterVoice": {
+    "message": "Unesite naziv glasa"
+  },
+  "voice": {
+    "message": "Glas"
+  },
+  "gender": {
+    "message": "Spol"
+  },
+  "male": {
+    "message": "Muški"
+  },
+  "female": {
+    "message": "Ženski"
+  },
+  "edit": {
+    "message": "Uredi"
+  },
+  "delete": {
+    "message": "Izbriši"
+  },
+  "save": {
+    "message": "Spremi"
+  },
+  "cancel": {
+    "message": "Odustani"
+  },
+  "confirmDeleteSpeaker": {
+    "message": "Jeste li sigurni da želite izbrisati ovog govornika?"
+  },
+  "noSpeakers": {
+    "message": "Nema govornika"
+  },
+  "memberUser": {
+    "message": "PRO"
+  },
+  "accountBalance": {
+    "message": "Stanje računa:"
+  },
+  "userAccountAriaLabel": {
+    "message": "Korisnički račun"
+  },
+  "membershipExpires": {
+    "message": "Istječe:"
+  },
+  "shortcutSettings": {
+    "message": "Postavke prečaca"
+  },
+  "subscriptionRecharge": {
+    "message": "Pretplata & nadoplata"
+  },
+  "membershipIcon": {
+    "message": "Ikona članstva"
+  },
+  "browserShortcutSettingsTip": {
+    "message": "Molimo konfigurirajte prečace u postavkama proširenja preglednika"
+  },
+  "safariShortcutSettingsTip": {
+    "message": "Molimo postavite prečace u Safari > Postavke > Proširenja"
+  },
+  "edgeShortcutSettingsTip": {
+    "message": "Otvaranje stranice postavki prečaca Edge proširenja"
+  },
+  "firefoxShortcutSettingsTip": {
+    "message": "Otvaranje Firefox stranice dodataka, molimo postavite prečace u Proširenja i Teme"
+  },
+  "dubbingSettings": {
+    "message": "Postavke sinkronizacije"
+  },
+  "debugInfo": {
+    "message": "Informacije o otklanjanju grešaka"
+  },
+  "sourceLanguage": {
+    "message": "Izvorni jezik"
+  },
+  "targetLanguage": {
+    "message": "Ciljni jezik"
+  },
+  "vipRequiredTitle": {
+    "message": "Potrebno članstvo"
+  },
+  "vipRequiredText": {
+    "message": "Morate biti član za korištenje ove značajke"
+  },
+  "vipAndBalanceRequiredTitle": {
+    "message": "Potrebno članstvo i stanje"
+  },
+  "vipAndBalanceRequiredText": {
+    "message": "Morate biti član i imati dovoljno stanja za korištenje ove značajke"
+  },
+  "balanceRequiredTitle": {
+    "message": "Potrebno stanje"
+  },
+  "balanceRequiredText": {
+    "message": "Stanje vašeg računa je nedovoljno. Molimo doplatite za korištenje ove značajke"
+  },
+  "lowBalanceTitle": {
+    "message": "Upozorenje o niskom stanju"
+  },
+  "lowBalanceText": {
+    "message": "Stanje vašeg računa je ispod 1 $. Preporučujemo dopunu uskoro kako biste osigurali neprekinutu uslugu"
+  },
+  "insufficientBalance": {
+    "message": "Zbog nedovoljnog stanja, usluga je prešla na Google Translate. Za korištenje AI prijevoda, molimo doplatite kredit."
+  },
+  "insufficientBalanceAlertMsg": {
+    "message": "Vaše stanje je nedovoljno. Molimo nadoplatite stanje prije korištenja AI prijevoda i Azure TTS. Ako ne želite nadoplatiti, možete se vratiti na Google Translate i besplatne tipove glasa."
+  },
+  "balanceRunningLow": {
+    "message": "Vaše stanje se smanjuje. Kako biste izbjegli loše iskustvo gledanja, preporučujemo dopunu unaprijed."
+  },
+  "membershipRequired": {
+    "message": "Molimo nadogradite na članstvo prije korištenja OpenAI prijevoda."
+  },
+  "membershipRequiredForAI": {
+    "message": "Molimo doplatite članstvo prije korištenja AI prijevoda. Ako ne želite doplatiti, također možete odabrati Google Translate."
+  },
+  "insufficientMembership": {
+    "message": "Vaše članstvo je isteklo. Molimo doplatite članstvo prije korištenja AI prijevoda i Azure TTS. Ako ne želite doplatiti, također možete odabrati Google Translate i besplatne tipove glasa."
+  },
+  "insufficientBalanceAndMembership": {
+    "message": "Molimo doplatite članstvo i stanje prije korištenja AI prijevoda i Azure TTS. Ako ne želite doplatiti, također možete odabrati Google Translate i besplatne tipove glasa."
+  },
+  "freeForVip": {
+    "message": "Besplatno za VIP"
+  },
+  "freeOptionTipText": {
+    "message": "Ako ne želite doplatiti, možete odabrati besplatnu opciju, "
+  },
+  "translateEngineTipText": {
+    "message": "promijenite uslugu prijevoda na Google"
+  },
+  "voiceTypeTipText": {
+    "message": "promijenite tip glasa na besplatnu verziju"
+  },
+  "vipFreeOptionTipText": {
+    "message": "Kao član, možete besplatno koristiti sljedeće usluge prijevoda"
+  },
+  "vipTranslateEngineTipText": {
+    "message": "Promijenite uslugu prijevoda na besplatne usluge za članove poput gemini, deepseek, gpt-3.5-turbo ili claude-3-haiku"
+  },
+  "pay": {
+    "message": "Plati"
+  },
+  "switchModelWarning": {
+    "message": "Promjena glasa ili modela prijevoda tijekom reprodukcije videozapisa uzrokovat će dodatne troškove zbog potrošenih resursa. Preporučujemo promjenu u sljedećem videozapisu. Za nastavak, kliknite Nastavi i spremi."
+  },
+  "selectSpeaker": {
+    "message": "Odaberi"
+  },
+  "speaker": {
+    "message": "Govornik"
+  },
+  "rechargeLimit": {
+    "message": "Kredit+Član"
+  },
+  "tooExpensive": {
+    "message": "Skupo"
+  },
+  "dropdownPlaceholder": {
+    "message": "Molimo odaberite"
+  },
+  "dropdownNoOptions": {
+    "message": "Nema dostupnih opcija"
+  },
+  "dropdownSearch": {
+    "message": "Pretraži..."
+  },
+  "swapVolumeSettingsCommand": {
+    "message": "Prebaci postavke glasnoće između izvornog i sinkroniziranog zvuka"
+  },
+  "cycleSubtitleModeCommand": {
+    "message": "Promijeni titlove: dvojezični → samo prijevod → isključeno"
+  },
+  "trialMemberModelLimit": {
+    "message": "Probni članovi mogu koristiti samo Gemini i Google Translate. Za korištenje drugih modela, molimo pretplatite se na naše članstvo."
+  },
+  "subtitlesRateLimitedByYouTube": {
+    "message": "Titlovi za ovaj videozapis trenutno su ograničeni od strane YouTubea. Molimo pokušajte ponovno kasnije."
+  },
+  "musicVideoNotSupported": {
+    "message": "Ovo je glazbeni video. Prijevod i sinkronizacija nisu podržani."
+  },
+  "hideUntilNextVisit": {
+    "message": "Sakrij do sljedećeg posjeta"
+  },
+  "disableGlobally": {
+    "message": "Onemogući globalno"
+  },
+  "sidebarHideUntilNextVisit": {
+    "message": "Sakrij do sljedećeg posjeta"
+  },
+  "sidebarDisableForSite": {
+    "message": "Onemogući za ovu stranicu"
+  },
+  "sidebarDisableGlobally": {
+    "message": "Onemogući globalno"
+  },
+  "sidebarReenableHint": {
+    "message": "Može se ponovno omogućiti u "
+  },
+  "sidebarSettings": {
+    "message": "Postavkama"
+  },
+  "sidebarReenableHintSuffix": {
+    "message": " "
+  },
+  "notSupported": {
+    "message": "Nije podržano"
+  },
+  "multiVideoNotSupported": {
+    "message": "Ova stranica ima više videozapisa. Univerzalna sinkronizacija podržava samo stranice s jednim videozapisom pri korištenju HLS streamova."
+  },
+  "mediaSourceNotDetected": {
+    "message": "Nije moguće otkriti izvor videozapisa. Ova web stranica možda nije podržana."
+  },
+  "uploadMediaForRecognition": {
+    "message": "Nisu pronađeni titlovi. Želite li prenijeti videozapis za AI prepoznavanje titlova?"
+  },
+  "startUpload": {
+    "message": "Započni prijenos"
+  },
+  "uploadingMedia": {
+    "message": "Prijenos medija..."
+  },
+  "downloading": {
+    "message": "Preuzimanje"
+  },
+  "uploading": {
+    "message": "Prijenos"
+  },
+  "completing": {
+    "message": "Dovršavanje"
+  },
+  "uploadComplete": {
+    "message": "Prijenos dovršen"
+  },
+  "waitingForRecognition": {
+    "message": "Video je uspješno učitan. AI prepoznavanje titlova je u tijeku. Primit ćete obavijest e-poštom kada bude spremno."
+  },
+  "uploadFailed": {
+    "message": "Prijenos nije uspio"
+  },
+  "corsNotSupported": {
+    "message": "Ova web stranica ne dopušta preuzimanje medijskih datoteka. Univerzalna sinkronizacija nije podržana."
+  },
+  "mediaDownloadInterrupted": {
+    "message": "Preuzimanje medija prekinuto je mrežnom pogreškom (nije riječ o ograničenju web-mjesta). Pokušajte ponovno prenijeti."
+  },
+  "zoomRecordingDnrNotSupported": {
+    "message": "Vaš preglednik ne podržava prepoznavanje učitavanja Zoom snimki. Molimo koristite Chrome/Edge."
+  },
+  "zoomRecordingDownloadForbidden403": {
+    "message": "Preuzimanje Zoom snimke je zabranjeno (403). Molimo reproducirajte/osvježite stranicu za verifikaciju, zatim pokušajte ponovno."
+  },
+  "liveStreamNotSupported": {
+    "message": "Prijenos uživo nije podržan za univerzalnu sinkronizaciju."
+  },
+  "noAudioTrackFound": {
+    "message": "Nije pronađen audio zapis. Ovaj video izgleda kao samo video bez zvuka i ne može se koristiti za prepoznavanje sinkronizacije."
+  },
+  "universalDubbingMemberOnly": {
+    "message": "Univerzalna sinkronizacija zahtijeva cloud GPU računalnu snagu (visok trošak), samo za VIP."
+  },
+  "videoDurationExceedsLimit": {
+    "message": "Ovaj video prelazi 3 sata trajanja. Univerzalna sinkronizacija trenutno nije podržana za videe duže od 3 sata."
+  },
+  "videoDrmProtected": {
+    "message": "Ovaj video je zaštićen DRM-om i ne može se koristiti za sinkronizaciju."
+  },
+  "pleaseClickVideoToPlay": {
+    "message": "Kliknite na video da biste ga otvorili, a zatim upotrijebite značajku sinkronizacije."
+  },
+  "iosUniversalDubbingNotSupported": {
+    "message": "Univerzalna sinkronizacija nije podržana na iOS uređajima. Molimo koristite desktop preglednik."
+  },
+  "membershipRequiredTitle": {
+    "message": "Potrebno članstvo"
+  },
+  "error": {
+    "message": "Greška"
+  },
+  "unknownError": {
+    "message": "Došlo je do nepoznate greške. Molimo pokušajte ponovo."
+  },
+  "doNotClosePage": {
+    "message": "Molimo ne zatvarajte niti osvježavajte ovu stranicu tijekom učitavanja, inače će učitavanje biti prekinuto."
+  },
+  "taskAlreadySubmitted": {
+    "message": "Ovaj video se već obrađuje za AI prepoznavanje titlova. Molimo pričekajte obavijest putem e-pošte."
+  },
+  "sampleAesNotSupported": {
+    "message": "Ovaj video koristi SAMPLE-AES šifriranje koje trenutno nije podržano za preuzimanje."
+  },
+  "hlsKeyFetchFailed": {
+    "message": "Nije moguće dohvatiti ključ za dešifriranje ovog videa. Video je možda zaštićen ili poslužitelj ključeva nije dostupan."
+  },
+  "hlsDecryptionFailed": {
+    "message": "Nije moguće dešifrirati sadržaj videa. Ključ za šifriranje možda nije točan ili format videa nije kompatibilan."
+  },
+  "subtitleStyleOptionsTitle": {
+    "message": "Postavke stila podnaslova"
+  },
+  "subtitleStyleOptionsDesc": {
+    "message": "Prilagodbe će biti spremljene i odmah će stupiti na snagu."
+  },
+  "subtitleStyleSectionTitle": {
+    "message": "Stil podnaslova"
+  },
+  "subtitleStylePreviewTitle": {
+    "message": "Pregled"
+  },
+  "subtitleStylePreviewTag": {
+    "message": "U stvarnom vremenu"
+  },
+  "subtitleStylePreviewText": {
+    "message": "Smatrao je da taj mladić ima velik potencijal."
+  },
+  "subtitleStylePosition": {
+    "message": "Položaj"
+  },
+  "subtitleStylePositionTop": {
+    "message": "Vrh"
+  },
+  "subtitleStylePositionMiddle": {
+    "message": "Sredina"
+  },
+  "subtitleStylePositionBottom": {
+    "message": "Dno"
+  },
+  "subtitleStyleFontFamily": {
+    "message": "Font"
+  },
+  "subtitleStyleFontSize": {
+    "message": "Veličina fonta"
+  },
+  "subtitleStyleCustomOption": {
+    "message": "Prilagođeno"
+  },
+  "subtitleStyleCustomFont": {
+    "message": "Prilagođeni font"
+  },
+  "subtitleStyleCustomFontPlaceholder": {
+    "message": "Na primjer: PingFang SC, Arial"
+  },
+  "subtitleStyleTextColor": {
+    "message": "Boja fonta"
+  },
+  "subtitleStyleFontWeight": {
+    "message": "Težina fonta"
+  },
+  "subtitleStyleBackgroundColor": {
+    "message": "Boja pozadine"
+  },
+  "subtitleStyleBackgroundOpacity": {
+    "message": "Neprozirnost pozadine"
+  },
+  "subtitleStyleEdgeStyle": {
+    "message": "Stil ruba"
+  },
+  "subtitleStyleEdgeNone": {
+    "message": "Nema"
+  },
+  "subtitleStyleEdgeShadow": {
+    "message": "Sjena"
+  },
+  "subtitleStyleEdgeOutline": {
+    "message": "Obris"
+  },
+  "subtitleStyleFontNone": {
+    "message": "Nema"
+  },
+  "subtitleStyleFontDefault": {
+    "message": "Zadano"
+  },
+  "subtitleStyleFontPingFang": {
+    "message": "PingFang SC"
+  },
+  "subtitleStyleFontYaHei": {
+    "message": "Microsoft YaHei"
+  },
+  "subtitleStyleFontHeiti": {
+    "message": "STHeiti"
+  },
+  "subtitleStyleFontKaiti": {
+    "message": "Kaiti SC"
+  },
+  "subtitleStyleFontSongti": {
+    "message": "STSong"
+  },
+  "subtitleStyleFontFangsong": {
+    "message": "FangSong"
+  },
+  "subtitleStyleFontDongqingHeiti": {
+    "message": "Dongqing Heiti"
+  },
+  "subtitleStyleFontLantingHei": {
+    "message": "Lanting Hei"
+  },
+  "subtitleStyleFontHanyiHeiliu": {
+    "message": "Hanyi Heiliu"
+  },
+  "subtitleStyleFontHanyiZhonghei": {
+    "message": "Hanyi Zhonghei"
+  },
+  "subtitleStyleFontSTSong": {
+    "message": "Songti"
+  },
+  "subtitleStyleFontWawati": {
+    "message": "Wawati"
+  },
+  "subtitleStyleFontWeibei": {
+    "message": "Weibei"
+  },
+  "subtitleStyleFontXingkai": {
+    "message": "Xingkai"
+  },
+  "subtitleStyleFontYuanti": {
+    "message": "Yuanti"
+  },
+  "subtitleStyleFontArialUnicode": {
+    "message": "Arial Unicode MS"
+  },
+  "subtitleStyleFontArial": {
+    "message": "Arial"
+  },
+  "subtitleStyleFontCourierNew": {
+    "message": "Courier New"
+  },
+  "subtitleStyleFontGeorgia": {
+    "message": "Georgia"
+  },
+  "subtitleStyleFontTahoma": {
+    "message": "Tahoma"
+  },
+  "subtitleStyleFontTimesNewRoman": {
+    "message": "Times New Roman"
+  },
+  "subtitleStyleFontTrebuchetMS": {
+    "message": "Trebuchet MS"
+  },
+  "subtitleStyleFontVerdana": {
+    "message": "Verdana"
+  },
+  "subtitleStyleFontHelveticaNeue": {
+    "message": "Helvetica Neue"
+  },
+  "subtitleStyleFontHiraginoMincho": {
+    "message": "Hiragino Mincho ProN"
+  },
+  "subtitleStyleFontHiraginoKaku": {
+    "message": "Hiragino Kaku Gothic ProN"
+  },
+  "subtitleStyleFontKohinoor": {
+    "message": "Kohinoor Devanagari"
+  },
+  "subtitleStyleFontAppleSD": {
+    "message": "Apple SD Gothic Neo"
+  },
+  "subtitleStyleFontNanumGothic": {
+    "message": "Nanum Gothic"
+  },
+  "subtitleStyleFontCustom": {
+    "message": "Prilagođeno"
+  },
+  "subtitleStyleColorWhite": {
+    "message": "Bijela"
+  },
+  "subtitleStyleColorYellow": {
+    "message": "Žuta"
+  },
+  "subtitleStyleColorOrange": {
+    "message": "Narančasta"
+  },
+  "subtitleStyleColorGray": {
+    "message": "Siva"
+  },
+  "subtitleStyleColorGreen": {
+    "message": "Zelena"
+  },
+  "subtitleStyleColorCyan": {
+    "message": "Cijan"
+  },
+  "subtitleStyleColorBlue": {
+    "message": "Plava"
+  },
+  "subtitleStyleColorMagenta": {
+    "message": "Magenta"
+  },
+  "subtitleStyleColorRed": {
+    "message": "Crvena"
+  },
+  "subtitleStyleColorBlack": {
+    "message": "Crna"
+  },
+  "subtitleStyleEditorViewLabel": {
+    "message": "Prikaz uređivanja stila"
+  },
+  "subtitleStyleEditorViewTranslated": {
+    "message": "Samo prijevod"
+  },
+  "subtitleStyleEditorViewBilingual": {
+    "message": "Dvojezično"
+  },
+  "subtitleStyleLayoutSectionTitle": {
+    "message": "Dvojezični raspored"
+  },
+  "subtitleStyleOrder": {
+    "message": "Redoslijed titlova"
+  },
+  "subtitleStyleOrderTranslatedFirst": {
+    "message": "Prijevod gore"
+  },
+  "subtitleStyleOrderOriginalFirst": {
+    "message": "Original gore"
+  },
+  "subtitleStyleLineGap": {
+    "message": "Razmak redaka"
+  },
+  "subtitleStyleTextAlign": {
+    "message": "Vodoravno poravnanje"
+  },
+  "subtitleStyleTextAlignLeft": {
+    "message": "Lijevo"
+  },
+  "subtitleStyleTextAlignCenter": {
+    "message": "Sredina"
+  },
+  "subtitleStyleTextAlignRight": {
+    "message": "Desno"
+  },
+  "subtitleStyleTranslatedSectionTitle": {
+    "message": "Stil prijevoda"
+  },
+  "subtitleStyleOriginalSectionTitle": {
+    "message": "Stil originala"
+  },
+  "subtitleStyleFollowTranslated": {
+    "message": "Prati stil prijevoda"
+  },
+  "subtitleStyleUsesCurrentSettings": {
+    "message": "Koristi trenutačne postavke"
+  },
+  "subtitleStyleOriginalSizePercent": {
+    "message": "Omjer veličine fonta"
+  },
+  "subtitleStyleSharedBackgroundSectionTitle": {
+    "message": "Zajednička pozadina"
+  },
+  "subtitleStyleRestoreDefaults": {
+    "message": "Vrati zadano"
+  },
+  "subtitleStylePreviewOriginalText": {
+    "message": "He thought this young man had great potential."
+  },
+  "subtitleStyleColorLightGray": {
+    "message": "Svijetlosiva"
+  },
+  "disabledSitesSectionTitle": {
+    "message": "Onemogućene stranice"
+  },
+  "disabledSitesTitle": {
+    "message": "Upravljanje onemogućenim stranicama"
+  },
+  "disabledSitesDescription": {
+    "message": "Plutajući gumb neće se prikazivati na sljedećim stranicama. Ovdje možete dodavati ili uklanjati onemogućene stranice."
+  },
+  "disabledSitesPlaceholder": {
+    "message": "Unesite domenu, npr. youtube.com"
+  },
+  "disabledSitesAdd": {
+    "message": "Dodaj"
+  },
+  "disabledSitesDomain": {
+    "message": "Domena"
+  },
+  "disabledSitesActions": {
+    "message": "Radnje"
+  },
+  "disabledSitesDelete": {
+    "message": "Obriši"
+  },
+  "disabledSitesEmpty": {
+    "message": "Nema onemogućenih stranica"
+  },
+  "preferencesSectionTitle": {
+    "message": "Osnovne postavke"
+  },
+  "optionsNavPreferencesShort": {
+    "message": "Osnovno"
+  },
+  "optionsNavSubtitleShort": {
+    "message": "Titlovi"
+  },
+  "optionsNavAiShort": {
+    "message": "AI"
+  },
+  "optionsNavSitesShort": {
+    "message": "Stranice"
+  },
+  "preferenceStatusDisabled": {
+    "message": "Isključeno"
+  },
+  "preferencesTitle": {
+    "message": "Osnovne postavke"
+  },
+  "preferencesDescription": {
+    "message": "Ovdje upravljajte osnovnim postavkama."
+  },
+  "emailNotificationLabel": {
+    "message": "Obavijesti e-poštom"
+  },
+  "emailNotificationDescription": {
+    "message": "Obavijesti me e-poštom kada prepoznavanje titlova završi."
+  },
+  "emailNotificationSaveFailed": {
+    "message": "Spremanje nije uspjelo. Pokušajte ponovno kasnije."
+  },
+  "skipTranslationWhenSameLanguageLabel": {
+    "message": "Preskoči prijevod za isti jezik"
+  },
+  "skipTranslationWhenSameLanguageDescription": {
+    "message": "Kada je uključeno i jezik titlova odgovara ciljnom jeziku, sinkronizacija započinje izravno bez prijevoda."
+  },
+  "userSubtitleSegmentationEnabledLabel": {
+    "message": "Pametna segmentacija korisničkih titlova"
+  },
+  "userSubtitleSegmentationEnabledDescription": {
+    "message": "Kada je uključeno, automatski segmentira uređene ili lokalno učitane titlove. Kada je isključeno, zadržava njihovu izvornu podjelu."
+  },
+  "subtitlePriorityTitle": {
+    "message": "Prioritet prijevoda titlova"
+  },
+  "subtitlePriorityDescription": {
+    "message": "Odaberite koji izvor titlova ima prioritet za prijevod."
+  },
+  "subtitlePriorityAiSubtitle": {
+    "message": "AI prepoznati titlovi dodatka"
+  },
+  "subtitlePriorityAiSubtitleDesc": {
+    "message": "Prioritiziraj titlove generirane AI prepoznavanjem govora dodatka za veću točnost."
+  },
+  "subtitlePriorityPlatformSubtitle": {
+    "message": "Ugrađeni titlovi platforme"
+  },
+  "subtitlePriorityPlatformSubtitleDesc": {
+    "message": "Prioritiziraj izvorne titlove koje pruža video platforma."
+  },
+  "subtitlePriorityQuickLabel": {
+    "message": "Titlovi"
+  },
+  "subtitlePriorityQuickAi": {
+    "message": "UI"
+  },
+  "subtitlePriorityQuickPlatform": {
+    "message": "Platforma"
+  },
+  "panelTabVideoSummary": {
+    "message": "Sažetak"
+  },
+  "panelTabSubtitleEdit": {
+    "message": "Titlovi"
+  },
+  "panelSummaryTitle": {
+    "message": "Sažetak i pregled videa"
+  },
+  "panelSummaryDesc": {
+    "message": "Koristite napredne AI modele za brzo razumijevanje video sadržaja"
+  },
+  "panelSummaryGenerate": {
+    "message": "Generiraj sažetak"
+  },
+  "panelSummaryGenerating": {
+    "message": "Generiranje..."
+  },
+  "panelSummaryReGenerating": {
+    "message": "Ponovno generiranje..."
+  },
+  "panelSummarySectionSummary": {
+    "message": "Sažetak"
+  },
+  "panelSummarySectionHighlights": {
+    "message": "Istaknuto"
+  },
+  "panelSummaryExpandAll": {
+    "message": "Proširi sve"
+  },
+  "panelSummaryCollapseAll": {
+    "message": "Sažmi sve"
+  },
+  "panelSummaryExpand": {
+    "message": "Proširi"
+  },
+  "panelSummaryCollapse": {
+    "message": "Sažmi"
+  },
+  "panelSummaryShare": {
+    "message": "Podijeli"
+  },
+  "panelSummaryCopy": {
+    "message": "Kopiraj"
+  },
+  "panelSummaryReGenerate": {
+    "message": "Generiraj ponovno"
+  },
+  "panelSummaryCopySuccess": {
+    "message": "Kopirano"
+  },
+  "panelSummaryPlay": {
+    "message": "Reproduciraj"
+  },
+  "panelSummaryPause": {
+    "message": "Pauziraj"
+  },
+  "panelSummaryPlayFailed": {
+    "message": "Reprodukcija nije uspjela, pokušajte ponovno"
+  },
+  "panelSummaryNoSubtitle": {
+    "message": "Za ovaj video nema dostupnih titlova"
+  },
+  "panelSummaryError": {
+    "message": "Generiranje sažetka nije uspjelo, pokušajte ponovo"
+  },
+  "panelSummaryErrorInvalidVideoId": {
+    "message": "Nije moguće identificirati trenutni video, osvježite stranicu i pokušajte ponovo"
+  },
+  "panelSummaryErrorMemberRequired": {
+    "message": "Sažetak videa je funkcija dostupna samo članovima, pretplatite se za korištenje"
+  },
+  "panelSummaryErrorNoSubtitles": {
+    "message": "Za ovaj video nema dostupnih titlova, nije moguće generirati sažetak"
+  },
+  "panelSummaryErrorServiceError": {
+    "message": "Usluga sažetka je privremeno nedostupna, pokušajte ponovo kasnije"
+  },
+  "subtitleEditorManualInput": {
+    "message": "Ručni unos"
+  },
+  "subtitleEditorSwitchTip": {
+    "message": "Kliknite ovdje za promjenu titlova"
+  },
+  "subtitleEditorExport": {
+    "message": "Izvoz titlova"
+  },
+  "subtitleEditorTrackFallback": {
+    "message": "Izvor titla"
+  },
+  "subtitleEditorMySubtitles": {
+    "message": "Moji titlovi"
+  },
+  "subtitleEditorNoSourceManual": {
+    "message": "Nema dostupnih izvora titlova (dostupan ručni unos)"
+  },
+  "subtitleEditorSaveInvalidVideo": {
+    "message": "Nije moguće identificirati trenutačni videozapis. Spremanje nije uspjelo."
+  },
+  "subtitleEditorSaveFailed": {
+    "message": "Spremanje nije uspjelo. Pokušajte ponovno kasnije."
+  },
+  "subtitleEditorValidationEmpty": {
+    "message": "Sadržaj podnaslova ne može biti prazan"
+  },
+  "subtitleEditorValidationBlockStructure": {
+    "message": "Nevažeći SRT blok. Potrebni su redoslijed, vremenska oznaka i sadržaj."
+  },
+  "subtitleEditorValidationSequenceFormat": {
+    "message": "Nevažeći format SRT sekvencijskog broja"
+  },
+  "subtitleEditorValidationSequenceIncrement": {
+    "message": "SRT redni brojevi moraju počinjati s 1 i povećavati se za 1"
+  },
+  "subtitleEditorValidationTimeFormat": {
+    "message": "Nevažeći format vremena. Pregledajte ga i ispravite."
+  },
+  "subtitleEditorValidationEndAfterStart": {
+    "message": "Vrijeme završetka mora biti duže od vremena početka"
+  },
+  "subtitleEditorValidationContentRequired": {
+    "message": "Svaki podnaslov mora sadržavati barem jedan red teksta"
+  },
+  "subtitleEditorValidationSpeakerPrefix": {
+    "message": "Neki titlovi uključuju oznake govornika. Svi titlovi moraju koristiti prefiks [speaker]."
+  },
+  "localPlayerTemporaryImportMode": {
+    "message": "Način privremenog uvoza"
+  },
+  "localPlayerLibraryTitle": {
+    "message": "Lokalna videoteka"
+  },
+  "localPlayerEntryButton": {
+    "message": "Lokalni video"
+  },
+  "localPlayerPageTitle": {
+    "message": "Lokalni video · YouTube Dubbing"
+  },
+  "localPlayerFolderAccessDescription": {
+    "message": "Otvaranjem mape spremaju se obrade datoteka tako da se pristup može vratiti nakon osvježavanja."
+  },
+  "localPlayerTemporaryImportDescription": {
+    "message": "Ovaj preglednik ne podržava File System Access API. Možete privremeno dodati videozapise i titlove."
+  },
+  "localPlayerOpenFolder": {
+    "message": "Otvori mapu"
+  },
+  "localPlayerAddVideo": {
+    "message": "Dodaj video"
+  },
+  "localPlayerAddSubtitle": {
+    "message": "Dodaj podnaslov"
+  },
+  "localPlayerVideoList": {
+    "message": "Popis videozapisa"
+  },
+  "localPlayerFolders": {
+    "message": "Mape"
+  },
+  "localPlayerFoldersDescription": {
+    "message": "Pregledajte uvezene medije po mapi."
+  },
+  "localPlayerAllVideos": {
+    "message": "Svi videozapisi"
+  },
+  "localPlayerAllVideosDescription": {
+    "message": "Pretražujte i upravljajte svakim uvezenim videozapisom."
+  },
+  "localPlayerLibraryView": {
+    "message": "Prikaz biblioteke"
+  },
+  "localPlayerBackToFolders": {
+    "message": "Natrag na mape"
+  },
+  "localPlayerFolderSearchPlaceholder": {
+    "message": "Pretraži mape, staze ili datoteke"
+  },
+  "localPlayerTotalFolders": {
+    "message": "Ukupno {count} mapa"
+  },
+  "localPlayerMatchedFolders": {
+    "message": "Podudaranje {visibleCount} / ukupno {totalCount} mapa"
+  },
+  "localPlayerNoFolderMatchesTitle": {
+    "message": "Nema odgovarajućih mapa"
+  },
+  "localPlayerNoFolderMatchesText": {
+    "message": "Prilagodite pretragu mapa i pokušajte ponovno."
+  },
+  "localPlayerRescanAll": {
+    "message": "Ponovno skeniraj sve"
+  },
+  "localPlayerFolderMenuLabel": {
+    "message": "Radnje mape"
+  },
+  "localPlayerOpenFolderMenu": {
+    "message": "Otvori mapu"
+  },
+  "localPlayerRescanThisFolder": {
+    "message": "Ponovno skeniraj ovu mapu"
+  },
+  "localPlayerRemoveFromLibrary": {
+    "message": "Ukloni iz biblioteke"
+  },
+  "localPlayerFolderVideoCount": {
+    "message": "{count} videozapisa"
+  },
+  "localPlayerFolderAssociatedSubtitleCount": {
+    "message": "{count} pridruženi titlovi"
+  },
+  "localPlayerFolderLastPlayed": {
+    "message": "Zadnja igra {time}"
+  },
+  "localPlayerFolderLastScanned": {
+    "message": "Posljednje skeniranje {time}"
+  },
+  "localPlayerRemoveFolderTitle": {
+    "message": "Ukloniti ovu mapu iz biblioteke?"
+  },
+  "localPlayerRemoveFolderText": {
+    "message": "Ovo uklanja samo zapise knjižnice za ovu mapu. Izvorne datoteke na disku neće biti izbrisane."
+  },
+  "localPlayerFolderRemoved": {
+    "message": "Uklonjeno {folderName}"
+  },
+  "localPlayerRemoveFolderFailed": {
+    "message": "Nije uspjelo uklanjanje mape iz biblioteke."
+  },
+  "localPlayerRescanFailed": {
+    "message": "Nije uspjelo ponovno skeniranje lokalne knjižnice."
+  },
+  "localPlayerRescanFolderUnavailable": {
+    "message": "Ne mogu ponovno skenirati ovu mapu jer je pristup spremljenoj mapi nedostupan."
+  },
+  "localPlayerCurrentDirectory": {
+    "message": "Trenutni direktorij"
+  },
+  "localPlayerNoNewFilesFound": {
+    "message": "Nisu pronađene nove datoteke."
+  },
+  "localPlayerScanComplete": {
+    "message": "Skeniranje dovršeno: dodano {addedVideoCount} videozapisa, {addedSubtitleCount} titlova, ažurirano {updatedCount} datoteka."
+  },
+  "localPlayerNever": {
+    "message": "Nikad"
+  },
+  "localPlayerSearchPlaceholder": {
+    "message": "Pretraživanje videozapisa ili putova datoteka"
+  },
+  "localPlayerFilterAll": {
+    "message": "Svi"
+  },
+  "localPlayerFilterWithSubtitle": {
+    "message": "S titlovima"
+  },
+  "localPlayerFilterNoSubtitle": {
+    "message": "Bez titlova"
+  },
+  "localPlayerSortLastPlayed": {
+    "message": "Nedavno reproducirani videozapisi"
+  },
+  "localPlayerSortName": {
+    "message": "Naziv datoteke"
+  },
+  "localPlayerSortDuration": {
+    "message": "Trajanje videa"
+  },
+  "localPlayerNoVideosTitle": {
+    "message": "Još nema lokalnih videozapisa"
+  },
+  "localPlayerNoMatchesTitle": {
+    "message": "Nema odgovarajućih videozapisa"
+  },
+  "localPlayerNoVideosText": {
+    "message": "Otvorite mapu ili dodajte videozapise kako biste ovdje upravljali vezama titlova i lokalnom glasovnom sinkronizacijom."
+  },
+  "localPlayerNoMatchesText": {
+    "message": "Prilagodite pretraživanje, filtar ili sortiranje i pokušajte ponovno."
+  },
+  "localPlayerDeleteVideoLabel": {
+    "message": "Izbriši {fileName}"
+  },
+  "localPlayerRecognitionSubmitted": {
+    "message": "Prepoznavanje titlova"
+  },
+  "localPlayerPlay": {
+    "message": "Reproduciraj video"
+  },
+  "localPlayerSubtitles": {
+    "message": "Titlovi"
+  },
+  "localPlayerStartDubbing": {
+    "message": "Pokrenite glasovnu sinkronizaciju"
+  },
+  "localPlayerFloatingActionsLabel": {
+    "message": "Lokalne video brze akcije"
+  },
+  "localPlayerOpenSidebar": {
+    "message": "Otvori bočnu traku"
+  },
+  "localPlayerClose": {
+    "message": "Zatvori"
+  },
+  "localPlayerSameDirectorySubtitleSummary": {
+    "message": "Podnaslovi u istoj mapi {sameCount} · Povezano {associatedCount}"
+  },
+  "localPlayerNoManageableSubtitles": {
+    "message": "Nema titlova za upravljanje"
+  },
+  "localPlayerAssociateAndUseForDubbing": {
+    "message": "Povežite titl i koristite ga za glasovnu sinkronizaciju"
+  },
+  "localPlayerSetForDubbing": {
+    "message": "Koristite ovaj podnaslov za glasovnu sinkronizaciju"
+  },
+  "localPlayerRemoveAssociation": {
+    "message": "Odvezati titl"
+  },
+  "localPlayerRemoveAllAssociations": {
+    "message": "Prekini vezu svih titlova"
+  },
+  "localPlayerSelectVideoForSubtitleTitle": {
+    "message": "Odaberite video za povezivanje s ovim titlom"
+  },
+  "localPlayerAssociate": {
+    "message": "Podnaslov veze"
+  },
+  "localPlayerInitialStatus": {
+    "message": "Otvorite mapu, dodajte videozapise ili ispustite datoteke za početak."
+  },
+  "localPlayerAscendingSortTitle": {
+    "message": "Uzlazno; kliknite za prebacivanje na silazno"
+  },
+  "localPlayerDescendingSortTitle": {
+    "message": "Silazno; kliknite za prebacivanje na uzlazno"
+  },
+  "localPlayerTotalVideos": {
+    "message": "Ukupno {count} videozapisa"
+  },
+  "localPlayerMatchedVideos": {
+    "message": "Podudaranje {visibleCount} / ukupno {totalCount} videozapisa"
+  },
+  "localPlayerRouteVideoMissing": {
+    "message": "Video naveden u URL-u nije u trenutnoj lokalnoj videoteci."
+  },
+  "localPlayerFolderAccessUnsupported": {
+    "message": "Ovaj preglednik ne može otvoriti mape. Upotrijebite Dodaj video/Dodaj titl za privremeni uvoz."
+  },
+  "localPlayerImportComplete": {
+    "message": "Uvezeni {videoCount} videozapisi i {subtitleCount} titlovi."
+  },
+  "localPlayerOpenFolderFailed": {
+    "message": "Otvaranje mape nije uspjelo."
+  },
+  "localPlayerAddVideoFailed": {
+    "message": "Dodavanje videa nije uspjelo."
+  },
+  "localPlayerAddSubtitleFailed": {
+    "message": "Dodavanje podnaslova nije uspjelo."
+  },
+  "localPlayerAssociationSaved": {
+    "message": "Veza titla spremljena."
+  },
+  "localPlayerAssociationSavedAndPreferred": {
+    "message": "Podnaslov je povezan i postavljen za glasovnu sinkronizaciju."
+  },
+  "localPlayerPreferredSubtitleSaved": {
+    "message": "Podnaslov postavljen za glasovnu sinkronizaciju."
+  },
+  "localPlayerAssociationRemoved": {
+    "message": "Link titla uklonjen."
+  },
+  "localPlayerRebindSubtitleTitle": {
+    "message": "Ponovno povezati ovaj titl?"
+  },
+  "localPlayerRebindSubtitleText": {
+    "message": "Ovaj podnaslov je već povezan s \"{fromVideo}\". Nastavkom će se ukloniti ta povezanost i povezati s \"{toVideo}\"."
+  },
+  "localPlayerRemoveAllAssociationsTitle": {
+    "message": "Prekinuti vezu svih titlova?"
+  },
+  "localPlayerRemoveAllAssociationsText": {
+    "message": "Bit će uklonjene samo veze titlova za ovaj video. Zapisi datoteke titlova neće biti izbrisani."
+  },
+  "localPlayerAllAssociationsRemoved": {
+    "message": "Sve veze na titlove uklonjene."
+  },
+  "localPlayerDeleteVideoTitle": {
+    "message": "Izbrisati ovaj video?"
+  },
+  "localPlayerDeleteVideoText": {
+    "message": "Ovime se uklanjaju veze na videozapise i titlove iz lokalne knjižnice. Izvorne datoteke na disku neće biti izbrisane."
+  },
+  "localPlayerDelete": {
+    "message": "Brisanje"
+  },
+  "localPlayerVideoDeleted": {
+    "message": "Izbrisano {fileName}"
+  },
+  "localPlayerDeleteVideoFailed": {
+    "message": "Brisanje videozapisa nije uspjelo."
+  },
+  "localPlayerVideoFileAccessLost": {
+    "message": "Nije moguće vratiti pristup ovoj video datoteci. Ponovo dodajte videozapis."
+  },
+  "localPlayerVideoPlayerNotReady": {
+    "message": "Video player još nije spreman."
+  },
+  "localPlayerNowPlaying": {
+    "message": "Sada svira {fileName}"
+  },
+  "localPlayerDubbingStarted": {
+    "message": "Započela je lokalna glasovna sinkronizacija."
+  },
+  "localPlayerDubbingStartFailed": {
+    "message": "Neuspješno pokretanje lokalne glasovne sinkronizacije."
+  },
+  "localPlayerOpenSidebarFailed": {
+    "message": "Otvaranje bočne trake nije uspjelo."
+  },
+  "localPlayerVideoFileReadFailed": {
+    "message": "Nije moguće pročitati lokalnu video datoteku. Ponovo dodajte videozapis."
+  },
+  "localPlayerUploadCancelled": {
+    "message": "Prijenos je otkazan."
+  },
+  "localPlayerSubtitleAssociatedBadge": {
+    "message": "{count} povezani titlovi"
+  },
+  "localPlayerNoSubtitleBadge": {
+    "message": "Nema povezanih titlova"
+  },
+  "localPlayerUsedForDubbing": {
+    "message": "Koristi se za sinkronizaciju glasa"
+  },
+  "localPlayerAssociated": {
+    "message": "Povezano"
+  },
+  "localPlayerAssociatedOutsideFolder": {
+    "message": "Povezano izvan ove mape"
+  },
+  "localPlayerNotAssociated": {
+    "message": "Nije povezano"
+  },
+  "localPlayerNativeSubtitle": {
+    "message": "Izvorni titlovi"
+  },
+  "localPlayerDubbingAlreadyStarted": {
+    "message": "Sinkronizacija je počela"
+  },
+  "localPlayerThumbnailBackfillComplete": {
+    "message": "Generirane sličice za {count} videozapise."
+  },
+  "localPlayerThumbnailGenerationFailed": {
+    "message": "Generiranje minijature nije uspjelo: {displayName} ({message})"
+  },
+  "localPlayerFreeUserNoSubtitleMessage": {
+    "message": "Ovaj lokalni video nema povezani titl. Besplatni korisnici još ne mogu koristiti prepoznavanje pozadinskih titlova za lokalne videozapise. Nadogradite članstvo za korištenje AI prepoznavanja titlova ili ručno prenesite datoteku titlova prije pokretanja sinkronizacije."
+  },
+  "localPlayerNoSubtitleUploadTitle": {
+    "message": "Ovaj video nema titlova"
+  },
+  "localPlayerNoSubtitleUploadText": {
+    "message": "Učitati ovaj video za AI prepoznavanje titlova? Upload se koristi samo za prepoznavanje titlova, video se briše odmah nakon prepoznavanja, o čemu ćete biti obaviješteni e-poštom."
+  },
+  "localPlayerNavigationLabel": {
+    "message": "Lokalna videoteka / Tekst u govor"
+  },
+  "localPlayerCurrentPageNav": {
+    "message": "Dabing videa"
+  },
+  "localPlayerTextDubbingNav": {
+    "message": "Tekst u govor"
+  },
+  "localPlayerTextDubbingTitle": {
+    "message": "Tekst u govor"
+  },
+  "localPlayerTextDubbingDescription": {
+    "message": "Tekst u govor - Ciljni jezik"
+  },
+  "localPlayerTextDubbingVoiceType": {
+    "message": "Tip glasa"
+  },
+  "localPlayerTextDubbingLanguage": {
+    "message": "Ciljni jezik"
+  },
+  "localPlayerTextDubbingGender": {
+    "message": "Spol"
+  },
+  "localPlayerTextDubbingVoice": {
+    "message": "Glas"
+  },
+  "localPlayerTextDubbingInputLabel": {
+    "message": "Ručni unos"
+  },
+  "localPlayerTextDubbingInputPlaceholder": {
+    "message": "Ručni unos - Tekst u govor"
+  },
+  "localPlayerTextDubbingLimitHint": {
+    "message": "Tekst u govor: {chars} / {bytes}"
+  },
+  "localPlayerTextDubbingCounter": {
+    "message": "{chars} · {bytes}"
+  },
+  "localPlayerTextDubbingGenerate": {
+    "message": "Tekst u govor MP3"
+  },
+  "localPlayerTextDubbingGenerating": {
+    "message": "Spremanje..."
+  },
+  "localPlayerTextDubbingGenerated": {
+    "message": "Tekst u govor MP3 · {seconds}s"
+  },
+  "localPlayerTextDubbingFailed": {
+    "message": "Spremanje neuspjelo"
+  },
+  "localPlayerTextDubbingNoVoice": {
+    "message": "Za ovaj odabir nije dostupan nijedan glas."
+  },
+  "localPlayerTextDubbingEmptyText": {
+    "message": "Sadržaj podnaslova ne može biti prazan"
+  },
+  "localPlayerTextDubbingTooLong": {
+    "message": "Tekst je predugačak. Skratite ga i pokušajte ponovno."
+  },
+  "localPlayerTextDubbingDownload": {
+    "message": "Izvoz titlova MP3"
+  },
+  "localPlayerTextDubbingClear": {
+    "message": "Odustani"
+  },
+  "translationDomainGeneral": {
+    "message": "Općenito"
+  },
+  "translationDomainWeb3": {
+    "message": "Web3 i kripto"
+  },
+  "translationDomainTech": {
+    "message": "Tehnologija"
+  },
+  "translationDomainNews": {
+    "message": "Vijesti i mediji"
+  },
+  "translationDomainProgramming": {
+    "message": "Programiranje"
+  },
+  "translationDomainEducation": {
+    "message": "Obrazovanje"
+  },
+  "translationDomainFinance": {
+    "message": "Financije"
+  },
+  "translationDomainLaw": {
+    "message": "Pravo"
+  },
+  "translationDomainAuto": {
+    "message": "Automobili"
+  },
+  "translationDomainEcommerce": {
+    "message": "E-trgovina"
+  },
+  "translationDomainFashion": {
+    "message": "Moda"
+  },
+  "translationDomainFood": {
+    "message": "Hrana i kuhanje"
+  },
+  "translationDomainGardening": {
+    "message": "Vrtlarstvo"
+  },
+  "translationDomainMedical": {
+    "message": "Medicina i zdravlje"
+  },
+  "translationDomainMusic": {
+    "message": "Glazba"
+  },
+  "translationDomainPets": {
+    "message": "Kućni ljubimci"
+  },
+  "translationDomainSports": {
+    "message": "Sport"
+  },
+  "translationDomainTravel": {
+    "message": "Putovanja"
+  },
+  "translationDomainChess": {
+    "message": "Šah"
+  },
+  "translationDomainGaming": {
+    "message": "Igre"
+  },
+  "translationDomainGolf": {
+    "message": "Golf"
+  },
+  "translationDomainMovies": {
+    "message": "Filmovi i TV"
+  },
+  "translationDomainPhotography": {
+    "message": "Fotografija"
+  },
+  "translationPreferencesSectionTitle": {
+    "message": "AI prijevod"
+  },
+  "translationRulesEnabledLabel": {
+    "message": "Primijeni pojmovnik i zamjene teksta u AI prijevodu"
+  },
+  "translationRulesEnabledDescription": {
+    "message": "Kada je uključeno, AI prijevod koristi postavke u nastavku. Kada je isključeno, postojeće se postavke čuvaju."
+  },
+  "glossaryTitle": {
+    "message": "Pojmovnik"
+  },
+  "glossaryDescription": {
+    "message": "Postavite stalne prijevode izvornih pojmova (npr. Stratagem). Vaši pojmovi imaju prednost pred ugrađenim pojmovnikom."
+  },
+  "glossaryCreateButton": {
+    "message": "Dodaj osobni pojam"
+  },
+  "glossaryEditTitle": {
+    "message": "Uredi osobni pojam"
+  },
+  "glossaryEditorDescription": {
+    "message": "Samo se osobni pojmovi mogu dodavati, uređivati, uključivati ili brisati."
+  },
+  "glossaryTableTitle": {
+    "message": "Pojmovi za trenutačni jezik"
+  },
+  "glossaryCombinedEmpty": {
+    "message": "Za ovaj jezik još nema osobnih pojmova."
+  },
+  "glossarySearchEmpty": {
+    "message": "Nema podudarnih pojmova."
+  },
+  "glossarySearchPlaceholder": {
+    "message": "Pretraži izvorne pojmove"
+  },
+  "glossarySourcePlaceholder": {
+    "message": "Izvorni pojam"
+  },
+  "glossaryTargetPlaceholder": {
+    "message": "Obvezni prijevod"
+  },
+  "glossarySourceTerm": {
+    "message": "Izvorni pojam"
+  },
+  "glossaryTargetTerm": {
+    "message": "Prijevod"
+  },
+  "replacementTitle": {
+    "message": "Ispravci pogrešaka u izvornom tekstu"
+  },
+  "replacementDescription": {
+    "message": "Ispravite ponavljajuće pogreške u prepoznavanju titlova (na primjer, cloud code -> Claude Code) prije AI prijevoda."
+  },
+  "replacementCreateButton": {
+    "message": "Dodaj osobnu zamjenu"
+  },
+  "replacementEditTitle": {
+    "message": "Uredi osobnu zamjenu"
+  },
+  "replacementEditorDescription": {
+    "message": "Samo se osobne zamjene teksta primjenjuju prije AI prijevoda."
+  },
+  "replacementFindPlaceholder": {
+    "message": "Pogrešan tekst, npr. cloud code"
+  },
+  "replacementReplacePlaceholder": {
+    "message": "Zamijeni s, npr. claude code"
+  },
+  "replacementFindText": {
+    "message": "Pogrešan tekst"
+  },
+  "replacementReplaceText": {
+    "message": "Zamijeni s"
+  },
+  "replacementEmpty": {
+    "message": "Još nema pravila za ispravak."
+  },
+  "replacementSearchEmpty": {
+    "message": "Nema podudarnih zamjena."
+  },
+  "replacementSearchPlaceholder": {
+    "message": "Pretraži zamjene"
+  },
+  "translatedReplacementTitle": {
+    "message": "Zamjene u prevedenom tekstu"
+  },
+  "translatedReplacementDescription": {
+    "message": "Zamijenite riječi ili izraze u dovršenom prijevodu pomoću osobnih pravila."
+  },
+  "translatedReplacementCreateButton": {
+    "message": "Dodaj zamjenu u prijevodu"
+  },
+  "translatedReplacementLanguage": {
+    "message": "Ciljni jezik"
+  },
+  "translatedReplacementFindText": {
+    "message": "Prevedeni tekst"
+  },
+  "translatedReplacementReplaceText": {
+    "message": "Zamijeni s"
+  },
+  "translatedReplacementSearchPlaceholder": {
+    "message": "Pretraži prevedeni tekst"
+  },
+  "translatedReplacementEmpty": {
+    "message": "Još nema pravila za zamjenu u prevedenom tekstu."
+  },
+  "translatedReplacementSearchEmpty": {
+    "message": "Nema odgovarajućih zamjena u prevedenom tekstu."
+  },
+  "translatedReplacementCreateTitle": {
+    "message": "Dodaj zamjenu u prijevodu"
+  },
+  "translatedReplacementEditTitle": {
+    "message": "Uredi zamjenu u prijevodu"
+  },
+  "translatedReplacementEditorDescription": {
+    "message": "Mijenja se samo dovršeni prijevod; izvorni tekst i predmemorija prijevoda ostaju nepromijenjeni."
+  },
+  "translatedReplacementFindPlaceholder": {
+    "message": "Riječ ili izraz u prevedenom tekstu"
+  },
+  "translatedReplacementReplacePlaceholder": {
+    "message": "Riječ ili izraz koji će se prikazati umjesto toga"
+  },
+  "translatedReplacementEnabledDescription": {
+    "message": "Kada je isključeno, pravilo se čuva, ali se ne primjenjuje na prevedeni tekst."
+  },
+  "preferenceAdd": {
+    "message": "Dodaj"
+  },
+  "preferenceDomain": {
+    "message": "Područje"
+  },
+  "preferenceLanguage": {
+    "message": "Jezik"
+  },
+  "preferenceEnabled": {
+    "message": "Uključeno"
+  },
+  "preferenceActions": {
+    "message": "Radnje"
+  },
+  "preferenceSource": {
+    "message": "Izvor"
+  },
+  "preferenceSourceUser": {
+    "message": "Osobno"
+  },
+  "preferenceSourceBuiltin": {
+    "message": "Ugrađeno"
+  },
+  "preferenceStatus": {
+    "message": "Stanje"
+  },
+  "preferenceStatusEnabled": {
+    "message": "Uključeno"
+  },
+  "preferenceEdit": {
+    "message": "Uredi"
+  },
+  "preferenceDelete": {
+    "message": "Izbriši"
+  },
+  "preferenceAllDomains": {
+    "message": "Sva područja"
+  },
+  "preferenceSearch": {
+    "message": "Pretraži"
+  },
+  "preferenceClearSearch": {
+    "message": "Očisti"
+  },
+  "preferencePageLabel": {
+    "message": "Stranica {page}"
+  },
+  "preferencePreviousPage": {
+    "message": "Prethodna"
+  },
+  "preferenceNextPage": {
+    "message": "Sljedeća"
+  },
+  "builtinGlossaryDomainsTitle": {
+    "message": "Ugrađeni skupovi po područjima"
+  },
+  "builtinGlossaryDomainCount": {
+    "message": "{count} ugrađenih pojmova"
+  },
+  "builtinGlossaryEmptyHint": {
+    "message": "Za trenutačni ciljni jezik nema ugrađenog pojmovnika. I dalje možete dodavati osobne pojmove."
+  },
+  "builtinGlossaryEnabledSummary": {
+    "message": "{enabled} / {total} uključeno"
+  },
+  "builtinGlossaryManageDomains": {
+    "message": "Upravljaj područjima"
+  },
+  "builtinGlossaryManageDomainsTitle": {
+    "message": "Upravljaj ugrađenim skupovima po područjima"
+  },
+  "builtinGlossaryManageDomainsDescription": {
+    "message": "Uključite ili isključite područja ugrađenog pojmovnika za ciljni jezik."
+  },
+  "builtinGlossaryDomainSearchPlaceholder": {
+    "message": "Pretraži područja"
+  },
+  "builtinGlossaryEnableAllDomains": {
+    "message": "Uključi sve"
+  },
+  "builtinGlossaryDisableAllDomains": {
+    "message": "Isključi sve"
+  },
+  "builtinGlossaryDomainSearchEmpty": {
+    "message": "Nema podudarnih područja."
+  },
+  "builtinGlossaryDomainTotal": {
+    "message": "{count} područja"
+  },
+  "builtinGlossaryDomainDisabledStatus": {
+    "message": "Područje je isključeno"
+  },
+  "builtinGlossaryBlockedStatus": {
+    "message": "Izuzeto"
+  },
+  "builtinGlossaryReadOnlyHint": {
+    "message": "Ugrađeno pravilo"
+  },
+  "builtinTextReplacementManageDomainsTitle": {
+    "message": "Upravljanje ugrađenim područjima za ispravak izvornog teksta"
+  },
+  "builtinTextReplacementManageDomainsDescription": {
+    "message": "Omogućite ili onemogućite ugrađena područja za ispravak izvornog teksta."
+  },
+  "builtinTextReplacementDomainCount": {
+    "message": "{count} ugrađenih pravila"
+  },
+  "preferenceLoadFailed": {
+    "message": "Učitavanje nije uspjelo. Prijavite se i pokušajte ponovno."
+  },
+  "preferenceActionFailed": {
+    "message": "Radnja nije uspjela. Pokušajte ponovno poslije."
+  },
+  "pronunciationSettingsSectionTitle": {
+    "message": "Izgovor"
+  },
+  "pronunciationSettingsTitle": {
+    "message": "Postavke izgovora"
+  },
+  "pronunciationSettingsDescription": {
+    "message": "Postavite osobni izgovor za prevedeni tekst. Pravila se odnose samo na lokalnu sinkronizaciju."
+  },
+  "optionsNavPronunciationShort": {
+    "message": "Izgovor"
+  },
+  "pronunciationNewRule": {
+    "message": "Novo pravilo"
+  },
+  "pronunciationEditRule": {
+    "message": "Uredi pravilo izgovora"
+  },
+  "pronunciationTargetLanguage": {
+    "message": "Ciljni jezik"
+  },
+  "pronunciationSearchPlaceholder": {
+    "message": "Traži odgovarajući tekst"
+  },
+  "pronunciationStatus": {
+    "message": "Stanje"
+  },
+  "pronunciationMatchText": {
+    "message": "Odgovarajući tekst"
+  },
+  "pronunciationMatchPlaceholder": {
+    "message": "Na primjer: zdravo"
+  },
+  "pronunciationTargetText": {
+    "message": "Ispravljeni dio"
+  },
+  "pronunciationReading": {
+    "message": "Određeni izgovor"
+  },
+  "pronunciationLoading": {
+    "message": "Učitavanje…"
+  },
+  "pronunciationEmpty": {
+    "message": "Niti jedno osobno pravilo izgovora ne odgovara trenutnim filtrima."
+  },
+  "pronunciationEditorHint": {
+    "message": "Odaberite kontinuirani dio koji želite ispraviti, a zatim unesite njegov izgovor."
+  },
+  "pronunciationSelectTarget": {
+    "message": "Odaberite tekst za ispravak"
+  },
+  "pronunciationReselect": {
+    "message": "Odaberite ponovno"
+  },
+  "pronunciationEnterMatchFirst": {
+    "message": "Prvo unesite odgovarajući tekst"
+  },
+  "pronunciationSelectionSummary": {
+    "message": "Odabrano: {text}; pojava {occurrence}"
+  },
+  "pronunciationSelectionRestoreFailed": {
+    "message": "Spremljenu lokaciju nije moguće vratiti. Ponovno odaberite tekst prije spremanja."
+  },
+  "pronunciationSelectionInvalid": {
+    "message": "Odaberite kontinuirani tekst."
+  },
+  "pronunciationModifier": {
+    "message": "ton"
+  },
+  "pronunciationSelectModifier": {
+    "message": "Odaberite"
+  },
+  "pronunciationSaving": {
+    "message": "Spremanje..."
+  },
+  "pronunciationDeleteConfirm": {
+    "message": "Izbrisati ovo pravilo izgovora?"
+  },
+  "pronunciationOccurrence": {
+    "message": "pojava {occurrence}"
+  },
+  "pronunciationUnknownError": {
+    "message": "Radnja nije uspjela. Pokušajte ponovno kasnije."
+  },
+  "preferenceAllStatuses": {
+    "message": "Sve"
+  },
+  "preferenceCancel": {
+    "message": "Odustani"
+  },
+  "preferenceDisabled": {
+    "message": "Onesposobljeno"
+  },
+  "preferenceSave": {
+    "message": "Spremi"
+  },
+  "pronunciationFineSelection": {
+    "message": "Precizan odabir"
+  },
+  "pronunciationMergeUnits": {
+    "message": "Spajanje susjednih izgovora"
+  },
+  "pronunciationPerUnitHint": {
+    "message": "Unesite izgovor i ton za svaki dio. Po potrebi podijelite ili spojite dijelove."
+  },
+  "pronunciationPrimarySelection": {
+    "message": "Pametan odabir"
+  },
+  "pronunciationSelectionGranularity": {
+    "message": "Zrnatost odabira"
+  },
+  "pronunciationSelectionTooLong": {
+    "message": "Ispravljeni dio može sadržavati najviše 128 znakova."
+  },
+  "pronunciationSplitAt": {
+    "message": "Podijeli na"
+  },
+  "pronunciationUnitReading": {
+    "message": "Podjelni izgovor"
+  },
+  "pronunciationWholeReading": {
+    "message": "Cijeli izgovor"
+  },
+  "pronunciationWholeToneHint": {
+    "message": "Unesite potpuni intonirani izgovor. Podijelite ga da odaberete ton za svaki dio."
+  },
+  "pronunciationPinyinSyllable": {
+    "message": "Pinyin slog"
+  },
+  "pronunciationPinyinPlaceholder": {
+    "message": "Unesite Pinyin slog"
+  },
+  "pronunciationNumberedTone": {
+    "message": "Ton {tone}"
+  },
+  "pronunciationNeutralTone": {
+    "message": "Neutralni ton"
+  },
+  "googleDriveNoCaptionsTitle": {
+    "message": "Ovaj videozapis na Google disku još nema titlove"
+  },
+  "googleDriveNoCaptionsIntro": {
+    "message": "Sinkronizacija koristi ugrađene titlove Google diska (CC). Najprije uključite titlove za ovaj videozapis, a zatim se vratite:"
+  },
+  "googleDriveNoCaptionsStep1": {
+    "message": "Na Google disku desnom tipkom miša kliknite videozapis i odaberite „Informacije o datoteci” → „Upravljanje titlovima”."
+  },
+  "googleDriveNoCaptionsStep2": {
+    "message": "Ako još nema titlova: Disk automatski generira titlove za podržane jezike (uključujući engleski, turski, kineski, španjolski, japanski). Kliknite „Generiraj automatske titlove” ako se prikazuje ili prenesite datoteku s titlovima. Titlovima mogu upravljati samo vlasnik ili urednici videozapisa."
+  },
+  "googleDriveNoCaptionsStep3": {
+    "message": "Generiranje titlova traje neko vrijeme. Kad gumb CC u playeru postane aktivan, osvježite stranicu i ponovno pokrenite sinkronizaciju."
+  },
+  "subtitleAudioLanguageMismatch": {
+    "message": "Jezik titlova ne odgovara jeziku glasova. Titlovi: {subtitle}. Glasovi: {voice}. Glas može čitati samo tekst na svom jeziku, pa generiranje može ne uspjeti ili zvučati pogrešno. Najprije prevedite titlove ili promijenite ciljni jezik tako da odgovara titlovima. Ipak generirati?"
+  },
+  "subtitleAudioNav": {
+    "message": "Dabing titlova"
+  },
+  "subtitleAudioAiSubtitleBadge": {
+    "message": "AI titlovi"
+  },
+  "subtitleAudioUserSubtitleBadge": {
+    "message": "Uređeni titlovi"
+  },
+  "subtitleAudioBack": {
+    "message": "Dabing videa"
+  },
+  "subtitleAudioProjectSubtitle": {
+    "message": "Titlovi: {name} · redaka: {count}"
+  },
+  "subtitleAudioReplaceSubtitles": {
+    "message": "Zamijeni titlove"
+  },
+  "subtitleAudioExportVideoOption": {
+    "message": "Video s dabingom"
+  },
+  "subtitleAudioExportVideoHint": {
+    "message": "Slika se usporava ondje gdje rečenici treba više vremena, pa video može ispasti malo duži."
+  },
+  "subtitleAudioExportMp3Option": {
+    "message": "MP3 s dabingom"
+  },
+  "subtitleAudioExportMp3Hint": {
+    "message": "Jednako je dug kao izvorni video; vratite ga preko videa ili ga prenesite kao audiozapis na drugom jeziku."
+  },
+  "subtitleAudioDownloadSrt": {
+    "message": "Preuzmi SRT"
+  },
+  "subtitleAudioEditAndExport": {
+    "message": "Uredi i izvezi"
+  },
+  "subtitleAudioEditNeedsSubtitle": {
+    "message": "Ovaj video još nema titlova. Povežite datoteku titlova ili jednom kliknite „Pokrenite glasovnu sinkronizaciju“ kako bi AI izradio titlove."
+  },
+  "subtitleAudioTitle": {
+    "message": "Neka svaka rečenica dobije svoj glas"
+  },
+  "subtitleAudioSubtitle": {
+    "message": "Uvezite SRT datoteku i dobit ćete MP3 s dabingom usklađen s vremenom titlova. Za video s dabingom odaberite video na stranici „Dabing videa“ i kliknite „Uredi i izvezi“."
+  },
+  "subtitleAudioImportStep": {
+    "message": "Uvoz titlova"
+  },
+  "subtitleAudioVoicesStep": {
+    "message": "Odabir glasova"
+  },
+  "subtitleAudioExportStep": {
+    "message": "Izvoz"
+  },
+  "subtitleAudioSubtitles": {
+    "message": "Titlovi"
+  },
+  "subtitleAudioCueList": {
+    "message": "Rečenice i glasovi"
+  },
+  "subtitleAudioSettings": {
+    "message": "Postavke glasa"
+  },
+  "subtitleAudioImport": {
+    "message": "Odaberi SRT datoteku"
+  },
+  "subtitleAudioReplace": {
+    "message": "Zamijeni"
+  },
+  "subtitleAudioRemove": {
+    "message": "Ukloni"
+  },
+  "subtitleAudioDrop": {
+    "message": "Ispustite SRT datoteku ovdje"
+  },
+  "subtitleAudioDropNote": {
+    "message": "UTF-8 · do 2 MiB, 5.000 redaka, 3 sata"
+  },
+  "subtitleAudioEmpty": {
+    "message": "Ovdje će se prikazati vaši titlovi. Dodijelite glas svakom retku ili ga primijenite na odabrane retke."
+  },
+  "subtitleAudioLines": {
+    "message": "Retci"
+  },
+  "subtitleAudioDuration": {
+    "message": "Trajanje titlova"
+  },
+  "subtitleAudioCharacters": {
+    "message": "Znakovi"
+  },
+  "subtitleAudioSearch": {
+    "message": "Pretraži tekst titlova"
+  },
+  "subtitleAudioSelectPage": {
+    "message": "Odaberi ovu stranicu"
+  },
+  "subtitleAudioSelectAll": {
+    "message": "Odaberi sve rezultate"
+  },
+  "subtitleAudioSelected": {
+    "message": "Odabrano: {count}"
+  },
+  "subtitleAudioApply": {
+    "message": "Primijeni glas"
+  },
+  "subtitleAudioChooseVoice": {
+    "message": "Odaberite glas"
+  },
+  "subtitleAudioText": {
+    "message": "Tekst titla"
+  },
+  "subtitleAudioTime": {
+    "message": "Vrijeme"
+  },
+  "subtitleAudioVoice": {
+    "message": "Glas"
+  },
+  "subtitleAudioFemale": {
+    "message": "Ženski"
+  },
+  "subtitleAudioMale": {
+    "message": "Muški"
+  },
+  "subtitleAudioPage": {
+    "message": "Stranica {page} od {total}"
+  },
+  "subtitleAudioPrevious": {
+    "message": "Prethodna"
+  },
+  "subtitleAudioNext": {
+    "message": "Sljedeća"
+  },
+  "subtitleAudioPreview": {
+    "message": "Preslušaj redak {index}"
+  },
+  "subtitleAudioStopPreview": {
+    "message": "Zaustavi preslušavanje"
+  },
+  "subtitleAudioLanguage": {
+    "message": "Ciljni jezik"
+  },
+  "subtitleAudioVoiceType": {
+    "message": "Tip glasa"
+  },
+  "subtitleAudioFree": {
+    "message": "Besplatni"
+  },
+  "subtitleAudioVideoSync": {
+    "message": "Pregled prati izvezeni zvučni zapis. Izvorni zvuk videa je utišan."
+  },
+  "subtitleAudioTimelineTitle": {
+    "message": "Zvučni zapis"
+  },
+  "subtitleAudioLayoutOnly": {
+    "message": "Položaj titlova · valni oblik dostupan je nakon izvoza"
+  },
+  "subtitleAudioRealWave": {
+    "message": "Valni oblik izvezenog zvuka · kliknite ili povucite klizač za premotavanje"
+  },
+  "subtitleAudioTracks": {
+    "message": "Glasova: {count} → jedan MP3"
+  },
+  "subtitleAudioTracksVideo": {
+    "message": "Glasova: {count} → video s dabingom"
+  },
+  "subtitleAudioSeek": {
+    "message": "Premotaj izvezeni sadržaj"
+  },
+  "subtitleAudioNoTimeline": {
+    "message": "Uvezite titlove da biste vidjeli njihov vremenski raspored."
+  },
+  "subtitleAudioGenerate": {
+    "message": "Generiraj MP3"
+  },
+  "subtitleAudioGenerateVideo": {
+    "message": "Generiraj video s dabingom"
+  },
+  "subtitleAudioRegenerate": {
+    "message": "Generiraj ponovno"
+  },
+  "subtitleAudioRegenerateVideo": {
+    "message": "Ponovno generiraj video"
+  },
+  "subtitleAudioRetry": {
+    "message": "Ponovi neuspjelo generiranje"
+  },
+  "subtitleAudioCancel": {
+    "message": "Odustani"
+  },
+  "subtitleAudioCancelling": {
+    "message": "Otkazivanje…"
+  },
+  "subtitleAudioDownload": {
+    "message": "Preuzmi MP3"
+  },
+  "subtitleAudioDownloadVideo": {
+    "message": "Preuzmi video s dabingom"
+  },
+  "subtitleAudioWorking": {
+    "message": "Generiranje govora"
+  },
+  "subtitleAudioEncoding": {
+    "message": "Izrada zvučnog zapisa"
+  },
+  "subtitleAudioFinalizing": {
+    "message": "Dovršavanje MP3-a"
+  },
+  "subtitleAudioMuxing": {
+    "message": "Postavljanje dabinga na video"
+  },
+  "subtitleAudioFinished": {
+    "message": "Vaš MP3 je spreman"
+  },
+  "subtitleAudioFinishedVideo": {
+    "message": "Vaš video s dabingom je spreman"
+  },
+  "subtitleAudioCancelled": {
+    "message": "Generiranje je otkazano. Dovršeni govorni isječci spremljeni su za ponovni pokušaj."
+  },
+  "subtitleAudioProgressNote": {
+    "message": "Ne zatvarajte ovu stranicu. Možete otkazati i kasnije nastaviti uz spremljene isječke."
+  },
+  "subtitleAudioMissing": {
+    "message": "Redaka bez glasa: {count}. Odaberite glas za svaki redak ili upotrijebite „Primijeni glas“."
+  },
+  "subtitleAudioEmptyText": {
+    "message": "Redaka bez teksta: {count}. Dodajte tekst prije generiranja."
+  },
+  "subtitleAudioCacheNote": {
+    "message": "Govor generira odabrana usluga. Titlovi i generirani isječci spremaju se na ovom uređaju; zvuk i video sastavljaju se lokalno."
+  },
+  "subtitleAudioRestored": {
+    "message": "Nacrt je vraćen."
+  },
+  "subtitleAudioSaveError": {
+    "message": "Nacrt nije moguće spremiti. Ne zatvarajte ovu stranicu kako biste zadržali izmjene."
+  },
+  "subtitleAudioFailed": {
+    "message": "Dovršavanje nije uspjelo. Dovršeni govorni isječci su sačuvani; pokušajte ponovno za nastavak."
+  },
+  "subtitleAudioDetails": {
+    "message": "Detalji"
+  },
+  "subtitleAudioBadFile": {
+    "message": "Odaberite .srt datoteku u UTF-8 kodiranju (do 2 MiB)."
+  },
+  "subtitleAudioEncodingError": {
+    "message": "Ova datoteka nije valjani UTF-8. Spremite je kao UTF-8 i ponovno je uvezite."
+  },
+  "subtitleAudioImportFailed": {
+    "message": "Datoteku titlova nije moguće pročitati. Provjerite SRT vremenske oznake i tekst."
+  },
+  "subtitleAudioInvalidVideo": {
+    "message": "Ovaj video nema čitljiv slikovni zapis ili mu trajanje nije dostupno."
+  },
+  "subtitleAudioVideoLimitError": {
+    "message": "Ovaj video traje dulje od 3 sata pa se video s dabingom ne može izvesti. Odaberite kraću datoteku."
+  },
+  "subtitleAudioVideoStorageError": {
+    "message": "Na ovom računalu nema dovoljno slobodnog prostora za ovaj video: potrebno je oko {needed} GB, a pregledniku je dostupno {available} GB. Oslobodite prostor na disku i pokušajte ponovno ili odaberite manji video."
+  },
+  "subtitleAudioVideoCodecError": {
+    "message": "Ovaj uređaj ne može kopirati taj video kodek (npr. HEVC). Izvoz je prekinut kako se ne bi stvorila oštećena datoteka. Pokušajte s H.264 MP4 datotekom."
+  },
+  "subtitleAudioVideoAacUnsupported": {
+    "message": "Ovaj preglednik ne može kodirati AAC zvuk pa se sinkronizirani videozapis ne može izvesti. Izvoz sinkroniziranog MP3-a i dalje radi."
+  },
+  "subtitleAudioVideoCopyUnsupported": {
+    "message": "Kodek ovog videozapisa ne može se izvesti kao sinkronizirani MP4. Izvoz sinkroniziranog MP3-a i dalje radi; za video upotrijebite H.264 MP4."
+  },
+  "subtitleAudioPreviewFailed": {
+    "message": "Ovaj redak nije moguće preslušati. Provjerite odabrani glas i internetsku vezu."
+  },
+  "subtitleAudioPlayBlocked": {
+    "message": "Zvuk je spreman. Pritisnite gumb za reprodukciju u audioreproduktoru."
+  },
+  "subtitleAudioGeneralError": {
+    "message": "Radnju nije moguće dovršiti. Provjerite internetsku vezu i pokušajte ponovno."
+  },
+  "subtitleAudioLimitError": {
+    "message": "Ovaj projekt premašuje podržana ograničenja. Dopušteno je najviše 5.000 redaka / 3 sata, a svaki govorni isječak mora biti kraći od 60 sekundi."
+  },
+  "subtitleAudioStorageError": {
+    "message": "Nema dovoljno lokalnog prostora za ovaj izvoz. Oslobodite prostor i pokušajte ponovno."
+  },
+  "subtitleAudioAccountError": {
+    "message": "Za generiranje govora potrebni su valjan račun i dostupna kvota. Provjerite račun i pokušajte ponovno."
+  },
+  "subtitleAudioPaused": {
+    "message": "Na čekanju"
+  },
+  "subtitleAudioGeneratingCue": {
+    "message": "Generira se"
+  },
+  "subtitleAudioReadyCue": {
+    "message": "Spremno"
+  },
+  "subtitleAudioErrorCue": {
+    "message": "Neuspjelo"
+  },
+  "subtitleAudioVoiceReset": {
+    "message": "Neki glasovi nisu dostupni uz ove postavke. Odaberite glasove za istaknute retke."
+  },
+  "subtitleAudioConfirmReplace": {
+    "message": "Zamijeniti trenutačni nacrt titlova?"
+  },
+  "subtitleAudioClearDraft": {
+    "message": "Ukloniti sve titlove iz ovog nacrta?"
+  },
+  "subtitleAudioOutputChanged": {
+    "message": "Postavke su promijenjene. Generirajte ponovno kako biste ažurirali datoteku za preuzimanje."
+  },
+  "subtitleAudioBrowserError": {
+    "message": "Ovaj preglednik ne može pokrenuti obradu zvuka. Pokušajte s ažuriranim preglednikom za računalo."
+  },
+  "subtitleAudioOtherTabBusy": {
+    "message": "Druga kartica upravo generira ili preslušava zvuk titlova. Pričekajte da se taj zadatak završi ili zatvorite tu karticu pa pokušajte ponovno."
+  },
+  "uploadVideoLanguageLabel": {
+    "message": "Jezik videozapisa (odabir poboljšava točnost prepoznavanja)"
+  },
+  "uploadVideoLanguageAuto": {
+    "message": "Automatsko prepoznavanje"
+  },
+  "subtitleAudioPreparing": {
+    "message": "Dijeljenje na rečenice i prevođenje"
+  },
+  "subtitleAudioPrepareFailed": {
+    "message": "Titlove nije bilo moguće podijeliti ni prevesti. Pokušajte ponovno kasnije."
+  },
+  "subtitleAudioSourceLanguage": {
+    "message": "Jezik titlova"
+  },
+  "subtitleAudioSourceLanguageUnknown": {
+    "message": "Jezik ovih titlova nije bilo moguće prepoznati. Odaberite jezik na kojem su napisani pa ponovno generirajte."
+  },
+  "subtitleAudioPreparedNote": {
+    "message": "Podijeljeno na rečenice i prevedeno na {language} kao kod mrežne sinkronizacije. Prijevode možete urediti ispod."
+  },
+  "subtitleAudioRestoreSource": {
+    "message": "Vrati izvornik"
+  },
+  "subtitleAudioRestoreSourceConfirm": {
+    "message": "Vraćanjem izvornika gube se izmjene prijevoda; pri sljedećem izvozu tekst će se ponovno podijeliti i prevesti. Nastaviti?"
+  },
+  "subtitleAudioLanguageChangedRetranslate": {
+    "message": "Jezik sinkronizacije je promijenjen pa popis ponovno prikazuje izvorni tekst. Pri izvozu će se ponovno podijeliti i prevesti."
+  },
+  "subtitleAudioCueTooLong": {
+    "message": "Redak {index} je predug. Podijelite ga na kraće retke i pokušajte ponovno."
+  },
+  "subtitleAudioBackgroundOption": {
+    "message": "Umiješaj pozadinski zvuk"
+  },
+  "subtitleAudioBackgroundHint": {
+    "message": "Pozadinski zvuk ovog videozapisa (bez glasova) odvojen je pri prijenosu za prepoznavanje. Svira ispod sinkronizacije, kao kod mrežne sinkronizacije."
+  },
+  "subtitleAudioDownloadingBackground": {
+    "message": "Preuzimanje pozadinskog zvuka"
+  },
+  "subtitleAudioBackgroundFailed": {
+    "message": "Pozadinski zvuk nije moguće preuzeti. Pokušajte kasnije ili isključite „Umiješaj pozadinski zvuk” i ponovno izvezite."
+  },
+  "subtitleAudioPreparedSameLanguageNote": {
+    "message": "Titlovi su već na jeziku sinkronizacije pa su prema postavci „ne prevodi isti jezik” samo podijeljeni na rečenice."
+  },
+  "dubbingToggleOn": {
+    "message": "Uključi sinkronizaciju"
+  },
+  "dubbingToggleOff": {
+    "message": "Isključi sinkronizaciju"
+  },
+  "dubbingTogglePreparing": {
+    "message": "Priprema sinkronizacije, pričekajte…"
+  },
+  "dubbingSwitchedOffNotice": {
+    "message": "Sinkronizacija isključena, vraćen izvorni zvuk"
+  },
+  "dubbingSwitchedOnNotice": {
+    "message": "Sinkronizacija uključena"
+  },
+  "toggleDubbingCommand": {
+    "message": "Uključi / isključi sinkronizaciju"
+  },
+  "spotifyPublicAudioShowNotFound": {
+    "message": "Zvuk je šifriran, a ova emisija nema javni podcast feed (možda je ekskluziva Spotifyja)."
+  },
+  "spotifyPublicAudioEpisodeNotMatched": {
+    "message": "Zvuk je šifriran, a u javnom podcast feedu emisije nije pronađena odgovarajuća epizoda."
+  },
+  "spotifyPublicAudioLookupFailed": {
+    "message": "Nije moguće dohvatiti javni zvuk ove epizode. Pokušajte ponovno kasnije."
+  }
+}

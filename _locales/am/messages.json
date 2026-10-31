@@ -1,0 +1,2315 @@
+{
+  "name": {
+    "message": "YouTube Dubbing – ትርጉም እና ድምጽ"
+  },
+  "description": {
+    "message": "በአንድ ጠቅታ የቪድዮ ትርጉም እና ድምጽ - የውጭ ቋንቋዎችን ወዲያውኑ ይረዱ፣ ዓለም አቀፍ ዕውቀትን ያግኙ"
+  },
+  "metadataNotFound": {
+    "message": "የቪድዮ መረጃ አልተገኘም፣ እባክዎ ያድሱ እና እንደገና ይሞክሩ"
+  },
+  "dubbingMediaNotFoundTitle": {
+    "message": "ለድምጽ ቅጂ የሚጠቅም ቪዲዮ አልተገኘም"
+  },
+  "dubbingMediaNotFoundText": {
+    "message": "በዚህ ገጽ ላይ በአሁኑ ጊዜ የሚጠቅም ቪዲዮ ወይም ድምጽ የለም። ቪዲዮው እስኪጫን ይጠብቁና እንደገና ይሞክሩ፣ ወይም ገጹን ያድሱ።"
+  },
+  "noSubtitlesFound": {
+    "message": "ይህ ቪድዮ ምንም ንዑስ ርዕሶች የሉትም እና ትርጉም እና ድምጽን አይደግፍም"
+  },
+  "liveVideoNotSupported": {
+    "message": "የቀጥታ ቪድዮዎች በአሁኑ ጊዜ ለድምጽ አይደገፉም"
+  },
+  "universalDubbingNotSupported": {
+    "message": "ሁሉንም አቀፍ ድምጽ በዚህ ቪድዮ ላይ በአሁኑ ስሪት አይደገፍም። ድጋፍ ለሚቀጥለው ስሪት ታቅዶ ነው። ለዝርዝሮች እባክዎ የደንበኞች አገልግሎትን ያነጋግሩ።"
+  },
+  "postLoginTranslationSettings": {
+    "message": "መግባት ተሳክቷል። የትርጉም ቋንቋ እና የድምጽ ዝርዝርን ለመምረጥ የሰርጭት መስኮቱን አዶ ጠቅ ያድርጉ።"
+  },
+  "noSubtitlesWaitOptimization": {
+    "message": "ምንም ንዑስ ርዕሶች አይገኙም። እባክዎ ሰርጭቱ ለዚህ ቪድዮ ንዑስ ርዕሶችን እስከሚለይ ድረስ ይጠብቁ። መለያው ሲጠናቀቅ በተመዘገበው የኢሜል አድራሻዎ የኢሜል ማሳወቂያ ይደርስዎታል።"
+  },
+  "privateVideoNoSubtitles": {
+    "message": "ይህ ቪድዮ ምንም ንዑስ ርዕሶች የሉትም እና የግል ቪድዮ ነው። ሰርጭቱ ለዚህ ቪድዮ ንዑስ ርዕሶችን በጀርባ ላይ ማለያየት አይችልም። እባክዎ ቪድዮውን ወደ ሕዝብ እንዲታይ ያድርጉት፣ ወይም ንዑስ ርዕሶችን በእጅ ጨምረው እንደገና ይሞክሩ።"
+  },
+  "trialMemberDurationLimit": {
+    "message": "ይህ ቪድዮ ምንም ንዑስ ርዕሶች የሉትም። እንደ ሙከራ አባል፣ ከ15 ደቂቃ በታች ያሉ ቪድዮዎች ብቻ በአሁኑ ጊዜ ለንዑስ ርዕስ መለያ ይደገፋሉ። ፕሪሚየም አባላት ከ3 ሰዓት በታች ቪድዮዎችን ይደግፋሉ።"
+  },
+  "premiumMemberDurationLimit": {
+    "message": "ይህ ቪድዮ ምንም ንዑስ ርዕሶች የሉትም እና የቪድዮው ጊዜ ከ3 ሰዓት በላይ ነው፣ ትርጉም እና ድምጽ አይደገፉም። እባክዎ አጭር ቪድዮ ወይም ንዑስ ርዕሶች ያለው ቪድዮ ይምረጡ።"
+  },
+  "freeUserNoSubtitles": {
+    "message": "ይህ ቪድዮ አብሮ የተሰራ ንዑስ ርዕሶች የሉትም። እባክዎ ለንዑስ ርዕስ መለያ የሰርጭት አባልነት ይመዝገቡ እና የትርጉም እና ድምጽ ባህሪያትን ይደሰቱ።"
+  },
+  "freeUserDailyLimit": {
+    "message": "ነጻ ተጠቃሚዎች በቀን እስከ 5 ቪድዮዎች ድረስ በሰርጭቱ በኩል ማየት ይችላሉ። ያልተገደበ የመመልከት ጥቅሞችን ለመክፈት ወደ አባልነት ያሻሽሉ።"
+  },
+  "upgradeEntryUpgradeButton": {
+    "message": "አሻሽል"
+  },
+  "upgradeEntryLaterButton": {
+    "message": "ምናልባት በኋላ"
+  },
+  "aiSubtitlesRecognitionInBackground": {
+    "message": "AI ንዑስ ርዕሶች ገና አይገኙም። ሰርጭቱ በበስተጀርባ መለየት ጀምሯል። የመጀመሪያውን የተደመጠ ዓረፍተ ነገር ከሰማችሁ በኋላ ገጹን መዝጋት እና የኢሜል ማሳወቂያውን መጠበቅ ይችላሉ፤ ዝግጁ ሲሆን የድምጽ አዝራሩ አረንጓዴ ይሆናል እና የትርጉም ጥራት የተሻለ ይሆናል።"
+  },
+  "upgradeMembershipForBackgroundRecognition": {
+    "message": "ወደ አባልነት ያሻሽሉ እና ሰርጭቱ በበስተጀርባ AI ንዑስ ርዕሶችን ይለያል። የኢሜል ማሳወቂያውን ከደረሰዎ በኋላ ለማየት ይመለሱ፤ ድምጹ አዝራሩ አረንጓዴ ይሆናል እና ትርጉሞቹ የበለጠ ትክክለኛ ይሆናሉ።"
+  },
+  "memberFreeVoiceAzureSuggestion": {
+    "message": "አሁን በነፃ የድምፅ አይነት እየደበቡ ነው። Azure ድምፆች ይበልጥ ተፈጥሯዊ ይሰማሉ፤ አባላት አሁን Azureን ያለገደብ እና ያለተጨማሪ ክሬዲት መሙላት መጠቀም ይችላሉ።"
+  },
+  "memberAiSubtitlePlatformPrioritySuggestion": {
+    "message": "አሁን የተጠቀሙት በተሰኪው የጀርባ AI የታወቁ ንዑስ ጽሑፎች ናቸው። ትርጉሙ ትክክል ካልመሰለዎት፣ በመሰረታዊ ቅንብሮች ውስጥ የንዑስ ጽሑፍ ቅድሚያን ወደ የመድረክ ንዑስ ጽሑፎች ይቀይሩ።"
+  },
+  "openBasicSettingsLink": {
+    "message": "መሰረታዊ ቅንብሮችን ክፈት"
+  },
+  "doNotShowAgainLink": {
+    "message": "እንደገና አታሳይ"
+  },
+  "loginAndUsePlugin": {
+    "message": "እባክዎ መጀመሪያ ለመግባት የሰርጭት አዶውን ጠቅ ያድርጉ፣ ከዚያም ሰርጭቱን ለድምጽ ማጫወት ይጠቀሙ።"
+  },
+  "voiceSettingsMismatch": {
+    "message": "የድምፅ አይነት እና የድምፅ ቅንብሮች አይስማሙም። እባክዎን ወደ ቅንብሮች ገጽ በመሄድ የድምፅ ቅንብሮቹን እንደገና ይምረጡ እና ያስቀምጡ።"
+  },
+  "contentMenusTitle": {
+    "message": "የድምጽ ማጫወትን ጀምር"
+  },
+  "videoDetectedDomainTooltip": {
+    "message": "የአሁኑ ቪዲዮ የተለየው ዘርፍ: {domain}"
+  },
+  "dropboxClickCcToTranscribe": {
+    "message": "ይህ ቪድዮ ገና አልተገለበጠም። እባክዎ ንዑስ ርዕሶቹን ለመገልበጥ በDropbox ቪድዮ ግርጌ ያለውን CC አዝራር ጠቅ ያድርጉ። ገለባው ሲጠናቀቅ፣ ለመተርጎም እና ለመድገም የሰርጭቱን የድምጽ አዝራር ጠቅ ያድርጉ።"
+  },
+  "iosInterceptorConflictTitle": {
+    "message": "የቅጥያ ግጭት ተገኝቷል"
+  },
+  "iosInterceptorConflictMessage": {
+    "message": "ሌላ የአሳሽ ቅጥያ የንዑስ ርዕስ ጥያቄ መጥለፍን እየከለከለ ነው። የሚጋጩ ቅጥያዎችን ያሰናክሉ፣ ገጹን ያድሱ፣ ከዚያም እንደገና ይሞክሩ።"
+  },
+  "login": {
+    "message": "ግባ"
+  },
+  "logout": {
+    "message": "ውጣ"
+  },
+  "subscribe": {
+    "message": "አባል ይሁኑ"
+  },
+  "save_settings": {
+    "message": "ቅንብሮችን አስቀምጥ"
+  },
+  "saving": {
+    "message": "በማስቀመጥ ላይ..."
+  },
+  "saveSuccessTitle": {
+    "message": "በተሳካ ሁኔታ ተቀምጧል"
+  },
+  "saveSuccessText": {
+    "message": "ቅንብሮች በተሳካ ሁኔታ ተቀምጠዋል"
+  },
+  "saveFailedTitle": {
+    "message": "ማስቀመጥ አልተሳካም"
+  },
+  "saveFailedText": {
+    "message": "ቅንብሮችን ማስቀመጥ አልተሳካም፣ እባክዎ እንደገና ይሞክሩ"
+  },
+  "confirmButton": {
+    "message": "ቀጥል እና አስቀምጥ"
+  },
+  "cancelButton": {
+    "message": "ሰርዝ"
+  },
+  "back": {
+    "message": "ተመለስ"
+  },
+  "backToSettings": {
+    "message": "ወደ ቅንብሮች ተመለስ"
+  },
+  "backToVideoLibrary": {
+    "message": "ወደ ቪዲዮ ቤተ-መጻሕፍት ተመለስ"
+  },
+  "source_languages": {
+    "message": "ምንጭ ቋንቋ:"
+  },
+  "target_languages": {
+    "message": "ዒላማ ቋንቋ:"
+  },
+  "selectSourceLanguage": {
+    "message": "ምንጭ ቋንቋ ይምረጡ"
+  },
+  "selectTargetLanguage": {
+    "message": "ዒላማ ቋንቋ ይምረጡ"
+  },
+  "searchSourceLanguage": {
+    "message": "ምንጭ ቋንቋ ይፈልጉ..."
+  },
+  "searchTargetLanguage": {
+    "message": "ዒላማ ቋንቋ ይፈልጉ..."
+  },
+  "loading": {
+    "message": "በመጫን ላይ"
+  },
+  "sex": {
+    "message": "ፆታ:"
+  },
+  "voices": {
+    "message": "ድምጽ:"
+  },
+  "voicesType": {
+    "message": "የድምጽ ዓይነት:"
+  },
+  "man": {
+    "message": "ወንድ"
+  },
+  "woman": {
+    "message": "ሴት"
+  },
+  "free": {
+    "message": "ነጻ"
+  },
+  "memberFree": {
+    "message": "ለአባላት ነፃ"
+  },
+  "memberFreeRequireMembership": {
+    "message": "ይህ የድምጽ ዓይነት ለአባላት ብቻ ነው። ለመጠቀም አባልነት ይግዙ።"
+  },
+  "azureRequireMembership": {
+    "message": "Azure TTS ለአባላት ብቻ ነው። ከፍተኛ ጥራት ያለው የ Azure ድምጽ ለመጠቀም አባልነት ይግዙ።"
+  },
+  "originalAudio": {
+    "message": "ኦሪጂናል ድምፅ"
+  },
+  "translatedAudio": {
+    "message": "ትርጉም ድምፅ"
+  },
+  "backgroundAudio": {
+    "message": "የበስተጀርባ"
+  },
+  "textToSpeech": {
+    "message": "ጽሑፍ ወደ ንግግር:"
+  },
+  "textToSpeechToggle": {
+    "message": "ተንሳፋፊ ኳስ"
+  },
+  "showSubtitle": {
+    "message": "ንዑስ ርዕሶች:"
+  },
+  "subtitleSize": {
+    "message": "መጠን"
+  },
+  "subtitles": {
+    "message": "ንዑስ ርዕሶች"
+  },
+  "toggleSubtitles": {
+    "message": "ንዑስ ርዕሶችን ቀያይር"
+  },
+  "subtitleDisplayMode": {
+    "message": "የንዑስ ርዕስ ማሳያ ሁነታ"
+  },
+  "subtitleModeTranslated": {
+    "message": "ትርጉም ብቻ"
+  },
+  "subtitleModeBilingual": {
+    "message": "ሁለት ቋንቋ"
+  },
+  "subtitleModeOff": {
+    "message": "ንዑስ ርዕሶችን አጥፋ"
+  },
+  "translateService": {
+    "message": "ትርጉም:"
+  },
+  "translationEngine": {
+    "message": "የትርጉም ሞተር"
+  },
+  "translationService": {
+    "message": "የትርጉም አገልግሎት"
+  },
+  "translationServiceTitle": {
+    "message": "የትርጉም አገልግሎት"
+  },
+  "advancedSettings": {
+    "message": "የላቀ ቅንብሮች"
+  },
+  "pauseVideo": {
+    "message": "ቪድዮን ለአፍታ አቁም"
+  },
+  "iosOpenOriginVolume": {
+    "message": "ዋናውን ድምጽ አብራ"
+  },
+  "voicesAndSubtitles": {
+    "message": "ድምጽ እና ንዑስ ርዕሶች"
+  },
+  "voicesAndSubtitlesTitle": {
+    "message": "ድምጽ እና ንዑስ ርዕሶች"
+  },
+  "speakerList": {
+    "message": "የተናጋሪዎች ዝርዝር"
+  },
+  "speakersTitle": {
+    "message": "ተናጋሪዎች"
+  },
+  "deleteSpeaker": {
+    "message": "ሰርዝ"
+  },
+  "editSpeaker": {
+    "message": "አርትዕ"
+  },
+  "speakerName": {
+    "message": "የተናጋሪው ስም"
+  },
+  "enterSpeakerName": {
+    "message": "የተናጋሪውን ስም ያስገቡ"
+  },
+  "enterVoice": {
+    "message": "የድምጽ ስም ያስገቡ"
+  },
+  "voice": {
+    "message": "ድምጽ"
+  },
+  "gender": {
+    "message": "ፆታ"
+  },
+  "male": {
+    "message": "ወንድ"
+  },
+  "female": {
+    "message": "ሴት"
+  },
+  "edit": {
+    "message": "አርትዕ"
+  },
+  "delete": {
+    "message": "ሰርዝ"
+  },
+  "save": {
+    "message": "አስቀምጥ"
+  },
+  "cancel": {
+    "message": "ሰርዝ"
+  },
+  "confirmDeleteSpeaker": {
+    "message": "ይህን ተናጋሪ መሰረዝ እርግጠኛ ነዎት?"
+  },
+  "noSpeakers": {
+    "message": "ምንም ተናጋሪዎች የሉም"
+  },
+  "memberUser": {
+    "message": "PRO"
+  },
+  "accountBalance": {
+    "message": "የመለያ ቀሪ ብር:"
+  },
+  "userAccountAriaLabel": {
+    "message": "የተጠቃሚ መለያ"
+  },
+  "membershipExpires": {
+    "message": "እስከ"
+  },
+  "shortcutSettings": {
+    "message": "ፈጣን ቁልፎች"
+  },
+  "subscriptionRecharge": {
+    "message": "አባልነት እና ሙላ"
+  },
+  "membershipIcon": {
+    "message": "የአባልነት አዶ"
+  },
+  "browserShortcutSettingsTip": {
+    "message": "እባክዎ በአሳሽ ቅጥያ ቅንብሮች ውስጥ አቋራጮችን ያዋቅሩ"
+  },
+  "safariShortcutSettingsTip": {
+    "message": "እባክዎ በSafari > ምርጫዎች > ቅጥያዎች ውስጥ አቋራጮችን ያዘጋጁ"
+  },
+  "edgeShortcutSettingsTip": {
+    "message": "የEdge ቅጥያ አቋራጭ ቅንብሮች ገጽ በመክፈት ላይ"
+  },
+  "firefoxShortcutSettingsTip": {
+    "message": "የFirefox አድኖች ገጽ በመክፈት ላይ፣ እባክዎ በቅጥያዎች እና ጭብጦች ውስጥ አቋራጮችን ያዘጋጁ"
+  },
+  "dubbingSettings": {
+    "message": "የድምጽ ቅንብሮች"
+  },
+  "debugInfo": {
+    "message": "የማረም መረጃ"
+  },
+  "sourceLanguage": {
+    "message": "ምንጭ ቋንቋ"
+  },
+  "targetLanguage": {
+    "message": "ዒላማ ቋንቋ"
+  },
+  "vipRequiredTitle": {
+    "message": "አባልነት ያስፈልጋል"
+  },
+  "vipRequiredText": {
+    "message": "ይህን ባህሪ ለመጠቀም አባል መሆን ያስፈልግዎታል"
+  },
+  "vipAndBalanceRequiredTitle": {
+    "message": "አባልነት እና ቀሪ ሒሳብ ያስፈልጋል"
+  },
+  "vipAndBalanceRequiredText": {
+    "message": "ይህን ባህሪ ለመጠቀም አባል መሆን እና በቂ ቀሪ ሒሳብ ሊኖርዎት ይገባል"
+  },
+  "balanceRequiredTitle": {
+    "message": "ቀሪ ሒሳብ ያስፈልጋል"
+  },
+  "balanceRequiredText": {
+    "message": "የእርስዎ የሂሳብ ቀሪ ሒሳብ በቂ አይደለም። እባክዎ ይህን ባህሪ ለመጠቀም ይሙሉ"
+  },
+  "lowBalanceTitle": {
+    "message": "ዝቅተኛ ቀሪ ሒሳብ ማስጠንቀቂያ"
+  },
+  "lowBalanceText": {
+    "message": "የእርስዎ የሂሳብ ቀሪ ሒሳብ ከ$1 በታች ነው። አገልግሎቱ ያለመቋረጥ ለማረጋገጥ በቅርቡ መሙላት እንመክራለን"
+  },
+  "insufficientBalance": {
+    "message": "በበቂ ያልሆነ ቀሪ ሒሳብ ምክንያት፣ አገልግሎቱ ወደ Google Translate ወርዷል። AI ትርጉምን ለመጠቀም፣ እባክዎ የእርስዎን ክሬዲት ይሙሉ።"
+  },
+  "insufficientBalanceAlertMsg": {
+    "message": "ቀሪ ሒሳብዎ በቂ አይደለም። እባክዎ AI ትርጉምን እና Azure TTS ከመጠቀምዎ በፊት ቀሪ ሒሳብዎን ይሙሉ። መሙላት ካልፈለጉ፣ ወደ Google Translate እና ነጻ የድምጽ ዓይነቶች መለወጥ ይችላሉ።"
+  },
+  "balanceRunningLow": {
+    "message": "ቀሪ ሒሳብዎ ማለቁ ላይ ነው። መጥፎ የመመልከት ተሞክሮ ለማስወገድ፣ ቀደም ብሎ መሙላት ይመከራል።"
+  },
+  "membershipRequired": {
+    "message": "እባክዎ OpenAI ትርጉምን ከመጠቀምዎ በፊት ወደ አባልነት ያሻሽሉ።"
+  },
+  "membershipRequiredForAI": {
+    "message": "እባክዎ AI ትርጉምን ከመጠቀምዎ በፊት አባልነትዎን ይሙሉ። መሙላት ካልፈለጉ፣ Google Translate መምረጥም ይችላሉ።"
+  },
+  "insufficientMembership": {
+    "message": "የእርስዎ አባልነት ጊዜው አልፏል። እባክዎ AI ትርጉምን እና Azure TTS ከመጠቀምዎ በፊት አባልነትዎን ይሙሉ። መሙላት ካልፈለጉ፣ Google Translate እና ነጻ የድምጽ ዓይነቶችን መምረጥም ይችላሉ።"
+  },
+  "insufficientBalanceAndMembership": {
+    "message": "እባክዎ AI ትርጉምን እና Azure TTS ከመጠቀምዎ በፊት አባልነትዎን እና ቀሪ ሒሳብዎን ይሙሉ። መሙላት ካልፈለጉ፣ Google Translate እና ነጻ የድምጽ ዓይነቶችን መምረጥም ይችላሉ።"
+  },
+  "freeForVip": {
+    "message": "VIP ነጻ"
+  },
+  "freeOptionTipText": {
+    "message": "መሙላት ካልፈለጉ፣ ነጻ አማራጭን መምረጥ ይችላሉ፣ "
+  },
+  "translateEngineTipText": {
+    "message": "የትርጉም አገልግሎቱን ወደ Google ይለውጡ"
+  },
+  "voiceTypeTipText": {
+    "message": "የድምጽ ዓይነቱን ወደ ነጻ ስሪት ይለውጡ"
+  },
+  "vipFreeOptionTipText": {
+    "message": "እንደ አባል፣ የሚከተሉትን የትርጉም አገልግሎቶች በነጻ መጠቀም ይችላሉ"
+  },
+  "vipTranslateEngineTipText": {
+    "message": "የትርጉም አገልግሎቱን ወደ አባል-ነጻ አገልግሎቶች እንደ gemini, deepseek, gpt-3.5-turbo, ወይም claude-3-haiku ይለውጡ"
+  },
+  "pay": {
+    "message": "ክፈል"
+  },
+  "switchModelWarning": {
+    "message": "በቪድዮ ማጫወት ወቅት የድምጽ ወይም የትርጉም ሞዴል መቀየር በመጥፋት ሀብቶች ምክንያት ተጨማሪ ክፍያዎችን ያስከትላል። በሚቀጥለው ቪድዮ ውስጥ መቀየር እንመክራለን። በማንኛውም መንገድ ለመቀጠል፣ ቀጥል እና አስቀምጥን ጠቅ ያድርጉ።"
+  },
+  "selectSpeaker": {
+    "message": "ይምረጡ"
+  },
+  "speaker": {
+    "message": "ተናጋሪ"
+  },
+  "rechargeLimit": {
+    "message": "ክሬዲት+አባል"
+  },
+  "tooExpensive": {
+    "message": "በጣም ውድ"
+  },
+  "dropdownPlaceholder": {
+    "message": "እባክዎ ይምረጡ"
+  },
+  "dropdownNoOptions": {
+    "message": "ምንም አማራጮች አይገኙም"
+  },
+  "dropdownSearch": {
+    "message": "ፈልግ..."
+  },
+  "swapVolumeSettingsCommand": {
+    "message": "በዋናው እና በተደመጠው ድምጽ መካከል የድምጽ ቅንብሮችን ቀያይር"
+  },
+  "cycleSubtitleModeCommand": {
+    "message": "የትርጉም ጽሑፍ ቀያይር፦ ሁለት ቋንቋ → ትርጉም ብቻ → አጥፋ"
+  },
+  "trialMemberModelLimit": {
+    "message": "የሙከራ አባላት Gemini እና Google Translate ብቻ መጠቀም ይችላሉ። ሌሎች ሞዴሎችን ለመጠቀም፣ እባክዎ ለአባልነታችን ይመዝገቡ።"
+  },
+  "subtitlesRateLimitedByYouTube": {
+    "message": "ለዚህ ቪድዮ ንዑስ ርዕሶች በአሁኑ ጊዜ በYouTube የተገደቡ ናቸው። እባክዎ ቆይተው እንደገና ይሞክሩ።"
+  },
+  "musicVideoNotSupported": {
+    "message": "ይህ የሙዚቃ ቪድዮ ነው። ትርጉም እና ድምጽ ማስገባት አይደገፉም።"
+  },
+  "hideUntilNextVisit": {
+    "message": "እስከ ቀጣይ ጉብኝት ድረስ ደብቅ"
+  },
+  "disableGlobally": {
+    "message": "በዓለም አቀፍ ደረጃ አሰናክል"
+  },
+  "sidebarHideUntilNextVisit": {
+    "message": "እስከ ቀጣዩ ጉብኝት ድረስ ደብቅ"
+  },
+  "sidebarDisableForSite": {
+    "message": "ለዚህ ድህረ ገጽ አሰናክል"
+  },
+  "sidebarDisableGlobally": {
+    "message": "በዓለም አቀፍ ደረጃ አሰናክል"
+  },
+  "sidebarReenableHint": {
+    "message": "በ"
+  },
+  "sidebarSettings": {
+    "message": "ቅንብሮች"
+  },
+  "sidebarReenableHintSuffix": {
+    "message": " ውስጥ እንደገና ሊነቃ ይችላል"
+  },
+  "notSupported": {
+    "message": "አይደገፍም"
+  },
+  "multiVideoNotSupported": {
+    "message": "ይህ ገጽ ብዙ ቪዲዮዎች አሉት። ዩኒቨርሳል ዳቢንግ HLS ዥረቶችን ሲጠቀም አንድ ቪዲዮ ያለው ገጾችን ብቻ ይደግፋል።"
+  },
+  "mediaSourceNotDetected": {
+    "message": "የቪዲዮ ምንጭ ማወቅ አልተቻለም። ይህ ድረ-ገጽ ላይደገፍ ይችላል።"
+  },
+  "uploadMediaForRecognition": {
+    "message": "ንዑስ ርዕስ አልተገኘም። ለ AI ንዑስ ርዕስ ማወቂያ ቪዲዮውን መስቀል ይፈልጋሉ?"
+  },
+  "startUpload": {
+    "message": "ስቀላ ጀምር"
+  },
+  "uploadingMedia": {
+    "message": "ሚዲያ በመስቀል ላይ..."
+  },
+  "downloading": {
+    "message": "በማውረድ ላይ"
+  },
+  "uploading": {
+    "message": "በመስቀል ላይ"
+  },
+  "completing": {
+    "message": "በማጠናቀቅ ላይ"
+  },
+  "uploadComplete": {
+    "message": "ስቀላ ተጠናቋል"
+  },
+  "waitingForRecognition": {
+    "message": "ቪዲዮው በተሳካ ሁኔታ ተሰቅሏል። የ AI ንዑስ ርዕስ ማወቂያ በሂደት ላይ ነው። ዝግጁ ሲሆን የኢሜል ማሳወቂያ ይደርስዎታል።"
+  },
+  "uploadFailed": {
+    "message": "ስቀላ አልተሳካም"
+  },
+  "corsNotSupported": {
+    "message": "ይህ ድረ-ገጽ የሚዲያ ፋይሎችን ማውረድ አይፈቅድም። ዩኒቨርሳል ዳቢንግ አይደገፍም።"
+  },
+  "mediaDownloadInterrupted": {
+    "message": "የሚዲያ ማውረዱ በአውታረ መረብ ስህተት ተቋርጧል (የጣቢያው ገደብ አይደለም)። እባክዎ እንደገና ለመስቀል ይሞክሩ።"
+  },
+  "zoomRecordingDnrNotSupported": {
+    "message": "አሳሽዎ Zoom ቀረጻ ሰቀላ ማወቅን አይደግፍም። እባክዎ Chrome/Edge ይጠቀሙ።"
+  },
+  "zoomRecordingDownloadForbidden403": {
+    "message": "Zoom ቀረጻ ማውረድ ተከልክሏል (403)። እባክዎ ማረጋገጫን ለማለፍ ገጹን ያጫውቱ/ያድሱ፣ ከዚያ እንደገና ይሞክሩ።"
+  },
+  "liveStreamNotSupported": {
+    "message": "የቀጥታ ስርጭቶች ለዩኒቨርሳል ዳቢንግ አይደገፉም።"
+  },
+  "noAudioTrackFound": {
+    "message": "የድምጽ ትራክ አልተገኘም። ይህ ቪዲዮ ድምጽ የሌለው ቪዲዮ-ብቻ ይመስላል እና ለዳቢንግ ማወቅ ሊጠቀምበት አይችልም።"
+  },
+  "universalDubbingMemberOnly": {
+    "message": "ዩኒቨርሳል ዳቢንግ የደመና GPU ማስላት ኃይል ይፈልጋል (ከፍተኛ ወጪ)፣ ለ VIP ብቻ።"
+  },
+  "videoDurationExceedsLimit": {
+    "message": "ይህ ቪዲዮ ከ3 ሰዓት በላይ ይረዝማል። ከ3 ሰዓት በላይ ለሆኑ ቪዲዮዎች በአሁኑ ጊዜ ዩኒቨርሳል ዳቢንግ አይደገፍም።"
+  },
+  "videoDrmProtected": {
+    "message": "ይህ ቪዲዮ በDRM የተጠበቀ ስለሆነ ለድምፅ ማስቀመጫ ሊጠቀሙበት አይችሉም።"
+  },
+  "pleaseClickVideoToPlay": {
+    "message": "እባክዎ ቪዲዮውን ለመክፈት ጠቅ ያድርጉ፣ ከዚያ የድምጽ ቅጂ ባህሪውን ይጠቀሙ።"
+  },
+  "iosUniversalDubbingNotSupported": {
+    "message": "ዩኒቨርሳል ድምፅ ማስገባት በiOS መሳሪያዎች ላይ አይደገፍም። እባክዎ ዴስክቶፕ ብራውዘር ይጠቀሙ።"
+  },
+  "membershipRequiredTitle": {
+    "message": "አባልነት ያስፈልጋል"
+  },
+  "error": {
+    "message": "ስህተት"
+  },
+  "unknownError": {
+    "message": "ያልታወቀ ስህተት ተከስቷል። እባክዎ እንደገና ይሞክሩ።"
+  },
+  "doNotClosePage": {
+    "message": "እባክዎ በመስቀል ወቅት ይህን ገጽ አይዝጉ ወይም አያድሱ፣ አለበለዚያ መስቀል ይቋረጣል።"
+  },
+  "taskAlreadySubmitted": {
+    "message": "ይህ ቪዲዮ ለ AI ንዑስ ርዕስ ማወቂያ በማስኬድ ላይ ነው። እባክዎ የኢሜይል ማሳወቂያ ይጠብቁ።"
+  },
+  "sampleAesNotSupported": {
+    "message": "ይህ ቪዲዮ SAMPLE-AES ምስጠራ ይጠቀማል ይህም በአሁኑ ጊዜ ለማውረድ አይደገፍም።"
+  },
+  "hlsKeyFetchFailed": {
+    "message": "ለዚህ ቪዲዮ የመፍታት ቁልፍ ማግኘት አልተቻለም። ቪዲዮው የተጠበቀ ሊሆን ይችላል ወይም የቁልፍ አገልጋይ አይገኝም።"
+  },
+  "hlsDecryptionFailed": {
+    "message": "የቪዲዮ ይዘትን መፍታት አልተቻለም። የምስጠራ ቁልፍ ትክክል ያልሆነ ሊሆን ይችላል ወይም የቪዲዮ ቅርጸት ተኳሃኝ አይደለም።"
+  },
+  "subtitleStyleOptionsTitle": {
+    "message": "የግርጌ ጽሑፍ ቅጥ ቅንብር"
+  },
+  "subtitleStyleOptionsDesc": {
+    "message": "ለውጦቹ ወዲያውኑ ይቀመጣሉ እና ሥራ ላይ ይውላሉ።"
+  },
+  "subtitleStyleSectionTitle": {
+    "message": "የትርጉም ጽሑፍ ዘይቤ"
+  },
+  "subtitleStylePreviewTitle": {
+    "message": "ቅድመ እይታ"
+  },
+  "subtitleStylePreviewTag": {
+    "message": "እውነተኛ ጊዜ"
+  },
+  "subtitleStylePreviewText": {
+    "message": "ይህ ወጣት ትልቅ አቅም እንዳለው አሰበ።"
+  },
+  "subtitleStylePosition": {
+    "message": "የግርጌ ጽሑፍ ቦታ"
+  },
+  "subtitleStylePositionTop": {
+    "message": "ላይ"
+  },
+  "subtitleStylePositionMiddle": {
+    "message": "መካከል"
+  },
+  "subtitleStylePositionBottom": {
+    "message": "ታች"
+  },
+  "subtitleStyleFontFamily": {
+    "message": "ቅርጸ-ቁምፊ"
+  },
+  "subtitleStyleFontSize": {
+    "message": "የፊደል መጠን"
+  },
+  "subtitleStyleCustomOption": {
+    "message": "ብጁ የተደረገ"
+  },
+  "subtitleStyleCustomFont": {
+    "message": "ብጁ ቅርጸ-ቁምፊ"
+  },
+  "subtitleStyleCustomFontPlaceholder": {
+    "message": "ለምሳሌ፡- PingFang SC፣ Arial"
+  },
+  "subtitleStyleTextColor": {
+    "message": "የፊደል ቀለም"
+  },
+  "subtitleStyleFontWeight": {
+    "message": "የፊደል ክብደት"
+  },
+  "subtitleStyleBackgroundColor": {
+    "message": "የዳራ ቀለም"
+  },
+  "subtitleStyleBackgroundOpacity": {
+    "message": "የበስተጀርባ ድፍንነት"
+  },
+  "subtitleStyleEdgeStyle": {
+    "message": "የጠርዝ ዘይቤ"
+  },
+  "subtitleStyleEdgeNone": {
+    "message": "ምንም"
+  },
+  "subtitleStyleEdgeShadow": {
+    "message": "ጥላ"
+  },
+  "subtitleStyleEdgeOutline": {
+    "message": "የጽሑፍ ዙሪያ መስመር"
+  },
+  "subtitleStyleFontNone": {
+    "message": "ምንም"
+  },
+  "subtitleStyleFontDefault": {
+    "message": "ነባሪ"
+  },
+  "subtitleStyleFontPingFang": {
+    "message": "PingFang SC"
+  },
+  "subtitleStyleFontYaHei": {
+    "message": "Microsoft YaHei"
+  },
+  "subtitleStyleFontHeiti": {
+    "message": "STHeiti"
+  },
+  "subtitleStyleFontKaiti": {
+    "message": "Kaiti SC"
+  },
+  "subtitleStyleFontSongti": {
+    "message": "STSong"
+  },
+  "subtitleStyleFontFangsong": {
+    "message": "FangSong"
+  },
+  "subtitleStyleFontDongqingHeiti": {
+    "message": "Dongqing Heiti"
+  },
+  "subtitleStyleFontLantingHei": {
+    "message": "Lanting Hei"
+  },
+  "subtitleStyleFontHanyiHeiliu": {
+    "message": "Hanyi Heiliu"
+  },
+  "subtitleStyleFontHanyiZhonghei": {
+    "message": "Hanyi Zhonghei"
+  },
+  "subtitleStyleFontSTSong": {
+    "message": "Songti"
+  },
+  "subtitleStyleFontWawati": {
+    "message": "Wawati"
+  },
+  "subtitleStyleFontWeibei": {
+    "message": "Weibei"
+  },
+  "subtitleStyleFontXingkai": {
+    "message": "Xingkai"
+  },
+  "subtitleStyleFontYuanti": {
+    "message": "Yuanti"
+  },
+  "subtitleStyleFontArialUnicode": {
+    "message": "Arial Unicode MS"
+  },
+  "subtitleStyleFontArial": {
+    "message": "Arial"
+  },
+  "subtitleStyleFontCourierNew": {
+    "message": "Courier New"
+  },
+  "subtitleStyleFontGeorgia": {
+    "message": "Georgia"
+  },
+  "subtitleStyleFontTahoma": {
+    "message": "Tahoma"
+  },
+  "subtitleStyleFontTimesNewRoman": {
+    "message": "Times New Roman"
+  },
+  "subtitleStyleFontTrebuchetMS": {
+    "message": "Trebuchet MS"
+  },
+  "subtitleStyleFontVerdana": {
+    "message": "Verdana"
+  },
+  "subtitleStyleFontHelveticaNeue": {
+    "message": "Helvetica Neue"
+  },
+  "subtitleStyleFontHiraginoMincho": {
+    "message": "Hiragino Mincho ProN"
+  },
+  "subtitleStyleFontHiraginoKaku": {
+    "message": "Hiragino Kaku Gothic ProN"
+  },
+  "subtitleStyleFontKohinoor": {
+    "message": "Kohinoor Devanagari"
+  },
+  "subtitleStyleFontAppleSD": {
+    "message": "Apple SD Gothic Neo"
+  },
+  "subtitleStyleFontNanumGothic": {
+    "message": "Nanum Gothic"
+  },
+  "subtitleStyleFontCustom": {
+    "message": "ብጁ"
+  },
+  "subtitleStyleColorWhite": {
+    "message": "ነጭ"
+  },
+  "subtitleStyleColorYellow": {
+    "message": "ቢጫ"
+  },
+  "subtitleStyleColorOrange": {
+    "message": "ብርቱካናማ"
+  },
+  "subtitleStyleColorGray": {
+    "message": "ግራጫ"
+  },
+  "subtitleStyleColorGreen": {
+    "message": "አረንጓዴ"
+  },
+  "subtitleStyleColorCyan": {
+    "message": "ሲያን"
+  },
+  "subtitleStyleColorBlue": {
+    "message": "ሰማያዊ"
+  },
+  "subtitleStyleColorMagenta": {
+    "message": "ማጀንታ"
+  },
+  "subtitleStyleColorRed": {
+    "message": "ቀይ"
+  },
+  "subtitleStyleColorBlack": {
+    "message": "ጥቁር"
+  },
+  "subtitleStyleEditorViewLabel": {
+    "message": "የቅጥ አርትዖት እይታ"
+  },
+  "subtitleStyleEditorViewTranslated": {
+    "message": "ትርጉም ብቻ"
+  },
+  "subtitleStyleEditorViewBilingual": {
+    "message": "ሁለት ቋንቋ"
+  },
+  "subtitleStyleLayoutSectionTitle": {
+    "message": "ሁለት ቋንቋ አቀማመጥ"
+  },
+  "subtitleStyleOrder": {
+    "message": "የንዑስ ጽሁፍ ቅደም ተከተል"
+  },
+  "subtitleStyleOrderTranslatedFirst": {
+    "message": "ትርጉም ከላይ"
+  },
+  "subtitleStyleOrderOriginalFirst": {
+    "message": "ዋናው ከላይ"
+  },
+  "subtitleStyleLineGap": {
+    "message": "የመስመር ክፍተት"
+  },
+  "subtitleStyleTextAlign": {
+    "message": "አግድም አሰላለፍ"
+  },
+  "subtitleStyleTextAlignLeft": {
+    "message": "ግራ"
+  },
+  "subtitleStyleTextAlignCenter": {
+    "message": "መሃል"
+  },
+  "subtitleStyleTextAlignRight": {
+    "message": "ቀኝ"
+  },
+  "subtitleStyleTranslatedSectionTitle": {
+    "message": "የትርጉም ቅጥ"
+  },
+  "subtitleStyleOriginalSectionTitle": {
+    "message": "የዋናው ቅጥ"
+  },
+  "subtitleStyleFollowTranslated": {
+    "message": "የትርጉም ቅጥን ተከተል"
+  },
+  "subtitleStyleUsesCurrentSettings": {
+    "message": "የአሁኑን ቅንብሮች ይጠቀማል"
+  },
+  "subtitleStyleOriginalSizePercent": {
+    "message": "የፊደል መጠን ሬሾ"
+  },
+  "subtitleStyleSharedBackgroundSectionTitle": {
+    "message": "የጋራ ዳራ"
+  },
+  "subtitleStyleRestoreDefaults": {
+    "message": "ነባሪዎችን መልስ"
+  },
+  "subtitleStylePreviewOriginalText": {
+    "message": "He thought this young man had great potential."
+  },
+  "subtitleStyleColorLightGray": {
+    "message": "ፈካ ያለ ግራጫ"
+  },
+  "disabledSitesSectionTitle": {
+    "message": "የተሰናከሉ ድረ-ገጾች"
+  },
+  "disabledSitesTitle": {
+    "message": "የተሰናከሉ ድረ-ገጾች አስተዳደር"
+  },
+  "disabledSitesDescription": {
+    "message": "ተንሳፋፊ ኳሱ በሚከተሉት ድረ-ገጾች ላይ አይታይም። እዚህ የተሰናከሉ ድረ-ገጾችን ማከል ወይም ማስወገድ ይችላሉ።"
+  },
+  "disabledSitesPlaceholder": {
+    "message": "ዶሜይን ያስገቡ፣ ለምሳሌ youtube.com"
+  },
+  "disabledSitesAdd": {
+    "message": "አክል"
+  },
+  "disabledSitesDomain": {
+    "message": "ዶሜይን"
+  },
+  "disabledSitesActions": {
+    "message": "ድርጊቶች"
+  },
+  "disabledSitesDelete": {
+    "message": "ሰርዝ"
+  },
+  "disabledSitesEmpty": {
+    "message": "የተሰናከሉ ድረ-ገጾች የሉም"
+  },
+  "preferencesSectionTitle": {
+    "message": "መሠረታዊ ቅንብሮች"
+  },
+  "optionsNavPreferencesShort": {
+    "message": "መሠረት"
+  },
+  "optionsNavSubtitleShort": {
+    "message": "ጽሑፍ"
+  },
+  "optionsNavAiShort": {
+    "message": "AI"
+  },
+  "optionsNavSitesShort": {
+    "message": "ጣቢያ"
+  },
+  "preferenceStatusDisabled": {
+    "message": "ጠፍቷል"
+  },
+  "preferencesTitle": {
+    "message": "መሠረታዊ ቅንብሮች"
+  },
+  "preferencesDescription": {
+    "message": "መሠረታዊ ምርጫዎችዎን እዚህ ያስተዳድሩ።"
+  },
+  "emailNotificationLabel": {
+    "message": "የኢሜይል ማሳወቂያዎች"
+  },
+  "emailNotificationDescription": {
+    "message": "የንዑስ ርዕስ መለያየት ሲጠናቀቅ በኢሜይል አሳውቀኝ።"
+  },
+  "emailNotificationSaveFailed": {
+    "message": "ማስቀመጥ አልተሳካም። እባክዎ በኋላ እንደገና ይሞክሩ።"
+  },
+  "skipTranslationWhenSameLanguageLabel": {
+    "message": "ቋንቋው አንድ ሲሆን ትርጉምን ዝለል"
+  },
+  "skipTranslationWhenSameLanguageDescription": {
+    "message": "ሲነቃ የንዑስ ጽሑፍ ቋንቋ ከዒላማ ቋንቋ ጋር ተመሳሳይ ከሆነ ያለ ትርጉም ቀጥታ ድምጽ ማቀናበር ይጀምራል።"
+  },
+  "userSubtitleSegmentationEnabledLabel": {
+    "message": "የተጠቃሚ ንዑስ ጽሑፍ ብልህ ክፍፍል"
+  },
+  "userSubtitleSegmentationEnabledDescription": {
+    "message": "ሲነቃ ያርትዑትን ወይም በአካባቢው የሚሰቅሉትን ንዑስ ጽሑፍ በራስ-ሰር ይከፋፍላል፤ ሲጠፋ የመጀመሪያውን ክፍፍል ያቆያል።"
+  },
+  "subtitlePriorityTitle": {
+    "message": "የንዑስ ጽሑፍ ትርጉም ቅድሚያ"
+  },
+  "subtitlePriorityDescription": {
+    "message": "ለትርጉም የሚጠቀሙበትን የንዑስ ጽሑፍ ምንጭ ቅድሚያ ይምረጡ።"
+  },
+  "subtitlePriorityAiSubtitle": {
+    "message": "ፕላጊን AI የታወቀ ንዑስ ጽሑፍ"
+  },
+  "subtitlePriorityAiSubtitleDesc": {
+    "message": "ለበለጠ ትክክለኛነት የፕላጊኑ AI ንግግር ማወቂያ ያመነጨውን ንዑስ ጽሑፍ ቅድሚያ ይጠቀሙ።"
+  },
+  "subtitlePriorityPlatformSubtitle": {
+    "message": "የመድረክ አብሮ የተሰራ ንዑስ ጽሑፍ"
+  },
+  "subtitlePriorityPlatformSubtitleDesc": {
+    "message": "የቪዲዮ መድረኩ የሚያቀርበውን ዋና ንዑስ ጽሑፍ ቅድሚያ ይጠቀሙ።"
+  },
+  "subtitlePriorityQuickLabel": {
+    "message": "ንዑስ ጽሑፍ"
+  },
+  "subtitlePriorityQuickAi": {
+    "message": "AI"
+  },
+  "subtitlePriorityQuickPlatform": {
+    "message": "መድረክ"
+  },
+  "panelTabVideoSummary": {
+    "message": "ማጠቃለያ"
+  },
+  "panelTabSubtitleEdit": {
+    "message": "ንዑስ ጽሑፍ"
+  },
+  "panelSummaryTitle": {
+    "message": "የቪዲዮ ማጠቃለያ እና ዝርዝር"
+  },
+  "panelSummaryDesc": {
+    "message": "የተራቀቁ AI ሞዴሎችን በመጠቀም የቪዲዮ ይዘትን በፍጥነት ይረዱ"
+  },
+  "panelSummaryGenerate": {
+    "message": "ማጠቃለያ ፍጠር"
+  },
+  "panelSummaryGenerating": {
+    "message": "በማመንጨት ላይ..."
+  },
+  "panelSummaryReGenerating": {
+    "message": "እንደገና በማመንጨት ላይ..."
+  },
+  "panelSummarySectionSummary": {
+    "message": "ማጠቃለያ"
+  },
+  "panelSummarySectionHighlights": {
+    "message": "ዋና ነጥቦች"
+  },
+  "panelSummaryExpandAll": {
+    "message": "ሁሉንም ዘርጋ"
+  },
+  "panelSummaryCollapseAll": {
+    "message": "ሁሉንም ሰብስብ"
+  },
+  "panelSummaryExpand": {
+    "message": "ዘርጋ"
+  },
+  "panelSummaryCollapse": {
+    "message": "ሰብስብ"
+  },
+  "panelSummaryShare": {
+    "message": "ያጋሩ"
+  },
+  "panelSummaryCopy": {
+    "message": "ቅዳ"
+  },
+  "panelSummaryReGenerate": {
+    "message": "እንደገና ፍጠር"
+  },
+  "panelSummaryCopySuccess": {
+    "message": "ተቀድቷል"
+  },
+  "panelSummaryPlay": {
+    "message": "አጫውት"
+  },
+  "panelSummaryPause": {
+    "message": "ለአፍታ አቁም"
+  },
+  "panelSummaryPlayFailed": {
+    "message": "ማጫወት አልተሳካም፣ እባክዎ እንደገና ይሞክሩ"
+  },
+  "panelSummaryNoSubtitle": {
+    "message": "ለዚህ ቪዲዮ ንዑስ ጽሑፎች የሉም"
+  },
+  "panelSummaryError": {
+    "message": "ማጠቃለያ ማመንጨት አልተሳካም፣ እባክዎ እንደገና ይሞክሩ"
+  },
+  "panelSummaryErrorInvalidVideoId": {
+    "message": "የአሁኑን ቪዲዮ መለየት አልተቻለም፣ እባክዎ ገጹን ያድሱ እና እንደገና ይሞክሩ"
+  },
+  "panelSummaryErrorMemberRequired": {
+    "message": "የቪዲዮ ማጠቃለያ ለአባላት ብቻ የሚቀርብ ነው፣ ለመጠቀም እባክዎ ይመዝገቡ"
+  },
+  "panelSummaryErrorNoSubtitles": {
+    "message": "ለዚህ ቪዲዮ ንዑስ ጽሑፎች አይገኙም፣ ማጠቃለያ ማመንጨት አይቻልም"
+  },
+  "panelSummaryErrorServiceError": {
+    "message": "የማጠቃለያ አገልግሎት ለጊዜው አይገኝም፣ እባክዎ ቆይተው እንደገና ይሞክሩ"
+  },
+  "subtitleEditorManualInput": {
+    "message": "በእጅ ግቤት"
+  },
+  "subtitleEditorSwitchTip": {
+    "message": "የትርጉም ጽሑፎችን ለመቀየር እዚህ ጠቅ ያድርጉ"
+  },
+  "subtitleEditorExport": {
+    "message": "ኤክስፖርት"
+  },
+  "subtitleEditorTrackFallback": {
+    "message": "የትርጉም ጽሑፍ ትራክ"
+  },
+  "subtitleEditorMySubtitles": {
+    "message": "የእኔ የትርጉም ጽሑፎች"
+  },
+  "subtitleEditorNoSourceManual": {
+    "message": "ምንም የትርጉም ጽሑፎች ምንጮች የሉም (በእጅ ግቤት ይገኛል)"
+  },
+  "subtitleEditorSaveInvalidVideo": {
+    "message": "የአሁኑን ቪዲዮ መለየት አልተቻለም። ማስቀመጥ አልተሳካም።"
+  },
+  "subtitleEditorSaveFailed": {
+    "message": "ማስቀመጥ አልተሳካም። እባክዎ ቆይተው እንደገና ይሞክሩ።"
+  },
+  "subtitleEditorValidationEmpty": {
+    "message": "ይዘቱ ባዶ ሊሆን አይችልም።"
+  },
+  "subtitleEditorValidationBlockStructure": {
+    "message": "የSRT ክፍል መዋቅር ስህተት፦ ቢያንስ ተከታታይ ቁጥር፣ ጊዜ እና ይዘት ያስፈልጋሉ።"
+  },
+  "subtitleEditorValidationSequenceFormat": {
+    "message": "ልክ ያልሆነ SRT ተከታታይ ቁጥር ቅርጸት"
+  },
+  "subtitleEditorValidationSequenceIncrement": {
+    "message": "የ SRT ተከታታይ ቁጥሮች ከ 1 መጀመር እና በ 1 መጨመር አለባቸው"
+  },
+  "subtitleEditorValidationTimeFormat": {
+    "message": "የጊዜ መስኩ ቅርጸት የተሳሳተ ነው፤ እባክዎ ያረጋግጡና ያስተካክሉት።"
+  },
+  "subtitleEditorValidationEndAfterStart": {
+    "message": "የመጨረሻው ጊዜ ከመጀመሪያው ጊዜ የበለጠ መሆን አለበት"
+  },
+  "subtitleEditorValidationContentRequired": {
+    "message": "እያንዳንዱ የትርጉም ጽሑፍ ቢያንስ አንድ የጽሑፍ መስመር መያዝ አለበት።"
+  },
+  "subtitleEditorValidationSpeakerPrefix": {
+    "message": "አንዳንድ የትርጉም ጽሑፎች የተናጋሪ መለያዎችን ያካትታሉ። ሁሉም የትርጉም ጽሑፎች [speaker] ቅድመ ቅጥያ ሊኖራቸው ይገባል።"
+  },
+  "localPlayerTemporaryImportMode": {
+    "message": "ጊዜያዊ የማስመጣት ሁነታ"
+  },
+  "localPlayerLibraryTitle": {
+    "message": "የአካባቢ ቪዲዮ ቤተ መጻሕፍት"
+  },
+  "localPlayerEntryButton": {
+    "message": "አካባቢ ቪዲዮ"
+  },
+  "localPlayerPageTitle": {
+    "message": "አካባቢ ቪዲዮ · YouTube Dubbing"
+  },
+  "localPlayerFolderAccessDescription": {
+    "message": "አቃፊን መክፈት የፋይል መያዣዎችን ይቆጥባል ስለዚህ መዳረሻ ከታደሰ በኋላ ወደነበረበት ሊመለስ ይችላል።"
+  },
+  "localPlayerTemporaryImportDescription": {
+    "message": "ይህ አሳሽ File System Access APIን አይደግፍም። ለጊዜው ቪዲዮዎችን እና የትርጉም ጽሑፎችን ማከል ይችላሉ።"
+  },
+  "localPlayerOpenFolder": {
+    "message": "አቃፊ ክፈት"
+  },
+  "localPlayerAddVideo": {
+    "message": "ቪዲዮ ጨምር"
+  },
+  "localPlayerAddSubtitle": {
+    "message": "የትርጉም ጽሑፍ ያክሉ"
+  },
+  "localPlayerVideoList": {
+    "message": "የቪዲዮ ዝርዝር"
+  },
+  "localPlayerFolders": {
+    "message": "አቃፊዎች"
+  },
+  "localPlayerFoldersDescription": {
+    "message": "ከውጪ የመጣውን ሚዲያ በአቃፊ ያስሱ።"
+  },
+  "localPlayerAllVideos": {
+    "message": "ሁሉም ቪዲዮዎች"
+  },
+  "localPlayerAllVideosDescription": {
+    "message": "እያንዳንዱን ከውጪ የመጣ ቪዲዮ ፈልግ እና አስተዳድር።"
+  },
+  "localPlayerLibraryView": {
+    "message": "የቤተ-መጽሐፍት እይታ"
+  },
+  "localPlayerBackToFolders": {
+    "message": "ወደ አቃፊዎች ተመለስ"
+  },
+  "localPlayerFolderSearchPlaceholder": {
+    "message": "አቃፊዎችን፣ ዱካዎችን ወይም ፋይሎችን ፈልግ"
+  },
+  "localPlayerTotalFolders": {
+    "message": "ጠቅላላ {count} አቃፊዎች"
+  },
+  "localPlayerMatchedFolders": {
+    "message": "ተዛማጅ {visibleCount} / ጠቅላላ {totalCount} አቃፊዎች"
+  },
+  "localPlayerNoFolderMatchesTitle": {
+    "message": "ምንም ተዛማጅ አቃፊዎች የሉም"
+  },
+  "localPlayerNoFolderMatchesText": {
+    "message": "የአቃፊ ፍለጋውን ያስተካክሉ እና እንደገና ይሞክሩ።"
+  },
+  "localPlayerRescanAll": {
+    "message": "ሁሉንም እንደገና ቃኝ"
+  },
+  "localPlayerFolderMenuLabel": {
+    "message": "የአቃፊ ድርጊቶች"
+  },
+  "localPlayerOpenFolderMenu": {
+    "message": "አቃፊ ክፈት"
+  },
+  "localPlayerRescanThisFolder": {
+    "message": "ይህን አቃፊ እንደገና ቃኝ"
+  },
+  "localPlayerRemoveFromLibrary": {
+    "message": "ከቤተ-መጽሐፍት አስወግድ"
+  },
+  "localPlayerFolderVideoCount": {
+    "message": "{count} ቪዲዮዎች"
+  },
+  "localPlayerFolderAssociatedSubtitleCount": {
+    "message": "{count} ተዛማጅ የትርጉም ጽሑፎች"
+  },
+  "localPlayerFolderLastPlayed": {
+    "message": "መጨረሻ የተጫወተው {time}"
+  },
+  "localPlayerFolderLastScanned": {
+    "message": "መጨረሻ የተቃኘው {time}"
+  },
+  "localPlayerRemoveFolderTitle": {
+    "message": "ይህን አቃፊ ከቤተ-መጽሐፍት ይወገድ?"
+  },
+  "localPlayerRemoveFolderText": {
+    "message": "የዚህን አቃፊ መዝገቦች ብቻ ያስወግዳል፤ የዲስክ ፋይሎች አይሰረዙም።"
+  },
+  "localPlayerFolderRemoved": {
+    "message": "{folderName} ተወግዷል"
+  },
+  "localPlayerRemoveFolderFailed": {
+    "message": "አቃፊውን ከቤተ-መጽሐፍት ማስወገድ አልተሳካም።"
+  },
+  "localPlayerRescanFailed": {
+    "message": "የአካባቢ ቤተ-መጽሐፍትን እንደገና መቃኘት አልተሳካም።"
+  },
+  "localPlayerRescanFolderUnavailable": {
+    "message": "የአቃፊ መዳረሻ ስለሌለ፣ ይህን አቃፊ ዳግም መቃኘት አይቻልም።"
+  },
+  "localPlayerCurrentDirectory": {
+    "message": "የአሁኑ ማውጫ"
+  },
+  "localPlayerNoNewFilesFound": {
+    "message": "ምንም አዲስ ፋይሎች አልተገኙም።"
+  },
+  "localPlayerScanComplete": {
+    "message": "ቅኝት ተጠናቅቋል፡ የተጨመሩ {addedVideoCount} ቪዲዮዎች፣ {addedSubtitleCount} የትርጉም ጽሑፎች፣ የዘመኑ {updatedCount} ፋይሎች።"
+  },
+  "localPlayerNever": {
+    "message": "መቼም"
+  },
+  "localPlayerSearchPlaceholder": {
+    "message": "ቪዲዮዎችን ወይም የፋይል መንገዶችን ይፈልጉ"
+  },
+  "localPlayerFilterAll": {
+    "message": "ሁሉም"
+  },
+  "localPlayerFilterWithSubtitle": {
+    "message": "የትርጉም ጽሑፍ ያላቸው"
+  },
+  "localPlayerFilterNoSubtitle": {
+    "message": "የትርጉም ጽሑፍ የሌላቸው"
+  },
+  "localPlayerSortLastPlayed": {
+    "message": "በቅርብ ጊዜ የተጫወቱ ቪዲዮዎች"
+  },
+  "localPlayerSortName": {
+    "message": "የፋይል ስም"
+  },
+  "localPlayerSortDuration": {
+    "message": "የቪዲዮ ቆይታ"
+  },
+  "localPlayerNoVideosTitle": {
+    "message": "እስካሁን ምንም የሀገር ውስጥ ቪዲዮዎች የሉም"
+  },
+  "localPlayerNoMatchesTitle": {
+    "message": "ምንም ተዛማጅ ቪዲዮዎች የሉም"
+  },
+  "localPlayerNoVideosText": {
+    "message": "የግርጌ ጽሑፍ አገናኞችን እና የአካባቢ የድምጽ ቅጂዎችን ለማስተዳደር አቃፊ ይክፈቱ ወይም ቪዲዮዎችን ያክሉ።"
+  },
+  "localPlayerNoMatchesText": {
+    "message": "ፍለጋውን፣ አጣራውን ወይም መደርደሩን ያስተካክሉ እና እንደገና ይሞክሩ።"
+  },
+  "localPlayerDeleteVideoLabel": {
+    "message": "ሰርዝ {fileName}"
+  },
+  "localPlayerRecognitionSubmitted": {
+    "message": "የትርጉም ጽሑፎችን ማወቅ"
+  },
+  "localPlayerPlay": {
+    "message": "ቪዲዮ አጫውት።"
+  },
+  "localPlayerSubtitles": {
+    "message": "የትርጉም ጽሑፎች"
+  },
+  "localPlayerStartDubbing": {
+    "message": "የድምጽ ማባዛትን ጀምር"
+  },
+  "localPlayerFloatingActionsLabel": {
+    "message": "የአካባቢ ቪዲዮ ፈጣን እርምጃዎች"
+  },
+  "localPlayerOpenSidebar": {
+    "message": "የጎን አሞሌን ይክፈቱ"
+  },
+  "localPlayerClose": {
+    "message": "ዝጋ"
+  },
+  "localPlayerSameDirectorySubtitleSummary": {
+    "message": "ተመሳሳይ አቃፊ የትርጉም ጽሑፎች {sameCount} · የተገናኙ {associatedCount}"
+  },
+  "localPlayerNoManageableSubtitles": {
+    "message": "ምንም የሚተዳደሩ የትርጉም ጽሑፎች የሉም"
+  },
+  "localPlayerAssociateAndUseForDubbing": {
+    "message": "ንዑስ ርዕስን አገናኝ እና ለድምጽ ቅጂ ይጠቀሙበት"
+  },
+  "localPlayerSetForDubbing": {
+    "message": "ይህን የትርጉም ጽሑፍ ለድምጽ ቅጂ ይጠቀሙ"
+  },
+  "localPlayerRemoveAssociation": {
+    "message": "የግርጌ ጽሑፍን ግንኙነት አቋርጥ"
+  },
+  "localPlayerRemoveAllAssociations": {
+    "message": "ሁሉንም የትርጉም ጽሑፎች ግንኙነት አቋርጥ"
+  },
+  "localPlayerSelectVideoForSubtitleTitle": {
+    "message": "ከዚህ የትርጉም ጽሑፍ ጋር ለማገናኘት ቪዲዮ ይምረጡ"
+  },
+  "localPlayerAssociate": {
+    "message": "አገናኝ ንዑስ ርዕስ"
+  },
+  "localPlayerInitialStatus": {
+    "message": "ለመጀመር አቃፊ ይክፈቱ፣ ቪዲዮዎችን ያክሉ ወይም ፋይሎችን ይጣሉ።"
+  },
+  "localPlayerAscendingSortTitle": {
+    "message": "ወደ ላይ መውጣት; ወደ መውረድ ለመቀየር ጠቅ ያድርጉ"
+  },
+  "localPlayerDescendingSortTitle": {
+    "message": "መውረድ; ወደ ላይ መውጣት ለመቀየር ጠቅ ያድርጉ"
+  },
+  "localPlayerTotalVideos": {
+    "message": "ጠቅላላ {count} ቪዲዮዎች"
+  },
+  "localPlayerMatchedVideos": {
+    "message": "ተዛማጅ {visibleCount} / ጠቅላላ {totalCount} ቪዲዮዎች"
+  },
+  "localPlayerRouteVideoMissing": {
+    "message": "በዩአርኤል ውስጥ የተገለጸው ቪዲዮ አሁን ባለው የአካባቢ የቪዲዮ ቤተ-መጽሐፍት ውስጥ የለም።"
+  },
+  "localPlayerFolderAccessUnsupported": {
+    "message": "ይህ አሳሽ አቃፊዎችን መክፈት አይችልም። ለጊዜያዊ ማስመጣት ቪዲዮ አክል/ንኡስ ጽሑፍ አክል ተጠቀም።"
+  },
+  "localPlayerImportComplete": {
+    "message": "ከውጪ የመጡ {videoCount} ቪዲዮዎች እና {subtitleCount} የትርጉም ጽሑፎች።"
+  },
+  "localPlayerOpenFolderFailed": {
+    "message": "አቃፊን መክፈት አልተሳካም።"
+  },
+  "localPlayerAddVideoFailed": {
+    "message": "ቪዲዮ ማከል አልተሳካም።"
+  },
+  "localPlayerAddSubtitleFailed": {
+    "message": "የትርጉም ጽሑፍ ማከል አልተሳካም።"
+  },
+  "localPlayerAssociationSaved": {
+    "message": "የግርጌ ጽሑፍ ማገናኛ ተቀምጧል።"
+  },
+  "localPlayerAssociationSavedAndPreferred": {
+    "message": "የትርጉም ጽሑፍ ተያይዟል እና ለድምፅ ቅጂ ተዘጋጅቷል።"
+  },
+  "localPlayerPreferredSubtitleSaved": {
+    "message": "ለድምጽ ቅጂ የተዘጋጀ።"
+  },
+  "localPlayerAssociationRemoved": {
+    "message": "የግርጌ ጽሑፍ አገናኝ ተወግዷል።"
+  },
+  "localPlayerRebindSubtitleTitle": {
+    "message": "ይህ የትርጉም ጽሑፍ እንደገና ይታከል?"
+  },
+  "localPlayerRebindSubtitleText": {
+    "message": "ይህ የትርጉም ጽሑፍ አስቀድሞ ከ\"{fromVideo}\" ጋር ተቆራኝቷል። መቀጠል ያንን ማህበር ያስወግዳል እና ከ\"{toVideo}\" ጋር ያዛምደዋል።"
+  },
+  "localPlayerRemoveAllAssociationsTitle": {
+    "message": "ሁሉም የትርጉም ጽሑፎች ግንኙነታቸው ይቋረጥ?"
+  },
+  "localPlayerRemoveAllAssociationsText": {
+    "message": "የዚህ ቪዲዮ የግርጌ ጽሑፍ አገናኞች ብቻ ይወገዳሉ። የትርጉም ጽሑፍ ፋይል መዝገቦች አይሰረዙም።"
+  },
+  "localPlayerAllAssociationsRemoved": {
+    "message": "ሁሉም የትርጉም ጽሑፍ አገናኞች ተወግደዋል።"
+  },
+  "localPlayerDeleteVideoTitle": {
+    "message": "ይህ ቪዲዮ ይሰረዝ?"
+  },
+  "localPlayerDeleteVideoText": {
+    "message": "ይህ ቪዲዮውን እና የትርጉም ጽሑፎችን ከአካባቢው ቤተ-መጽሐፍት ያስወግዳል። በዲስክ ላይ ያሉ ኦሪጅናል ፋይሎች አይሰረዙም።"
+  },
+  "localPlayerDelete": {
+    "message": "ሰርዝ"
+  },
+  "localPlayerVideoDeleted": {
+    "message": "ተሰርዟል {fileName}"
+  },
+  "localPlayerDeleteVideoFailed": {
+    "message": "ቪዲዮን መሰረዝ አልተሳካም።"
+  },
+  "localPlayerVideoFileAccessLost": {
+    "message": "የዚህ ቪዲዮ ፋይል መዳረሻን ወደነበረበት መመለስ አልተቻለም። እባክዎን ቪዲዮውን እንደገና ይጨምሩ።"
+  },
+  "localPlayerVideoPlayerNotReady": {
+    "message": "የቪዲዮ ማጫወቻው ገና ዝግጁ አይደለም።"
+  },
+  "localPlayerNowPlaying": {
+    "message": "አሁን {fileName}ን በመጫወት ላይ"
+  },
+  "localPlayerDubbingStarted": {
+    "message": "የአካባቢ ድምጽ ማተም ተጀመረ።"
+  },
+  "localPlayerDubbingStartFailed": {
+    "message": "የአካባቢ የድምጽ ቅጂን መጀመር አልተሳካም።"
+  },
+  "localPlayerOpenSidebarFailed": {
+    "message": "የጎን አሞሌን መክፈት አልተሳካም።"
+  },
+  "localPlayerVideoFileReadFailed": {
+    "message": "የአካባቢውን ቪዲዮ ፋይል ማንበብ አልተቻለም። እባክዎን ቪዲዮውን እንደገና ይጨምሩ።"
+  },
+  "localPlayerUploadCancelled": {
+    "message": "ሰቀላ ተሰርዟል።"
+  },
+  "localPlayerSubtitleAssociatedBadge": {
+    "message": "{count} የተገናኙ የትርጉም ጽሑፎች"
+  },
+  "localPlayerNoSubtitleBadge": {
+    "message": "ምንም የተገናኙ የትርጉም ጽሑፎች የሉም"
+  },
+  "localPlayerUsedForDubbing": {
+    "message": "ለድምጽ መጠሪያነት ያገለግላል"
+  },
+  "localPlayerAssociated": {
+    "message": "ተያይዟል።"
+  },
+  "localPlayerAssociatedOutsideFolder": {
+    "message": "ከዚህ አቃፊ ውጭ ተገናኝቷል።"
+  },
+  "localPlayerNotAssociated": {
+    "message": "አልተገናኘም።"
+  },
+  "localPlayerNativeSubtitle": {
+    "message": "ኦሪጅናል የትርጉም ጽሑፎች"
+  },
+  "localPlayerDubbingAlreadyStarted": {
+    "message": "የድምፅ ቅጂ ተጀመረ"
+  },
+  "localPlayerThumbnailBackfillComplete": {
+    "message": "ለ{count} ቪዲዮዎች የተፈጠሩ ድንክዬዎች።"
+  },
+  "localPlayerThumbnailGenerationFailed": {
+    "message": "ድንክዬ ማመንጨት አልተሳካም፦ {displayName} ({message})"
+  },
+  "localPlayerFreeUserNoSubtitleMessage": {
+    "message": "ይህ የሀገር ውስጥ ቪዲዮ የተገናኘ የትርጉም ጽሑፍ የለውም። ነፃ ተጠቃሚዎች ለአካባቢያዊ ቪዲዮዎች የበስተጀርባ የትርጉም ጽሑፍ ማወቂያን ገና መጠቀም አይችሉም። የ AI ንዑስ ርዕስ ማወቂያን ለመጠቀም አባልነትን ያሻሽሉ ወይም የድምጽ ቅጂ ከመጀመርዎ በፊት የትርጉም ፋይልን በእጅ ይስቀሉ።"
+  },
+  "localPlayerNoSubtitleUploadTitle": {
+    "message": "ይህ ቪዲዮ የትርጉም ጽሑፎች የሉትም።"
+  },
+  "localPlayerNoSubtitleUploadText": {
+    "message": "ይህን ቪዲዮ ለ AI ንዑስ ርዕስ መለያ ስቀል? ሰቀላው የትርጉም ጽሑፎችን ለመለየት ብቻ ጥቅም ላይ ይውላል, ቪዲዮው ከታወቀ በኋላ ወዲያውኑ ይሰረዛል እና በኢሜል ማሳወቂያ ይደርሰዎታል."
+  },
+  "localPlayerNavigationLabel": {
+    "message": "የአካባቢ ቪዲዮ ቤተ መጻሕፍት / ጽሑፍ ወደ ንግግር"
+  },
+  "localPlayerCurrentPageNav": {
+    "message": "የቪዲዮ ድምፅ ቅጂ"
+  },
+  "localPlayerTextDubbingNav": {
+    "message": "ጽሑፍ ወደ ንግግር"
+  },
+  "localPlayerTextDubbingTitle": {
+    "message": "ጽሑፍ ወደ ንግግር"
+  },
+  "localPlayerTextDubbingDescription": {
+    "message": "ጽሑፍ ወደ ንግግር - ዒላማ ቋንቋ"
+  },
+  "localPlayerTextDubbingVoiceType": {
+    "message": "የድምጽ ዓይነት"
+  },
+  "localPlayerTextDubbingLanguage": {
+    "message": "ዒላማ ቋንቋ"
+  },
+  "localPlayerTextDubbingGender": {
+    "message": "ፆታ"
+  },
+  "localPlayerTextDubbingVoice": {
+    "message": "ድምጽ"
+  },
+  "localPlayerTextDubbingInputLabel": {
+    "message": "በእጅ ግቤት"
+  },
+  "localPlayerTextDubbingInputPlaceholder": {
+    "message": "በእጅ ግቤት - ጽሑፍ ወደ ንግግር"
+  },
+  "localPlayerTextDubbingLimitHint": {
+    "message": "ጽሑፍ ወደ ንግግር: {chars} / {bytes}"
+  },
+  "localPlayerTextDubbingCounter": {
+    "message": "{chars} · {bytes}"
+  },
+  "localPlayerTextDubbingGenerate": {
+    "message": "ጽሑፍ ወደ ንግግር MP3"
+  },
+  "localPlayerTextDubbingGenerating": {
+    "message": "በማስቀመጥ ላይ..."
+  },
+  "localPlayerTextDubbingGenerated": {
+    "message": "ጽሑፍ ወደ ንግግር MP3 · {seconds}s"
+  },
+  "localPlayerTextDubbingFailed": {
+    "message": "ማስቀመጥ አልተሳካም"
+  },
+  "localPlayerTextDubbingNoVoice": {
+    "message": "ለዚህ ምርጫ ምንም ድምጽ አይገኝም።"
+  },
+  "localPlayerTextDubbingEmptyText": {
+    "message": "ይዘቱ ባዶ ሊሆን አይችልም።"
+  },
+  "localPlayerTextDubbingTooLong": {
+    "message": "ጽሑፉ በጣም ረዥም ነው። አሳጥረው እንደገና ይሞክሩ።"
+  },
+  "localPlayerTextDubbingDownload": {
+    "message": "ኤክስፖርት MP3"
+  },
+  "localPlayerTextDubbingClear": {
+    "message": "ሰርዝ"
+  },
+  "translationDomainGeneral": {
+    "message": "አጠቃላይ"
+  },
+  "translationDomainWeb3": {
+    "message": "Web3 እና ክሪፕቶ"
+  },
+  "translationDomainTech": {
+    "message": "ቴክኖሎጂ"
+  },
+  "translationDomainNews": {
+    "message": "ዜና እና ሚዲያ"
+  },
+  "translationDomainProgramming": {
+    "message": "ፕሮግራሚንግ"
+  },
+  "translationDomainEducation": {
+    "message": "ትምህርት"
+  },
+  "translationDomainFinance": {
+    "message": "ፋይናንስ"
+  },
+  "translationDomainLaw": {
+    "message": "ሕግ"
+  },
+  "translationDomainAuto": {
+    "message": "አውቶሞቲቭ"
+  },
+  "translationDomainEcommerce": {
+    "message": "ኢ-ኮሜርስ"
+  },
+  "translationDomainFashion": {
+    "message": "ፋሽን"
+  },
+  "translationDomainFood": {
+    "message": "ምግብ እና ማብሰል"
+  },
+  "translationDomainGardening": {
+    "message": "አትክልት ስራ"
+  },
+  "translationDomainMedical": {
+    "message": "ሕክምና እና ጤና"
+  },
+  "translationDomainMusic": {
+    "message": "ሙዚቃ"
+  },
+  "translationDomainPets": {
+    "message": "የቤት እንስሳት"
+  },
+  "translationDomainSports": {
+    "message": "ስፖርት"
+  },
+  "translationDomainTravel": {
+    "message": "ጉዞ"
+  },
+  "translationDomainChess": {
+    "message": "ቼዝ"
+  },
+  "translationDomainGaming": {
+    "message": "ጨዋታዎች"
+  },
+  "translationDomainGolf": {
+    "message": "ጎልፍ"
+  },
+  "translationDomainMovies": {
+    "message": "ፊልሞች እና ቴሌቪዥን"
+  },
+  "translationDomainPhotography": {
+    "message": "ፎቶግራፊ"
+  },
+  "translationPreferencesSectionTitle": {
+    "message": "AI ትርጉም"
+  },
+  "translationRulesEnabledLabel": {
+    "message": "በAI ትርጉም ውስጥ የቃላት መዝገብን እና የጽሑፍ መተካትን ይተግብሩ"
+  },
+  "translationRulesEnabledDescription": {
+    "message": "ሲነቃ AI ትርጉም ከታች ያሉትን ቅንብሮች ይጠቀማል። ሲሰናከል ነባር ቅንብሮችዎ እንደተጠበቁ ይቆያሉ።"
+  },
+  "glossaryTitle": {
+    "message": "የቃላት መዝገብ"
+  },
+  "glossaryDescription": {
+    "message": "ለምንጭ ቃላት ቋሚ ትርጉሞችን ያዘጋጁ (ለምሳሌ Stratagem)። የእርስዎ ቃላት አብሮ ከተሰራው የቃላት መዝገብ ቅድሚያ ያገኛሉ።"
+  },
+  "glossaryCreateButton": {
+    "message": "የግል ቃል ያክሉ"
+  },
+  "glossaryEditTitle": {
+    "message": "የግል ቃል ያርትዑ"
+  },
+  "glossaryEditorDescription": {
+    "message": "ማከል፣ ማርትዕ፣ ማንቃት ወይም መሰረዝ የሚቻለው የግል ቃላትን ብቻ ነው።"
+  },
+  "glossaryTableTitle": {
+    "message": "የአሁኑ ቋንቋ ቃላት"
+  },
+  "glossaryCombinedEmpty": {
+    "message": "ለዚህ ቋንቋ እስካሁን ምንም የግል ቃል የለም።"
+  },
+  "glossarySearchEmpty": {
+    "message": "ተዛማጅ ቃላት አልተገኙም።"
+  },
+  "glossarySearchPlaceholder": {
+    "message": "የምንጭ ቃላትን ይፈልጉ"
+  },
+  "glossarySourcePlaceholder": {
+    "message": "የምንጭ ቃል"
+  },
+  "glossaryTargetPlaceholder": {
+    "message": "አስፈላጊ ትርጉም"
+  },
+  "glossarySourceTerm": {
+    "message": "የምንጭ ቃል"
+  },
+  "glossaryTargetTerm": {
+    "message": "ትርጉም"
+  },
+  "replacementTitle": {
+    "message": "የምንጭ ጽሑፍ ስህተት ማስተካከያ"
+  },
+  "replacementDescription": {
+    "message": "ከAI ትርጉም በፊት በንዑስ ርዕስ ማወቂያ ውስጥ የሚደጋገሙ ስህተቶችን (ለምሳሌ cloud code -> Claude Code) ያስተካክሉ።"
+  },
+  "replacementCreateButton": {
+    "message": "የግል መተካት ያክሉ"
+  },
+  "replacementEditTitle": {
+    "message": "የግል መተካት ያርትዑ"
+  },
+  "replacementEditorDescription": {
+    "message": "ከAI ትርጉም በፊት የሚተገበሩት የግል የጽሑፍ መተካቶች ብቻ ናቸው።"
+  },
+  "replacementFindPlaceholder": {
+    "message": "የተሳሳተ ጽሑፍ፣ ለምሳሌ cloud code"
+  },
+  "replacementReplacePlaceholder": {
+    "message": "በዚህ ይተኩ፣ ለምሳሌ claude code"
+  },
+  "replacementFindText": {
+    "message": "የተሳሳተ ጽሑፍ"
+  },
+  "replacementReplaceText": {
+    "message": "በዚህ ይተኩ"
+  },
+  "replacementEmpty": {
+    "message": "እስካሁን ምንም የማስተካከያ ደንብ የለም።"
+  },
+  "replacementSearchEmpty": {
+    "message": "ተዛማጅ መተካቶች አልተገኙም።"
+  },
+  "replacementSearchPlaceholder": {
+    "message": "መተካቶችን ይፈልጉ"
+  },
+  "translatedReplacementTitle": {
+    "message": "የተተረጎመ ጽሑፍ መተካት"
+  },
+  "translatedReplacementDescription": {
+    "message": "ትርጉሙ ከተጠናቀቀ በኋላ ቃላትን ወይም ሐረጎችን በግል ደንቦች ይተኩ።"
+  },
+  "translatedReplacementCreateButton": {
+    "message": "የትርጉም ጽሑፍ መተካት ያክሉ"
+  },
+  "translatedReplacementLanguage": {
+    "message": "የዒላማ ቋንቋ"
+  },
+  "translatedReplacementFindText": {
+    "message": "የተተረጎመ ጽሑፍ"
+  },
+  "translatedReplacementReplaceText": {
+    "message": "በዚህ ተካ"
+  },
+  "translatedReplacementSearchPlaceholder": {
+    "message": "የተተረጎመ ጽሑፍ ይፈልጉ"
+  },
+  "translatedReplacementEmpty": {
+    "message": "እስካሁን የትርጉም ጽሑፍ መተካት ደንቦች የሉም።"
+  },
+  "translatedReplacementSearchEmpty": {
+    "message": "የሚዛመድ የትርጉም ጽሑፍ መተካት አልተገኘም።"
+  },
+  "translatedReplacementCreateTitle": {
+    "message": "የትርጉም ጽሑፍ መተካት ያክሉ"
+  },
+  "translatedReplacementEditTitle": {
+    "message": "የትርጉም ጽሑፍ መተካት ያርትዑ"
+  },
+  "translatedReplacementEditorDescription": {
+    "message": "የሚቀየረው የተጠናቀቀው ትርጉም ብቻ ነው፤ ምንጭ ጽሑፉና የትርጉም መሸጎጫው አይቀየሩም።"
+  },
+  "translatedReplacementFindPlaceholder": {
+    "message": "በተተረጎመው ጽሑፍ ውስጥ ያለ ቃል ወይም ሐረግ"
+  },
+  "translatedReplacementReplacePlaceholder": {
+    "message": "በምትኩ የሚታይ ቃል ወይም ሐረግ"
+  },
+  "translatedReplacementEnabledDescription": {
+    "message": "ሲሰናከል ደንቡ ይቀመጣል፣ ነገር ግን በትርጉም ጽሑፉ ላይ አይተገበርም።"
+  },
+  "preferenceAdd": {
+    "message": "ያክሉ"
+  },
+  "preferenceDomain": {
+    "message": "ዘርፍ"
+  },
+  "preferenceLanguage": {
+    "message": "ቋንቋ"
+  },
+  "preferenceEnabled": {
+    "message": "ነቅቷል"
+  },
+  "preferenceActions": {
+    "message": "ድርጊቶች"
+  },
+  "preferenceSource": {
+    "message": "ምንጭ"
+  },
+  "preferenceSourceUser": {
+    "message": "የግል"
+  },
+  "preferenceSourceBuiltin": {
+    "message": "አብሮ የተሰራ"
+  },
+  "preferenceStatus": {
+    "message": "ሁኔታ"
+  },
+  "preferenceStatusEnabled": {
+    "message": "ነቅቷል"
+  },
+  "preferenceEdit": {
+    "message": "ያርትዑ"
+  },
+  "preferenceDelete": {
+    "message": "ይሰርዙ"
+  },
+  "preferenceAllDomains": {
+    "message": "ሁሉም ዘርፎች"
+  },
+  "preferenceSearch": {
+    "message": "ይፈልጉ"
+  },
+  "preferenceClearSearch": {
+    "message": "ያጽዱ"
+  },
+  "preferencePageLabel": {
+    "message": "ገጽ {page}"
+  },
+  "preferencePreviousPage": {
+    "message": "ቀዳሚ"
+  },
+  "preferenceNextPage": {
+    "message": "ቀጣይ"
+  },
+  "builtinGlossaryDomainsTitle": {
+    "message": "አብረው የተካተቱ የዘርፍ ስብስቦች"
+  },
+  "builtinGlossaryDomainCount": {
+    "message": "{count} አብረው የተካተቱ ቃላት"
+  },
+  "builtinGlossaryEmptyHint": {
+    "message": "ለአሁኑ ዒላማ ቋንቋ አብሮ የተሰራ የቃላት መዝገብ የለም። አሁንም የግል ቃላትን ማከል ይችላሉ።"
+  },
+  "builtinGlossaryEnabledSummary": {
+    "message": "{enabled} / {total} ነቅተዋል"
+  },
+  "builtinGlossaryManageDomains": {
+    "message": "ዘርፎችን ያስተዳድሩ"
+  },
+  "builtinGlossaryManageDomainsTitle": {
+    "message": "አብረው የተካተቱ የዘርፍ ስብስቦችን ያስተዳድሩ"
+  },
+  "builtinGlossaryManageDomainsDescription": {
+    "message": "ለዒላማ ቋንቋው አብሮ የተሰራውን የቃላት መዝገብ ዘርፎች ያንቁ ወይም ያሰናክሉ።"
+  },
+  "builtinGlossaryDomainSearchPlaceholder": {
+    "message": "ዘርፎችን ይፈልጉ"
+  },
+  "builtinGlossaryEnableAllDomains": {
+    "message": "ሁሉንም ያንቁ"
+  },
+  "builtinGlossaryDisableAllDomains": {
+    "message": "ሁሉንም ያሰናክሉ"
+  },
+  "builtinGlossaryDomainSearchEmpty": {
+    "message": "ተዛማጅ ዘርፎች አልተገኙም።"
+  },
+  "builtinGlossaryDomainTotal": {
+    "message": "{count} ዘርፎች"
+  },
+  "builtinGlossaryDomainDisabledStatus": {
+    "message": "ዘርፉ ተሰናክሏል"
+  },
+  "builtinGlossaryBlockedStatus": {
+    "message": "የተገለለ"
+  },
+  "builtinGlossaryReadOnlyHint": {
+    "message": "አብሮ የተሰራ ደንብ"
+  },
+  "builtinTextReplacementManageDomainsTitle": {
+    "message": "አብሮ የተሰሩ የምንጭ ጽሑፍ ማስተካከያ መስኮችን ያስተዳድሩ"
+  },
+  "builtinTextReplacementManageDomainsDescription": {
+    "message": "አብሮ የተሰሩ የምንጭ ጽሑፍ ማስተካከያ መስኮችን ያንቁ ወይም ያሰናክሉ።"
+  },
+  "builtinTextReplacementDomainCount": {
+    "message": "{count} አብሮ የተሰሩ ደንቦች"
+  },
+  "preferenceLoadFailed": {
+    "message": "መጫን አልተሳካም። ይግቡና እንደገና ይሞክሩ።"
+  },
+  "preferenceActionFailed": {
+    "message": "ድርጊቱ አልተሳካም። በኋላ እንደገና ይሞክሩ።"
+  },
+  "pronunciationSettingsSectionTitle": {
+    "message": "አጠራር"
+  },
+  "pronunciationSettingsTitle": {
+    "message": "የአነባበብ ቅንብሮች"
+  },
+  "pronunciationSettingsDescription": {
+    "message": "ለትርጉም ጽሑፍ የግል አጠራር ያዘጋጁ። ደንቦቹ የሚተገበሩት ለአካባቢው መፃፍ ብቻ ነው።"
+  },
+  "optionsNavPronunciationShort": {
+    "message": "አጠራር"
+  },
+  "pronunciationNewRule": {
+    "message": "አዲስ ህግ"
+  },
+  "pronunciationEditRule": {
+    "message": "የአነባበብ ህግን ያርትዑ"
+  },
+  "pronunciationTargetLanguage": {
+    "message": "የዒላማ ቋንቋ"
+  },
+  "pronunciationSearchPlaceholder": {
+    "message": "ተዛማጅ ጽሑፍ ይፈልጉ"
+  },
+  "pronunciationStatus": {
+    "message": "ሁኔታ"
+  },
+  "pronunciationMatchText": {
+    "message": "ተዛማጅ ጽሑፍ"
+  },
+  "pronunciationMatchPlaceholder": {
+    "message": "ለምሳሌ: ሰላም"
+  },
+  "pronunciationTargetText": {
+    "message": "የተስተካከለ ክፍል"
+  },
+  "pronunciationReading": {
+    "message": "የተገለጸ አጠራር"
+  },
+  "pronunciationLoading": {
+    "message": "በመጫን ላይ…"
+  },
+  "pronunciationEmpty": {
+    "message": "ከአሁኑ ማጣሪያዎች ጋር የሚዛመዱ ምንም የግል አነባበብ ደንቦች የሉም።"
+  },
+  "pronunciationEditorHint": {
+    "message": "ለማረም ቀጣይነት ያለውን ክፍል ይምረጡ እና ከዚያ አጠራር ያስገቡ።"
+  },
+  "pronunciationSelectTarget": {
+    "message": "ለማረም ጽሑፍ ይምረጡ"
+  },
+  "pronunciationReselect": {
+    "message": "እንደገና ይምረጡ"
+  },
+  "pronunciationEnterMatchFirst": {
+    "message": "መጀመሪያ የሚዛመደውን ጽሑፍ ያስገቡ"
+  },
+  "pronunciationSelectionSummary": {
+    "message": "የተመረጠ፡ {text}፤ ክስተት {occurrence}"
+  },
+  "pronunciationSelectionRestoreFailed": {
+    "message": "የተቀመጠው ቦታ ወደነበረበት ሊመለስ አይችልም። ከማስቀመጥዎ በፊት ጽሑፉን እንደገና ይምረጡ።"
+  },
+  "pronunciationSelectionInvalid": {
+    "message": "ቀጣይነት ያለው ጽሑፍ ይምረጡ።"
+  },
+  "pronunciationModifier": {
+    "message": "ቃና"
+  },
+  "pronunciationSelectModifier": {
+    "message": "ይምረጡ"
+  },
+  "pronunciationSaving": {
+    "message": "በማስቀመጥ ላይ…"
+  },
+  "pronunciationDeleteConfirm": {
+    "message": "ይህ የአነጋገር ዘይቤ ይሰረዝ?"
+  },
+  "pronunciationOccurrence": {
+    "message": "ክስተት {occurrence}"
+  },
+  "pronunciationUnknownError": {
+    "message": "እርምጃ አልተሳካም። እባክዎ ቆይተው እንደገና ይሞክሩ።"
+  },
+  "preferenceAllStatuses": {
+    "message": "ሁሉም"
+  },
+  "preferenceCancel": {
+    "message": "ሰርዝ"
+  },
+  "preferenceDisabled": {
+    "message": "ተሰናክሏል።"
+  },
+  "preferenceSave": {
+    "message": "አስቀምጥ"
+  },
+  "pronunciationFineSelection": {
+    "message": "ትክክለኛ ምርጫ"
+  },
+  "pronunciationMergeUnits": {
+    "message": "አጎራባች አነባበቦችን አዋህድ"
+  },
+  "pronunciationPerUnitHint": {
+    "message": "ለእያንዳንዱ ክፍል አጠራር እና ድምጽ ያስገቡ። እንደ አስፈላጊነቱ ክፍሎችን ይከፋፍሉ ወይም ያዋህዱ."
+  },
+  "pronunciationPrimarySelection": {
+    "message": "ብልህ ምርጫ"
+  },
+  "pronunciationSelectionGranularity": {
+    "message": "የመምረጫ ጥራጥሬ"
+  },
+  "pronunciationSelectionTooLong": {
+    "message": "የተስተካከለው ክፍል ቢበዛ 128 ቁምፊዎችን ሊይዝ ይችላል።"
+  },
+  "pronunciationSplitAt": {
+    "message": "የተከፈለው በ"
+  },
+  "pronunciationUnitReading": {
+    "message": "በክፍል አነባበብ"
+  },
+  "pronunciationWholeReading": {
+    "message": "ሙሉ አነጋገር"
+  },
+  "pronunciationWholeToneHint": {
+    "message": "የተሟላውን የቃና አጠራር ያስገቡ። ለእያንዳንዱ ክፍል ድምጽ ለመምረጥ ይከፋፍሉት."
+  },
+  "pronunciationPinyinSyllable": {
+    "message": "የፒንዪን ዘይቤ"
+  },
+  "pronunciationPinyinPlaceholder": {
+    "message": "የፒንዪን ፊደል አስገባ"
+  },
+  "pronunciationNumberedTone": {
+    "message": "ድምጽ {tone}"
+  },
+  "pronunciationNeutralTone": {
+    "message": "ገለልተኛ ድምጽ"
+  },
+  "googleDriveNoCaptionsTitle": {
+    "message": "ይህ የGoogle Drive ቪዲዮ እስካሁን የመግለጫ ጽሑፍ የለውም"
+  },
+  "googleDriveNoCaptionsIntro": {
+    "message": "ማስተርጎሙ የGoogle Driveን አብሮገነብ የመግለጫ ጽሑፎች (CC) ይጠቀማል። መጀመሪያ ለዚህ ቪዲዮ የመግለጫ ጽሑፎችን ያብሩ፣ ከዚያ ይመለሱ፦"
+  },
+  "googleDriveNoCaptionsStep1": {
+    "message": "በGoogle Drive ውስጥ ቪዲዮውን በቀኝ ጠቅ ያድርጉ እና “የፋይል መረጃ” → “የመግለጫ ጽሑፍ ትራኮችን ያቀናብሩ” የሚለውን ይምረጡ።"
+  },
+  "googleDriveNoCaptionsStep2": {
+    "message": "እስካሁን የመግለጫ ጽሑፍ ትራክ ከሌለ፦ Drive ለሚደገፉ ቋንቋዎች (እንግሊዝኛ፣ ቱርክኛ፣ ቻይንኛ፣ ስፓኒሽ፣ ጃፓንኛን ጨምሮ) የመግለጫ ጽሑፎችን በራስ-ሰር ይፈጥራል። “ራስ-ሰር የመግለጫ ጽሑፎችን ፍጠር” ከታየ ጠቅ ያድርጉት፣ ወይም የመግለጫ ጽሑፍ ፋይል ይስቀሉ። የመግለጫ ጽሑፎችን ማቀናበር የሚችሉት የቪዲዮው ባለቤት ወይም አርታዒዎች ብቻ ናቸው።"
+  },
+  "googleDriveNoCaptionsStep3": {
+    "message": "የመግለጫ ጽሑፎች መፈጠር ጊዜ ይወስዳል። በማጫወቻው ውስጥ ያለው የCC አዝራር ጠቅ ሊደረግ ሲችል ገጹን ያድሱ እና ማስተርጎሙን እንደገና ይጀምሩ።"
+  },
+  "subtitleAudioLanguageMismatch": {
+    "message": "የንዑስ ርዕሱ ቋንቋ ከድምጾቹ ቋንቋ ጋር አይዛመድም። ንዑስ ርዕስ፦ {subtitle}። ድምጾች፦ {voice}። አንድ ድምጽ ማንበብ የሚችለው በራሱ ቋንቋ የተጻፈ ጽሑፍ ብቻ ስለሆነ መፍጠሩ ሊሳካ ላይችል ወይም አነባበቡ ሊሳሳት ይችላል። መጀመሪያ ንዑስ ርዕሱን ይተርጉሙ፣ ወይም የዒላማ ቋንቋውን ከንዑስ ርዕሱ ጋር እንዲዛመድ ይቀይሩ። ቢሆንም ይፈጠር?"
+  },
+  "subtitleAudioNav": {
+    "message": "የትርጉም ጽሑፍ ድምፅ ቅጂ"
+  },
+  "subtitleAudioAiSubtitleBadge": {
+    "message": "AI የትርጉም ጽሑፍ"
+  },
+  "subtitleAudioUserSubtitleBadge": {
+    "message": "የተስተካከለ የትርጉም ጽሑፍ"
+  },
+  "subtitleAudioBack": {
+    "message": "የቪዲዮ ድምፅ ቅጂ"
+  },
+  "subtitleAudioProjectSubtitle": {
+    "message": "የትርጉም ጽሑፍ፦ {name} · መስመሮች፦ {count}"
+  },
+  "subtitleAudioReplaceSubtitles": {
+    "message": "የትርጉም ጽሑፉን ቀይር"
+  },
+  "subtitleAudioExportVideoOption": {
+    "message": "ድምፅ የተቀዳለት ቪዲዮ"
+  },
+  "subtitleAudioExportVideoHint": {
+    "message": "አንድ መስመር ተጨማሪ ጊዜ በሚፈልግበት ቦታ ምስሉ ይዘገያል፤ ስለዚህ ቪዲዮው ትንሽ ሊረዝም ይችላል።"
+  },
+  "subtitleAudioExportMp3Option": {
+    "message": "የድምፅ ቅጂ MP3"
+  },
+  "subtitleAudioExportMp3Hint": {
+    "message": "ርዝመቱ ከመጀመሪያው ቪዲዮ ጋር በትክክል እኩል ነው፤ በቪዲዮው ላይ መልሰው ይደርቡት ወይም እንደ ሌላ የድምፅ ቋንቋ ይስቀሉት።"
+  },
+  "subtitleAudioDownloadSrt": {
+    "message": "SRT አውርድ"
+  },
+  "subtitleAudioEditAndExport": {
+    "message": "አርትዕ እና ወደ ውጭ ላክ"
+  },
+  "subtitleAudioEditNeedsSubtitle": {
+    "message": "ይህ ቪዲዮ እስካሁን የትርጉም ጽሑፍ የለውም። የትርጉም ጽሑፍ ፋይል ያገናኙ፣ ወይም የAI የትርጉም ጽሑፍ እንዲፈጠር «የድምጽ ማባዛትን ጀምር»ን አንድ ጊዜ ይጫኑ።"
+  },
+  "subtitleAudioTitle": {
+    "message": "ለእያንዳንዱ መስመር የራሱን ድምፅ ይስጡ"
+  },
+  "subtitleAudioSubtitle": {
+    "message": "የትርጉም ጽሑፉን ጊዜ የሚከተል የድምፅ ቅጂ MP3 ለማግኘት የSRT ፋይል ያስገቡ። ድምፅ የተቀዳለት ቪዲዮ ከፈለጉ፣ በ«የቪዲዮ ድምፅ ቅጂ» ውስጥ ቪዲዮውን መርጠው «አርትዕ እና ወደ ውጭ ላክ»ን ይጫኑ።"
+  },
+  "subtitleAudioImportStep": {
+    "message": "የትርጉም ጽሑፍ አስገባ"
+  },
+  "subtitleAudioVoicesStep": {
+    "message": "ድምፆችን ምረጥ"
+  },
+  "subtitleAudioExportStep": {
+    "message": "ወደ ውጭ ላክ"
+  },
+  "subtitleAudioSubtitles": {
+    "message": "የትርጉም ጽሑፎች"
+  },
+  "subtitleAudioCueList": {
+    "message": "መስመሮች እና ድምፆች"
+  },
+  "subtitleAudioSettings": {
+    "message": "የድምፅ ቅንብሮች"
+  },
+  "subtitleAudioImport": {
+    "message": "የSRT ፋይል ምረጥ"
+  },
+  "subtitleAudioReplace": {
+    "message": "ተካ"
+  },
+  "subtitleAudioRemove": {
+    "message": "አስወግድ"
+  },
+  "subtitleAudioDrop": {
+    "message": "የSRT ፋይልዎን እዚህ ይጣሉ"
+  },
+  "subtitleAudioDropNote": {
+    "message": "UTF-8 · እስከ 2 MiB፣ 5,000 መስመሮች፣ 3 ሰዓታት"
+  },
+  "subtitleAudioEmpty": {
+    "message": "የትርጉም ጽሑፎችዎ እዚህ ይታያሉ። ለእያንዳንዱ መስመር ድምፅ ይመድቡ ወይም ለተመረጡት መስመሮች በአንድ ጊዜ ይተግብሩ።"
+  },
+  "subtitleAudioLines": {
+    "message": "መስመሮች"
+  },
+  "subtitleAudioDuration": {
+    "message": "የትርጉም ጽሑፍ ቆይታ"
+  },
+  "subtitleAudioCharacters": {
+    "message": "ፊደላት"
+  },
+  "subtitleAudioSearch": {
+    "message": "በትርጉም ጽሑፍ ውስጥ ፈልግ"
+  },
+  "subtitleAudioSelectPage": {
+    "message": "ይህን ገጽ ምረጥ"
+  },
+  "subtitleAudioSelectAll": {
+    "message": "ሁሉንም ውጤቶች ምረጥ"
+  },
+  "subtitleAudioSelected": {
+    "message": "የተመረጡ፦ {count}"
+  },
+  "subtitleAudioApply": {
+    "message": "ድምፅ ተግብር"
+  },
+  "subtitleAudioChooseVoice": {
+    "message": "ድምፅ ይምረጡ"
+  },
+  "subtitleAudioText": {
+    "message": "የመስመሩ ጽሑፍ"
+  },
+  "subtitleAudioTime": {
+    "message": "ጊዜ"
+  },
+  "subtitleAudioVoice": {
+    "message": "ድምፅ"
+  },
+  "subtitleAudioFemale": {
+    "message": "የሴት ድምፆች"
+  },
+  "subtitleAudioMale": {
+    "message": "የወንድ ድምፆች"
+  },
+  "subtitleAudioPage": {
+    "message": "ገጽ {page} ከ {total}"
+  },
+  "subtitleAudioPrevious": {
+    "message": "ቀዳሚ"
+  },
+  "subtitleAudioNext": {
+    "message": "ቀጣይ"
+  },
+  "subtitleAudioPreview": {
+    "message": "መስመር {index}ን አዳምጥ"
+  },
+  "subtitleAudioStopPreview": {
+    "message": "ማዳመጥ አቁም"
+  },
+  "subtitleAudioLanguage": {
+    "message": "ዒላማ ቋንቋ"
+  },
+  "subtitleAudioVoiceType": {
+    "message": "የድምፅ ዓይነት"
+  },
+  "subtitleAudioFree": {
+    "message": "ነፃ"
+  },
+  "subtitleAudioVideoSync": {
+    "message": "ቅድመ እይታው ወደ ውጭ የሚላከውን የድምፅ ትራክ ይከተላል። የቪዲዮው የመጀመሪያ ድምፅ ተዘግቷል።"
+  },
+  "subtitleAudioTimelineTitle": {
+    "message": "የድምፅ ትራክ"
+  },
+  "subtitleAudioLayoutOnly": {
+    "message": "የትርጉም ጽሑፍ ቦታዎች · የድምፅ ሞገዱ ወደ ውጭ ከተላከ በኋላ ይታያል"
+  },
+  "subtitleAudioRealWave": {
+    "message": "ወደ ውጭ የተላከው ድምፅ ሞገድ · ለማንቀሳቀስ ጠቅ ያድርጉ ወይም ተንሸራታቹን ይጠቀሙ"
+  },
+  "subtitleAudioTracks": {
+    "message": "ድምፆች፦ {count} → አንድ MP3"
+  },
+  "subtitleAudioTracksVideo": {
+    "message": "ድምፆች፦ {count} → ድምፅ የተቀዳለት ቪዲዮ"
+  },
+  "subtitleAudioSeek": {
+    "message": "ወደ ውጭ በተላከው ሚዲያ ውስጥ ተንቀሳቀስ"
+  },
+  "subtitleAudioNoTimeline": {
+    "message": "የጊዜ አቀማመጡን ለማየት የትርጉም ጽሑፍ ያስገቡ።"
+  },
+  "subtitleAudioGenerate": {
+    "message": "MP3 ፍጠር"
+  },
+  "subtitleAudioGenerateVideo": {
+    "message": "ድምፅ የተቀዳለት ቪዲዮ ፍጠር"
+  },
+  "subtitleAudioRegenerate": {
+    "message": "እንደገና ፍጠር"
+  },
+  "subtitleAudioRegenerateVideo": {
+    "message": "ቪዲዮውን እንደገና ፍጠር"
+  },
+  "subtitleAudioRetry": {
+    "message": "ያልተሳኩትን እንደገና ሞክር"
+  },
+  "subtitleAudioCancel": {
+    "message": "ሰርዝ"
+  },
+  "subtitleAudioCancelling": {
+    "message": "በመሰረዝ ላይ…"
+  },
+  "subtitleAudioDownload": {
+    "message": "MP3 አውርድ"
+  },
+  "subtitleAudioDownloadVideo": {
+    "message": "ድምፅ የተቀዳለት ቪዲዮ አውርድ"
+  },
+  "subtitleAudioWorking": {
+    "message": "ንግግር በመፍጠር ላይ"
+  },
+  "subtitleAudioEncoding": {
+    "message": "የድምፅ ትራክ በመገንባት ላይ"
+  },
+  "subtitleAudioFinalizing": {
+    "message": "MP3ን በማጠናቀቅ ላይ"
+  },
+  "subtitleAudioMuxing": {
+    "message": "የድምፅ ቅጂውን በቪዲዮው ላይ በማስቀመጥ ላይ"
+  },
+  "subtitleAudioFinished": {
+    "message": "MP3ዎ ዝግጁ ነው"
+  },
+  "subtitleAudioFinishedVideo": {
+    "message": "ድምፅ የተቀዳለት ቪዲዮዎ ዝግጁ ነው"
+  },
+  "subtitleAudioCancelled": {
+    "message": "መፍጠሩ ተሰርዟል። የተጠናቀቁ የንግግር ቁርጥራጮች ለድጋሚ ሙከራ ተቀምጠዋል።"
+  },
+  "subtitleAudioProgressNote": {
+    "message": "ይህን ገጽ ክፍት ያድርጉት። መሰረዝ እና የተቀመጡትን ቁርጥራጮች በመጠቀም መቀጠል ይችላሉ።"
+  },
+  "subtitleAudioMissing": {
+    "message": "ድምፅ ያልተመደበላቸው መስመሮች፦ {count}። ለእያንዳንዱ መስመር ድምፅ ይምረጡ ወይም «ድምፅ ተግብር»ን ይጠቀሙ።"
+  },
+  "subtitleAudioEmptyText": {
+    "message": "ጽሑፍ የሌላቸው መስመሮች፦ {count}። ከመፍጠርዎ በፊት ጽሑፍ ያክሉ።"
+  },
+  "subtitleAudioCacheNote": {
+    "message": "ንግግሩ የሚፈጠረው በመረጡት አገልግሎት ነው። የትርጉም ጽሑፎች እና የተፈጠሩ ቁርጥራጮች በዚህ መሣሪያ ላይ ይቀመጣሉ፤ ድምፁ እና ቪዲዮው እዚሁ መሣሪያ ላይ ይገጣጠማሉ።"
+  },
+  "subtitleAudioRestored": {
+    "message": "ረቂቁ ተመልሷል።"
+  },
+  "subtitleAudioSaveError": {
+    "message": "ረቂቁን ማስቀመጥ አልተቻለም። ያደረጓቸው ለውጦች እንዳይጠፉ ይህን ገጽ ክፍት ያድርጉት።"
+  },
+  "subtitleAudioFailed": {
+    "message": "ማጠናቀቅ አልተቻለም። የተጠናቀቁ የንግግር ቁርጥራጮች ተቀምጠዋል፤ ለመቀጠል እንደገና ይሞክሩ።"
+  },
+  "subtitleAudioDetails": {
+    "message": "ዝርዝሮች"
+  },
+  "subtitleAudioBadFile": {
+    "message": "የUTF-8 .srt ፋይል ይምረጡ (እስከ 2 MiB)።"
+  },
+  "subtitleAudioEncodingError": {
+    "message": "ይህ ፋይል ትክክለኛ UTF-8 አይደለም። እንደ UTF-8 አስቀምጠው እንደገና ያስገቡት።"
+  },
+  "subtitleAudioImportFailed": {
+    "message": "የትርጉም ጽሑፍ ፋይሉን ማንበብ አልተቻለም። የSRT የጊዜ ማህተሞቹን እና ጽሑፉን ያረጋግጡ።"
+  },
+  "subtitleAudioInvalidVideo": {
+    "message": "ይህ ቪዲዮ ሊነበብ የሚችል የምስል ትራክ የለውም፣ ወይም ቆይታው አይገኝም።"
+  },
+  "subtitleAudioVideoLimitError": {
+    "message": "ይህ ቪዲዮ ከ3 ሰዓት በላይ ስለሆነ ድምፅ የተቀዳለት ቪዲዮ ወደ ውጭ መላክ አይቻልም። አጭር ፋይል ይምረጡ።"
+  },
+  "subtitleAudioVideoStorageError": {
+    "message": "በዚህ ኮምፒውተር ላይ ለዚህ ቪዲዮ በቂ ነፃ ቦታ የለም፦ {needed} GB ገደማ ያስፈልጋል፣ ለአሳሹ ያለው ግን {available} GB ብቻ ነው። የዲስክ ቦታ አስለቅቀው እንደገና ይሞክሩ፣ ወይም ያነሰ ቪዲዮ ይምረጡ።"
+  },
+  "subtitleAudioVideoCodecError": {
+    "message": "ይህ መሣሪያ ያንን የቪዲዮ ኮዴክ (ለምሳሌ HEVC) መቅዳት አይችልም። የተበላሸ ፋይል ከመፍጠር ይልቅ ወደ ውጭ መላኩ ቆሟል። H.264 MP4 ይሞክሩ።"
+  },
+  "subtitleAudioVideoAacUnsupported": {
+    "message": "ይህ አሳሽ AAC ድምጽን መቀየር ስለማይችል የተተረጎመ ድምጽ ያለው ቪዲዮ ወደ ውጭ መላክ አይቻልም። የተተረጎመ ድምጽ MP3 አሁንም ወደ ውጭ መላክ ይቻላል።"
+  },
+  "subtitleAudioVideoCopyUnsupported": {
+    "message": "የዚህ ቪዲዮ ኮዴክ እንደ የተተረጎመ ድምጽ MP4 ወደ ውጭ መላክ አይቻልም። የተተረጎመ ድምጽ MP3 አሁንም ወደ ውጭ መላክ ይቻላል፤ ለቪዲዮ H.264 MP4 ይጠቀሙ።"
+  },
+  "subtitleAudioPreviewFailed": {
+    "message": "ይህን መስመር ማዳመጥ አልተቻለም። የተመረጠውን ድምፅ እና ግንኙነትዎን ያረጋግጡ።"
+  },
+  "subtitleAudioPlayBlocked": {
+    "message": "ድምፁ ዝግጁ ነው። በድምፅ ማጫወቻው ላይ «አጫውት»ን ይጫኑ።"
+  },
+  "subtitleAudioGeneralError": {
+    "message": "ክዋኔውን ማጠናቀቅ አልተቻለም። ግንኙነትዎን አረጋግጠው እንደገና ይሞክሩ።"
+  },
+  "subtitleAudioLimitError": {
+    "message": "ይህ ፕሮጀክት ከሚደገፉት ገደቦች ያልፋል። ቢበዛ 5,000 መስመሮች / 3 ሰዓታት ይጠቀሙ፤ እያንዳንዱ የንግግር ቁርጥራጭ ከ60 ሰከንድ ማነስ አለበት።"
+  },
+  "subtitleAudioStorageError": {
+    "message": "ለዚህ ወደ ውጭ መላክ በቂ የአካባቢ ማከማቻ የለም። ቦታ አስለቅቀው እንደገና ይሞክሩ።"
+  },
+  "subtitleAudioAccountError": {
+    "message": "ንግግር ለመፍጠር ትክክለኛ መለያ እና ቀሪ ኮታ ያስፈልጋል። መለያዎን አረጋግጠው እንደገና ይሞክሩ።"
+  },
+  "subtitleAudioPaused": {
+    "message": "በመጠባበቅ ላይ"
+  },
+  "subtitleAudioGeneratingCue": {
+    "message": "በመፍጠር ላይ"
+  },
+  "subtitleAudioReadyCue": {
+    "message": "ዝግጁ"
+  },
+  "subtitleAudioErrorCue": {
+    "message": "አልተሳካም"
+  },
+  "subtitleAudioVoiceReset": {
+    "message": "አንዳንድ ድምፆች በእነዚህ ቅንብሮች አይገኙም። ለደመቁት መስመሮች ድምፅ ይምረጡ።"
+  },
+  "subtitleAudioConfirmReplace": {
+    "message": "የአሁኑ የትርጉም ጽሑፍ ረቂቅ ይተካ?"
+  },
+  "subtitleAudioClearDraft": {
+    "message": "ከዚህ ረቂቅ ሁሉም የትርጉም ጽሑፎች ይወገዱ?"
+  },
+  "subtitleAudioOutputChanged": {
+    "message": "ቅንብሮቹ ተቀይረዋል። የሚወርደውን ፋይል ለማዘመን እንደገና ይፍጠሩ።"
+  },
+  "subtitleAudioBrowserError": {
+    "message": "ይህ አሳሽ የድምፅ ማቀናበሪያውን ማስጀመር አልቻለም። የዘመነ የዴስክቶፕ አሳሽ ይሞክሩ።"
+  },
+  "subtitleAudioOtherTabBusy": {
+    "message": "ሌላ ትር የትርጉም ጽሑፍ ድምፅ እየፈጠረ ወይም እያሰማ ነው። ያ ሥራ እስኪያልቅ ይጠብቁ ወይም ያንን ትር ይዝጉ፣ ከዚያ እንደገና ይሞክሩ።"
+  },
+  "uploadVideoLanguageLabel": {
+    "message": "የቪዲዮ ቋንቋ (መምረጥ የማወቂያ ትክክለኛነትን ያሻሽላል)"
+  },
+  "uploadVideoLanguageAuto": {
+    "message": "በራስ-ሰር ፈልግ"
+  },
+  "subtitleAudioPreparing": {
+    "message": "ዓረፍተ ነገሮችን እየከፋፈለ እና እየተረጎመ ነው"
+  },
+  "subtitleAudioPrepareFailed": {
+    "message": "የትርጉም ጽሑፉን መከፋፈል ወይም መተርጎም አልተቻለም። እባክዎ ቆይተው እንደገና ይሞክሩ።"
+  },
+  "subtitleAudioSourceLanguage": {
+    "message": "የትርጉም ጽሑፍ ቋንቋ"
+  },
+  "subtitleAudioSourceLanguageUnknown": {
+    "message": "የዚህን የትርጉም ጽሑፍ ቋንቋ ማወቅ አልተቻለም። የተጻፈበትን ቋንቋ ይምረጡ፣ ከዚያ እንደገና ያመንጩ።"
+  },
+  "subtitleAudioPreparedNote": {
+    "message": "እንደ መስመር ላይ ዳቢንግ ተመሳሳይ ደንብ በዓረፍተ ነገር ተከፋፍሎ ወደ {language} ተተርጉሟል። ከታች ትርጉሞቹን ማስተካከል ይችላሉ።"
+  },
+  "subtitleAudioRestoreSource": {
+    "message": "ዋናውን መልስ"
+  },
+  "subtitleAudioRestoreSourceConfirm": {
+    "message": "ዋናውን መመለስ በትርጉሞቹ ላይ ያደረጉትን ለውጥ ያጠፋል፤ በሚቀጥለው ወደ ውጭ መላክ እንደገና ይከፋፈላል ይተረጎማል። ይቀጥሉ?"
+  },
+  "subtitleAudioLanguageChangedRetranslate": {
+    "message": "የዳቢንግ ቋንቋ ስለተቀየረ ዝርዝሩ ወደ ዋናው ጽሑፍ ተመልሷል። ወደ ውጭ ሲላክ እንደገና ይከፋፈላል ይተረጎማል።"
+  },
+  "subtitleAudioCueTooLong": {
+    "message": "መስመር {index} በጣም ረጅም ነው። ወደ አጫጭር መስመሮች ከፋፍለው እንደገና ይሞክሩ።"
+  },
+  "subtitleAudioBackgroundOption": {
+    "message": "የጀርባ ድምፅ ቀላቅል"
+  },
+  "subtitleAudioBackgroundHint": {
+    "message": "ለመለየት ሲሰቀል የዚህ ቪዲዮ የጀርባ ድምፅ (ያለ ሰው ድምፅ) ተለይቷል። እንደ መስመር ላይ ዳቢንግ ከዳቢንጉ ስር ይሰማል።"
+  },
+  "subtitleAudioDownloadingBackground": {
+    "message": "የጀርባ ድምፅ በማውረድ ላይ"
+  },
+  "subtitleAudioBackgroundFailed": {
+    "message": "የጀርባ ድምፁን ማውረድ አልተቻለም። ቆይተው እንደገና ይሞክሩ፣ ወይም “የጀርባ ድምፅ ቀላቅል”ን አንስተው እንደገና ይላኩ።"
+  },
+  "subtitleAudioPreparedSameLanguageNote": {
+    "message": "የትርጉም ጽሑፉ አስቀድሞ በዳቢንግ ቋንቋ ነው፤ “ተመሳሳይ ቋንቋ አትተርጉም” በሚለው ቅንብር መሠረት በዓረፍተ ነገር ብቻ ተከፋፍሏል።"
+  },
+  "dubbingToggleOn": {
+    "message": "ድምጽ ትርጉምን አብራ"
+  },
+  "dubbingToggleOff": {
+    "message": "ድምጽ ትርጉምን አጥፋ"
+  },
+  "dubbingTogglePreparing": {
+    "message": "ድምጽ ትርጉም በመዘጋጀት ላይ ነው፣ እባክዎ ይጠብቁ…"
+  },
+  "dubbingSwitchedOffNotice": {
+    "message": "ድምጽ ትርጉም ጠፍቷል፣ ዋናው ድምጽ ተመልሷል"
+  },
+  "dubbingSwitchedOnNotice": {
+    "message": "ድምጽ ትርጉም በርቷል"
+  },
+  "toggleDubbingCommand": {
+    "message": "ድምጽ ትርጉምን አብራ / አጥፋ"
+  },
+  "spotifyPublicAudioShowNotFound": {
+    "message": "ድምፁ የተመሰጠረ ነው፤ ይህ ፕሮግራም ይፋዊ የፖድካስት ምግብ የለውም (የSpotify ብቸኛ ሊሆን ይችላል)።"
+  },
+  "spotifyPublicAudioEpisodeNotMatched": {
+    "message": "ድምፁ የተመሰጠረ ነው፤ በፕሮግራሙ ይፋዊ የፖድካስት ምግብ ውስጥ የሚዛመድ ክፍል አልተገኘም።"
+  },
+  "spotifyPublicAudioLookupFailed": {
+    "message": "የዚህን ክፍል ይፋዊ ድምፅ ማግኘት አልተቻለም። እባክዎ ቆይተው እንደገና ይሞክሩ።"
+  }
+}

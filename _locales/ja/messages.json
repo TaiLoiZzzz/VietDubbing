@@ -1,0 +1,2315 @@
+{
+  "name": {
+    "message": "YouTube Dubbing – AI字幕翻訳＆吹き替え | Translate & Dub"
+  },
+  "description": {
+    "message": "ワンクリックでオンライン動画を翻訳・吹き替え、外国語を即理解し、世界中の知識を手軽に習得"
+  },
+  "metadataNotFound": {
+    "message": "動画情報を取得できません。更新して再試行してください"
+  },
+  "dubbingMediaNotFoundTitle": {
+    "message": "吹き替え可能な動画が見つかりません"
+  },
+  "dubbingMediaNotFoundText": {
+    "message": "現在、このページには利用可能な動画または音声がありません。動画の読み込みが完了してから再試行するか、ページを更新してください。"
+  },
+  "noSubtitlesFound": {
+    "message": "この動画には字幕がないため、翻訳・吹き替えに対応していません"
+  },
+  "liveVideoNotSupported": {
+    "message": "ライブビデオは現在、吹き替えに対応していません"
+  },
+  "universalDubbingNotSupported": {
+    "message": "現在のバージョンでは、この動画の汎用吹き替えはサポートされていません。次のバージョンでサポート予定です。詳細はカスタマーサービスにお問い合わせください。"
+  },
+  "postLoginTranslationSettings": {
+    "message": "ログイン成功。拡張機能のアイコンをクリックして、翻訳言語と声のリストを選択できます。"
+  },
+  "noSubtitlesWaitOptimization": {
+    "message": "利用可能な字幕がありません。拡張機能がこの動画の字幕を認識するまでお待ちください。認識完了後、登録されたメールアドレスに通知メールをお送りします。"
+  },
+  "privateVideoNoSubtitles": {
+    "message": "この動画には字幕がなく、かつ限定公開の動画です。拡張機能はこの動画の字幕をバックグラウンドで認識できません。動画を公開設定に変更するか、手動で字幕を追加してから再度お試しください。"
+  },
+  "trialMemberDurationLimit": {
+    "message": "この動画には字幕がありません。試用版メンバーのため、現在15分以内の動画のみ字幕認識に対応しています。正式版メンバーは3時間以内の動画に対応しています。"
+  },
+  "premiumMemberDurationLimit": {
+    "message": "この動画には字幕がなく、動画の長さが3時間を超えているため、翻訳・吹き替えに対応していません。より短い動画または字幕付きの動画を選択してください。"
+  },
+  "freeUserNoSubtitles": {
+    "message": "この動画には内蔵字幕がありません。字幕認識を行い、翻訳・吹き替え機能をお楽しみいただくには、拡張機能メンバーシップにご登録ください。"
+  },
+  "freeUserDailyLimit": {
+    "message": "無料ユーザーは1日最大5本の動画を拡張機能経由で視聴できます。メンバーシップにアップグレードして無制限視聴特典をお楽しみください。"
+  },
+  "upgradeEntryUpgradeButton": {
+    "message": "アップグレード"
+  },
+  "upgradeEntryLaterButton": {
+    "message": "あとで"
+  },
+  "aiSubtitlesRecognitionInBackground": {
+    "message": "現在、この動画には AI 字幕がありません。拡張機能がバックグラウンドで認識を開始しました。最初の一文の吹き替えが聞こえたらページを閉じ、メール通知をお待ちください。準備ができると吹き替えボタンが緑色になり、翻訳品質が向上します。"
+  },
+  "upgradeMembershipForBackgroundRecognition": {
+    "message": "メンバーシップにアップグレードすると、拡張機能がバックグラウンドで AI 字幕の認識を行います。メール通知を受け取ったら、戻って視聴してください。その時点で吹き替えボタンが緑色になり、翻訳精度が向上します。"
+  },
+  "memberFreeVoiceAzureSuggestion": {
+    "message": "現在、無料の音声タイプで吹き替えています。Azure 音声はより自然に聞こえます。メンバーは現在、追加のクレジットチャージなしで Azure を無制限に利用できます。"
+  },
+  "memberAiSubtitlePlatformPrioritySuggestion": {
+    "message": "現在は拡張機能のバックグラウンド AI が認識した字幕を使用しています。翻訳が不正確に感じる場合は、基本設定で字幕の優先度をプラットフォーム字幕に変更してください。"
+  },
+  "openBasicSettingsLink": {
+    "message": "基本設定を開く"
+  },
+  "doNotShowAgainLink": {
+    "message": "今後表示しない"
+  },
+  "loginAndUsePlugin": {
+    "message": "まず拡張機能のアイコンをクリックしてログインし、その後拡張機能を使用して音声再生を行ってください。"
+  },
+  "voiceSettingsMismatch": {
+    "message": "音声タイプと音声設定が一致しません。設定ページに移動して音声設定を再選択して保存してください。"
+  },
+  "contentMenusTitle": {
+    "message": "音声再生を開始"
+  },
+  "videoDetectedDomainTooltip": {
+    "message": "現在の動画で認識された分野: {domain}"
+  },
+  "dropboxClickCcToTranscribe": {
+    "message": "この動画はまだ文字起こしされていません。Dropbox の動画下部にある CC ボタンをクリックして字幕を作成してください。文字起こしが完了したら、拡張機能の吹き替えボタンをクリックして翻訳と吹き替えを実行してください。"
+  },
+  "iosInterceptorConflictTitle": {
+    "message": "拡張機能の競合を検出しました"
+  },
+  "iosInterceptorConflictMessage": {
+    "message": "別のブラウザー拡張機能が字幕リクエストの傍受を妨げています。競合する拡張機能を無効にし、ページを再読み込みしてから再試行してください。"
+  },
+  "login": {
+    "message": "ログイン"
+  },
+  "logout": {
+    "message": "ログアウト"
+  },
+  "subscribe": {
+    "message": "会員登録"
+  },
+  "save_settings": {
+    "message": "設定を保存"
+  },
+  "saving": {
+    "message": "保存中..."
+  },
+  "saveSuccessTitle": {
+    "message": "保存成功"
+  },
+  "saveSuccessText": {
+    "message": "設定が保存されました"
+  },
+  "saveFailedTitle": {
+    "message": "保存に失敗しました"
+  },
+  "saveFailedText": {
+    "message": "設定の保存に失敗しました。もう一度お試しください"
+  },
+  "confirmButton": {
+    "message": "続行して保存"
+  },
+  "cancelButton": {
+    "message": "キャンセル"
+  },
+  "back": {
+    "message": "戻る"
+  },
+  "backToSettings": {
+    "message": "設定に戻る"
+  },
+  "backToVideoLibrary": {
+    "message": "ビデオライブラリに戻る"
+  },
+  "source_languages": {
+    "message": "ソース言語:"
+  },
+  "target_languages": {
+    "message": "対象言語:"
+  },
+  "selectSourceLanguage": {
+    "message": "ソース言語を選択"
+  },
+  "selectTargetLanguage": {
+    "message": "対象言語を選択"
+  },
+  "searchSourceLanguage": {
+    "message": "ソース言語を検索..."
+  },
+  "searchTargetLanguage": {
+    "message": "対象言語を検索..."
+  },
+  "loading": {
+    "message": "読み込み中"
+  },
+  "sex": {
+    "message": "性別:"
+  },
+  "voices": {
+    "message": "声:"
+  },
+  "voicesType": {
+    "message": "音声タイプ:"
+  },
+  "man": {
+    "message": "男"
+  },
+  "woman": {
+    "message": "女"
+  },
+  "free": {
+    "message": "無料"
+  },
+  "memberFree": {
+    "message": "会員無料"
+  },
+  "memberFreeRequireMembership": {
+    "message": "この音声タイプは会員限定です。アップグレードして無料でご利用ください。"
+  },
+  "azureRequireMembership": {
+    "message": "Azure TTS は会員限定です。アップグレードして高品質な Azure 音声をご利用ください。"
+  },
+  "originalAudio": {
+    "message": "原音声"
+  },
+  "translatedAudio": {
+    "message": "翻訳音声"
+  },
+  "backgroundAudio": {
+    "message": "背景音"
+  },
+  "textToSpeech": {
+    "message": "テキスト読み上げ:"
+  },
+  "textToSpeechToggle": {
+    "message": "フローティングボール"
+  },
+  "showSubtitle": {
+    "message": "字幕を表示"
+  },
+  "subtitleSize": {
+    "message": "サイズ"
+  },
+  "subtitles": {
+    "message": "字幕"
+  },
+  "toggleSubtitles": {
+    "message": "字幕の切り替え"
+  },
+  "subtitleDisplayMode": {
+    "message": "字幕表示モード"
+  },
+  "subtitleModeTranslated": {
+    "message": "翻訳のみ"
+  },
+  "subtitleModeBilingual": {
+    "message": "二言語字幕"
+  },
+  "subtitleModeOff": {
+    "message": "字幕をオフ"
+  },
+  "translateService": {
+    "message": "翻訳:"
+  },
+  "translationEngine": {
+    "message": "翻訳エンジン"
+  },
+  "translationService": {
+    "message": "翻訳サービス"
+  },
+  "translationServiceTitle": {
+    "message": "翻訳サービス"
+  },
+  "advancedSettings": {
+    "message": "高度な設定"
+  },
+  "pauseVideo": {
+    "message": "動画を一時停止"
+  },
+  "iosOpenOriginVolume": {
+    "message": "オリジナル音声をオンにする"
+  },
+  "voicesAndSubtitles": {
+    "message": "音声と字幕"
+  },
+  "voicesAndSubtitlesTitle": {
+    "message": "音声と字幕"
+  },
+  "speakerList": {
+    "message": "話者リスト"
+  },
+  "speakersTitle": {
+    "message": "話者"
+  },
+  "deleteSpeaker": {
+    "message": "削除"
+  },
+  "editSpeaker": {
+    "message": "話者を編集"
+  },
+  "speakerName": {
+    "message": "話者名"
+  },
+  "enterSpeakerName": {
+    "message": "話者名を入力"
+  },
+  "enterVoice": {
+    "message": "音声名を入力"
+  },
+  "voice": {
+    "message": "音声"
+  },
+  "gender": {
+    "message": "性別"
+  },
+  "male": {
+    "message": "男"
+  },
+  "female": {
+    "message": "女"
+  },
+  "edit": {
+    "message": "編集"
+  },
+  "delete": {
+    "message": "削除"
+  },
+  "save": {
+    "message": "保存"
+  },
+  "cancel": {
+    "message": "キャンセル"
+  },
+  "confirmDeleteSpeaker": {
+    "message": "この話者を削除してもよろしいですか？"
+  },
+  "noSpeakers": {
+    "message": "話者がいません"
+  },
+  "memberUser": {
+    "message": "PRO"
+  },
+  "accountBalance": {
+    "message": "アカウント残高:"
+  },
+  "userAccountAriaLabel": {
+    "message": "ユーザーアカウント"
+  },
+  "membershipExpires": {
+    "message": "会員期限"
+  },
+  "shortcutSettings": {
+    "message": "ショートカット設定"
+  },
+  "subscriptionRecharge": {
+    "message": "購読 & チャージ"
+  },
+  "membershipIcon": {
+    "message": "会員アイコン"
+  },
+  "browserShortcutSettingsTip": {
+    "message": "ブラウザ拡張機能の設定でショートカットを設定してください"
+  },
+  "safariShortcutSettingsTip": {
+    "message": "Safari > 環境設定 > 拡張機能でショートカットを設定してください"
+  },
+  "edgeShortcutSettingsTip": {
+    "message": "Edgeの拡張機能ショートカット設定ページを開いています"
+  },
+  "firefoxShortcutSettingsTip": {
+    "message": "Firefoxアドオンページを開いています。拡張機能とテーマでショートカットを設定してください"
+  },
+  "dubbingSettings": {
+    "message": "配音設定"
+  },
+  "debugInfo": {
+    "message": "デバッグ情報"
+  },
+  "sourceLanguage": {
+    "message": "ソース言語"
+  },
+  "targetLanguage": {
+    "message": "対象言語"
+  },
+  "vipRequiredTitle": {
+    "message": "メンバーシップが必要です"
+  },
+  "vipRequiredText": {
+    "message": "この機能を使用するにはメンバーになる必要があります"
+  },
+  "vipAndBalanceRequiredTitle": {
+    "message": "メンバーシップと残高が必要です"
+  },
+  "vipAndBalanceRequiredText": {
+    "message": "この機能を使用するにはメンバーになり、十分な残高が必要です"
+  },
+  "balanceRequiredTitle": {
+    "message": "残高が必要です"
+  },
+  "balanceRequiredText": {
+    "message": "アカウント残高が不足しています。この機能を使用するにはチャージしてください"
+  },
+  "lowBalanceTitle": {
+    "message": "残高不足アラート"
+  },
+  "lowBalanceText": {
+    "message": "アカウント残高が1ドル未満です。サービスの中断を避けるため、早めにチャージすることをお勧めします"
+  },
+  "insufficientBalance": {
+    "message": "残高が不足していて、Google翻訳にダウングレードされました。AI翻訳を使用するには、残高を再チャージしてください。"
+  },
+  "insufficientBalanceAlertMsg": {
+    "message": "残高が不足しています。AI翻訳とAzure TTSを使用する前に、残高をチャージしてください。チャージしたくない場合は、Google翻訳と無料の音声タイプに切り替えることができます。"
+  },
+  "balanceRunningLow": {
+    "message": "残高が少なくなっています。視聴体験が悪化しないように、事前にチャージすることをお勧めします。"
+  },
+  "membershipRequired": {
+    "message": "OpenAI翻訳を使用する前に、会員登録をしてください。"
+  },
+  "membershipRequiredForAI": {
+    "message": "AI翻訳を使用する前に、メンバーシップをチャージしてください。チャージしたくない場合は、Google翻訳を選択することもできます。"
+  },
+  "insufficientMembership": {
+    "message": "メンバーシップの有効期限が切れました。AI翻訳とAzure TTSを使用する前に、メンバーシップをチャージしてください。チャージしたくない場合は、Google翻訳と無料の音声タイプを選択することもできます。"
+  },
+  "insufficientBalanceAndMembership": {
+    "message": "AI翻訳とAzure TTSを使用する前に、メンバーシップと残高をチャージしてください。チャージしたくない場合は、Google翻訳と無料の音声タイプを選択することもできます。"
+  },
+  "freeForVip": {
+    "message": "会員無料"
+  },
+  "freeOptionTipText": {
+    "message": "チャージしたくない場合は、無料オプションを選択できます。"
+  },
+  "translateEngineTipText": {
+    "message": "翻訳サービスをGoogleに変更する"
+  },
+  "voiceTypeTipText": {
+    "message": "音声タイプを無料バージョンに変更する"
+  },
+  "vipFreeOptionTipText": {
+    "message": "メンバーとして、以下の翻訳サービスを無料で利用できます"
+  },
+  "vipTranslateEngineTipText": {
+    "message": "翻訳サービスをgemini、deepseek、gpt-3.5-turboまたはclaude-3-haikuなどのメンバー無料サービスに変更"
+  },
+  "pay": {
+    "message": "支払う"
+  },
+  "switchModelWarning": {
+    "message": "動画を再生中に、音声または翻訳モデルを切り替えると、すでにロードされたリソースが無駄になるため、追加料金が発生します。次の動画で切り替えることをお勧めします。それでも続行する場合は、続行して保存をクリックしてください。"
+  },
+  "selectSpeaker": {
+    "message": "選択"
+  },
+  "speaker": {
+    "message": "話者"
+  },
+  "rechargeLimit": {
+    "message": "残高+会員"
+  },
+  "tooExpensive": {
+    "message": "高すぎる"
+  },
+  "dropdownPlaceholder": {
+    "message": "選択"
+  },
+  "dropdownNoOptions": {
+    "message": "利用可能なオプションはありません"
+  },
+  "dropdownSearch": {
+    "message": "検索..."
+  },
+  "swapVolumeSettingsCommand": {
+    "message": "オリジナル音声と吹き替え音声の音量設定を切り替える"
+  },
+  "cycleSubtitleModeCommand": {
+    "message": "字幕を切り替え：2 か国語 → 翻訳のみ → オフ"
+  },
+  "trialMemberModelLimit": {
+    "message": "お試し会員は Gemini と Google 翻訳のみ利用できます。その他のモデルを利用するには、会員登録をご検討ください。"
+  },
+  "subtitlesRateLimitedByYouTube": {
+    "message": "この動画の字幕は現在 YouTube により制限されています。しばらくしてからもう一度お試しください。"
+  },
+  "musicVideoNotSupported": {
+    "message": "この動画は音楽動画です。翻訳と吹き替えには対応していません。"
+  },
+  "hideUntilNextVisit": {
+    "message": "次回訪問まで非表示"
+  },
+  "disableGlobally": {
+    "message": "全体的に無効化"
+  },
+  "sidebarHideUntilNextVisit": {
+    "message": "次回訪問まで非表示"
+  },
+  "sidebarDisableForSite": {
+    "message": "このサイトで無効化"
+  },
+  "sidebarDisableGlobally": {
+    "message": "グローバルに無効化"
+  },
+  "sidebarReenableHint": {
+    "message": " "
+  },
+  "sidebarSettings": {
+    "message": "設定"
+  },
+  "sidebarReenableHintSuffix": {
+    "message": "で再度有効にできます"
+  },
+  "notSupported": {
+    "message": "未対応"
+  },
+  "multiVideoNotSupported": {
+    "message": "このページには複数の動画があります。ユニバーサル吹き替えはHLSストリームの場合、単一動画のページのみサポートしています。"
+  },
+  "mediaSourceNotDetected": {
+    "message": "動画ソースを検出できません。このウェブサイトはサポートされていない可能性があります。"
+  },
+  "uploadMediaForRecognition": {
+    "message": "字幕が見つかりませんでした。AI字幕認識のために動画をアップロードしますか？"
+  },
+  "startUpload": {
+    "message": "アップロード開始"
+  },
+  "uploadingMedia": {
+    "message": "メディアをアップロード中..."
+  },
+  "downloading": {
+    "message": "ダウンロード中"
+  },
+  "uploading": {
+    "message": "アップロード中"
+  },
+  "completing": {
+    "message": "完了処理中"
+  },
+  "uploadComplete": {
+    "message": "アップロード完了"
+  },
+  "waitingForRecognition": {
+    "message": "動画のアップロードが完了しました。AI字幕認識を実行中です。完了次第、メールでお知らせします。"
+  },
+  "uploadFailed": {
+    "message": "アップロード失敗"
+  },
+  "corsNotSupported": {
+    "message": "このウェブサイトではメディアファイルのダウンロードが許可されていません。ユニバーサル吹替は利用できません。"
+  },
+  "mediaDownloadInterrupted": {
+    "message": "ネットワーク接続が中断されたため、メディアのダウンロードに失敗しました（サイトによる制限ではありません）。もう一度アップロードしてください。"
+  },
+  "zoomRecordingDnrNotSupported": {
+    "message": "お使いのブラウザはZoom録画アップロード認識に対応していません。Chrome/Edgeをご使用ください。"
+  },
+  "zoomRecordingDownloadForbidden403": {
+    "message": "Zoom録画のダウンロードが禁止されました（403）。ページを再生/更新して認証を通過してから、再度アップロードしてください。"
+  },
+  "liveStreamNotSupported": {
+    "message": "ライブストリームはユニバーサル吹替に対応していません。"
+  },
+  "noAudioTrackFound": {
+    "message": "オーディオトラックが検出されませんでした。この動画は音声のない映像のみのファイルのようです。吹き替え認識には使用できません。"
+  },
+  "universalDubbingMemberOnly": {
+    "message": "ユニバーサル吹替はクラウドGPU計算能力を消費します（コストが高い）、VIP限定です。"
+  },
+  "videoDurationExceedsLimit": {
+    "message": "この動画は3時間を超えています。3時間を超える動画のユニバーサル吹替は現在サポートされていません。"
+  },
+  "videoDrmProtected": {
+    "message": "この動画はDRM保護されているため、吹き替え機能を使用できません。"
+  },
+  "pleaseClickVideoToPlay": {
+    "message": "動画をクリックして開いてから、吹き替え機能をご利用ください。"
+  },
+  "iosUniversalDubbingNotSupported": {
+    "message": "ユニバーサル吹き替えはiOSデバイスではサポートされていません。デスクトップブラウザをご利用ください。"
+  },
+  "membershipRequiredTitle": {
+    "message": "会員登録が必要です"
+  },
+  "error": {
+    "message": "エラー"
+  },
+  "unknownError": {
+    "message": "不明なエラーが発生しました。もう一度お試しください。"
+  },
+  "doNotClosePage": {
+    "message": "アップロード中はこのページを閉じたり更新したりしないでください。アップロードが中断されます。"
+  },
+  "taskAlreadySubmitted": {
+    "message": "この動画はすでにAI字幕認識の処理中です。メール通知をお待ちください。"
+  },
+  "sampleAesNotSupported": {
+    "message": "この動画はSAMPLE-AES暗号化を使用しているため、現在ダウンロードには対応していません。"
+  },
+  "hlsKeyFetchFailed": {
+    "message": "この動画の復号キーの取得に失敗しました。動画が保護されているか、キーサーバーが利用できない可能性があります。"
+  },
+  "hlsDecryptionFailed": {
+    "message": "動画コンテンツの復号に失敗しました。暗号化キーが正しくないか、動画形式に互換性がない可能性があります。"
+  },
+  "subtitleStyleOptionsTitle": {
+    "message": "字幕スタイルの設定"
+  },
+  "subtitleStyleOptionsDesc": {
+    "message": "調整は保存され、すぐに有効になります。"
+  },
+  "subtitleStyleSectionTitle": {
+    "message": "字幕スタイル"
+  },
+  "subtitleStylePreviewTitle": {
+    "message": "プレビュー"
+  },
+  "subtitleStylePreviewTag": {
+    "message": "リアルタイム"
+  },
+  "subtitleStylePreviewText": {
+    "message": "彼は、この若者には大きな可能性があると思った。"
+  },
+  "subtitleStylePosition": {
+    "message": "字幕の位置"
+  },
+  "subtitleStylePositionTop": {
+    "message": "上"
+  },
+  "subtitleStylePositionMiddle": {
+    "message": "中央"
+  },
+  "subtitleStylePositionBottom": {
+    "message": "下"
+  },
+  "subtitleStyleFontFamily": {
+    "message": "フォント"
+  },
+  "subtitleStyleFontSize": {
+    "message": "フォントサイズ"
+  },
+  "subtitleStyleCustomOption": {
+    "message": "カスタマイズ"
+  },
+  "subtitleStyleCustomFont": {
+    "message": "カスタムフォント"
+  },
+  "subtitleStyleCustomFontPlaceholder": {
+    "message": "例: PingFang SC、Arial"
+  },
+  "subtitleStyleTextColor": {
+    "message": "文字の色"
+  },
+  "subtitleStyleFontWeight": {
+    "message": "フォントの太さ"
+  },
+  "subtitleStyleBackgroundColor": {
+    "message": "背景色"
+  },
+  "subtitleStyleBackgroundOpacity": {
+    "message": "背景の不透明度"
+  },
+  "subtitleStyleEdgeStyle": {
+    "message": "エッジスタイル"
+  },
+  "subtitleStyleEdgeNone": {
+    "message": "なし"
+  },
+  "subtitleStyleEdgeShadow": {
+    "message": "シャドウ"
+  },
+  "subtitleStyleEdgeOutline": {
+    "message": "アウトライン"
+  },
+  "subtitleStyleFontNone": {
+    "message": "なし"
+  },
+  "subtitleStyleFontDefault": {
+    "message": "デフォルト"
+  },
+  "subtitleStyleFontPingFang": {
+    "message": "PingFang SC"
+  },
+  "subtitleStyleFontYaHei": {
+    "message": "Microsoft YaHei"
+  },
+  "subtitleStyleFontHeiti": {
+    "message": "STHeiti"
+  },
+  "subtitleStyleFontKaiti": {
+    "message": "Kaiti SC"
+  },
+  "subtitleStyleFontSongti": {
+    "message": "STSong"
+  },
+  "subtitleStyleFontFangsong": {
+    "message": "FangSong"
+  },
+  "subtitleStyleFontDongqingHeiti": {
+    "message": "Dongqing Heiti"
+  },
+  "subtitleStyleFontLantingHei": {
+    "message": "Lanting Hei"
+  },
+  "subtitleStyleFontHanyiHeiliu": {
+    "message": "Hanyi Heiliu"
+  },
+  "subtitleStyleFontHanyiZhonghei": {
+    "message": "Hanyi Zhonghei"
+  },
+  "subtitleStyleFontSTSong": {
+    "message": "Songti"
+  },
+  "subtitleStyleFontWawati": {
+    "message": "Wawati"
+  },
+  "subtitleStyleFontWeibei": {
+    "message": "Weibei"
+  },
+  "subtitleStyleFontXingkai": {
+    "message": "Xingkai"
+  },
+  "subtitleStyleFontYuanti": {
+    "message": "Yuanti"
+  },
+  "subtitleStyleFontArialUnicode": {
+    "message": "Arial Unicode MS"
+  },
+  "subtitleStyleFontArial": {
+    "message": "Arial"
+  },
+  "subtitleStyleFontCourierNew": {
+    "message": "Courier New"
+  },
+  "subtitleStyleFontGeorgia": {
+    "message": "Georgia"
+  },
+  "subtitleStyleFontTahoma": {
+    "message": "Tahoma"
+  },
+  "subtitleStyleFontTimesNewRoman": {
+    "message": "Times New Roman"
+  },
+  "subtitleStyleFontTrebuchetMS": {
+    "message": "Trebuchet MS"
+  },
+  "subtitleStyleFontVerdana": {
+    "message": "Verdana"
+  },
+  "subtitleStyleFontHelveticaNeue": {
+    "message": "Helvetica Neue"
+  },
+  "subtitleStyleFontHiraginoMincho": {
+    "message": "Hiragino Mincho ProN"
+  },
+  "subtitleStyleFontHiraginoKaku": {
+    "message": "Hiragino Kaku Gothic ProN"
+  },
+  "subtitleStyleFontKohinoor": {
+    "message": "Kohinoor Devanagari"
+  },
+  "subtitleStyleFontAppleSD": {
+    "message": "Apple SD Gothic Neo"
+  },
+  "subtitleStyleFontNanumGothic": {
+    "message": "Nanum Gothic"
+  },
+  "subtitleStyleFontCustom": {
+    "message": "カスタム"
+  },
+  "subtitleStyleColorWhite": {
+    "message": "白"
+  },
+  "subtitleStyleColorYellow": {
+    "message": "黄色"
+  },
+  "subtitleStyleColorOrange": {
+    "message": "オレンジ色"
+  },
+  "subtitleStyleColorGray": {
+    "message": "グレー"
+  },
+  "subtitleStyleColorGreen": {
+    "message": "緑"
+  },
+  "subtitleStyleColorCyan": {
+    "message": "シアン"
+  },
+  "subtitleStyleColorBlue": {
+    "message": "青"
+  },
+  "subtitleStyleColorMagenta": {
+    "message": "マゼンタ"
+  },
+  "subtitleStyleColorRed": {
+    "message": "赤"
+  },
+  "subtitleStyleColorBlack": {
+    "message": "黒"
+  },
+  "subtitleStyleEditorViewLabel": {
+    "message": "スタイル編集ビュー"
+  },
+  "subtitleStyleEditorViewTranslated": {
+    "message": "訳文のみ"
+  },
+  "subtitleStyleEditorViewBilingual": {
+    "message": "二言語字幕"
+  },
+  "subtitleStyleLayoutSectionTitle": {
+    "message": "二言語レイアウト"
+  },
+  "subtitleStyleOrder": {
+    "message": "字幕の順序"
+  },
+  "subtitleStyleOrderTranslatedFirst": {
+    "message": "訳文を上に"
+  },
+  "subtitleStyleOrderOriginalFirst": {
+    "message": "原文を上に"
+  },
+  "subtitleStyleLineGap": {
+    "message": "行間"
+  },
+  "subtitleStyleTextAlign": {
+    "message": "水平揃え"
+  },
+  "subtitleStyleTextAlignLeft": {
+    "message": "左揃え"
+  },
+  "subtitleStyleTextAlignCenter": {
+    "message": "中央揃え"
+  },
+  "subtitleStyleTextAlignRight": {
+    "message": "右揃え"
+  },
+  "subtitleStyleTranslatedSectionTitle": {
+    "message": "訳文スタイル"
+  },
+  "subtitleStyleOriginalSectionTitle": {
+    "message": "原文スタイル"
+  },
+  "subtitleStyleFollowTranslated": {
+    "message": "訳文スタイルに合わせる"
+  },
+  "subtitleStyleUsesCurrentSettings": {
+    "message": "現在の設定を使用"
+  },
+  "subtitleStyleOriginalSizePercent": {
+    "message": "文字サイズ比率"
+  },
+  "subtitleStyleSharedBackgroundSectionTitle": {
+    "message": "共通の背景"
+  },
+  "subtitleStyleRestoreDefaults": {
+    "message": "デフォルトに戻す"
+  },
+  "subtitleStylePreviewOriginalText": {
+    "message": "He thought this young man had great potential."
+  },
+  "subtitleStyleColorLightGray": {
+    "message": "ライトグレー"
+  },
+  "disabledSitesSectionTitle": {
+    "message": "無効化サイト"
+  },
+  "disabledSitesTitle": {
+    "message": "無効化サイト管理"
+  },
+  "disabledSitesDescription": {
+    "message": "以下のサイトではフローティングボールが表示されません。ここで無効化サイトを追加または削除できます。"
+  },
+  "disabledSitesPlaceholder": {
+    "message": "ドメインを入力（例：youtube.com）"
+  },
+  "disabledSitesAdd": {
+    "message": "追加"
+  },
+  "disabledSitesDomain": {
+    "message": "ドメイン"
+  },
+  "disabledSitesActions": {
+    "message": "操作"
+  },
+  "disabledSitesDelete": {
+    "message": "削除"
+  },
+  "disabledSitesEmpty": {
+    "message": "無効化サイトなし"
+  },
+  "preferencesSectionTitle": {
+    "message": "基本設定"
+  },
+  "optionsNavPreferencesShort": {
+    "message": "基本"
+  },
+  "optionsNavSubtitleShort": {
+    "message": "字幕"
+  },
+  "optionsNavAiShort": {
+    "message": "AI"
+  },
+  "optionsNavSitesShort": {
+    "message": "サイト"
+  },
+  "preferenceStatusDisabled": {
+    "message": "無効"
+  },
+  "preferencesTitle": {
+    "message": "基本設定"
+  },
+  "preferencesDescription": {
+    "message": "ここで基本的な設定を管理します。"
+  },
+  "emailNotificationLabel": {
+    "message": "メール通知"
+  },
+  "emailNotificationDescription": {
+    "message": "字幕認識が完了したらメールで通知する。"
+  },
+  "emailNotificationSaveFailed": {
+    "message": "保存に失敗しました。しばらくしてからもう一度お試しください。"
+  },
+  "skipTranslationWhenSameLanguageLabel": {
+    "message": "同一言語の場合は翻訳をスキップ"
+  },
+  "skipTranslationWhenSameLanguageDescription": {
+    "message": "有効にすると、字幕言語と対象言語が同じ場合は翻訳せずに直接吹き替えを開始します。"
+  },
+  "userSubtitleSegmentationEnabledLabel": {
+    "message": "ユーザー字幕のスマート分割"
+  },
+  "userSubtitleSegmentationEnabledDescription": {
+    "message": "オンにすると、編集した字幕やローカルでアップロードした字幕を自動で分割します。オフにすると元の区切りを保持します。"
+  },
+  "subtitlePriorityTitle": {
+    "message": "字幕翻訳の優先順位"
+  },
+  "subtitlePriorityDescription": {
+    "message": "翻訳に使用する字幕ソースの優先順位を選択します。"
+  },
+  "subtitlePriorityAiSubtitle": {
+    "message": "プラグインAI認識字幕"
+  },
+  "subtitlePriorityAiSubtitleDesc": {
+    "message": "プラグイン独自のAI音声認識で生成された字幕を優先使用し、精度が高くなります。"
+  },
+  "subtitlePriorityPlatformSubtitle": {
+    "message": "プラットフォーム内蔵字幕"
+  },
+  "subtitlePriorityPlatformSubtitleDesc": {
+    "message": "動画プラットフォームが提供するオリジナル字幕を優先使用します。"
+  },
+  "subtitlePriorityQuickLabel": {
+    "message": "字幕優先"
+  },
+  "subtitlePriorityQuickAi": {
+    "message": "AI認識"
+  },
+  "subtitlePriorityQuickPlatform": {
+    "message": "公式字幕"
+  },
+  "panelTabVideoSummary": {
+    "message": "動画まとめ"
+  },
+  "panelTabSubtitleEdit": {
+    "message": "字幕編集"
+  },
+  "panelSummaryTitle": {
+    "message": "動画の要約 & アウトライン"
+  },
+  "panelSummaryDesc": {
+    "message": "最先端のAIモデルを活用し、動画の内容をすばやく把握できます"
+  },
+  "panelSummaryGenerate": {
+    "message": "要約を生成"
+  },
+  "panelSummaryGenerating": {
+    "message": "生成中..."
+  },
+  "panelSummaryReGenerating": {
+    "message": "再生成中..."
+  },
+  "panelSummarySectionSummary": {
+    "message": "要約"
+  },
+  "panelSummarySectionHighlights": {
+    "message": "ハイライト"
+  },
+  "panelSummaryExpandAll": {
+    "message": "すべて展開"
+  },
+  "panelSummaryCollapseAll": {
+    "message": "すべて折りたたむ"
+  },
+  "panelSummaryExpand": {
+    "message": "展開"
+  },
+  "panelSummaryCollapse": {
+    "message": "折りたたむ"
+  },
+  "panelSummaryShare": {
+    "message": "共有"
+  },
+  "panelSummaryCopy": {
+    "message": "コピー"
+  },
+  "panelSummaryReGenerate": {
+    "message": "再生成"
+  },
+  "panelSummaryCopySuccess": {
+    "message": "コピーしました"
+  },
+  "panelSummaryPlay": {
+    "message": "再生"
+  },
+  "panelSummaryPause": {
+    "message": "一時停止"
+  },
+  "panelSummaryPlayFailed": {
+    "message": "再生に失敗しました。もう一度お試しください"
+  },
+  "panelSummaryNoSubtitle": {
+    "message": "この動画には字幕がありません"
+  },
+  "panelSummaryError": {
+    "message": "要約の生成に失敗しました。もう一度お試しください"
+  },
+  "panelSummaryErrorInvalidVideoId": {
+    "message": "現在の動画を識別できません。ページを更新して再度お試しください"
+  },
+  "panelSummaryErrorMemberRequired": {
+    "message": "動画要約は会員限定機能です。ご利用にはメンバーシップへのご登録が必要です"
+  },
+  "panelSummaryErrorNoSubtitles": {
+    "message": "この動画には利用可能な字幕がないため、要約を生成できません"
+  },
+  "panelSummaryErrorServiceError": {
+    "message": "要約サービスは一時的に利用できません。しばらくしてから再度お試しください"
+  },
+  "subtitleEditorManualInput": {
+    "message": "手動入力"
+  },
+  "subtitleEditorSwitchTip": {
+    "message": "字幕を切り替えるにはここをクリックしてください"
+  },
+  "subtitleEditorExport": {
+    "message": "書き出し"
+  },
+  "subtitleEditorTrackFallback": {
+    "message": "字幕ソース"
+  },
+  "subtitleEditorMySubtitles": {
+    "message": "私の字幕"
+  },
+  "subtitleEditorNoSourceManual": {
+    "message": "利用可能な字幕ソースはありません (手動入力は利用可能)"
+  },
+  "subtitleEditorSaveInvalidVideo": {
+    "message": "現在のビデオを識別できません。保存に失敗しました。"
+  },
+  "subtitleEditorSaveFailed": {
+    "message": "保存に失敗しました。後でもう一度試してください。"
+  },
+  "subtitleEditorValidationEmpty": {
+    "message": "字幕コンテンツを空にすることはできません"
+  },
+  "subtitleEditorValidationBlockStructure": {
+    "message": "無効な SRT ブロックです。シーケンス、タイムスタンプ、コンテンツは必須です。"
+  },
+  "subtitleEditorValidationSequenceFormat": {
+    "message": "無効な SRT シーケンス番号形式です"
+  },
+  "subtitleEditorValidationSequenceIncrement": {
+    "message": "SRT シーケンス番号は 1 から始まり、1 ずつ増加する必要があります"
+  },
+  "subtitleEditorValidationTimeFormat": {
+    "message": "無効な時刻形式です。見直して修正してください。"
+  },
+  "subtitleEditorValidationEndAfterStart": {
+    "message": "終了時間は開始時間より大きくなければなりません"
+  },
+  "subtitleEditorValidationContentRequired": {
+    "message": "各サブタイトルには少なくとも 1 行のテキストが含まれている必要があります"
+  },
+  "subtitleEditorValidationSpeakerPrefix": {
+    "message": "一部の字幕には話者タグが含まれています。すべての字幕には [speaker] という接頭辞を使用する必要があります。"
+  },
+  "localPlayerTemporaryImportMode": {
+    "message": "一時インポートモード"
+  },
+  "localPlayerLibraryTitle": {
+    "message": "ローカルビデオライブラリ"
+  },
+  "localPlayerEntryButton": {
+    "message": "ローカル動画"
+  },
+  "localPlayerPageTitle": {
+    "message": "ローカル動画 · YouTube Dubbing"
+  },
+  "localPlayerFolderAccessDescription": {
+    "message": "フォルダを開くとファイルハンドルが保存されるため、リフレッシュ後にアクセスを復元できます。"
+  },
+  "localPlayerTemporaryImportDescription": {
+    "message": "このブラウザはFile System Access APIをサポートしていません。動画や字幕を一時的に追加できます。"
+  },
+  "localPlayerOpenFolder": {
+    "message": "フォルダーを開く"
+  },
+  "localPlayerAddVideo": {
+    "message": "動画を追加する"
+  },
+  "localPlayerAddSubtitle": {
+    "message": "字幕を追加"
+  },
+  "localPlayerVideoList": {
+    "message": "動画一覧"
+  },
+  "localPlayerFolders": {
+    "message": "フォルダー"
+  },
+  "localPlayerFoldersDescription": {
+    "message": "インポートされたメディアをフォルダーごとに参照します。"
+  },
+  "localPlayerAllVideos": {
+    "message": "すべてのビデオ"
+  },
+  "localPlayerAllVideosDescription": {
+    "message": "インポートされたすべてのビデオを検索および管理します。"
+  },
+  "localPlayerLibraryView": {
+    "message": "ライブラリ ビュー"
+  },
+  "localPlayerBackToFolders": {
+    "message": "フォルダーに戻る"
+  },
+  "localPlayerFolderSearchPlaceholder": {
+    "message": "フォルダー、パス、またはファイルを検索します"
+  },
+  "localPlayerTotalFolders": {
+    "message": "合計 {count} フォルダー"
+  },
+  "localPlayerMatchedFolders": {
+    "message": "一致した {visibleCount} / 合計 {totalCount} フォルダー"
+  },
+  "localPlayerNoFolderMatchesTitle": {
+    "message": "一致するフォルダーがありません"
+  },
+  "localPlayerNoFolderMatchesText": {
+    "message": "フォルダー検索を調整して再試行してください。"
+  },
+  "localPlayerRescanAll": {
+    "message": "すべて再スキャン"
+  },
+  "localPlayerFolderMenuLabel": {
+    "message": "フォルダーのアクション"
+  },
+  "localPlayerOpenFolderMenu": {
+    "message": "フォルダーを開く"
+  },
+  "localPlayerRescanThisFolder": {
+    "message": "このフォルダーを再スキャンします"
+  },
+  "localPlayerRemoveFromLibrary": {
+    "message": "ライブラリから削除"
+  },
+  "localPlayerFolderVideoCount": {
+    "message": "{count} ビデオ"
+  },
+  "localPlayerFolderAssociatedSubtitleCount": {
+    "message": "{count} 関連する字幕"
+  },
+  "localPlayerFolderLastPlayed": {
+    "message": "最後にプレイした時間 {time}"
+  },
+  "localPlayerFolderLastScanned": {
+    "message": "最終スキャン日 {time}"
+  },
+  "localPlayerRemoveFolderTitle": {
+    "message": "このフォルダーをライブラリから削除しますか?"
+  },
+  "localPlayerRemoveFolderText": {
+    "message": "これにより、このフォルダーのライブラリ レコードのみが削除されます。ディスク上の元のファイルは削除されません。"
+  },
+  "localPlayerFolderRemoved": {
+    "message": "{folderName} を削除しました"
+  },
+  "localPlayerRemoveFolderFailed": {
+    "message": "ライブラリからフォルダーを削除できませんでした。"
+  },
+  "localPlayerRescanFailed": {
+    "message": "ローカル ライブラリの再スキャンに失敗しました。"
+  },
+  "localPlayerRescanFolderUnavailable": {
+    "message": "保存されたフォルダーにアクセスできないため、このフォルダーを再スキャンできません。"
+  },
+  "localPlayerCurrentDirectory": {
+    "message": "現在のディレクトリ"
+  },
+  "localPlayerNoNewFilesFound": {
+    "message": "新しいファイルが見つかりません。"
+  },
+  "localPlayerScanComplete": {
+    "message": "スキャンが完了しました: {addedVideoCount} ビデオ、{addedSubtitleCount} 字幕、更新された {updatedCount} ファイル。"
+  },
+  "localPlayerNever": {
+    "message": "決してしない"
+  },
+  "localPlayerSearchPlaceholder": {
+    "message": "動画やファイルパスの検索"
+  },
+  "localPlayerFilterAll": {
+    "message": "すべて"
+  },
+  "localPlayerFilterWithSubtitle": {
+    "message": "字幕あり"
+  },
+  "localPlayerFilterNoSubtitle": {
+    "message": "字幕なし"
+  },
+  "localPlayerSortLastPlayed": {
+    "message": "最近再生した動画"
+  },
+  "localPlayerSortName": {
+    "message": "ファイル名"
+  },
+  "localPlayerSortDuration": {
+    "message": "動画の長さ"
+  },
+  "localPlayerNoVideosTitle": {
+    "message": "ローカルビデオはまだありません"
+  },
+  "localPlayerNoMatchesTitle": {
+    "message": "該当する動画がありません"
+  },
+  "localPlayerNoVideosText": {
+    "message": "フォルダーを開くかビデオを追加して、ここで字幕リンクとローカル音声吹き替えを管理します。"
+  },
+  "localPlayerNoMatchesText": {
+    "message": "検索、フィルター、並べ替えを調整して、もう一度お試しください。"
+  },
+  "localPlayerDeleteVideoLabel": {
+    "message": "{fileName}を削除"
+  },
+  "localPlayerRecognitionSubmitted": {
+    "message": "字幕を認識中"
+  },
+  "localPlayerPlay": {
+    "message": "動画を再生"
+  },
+  "localPlayerSubtitles": {
+    "message": "字幕"
+  },
+  "localPlayerStartDubbing": {
+    "message": "音声吹き替えを開始"
+  },
+  "localPlayerFloatingActionsLabel": {
+    "message": "ローカルビデオのクイックアクション"
+  },
+  "localPlayerOpenSidebar": {
+    "message": "サイドバーを開く"
+  },
+  "localPlayerClose": {
+    "message": "閉じる"
+  },
+  "localPlayerSameDirectorySubtitleSummary": {
+    "message": "同一フォルダ字幕 {sameCount}・リンク済み {associatedCount}"
+  },
+  "localPlayerNoManageableSubtitles": {
+    "message": "管理する字幕がありません"
+  },
+  "localPlayerAssociateAndUseForDubbing": {
+    "message": "字幕をリンクして音声吹き替えに使用する"
+  },
+  "localPlayerSetForDubbing": {
+    "message": "この字幕を音声吹き替えに使用します"
+  },
+  "localPlayerRemoveAssociation": {
+    "message": "字幕のリンクを解除"
+  },
+  "localPlayerRemoveAllAssociations": {
+    "message": "すべての字幕のリンクを解除する"
+  },
+  "localPlayerSelectVideoForSubtitleTitle": {
+    "message": "この字幕にリンクする動画を選択してください"
+  },
+  "localPlayerAssociate": {
+    "message": "字幕をリンク"
+  },
+  "localPlayerInitialStatus": {
+    "message": "フォルダーを開いたり、ビデオを追加したり、ファイルをドロップしたりして開始します。"
+  },
+  "localPlayerAscendingSortTitle": {
+    "message": "昇順;クリックして降順に切り替えます"
+  },
+  "localPlayerDescendingSortTitle": {
+    "message": "降順;クリックして昇順に切り替えます"
+  },
+  "localPlayerTotalVideos": {
+    "message": "合計{count}本のビデオ"
+  },
+  "localPlayerMatchedVideos": {
+    "message": "一致した {visibleCount} / 合計 {totalCount} 件の動画"
+  },
+  "localPlayerRouteVideoMissing": {
+    "message": "URL で指定されたビデオは、現在のローカル ビデオ ライブラリにありません。"
+  },
+  "localPlayerFolderAccessUnsupported": {
+    "message": "このブラウザではフォルダを開くことができません。一時インポートにはビデオの追加/字幕の追加を使用します。"
+  },
+  "localPlayerImportComplete": {
+    "message": "{videoCount} ビデオと {subtitleCount} 字幕をインポートしました。"
+  },
+  "localPlayerOpenFolderFailed": {
+    "message": "フォルダーを開けませんでした。"
+  },
+  "localPlayerAddVideoFailed": {
+    "message": "動画の追加に失敗しました。"
+  },
+  "localPlayerAddSubtitleFailed": {
+    "message": "字幕の追加に失敗しました。"
+  },
+  "localPlayerAssociationSaved": {
+    "message": "字幕リンクを保存しました。"
+  },
+  "localPlayerAssociationSavedAndPreferred": {
+    "message": "字幕をリンクし、音声吹き替え用に設定しました。"
+  },
+  "localPlayerPreferredSubtitleSaved": {
+    "message": "音声吹き替え用の字幕を設定しました。"
+  },
+  "localPlayerAssociationRemoved": {
+    "message": "字幕リンクは削除されました。"
+  },
+  "localPlayerRebindSubtitleTitle": {
+    "message": "この字幕を再バインドしますか?"
+  },
+  "localPlayerRebindSubtitleText": {
+    "message": "この字幕はすでに「{fromVideo}」に関連付けられています。続行すると、その関連付けが削除され、「{toVideo}」に関連付けられます。"
+  },
+  "localPlayerRemoveAllAssociationsTitle": {
+    "message": "すべての字幕のリンクを解除しますか?"
+  },
+  "localPlayerRemoveAllAssociationsText": {
+    "message": "このビデオの字幕リンクのみが削除されます。字幕ファイルのレコードは削除されません。"
+  },
+  "localPlayerAllAssociationsRemoved": {
+    "message": "すべての字幕リンクが削除されました。"
+  },
+  "localPlayerDeleteVideoTitle": {
+    "message": "このビデオを削除しますか?"
+  },
+  "localPlayerDeleteVideoText": {
+    "message": "これにより、ビデオと字幕のリンクがローカル ライブラリから削除されます。ディスク上の元のファイルは削除されません。"
+  },
+  "localPlayerDelete": {
+    "message": "削除"
+  },
+  "localPlayerVideoDeleted": {
+    "message": "{fileName} を削除しました"
+  },
+  "localPlayerDeleteVideoFailed": {
+    "message": "動画の削除に失敗しました。"
+  },
+  "localPlayerVideoFileAccessLost": {
+    "message": "このビデオ ファイルへのアクセスを復元できません。もう一度ビデオを追加してください。"
+  },
+  "localPlayerVideoPlayerNotReady": {
+    "message": "ビデオプレーヤーはまだ準備ができていません。"
+  },
+  "localPlayerNowPlaying": {
+    "message": "{fileName} を再生中"
+  },
+  "localPlayerDubbingStarted": {
+    "message": "ローカル音声吹き替えを開始しました。"
+  },
+  "localPlayerDubbingStartFailed": {
+    "message": "ローカル音声吹き替えを開始できませんでした。"
+  },
+  "localPlayerOpenSidebarFailed": {
+    "message": "サイドバーを開けませんでした。"
+  },
+  "localPlayerVideoFileReadFailed": {
+    "message": "ローカルビデオファイルを読み取れません。もう一度ビデオを追加してください。"
+  },
+  "localPlayerUploadCancelled": {
+    "message": "アップロードがキャンセルされました。"
+  },
+  "localPlayerSubtitleAssociatedBadge": {
+    "message": "{count} リンクされた字幕"
+  },
+  "localPlayerNoSubtitleBadge": {
+    "message": "リンクされた字幕はありません"
+  },
+  "localPlayerUsedForDubbing": {
+    "message": "音声吹き替えに使用"
+  },
+  "localPlayerAssociated": {
+    "message": "リンク済み"
+  },
+  "localPlayerAssociatedOutsideFolder": {
+    "message": "このフォルダの外にリンクされています"
+  },
+  "localPlayerNotAssociated": {
+    "message": "リンクされていません"
+  },
+  "localPlayerNativeSubtitle": {
+    "message": "オリジナル字幕"
+  },
+  "localPlayerDubbingAlreadyStarted": {
+    "message": "音声吹き替えを開始しました"
+  },
+  "localPlayerThumbnailBackfillComplete": {
+    "message": "{count} ビデオのサムネイルを生成しました。"
+  },
+  "localPlayerThumbnailGenerationFailed": {
+    "message": "サムネイルの生成に失敗しました: {displayName} ({message})"
+  },
+  "localPlayerFreeUserNoSubtitleMessage": {
+    "message": "このローカルビデオにはリンクされた字幕がありません。無料ユーザーはまだローカルビデオの背景字幕認識を使用できません。 AI 字幕認識を使用するにはメンバーシップをアップグレードするか、音声吹き替えを開始する前に字幕ファイルを手動でアップロードします。"
+  },
+  "localPlayerNoSubtitleUploadTitle": {
+    "message": "このビデオには字幕がありません"
+  },
+  "localPlayerNoSubtitleUploadText": {
+    "message": "AI字幕認識のためにこのビデオをアップロードしますか？アップロードは字幕認識にのみ使用され、認識後すぐに動画は削除されます。完了時にはメールで通知されます。"
+  },
+  "localPlayerNavigationLabel": {
+    "message": "ローカルビデオライブラリ / テキスト読み上げ"
+  },
+  "localPlayerCurrentPageNav": {
+    "message": "動画吹き替え"
+  },
+  "localPlayerTextDubbingNav": {
+    "message": "テキスト読み上げ"
+  },
+  "localPlayerTextDubbingTitle": {
+    "message": "テキスト読み上げ"
+  },
+  "localPlayerTextDubbingDescription": {
+    "message": "テキスト読み上げ - 対象言語"
+  },
+  "localPlayerTextDubbingVoiceType": {
+    "message": "音声タイプ"
+  },
+  "localPlayerTextDubbingLanguage": {
+    "message": "対象言語"
+  },
+  "localPlayerTextDubbingGender": {
+    "message": "性別"
+  },
+  "localPlayerTextDubbingVoice": {
+    "message": "声"
+  },
+  "localPlayerTextDubbingInputLabel": {
+    "message": "手動入力"
+  },
+  "localPlayerTextDubbingInputPlaceholder": {
+    "message": "手動入力 - テキスト読み上げ"
+  },
+  "localPlayerTextDubbingLimitHint": {
+    "message": "テキスト読み上げ: {chars} / {bytes}"
+  },
+  "localPlayerTextDubbingCounter": {
+    "message": "{chars} · {bytes}"
+  },
+  "localPlayerTextDubbingGenerate": {
+    "message": "テキスト読み上げ MP3"
+  },
+  "localPlayerTextDubbingGenerating": {
+    "message": "保存中..."
+  },
+  "localPlayerTextDubbingGenerated": {
+    "message": "テキスト読み上げ MP3 · {seconds}s"
+  },
+  "localPlayerTextDubbingFailed": {
+    "message": "保存に失敗しました"
+  },
+  "localPlayerTextDubbingNoVoice": {
+    "message": "この選択で利用できる音声はありません。"
+  },
+  "localPlayerTextDubbingEmptyText": {
+    "message": "字幕コンテンツを空にすることはできません"
+  },
+  "localPlayerTextDubbingTooLong": {
+    "message": "テキストが長すぎます。短くしてからもう一度お試しください。"
+  },
+  "localPlayerTextDubbingDownload": {
+    "message": "書き出し MP3"
+  },
+  "localPlayerTextDubbingClear": {
+    "message": "キャンセル"
+  },
+  "translationDomainGeneral": {
+    "message": "一般"
+  },
+  "translationDomainWeb3": {
+    "message": "Web3・暗号資産"
+  },
+  "translationDomainTech": {
+    "message": "テクノロジー"
+  },
+  "translationDomainNews": {
+    "message": "ニュース・メディア"
+  },
+  "translationDomainProgramming": {
+    "message": "プログラミング"
+  },
+  "translationDomainEducation": {
+    "message": "教育"
+  },
+  "translationDomainFinance": {
+    "message": "金融"
+  },
+  "translationDomainLaw": {
+    "message": "法律"
+  },
+  "translationDomainAuto": {
+    "message": "自動車"
+  },
+  "translationDomainEcommerce": {
+    "message": "Eコマース"
+  },
+  "translationDomainFashion": {
+    "message": "ファッション"
+  },
+  "translationDomainFood": {
+    "message": "食と料理"
+  },
+  "translationDomainGardening": {
+    "message": "園芸"
+  },
+  "translationDomainMedical": {
+    "message": "医療・健康"
+  },
+  "translationDomainMusic": {
+    "message": "音楽"
+  },
+  "translationDomainPets": {
+    "message": "ペット"
+  },
+  "translationDomainSports": {
+    "message": "スポーツ"
+  },
+  "translationDomainTravel": {
+    "message": "旅行"
+  },
+  "translationDomainChess": {
+    "message": "チェス"
+  },
+  "translationDomainGaming": {
+    "message": "ゲーム"
+  },
+  "translationDomainGolf": {
+    "message": "ゴルフ"
+  },
+  "translationDomainMovies": {
+    "message": "映画・テレビ"
+  },
+  "translationDomainPhotography": {
+    "message": "写真"
+  },
+  "translationPreferencesSectionTitle": {
+    "message": "AI 翻訳"
+  },
+  "translationRulesEnabledLabel": {
+    "message": "AI 翻訳に用語集とテキスト置換を適用"
+  },
+  "translationRulesEnabledDescription": {
+    "message": "オンにすると、AI 翻訳で以下の設定が使用されます。オフにしても、既存の設定は保持されます。"
+  },
+  "glossaryTitle": {
+    "message": "用語集"
+  },
+  "glossaryDescription": {
+    "message": "原文の用語に固定訳を指定します（例：Stratagem）。個人用語は組み込み用語集より優先されます。"
+  },
+  "glossaryCreateButton": {
+    "message": "個人用語を追加"
+  },
+  "glossaryEditTitle": {
+    "message": "個人用語を編集"
+  },
+  "glossaryEditorDescription": {
+    "message": "追加、編集、有効化、削除ができるのは個人用語集の用語のみです。"
+  },
+  "glossaryTableTitle": {
+    "message": "現在の言語の用語"
+  },
+  "glossaryCombinedEmpty": {
+    "message": "この言語には個人用語がまだありません。"
+  },
+  "glossarySearchEmpty": {
+    "message": "一致する用語はありません。"
+  },
+  "glossarySearchPlaceholder": {
+    "message": "原文の用語を検索"
+  },
+  "glossarySourcePlaceholder": {
+    "message": "原文の用語"
+  },
+  "glossaryTargetPlaceholder": {
+    "message": "指定する翻訳"
+  },
+  "glossarySourceTerm": {
+    "message": "原文の用語"
+  },
+  "glossaryTargetTerm": {
+    "message": "翻訳"
+  },
+  "replacementTitle": {
+    "message": "原文の誤り訂正"
+  },
+  "replacementDescription": {
+    "message": "AI 翻訳の前に、字幕認識で繰り返し発生する誤り（例：cloud code -> Claude Code）を修正します。"
+  },
+  "replacementCreateButton": {
+    "message": "個人置換を追加"
+  },
+  "replacementEditTitle": {
+    "message": "個人置換を編集"
+  },
+  "replacementEditorDescription": {
+    "message": "AI 翻訳の前に適用されるのは個人用のテキスト置換のみです。"
+  },
+  "replacementFindPlaceholder": {
+    "message": "誤ったテキスト（例：cloud code）"
+  },
+  "replacementReplacePlaceholder": {
+    "message": "置換後のテキスト（例：claude code）"
+  },
+  "replacementFindText": {
+    "message": "誤ったテキスト"
+  },
+  "replacementReplaceText": {
+    "message": "置換後"
+  },
+  "replacementEmpty": {
+    "message": "修正ルールはまだありません。"
+  },
+  "replacementSearchEmpty": {
+    "message": "一致する置換はありません。"
+  },
+  "replacementSearchPlaceholder": {
+    "message": "置換を検索"
+  },
+  "translatedReplacementTitle": {
+    "message": "訳文の置換"
+  },
+  "translatedReplacementDescription": {
+    "message": "翻訳の完了後、個人ルールに従って訳文内の単語やフレーズを置換します。"
+  },
+  "translatedReplacementCreateButton": {
+    "message": "訳文の置換を追加"
+  },
+  "translatedReplacementLanguage": {
+    "message": "翻訳先の言語"
+  },
+  "translatedReplacementFindText": {
+    "message": "訳文"
+  },
+  "translatedReplacementReplaceText": {
+    "message": "置換後の文字列"
+  },
+  "translatedReplacementSearchPlaceholder": {
+    "message": "訳文を検索"
+  },
+  "translatedReplacementEmpty": {
+    "message": "訳文の置換ルールはまだありません。"
+  },
+  "translatedReplacementSearchEmpty": {
+    "message": "一致する訳文の置換ルールはありません。"
+  },
+  "translatedReplacementCreateTitle": {
+    "message": "訳文の置換を追加"
+  },
+  "translatedReplacementEditTitle": {
+    "message": "訳文の置換を編集"
+  },
+  "translatedReplacementEditorDescription": {
+    "message": "変更されるのは翻訳済みの訳文だけです。原文と翻訳キャッシュは変更されません。"
+  },
+  "translatedReplacementFindPlaceholder": {
+    "message": "訳文内の単語またはフレーズ"
+  },
+  "translatedReplacementReplacePlaceholder": {
+    "message": "代わりに表示する単語またはフレーズ"
+  },
+  "translatedReplacementEnabledDescription": {
+    "message": "無効にしてもルールは保持されますが、訳文には適用されません。"
+  },
+  "preferenceAdd": {
+    "message": "追加"
+  },
+  "preferenceDomain": {
+    "message": "分野"
+  },
+  "preferenceLanguage": {
+    "message": "言語"
+  },
+  "preferenceEnabled": {
+    "message": "有効"
+  },
+  "preferenceActions": {
+    "message": "操作"
+  },
+  "preferenceSource": {
+    "message": "出所"
+  },
+  "preferenceSourceUser": {
+    "message": "個人"
+  },
+  "preferenceSourceBuiltin": {
+    "message": "組み込み"
+  },
+  "preferenceStatus": {
+    "message": "状態"
+  },
+  "preferenceStatusEnabled": {
+    "message": "有効"
+  },
+  "preferenceEdit": {
+    "message": "編集"
+  },
+  "preferenceDelete": {
+    "message": "削除"
+  },
+  "preferenceAllDomains": {
+    "message": "すべての分野"
+  },
+  "preferenceSearch": {
+    "message": "検索"
+  },
+  "preferenceClearSearch": {
+    "message": "クリア"
+  },
+  "preferencePageLabel": {
+    "message": "{page} ページ"
+  },
+  "preferencePreviousPage": {
+    "message": "前へ"
+  },
+  "preferenceNextPage": {
+    "message": "次へ"
+  },
+  "builtinGlossaryDomainsTitle": {
+    "message": "組み込み分野セット"
+  },
+  "builtinGlossaryDomainCount": {
+    "message": "組み込み用語 {count} 件"
+  },
+  "builtinGlossaryEmptyHint": {
+    "message": "現在の翻訳先言語には組み込み用語集がありません。個人用語は引き続き追加できます。"
+  },
+  "builtinGlossaryEnabledSummary": {
+    "message": "{total} 件中 {enabled} 件が有効"
+  },
+  "builtinGlossaryManageDomains": {
+    "message": "分野を管理"
+  },
+  "builtinGlossaryManageDomainsTitle": {
+    "message": "組み込み分野セットを管理"
+  },
+  "builtinGlossaryManageDomainsDescription": {
+    "message": "翻訳先言語の組み込み用語集の分野を有効または無効にします。"
+  },
+  "builtinGlossaryDomainSearchPlaceholder": {
+    "message": "分野を検索"
+  },
+  "builtinGlossaryEnableAllDomains": {
+    "message": "すべて有効"
+  },
+  "builtinGlossaryDisableAllDomains": {
+    "message": "すべて無効"
+  },
+  "builtinGlossaryDomainSearchEmpty": {
+    "message": "一致する分野はありません。"
+  },
+  "builtinGlossaryDomainTotal": {
+    "message": "{count} 分野"
+  },
+  "builtinGlossaryDomainDisabledStatus": {
+    "message": "分野は無効"
+  },
+  "builtinGlossaryBlockedStatus": {
+    "message": "除外済み"
+  },
+  "builtinGlossaryReadOnlyHint": {
+    "message": "組み込みルール"
+  },
+  "builtinTextReplacementManageDomainsTitle": {
+    "message": "原文訂正の組み込み分野を管理"
+  },
+  "builtinTextReplacementManageDomainsDescription": {
+    "message": "原文訂正の組み込み分野を有効または無効にします。"
+  },
+  "builtinTextReplacementDomainCount": {
+    "message": "組み込みルール {count} 件"
+  },
+  "preferenceLoadFailed": {
+    "message": "読み込めませんでした。ログインしてから、もう一度お試しください。"
+  },
+  "preferenceActionFailed": {
+    "message": "操作に失敗しました。しばらくしてから、もう一度お試しください。"
+  },
+  "pronunciationSettingsSectionTitle": {
+    "message": "発音"
+  },
+  "pronunciationSettingsTitle": {
+    "message": "発音設定"
+  },
+  "pronunciationSettingsDescription": {
+    "message": "翻訳されたテキストの個人的な発音を設定します。ルールはローカルダビングにのみ適用されます。"
+  },
+  "optionsNavPronunciationShort": {
+    "message": "発音"
+  },
+  "pronunciationNewRule": {
+    "message": "新しいルール"
+  },
+  "pronunciationEditRule": {
+    "message": "発音ルールを編集する"
+  },
+  "pronunciationTargetLanguage": {
+    "message": "対象言語"
+  },
+  "pronunciationSearchPlaceholder": {
+    "message": "一致するテキストを検索する"
+  },
+  "pronunciationStatus": {
+    "message": "ステータス"
+  },
+  "pronunciationMatchText": {
+    "message": "一致するテキスト"
+  },
+  "pronunciationMatchPlaceholder": {
+    "message": "例: こんにちは"
+  },
+  "pronunciationTargetText": {
+    "message": "修正箇所"
+  },
+  "pronunciationReading": {
+    "message": "指定された発音"
+  },
+  "pronunciationLoading": {
+    "message": "読み込み中…"
+  },
+  "pronunciationEmpty": {
+    "message": "現在のフィルターに一致する個人の発音ルールはありません。"
+  },
+  "pronunciationEditorHint": {
+    "message": "修正する連続部分を選択し、読みを入力します。"
+  },
+  "pronunciationSelectTarget": {
+    "message": "修正するテキストを選択してください"
+  },
+  "pronunciationReselect": {
+    "message": "もう一度選択してください"
+  },
+  "pronunciationEnterMatchFirst": {
+    "message": "最初に一致するテキストを入力してください"
+  },
+  "pronunciationSelectionSummary": {
+    "message": "選択済み: {text};発生 {occurrence}"
+  },
+  "pronunciationSelectionRestoreFailed": {
+    "message": "保存した場所は復元できません。保存する前にテキストを再度選択します。"
+  },
+  "pronunciationSelectionInvalid": {
+    "message": "連続テキストを選択します。"
+  },
+  "pronunciationModifier": {
+    "message": "トーン"
+  },
+  "pronunciationSelectModifier": {
+    "message": "選択"
+  },
+  "pronunciationSaving": {
+    "message": "保存中…"
+  },
+  "pronunciationDeleteConfirm": {
+    "message": "この発音ルールを削除しますか?"
+  },
+  "pronunciationOccurrence": {
+    "message": "発生 {occurrence}"
+  },
+  "pronunciationUnknownError": {
+    "message": "アクションが失敗しました。後でもう一度試してください。"
+  },
+  "preferenceAllStatuses": {
+    "message": "すべて"
+  },
+  "preferenceCancel": {
+    "message": "キャンセル"
+  },
+  "preferenceDisabled": {
+    "message": "無効"
+  },
+  "preferenceSave": {
+    "message": "保存"
+  },
+  "pronunciationFineSelection": {
+    "message": "正確な選択"
+  },
+  "pronunciationMergeUnits": {
+    "message": "隣接する発音を結合する"
+  },
+  "pronunciationPerUnitHint": {
+    "message": "各パートの発音と声調を入力します。必要に応じてパーツを分割または結合します。"
+  },
+  "pronunciationPrimarySelection": {
+    "message": "賢い選択"
+  },
+  "pronunciationSelectionGranularity": {
+    "message": "選択の粒度"
+  },
+  "pronunciationSelectionTooLong": {
+    "message": "修正部分には最大 128 文字を含めることができます。"
+  },
+  "pronunciationSplitAt": {
+    "message": "分割位置"
+  },
+  "pronunciationUnitReading": {
+    "message": "パートごとの発音"
+  },
+  "pronunciationWholeReading": {
+    "message": "全体の発音"
+  },
+  "pronunciationWholeToneHint": {
+    "message": "完全な声調発音を入力します。スプリットして各パートの音色を選択します。"
+  },
+  "pronunciationPinyinSyllable": {
+    "message": "ピンイン音節"
+  },
+  "pronunciationPinyinPlaceholder": {
+    "message": "ピンイン音節を入力してください"
+  },
+  "pronunciationNumberedTone": {
+    "message": "トーン {tone}"
+  },
+  "pronunciationNeutralTone": {
+    "message": "ニュートラルトーン"
+  },
+  "googleDriveNoCaptionsTitle": {
+    "message": "この Google ドライブの動画にはまだ字幕がありません"
+  },
+  "googleDriveNoCaptionsIntro": {
+    "message": "吹き替えには Google ドライブ内蔵の字幕（CC）を使用します。先にこの動画の字幕を有効にしてから、もう一度お試しください："
+  },
+  "googleDriveNoCaptionsStep1": {
+    "message": "Google ドライブで動画を右クリックし、［ファイル情報］→［字幕トラックを管理］を選択します。"
+  },
+  "googleDriveNoCaptionsStep2": {
+    "message": "字幕トラックがまだない場合：ドライブは対応言語（英語、トルコ語、中国語、スペイン語、日本語など）の字幕を自動生成します。［自動字幕を生成］が表示されていればクリックするか、字幕ファイルをアップロードしてください。字幕を管理できるのは動画のオーナーまたは編集者のみです。"
+  },
+  "googleDriveNoCaptionsStep3": {
+    "message": "字幕の生成には時間がかかります。プレーヤーの CC ボタンがクリックできるようになったら、ページを再読み込みして吹き替えを再開してください。"
+  },
+  "subtitleAudioLanguageMismatch": {
+    "message": "字幕の言語と音声の言語が一致しません。字幕：{subtitle}／音声：{voice}。音声は自分の言語のテキストしか読み上げられないため、このまま生成すると失敗したり、正しく読み上げられなかったりする可能性があります。先に字幕を翻訳するか、ターゲット言語を字幕に合わせて変更してください。このまま生成しますか？"
+  },
+  "subtitleAudioNav": {
+    "message": "字幕吹き替え"
+  },
+  "subtitleAudioAiSubtitleBadge": {
+    "message": "AI 字幕あり"
+  },
+  "subtitleAudioUserSubtitleBadge": {
+    "message": "編集済み字幕あり"
+  },
+  "subtitleAudioBack": {
+    "message": "動画吹き替え"
+  },
+  "subtitleAudioProjectSubtitle": {
+    "message": "字幕：{name} · {count} 行"
+  },
+  "subtitleAudioReplaceSubtitles": {
+    "message": "字幕を差し替え"
+  },
+  "subtitleAudioExportVideoOption": {
+    "message": "吹き替え動画"
+  },
+  "subtitleAudioExportVideoHint": {
+    "message": "セリフに時間が必要な箇所では映像をスローにするため、元の動画より少し長くなることがあります。"
+  },
+  "subtitleAudioExportMp3Option": {
+    "message": "吹き替え MP3"
+  },
+  "subtitleAudioExportMp3Hint": {
+    "message": "元の動画とまったく同じ長さです。動画に重ねて使うか、別言語の音声トラックとしてアップロードできます。"
+  },
+  "subtitleAudioDownloadSrt": {
+    "message": "SRT をダウンロード"
+  },
+  "subtitleAudioEditAndExport": {
+    "message": "編集してエクスポート"
+  },
+  "subtitleAudioEditNeedsSubtitle": {
+    "message": "この動画にはまだ字幕がありません。字幕ファイルをリンクするか、一度「音声吹き替えを開始」を実行して AI 字幕を生成してください。"
+  },
+  "subtitleAudioTitle": {
+    "message": "すべてのセリフに、声を。"
+  },
+  "subtitleAudioSubtitle": {
+    "message": "SRT ファイルをインポートすると、字幕のタイミングに合わせた吹き替え MP3 を作成できます。吹き替え動画を作るには、「動画吹き替え」で動画を選び、「編集してエクスポート」をクリックしてください。"
+  },
+  "subtitleAudioImportStep": {
+    "message": "字幕をインポート"
+  },
+  "subtitleAudioVoicesStep": {
+    "message": "音声を選択"
+  },
+  "subtitleAudioExportStep": {
+    "message": "エクスポート"
+  },
+  "subtitleAudioSubtitles": {
+    "message": "字幕"
+  },
+  "subtitleAudioCueList": {
+    "message": "セリフと音声"
+  },
+  "subtitleAudioSettings": {
+    "message": "音声設定"
+  },
+  "subtitleAudioImport": {
+    "message": "SRT ファイルを選択"
+  },
+  "subtitleAudioReplace": {
+    "message": "差し替え"
+  },
+  "subtitleAudioRemove": {
+    "message": "削除"
+  },
+  "subtitleAudioDrop": {
+    "message": "SRT ファイルをここにドロップ"
+  },
+  "subtitleAudioDropNote": {
+    "message": "UTF-8 · 最大 2 MiB、5,000 行、3 時間"
+  },
+  "subtitleAudioEmpty": {
+    "message": "インポートした字幕がここに表示されます。行ごとに音声を割り当てるか、選択した行にまとめて適用できます。"
+  },
+  "subtitleAudioLines": {
+    "message": "行数"
+  },
+  "subtitleAudioDuration": {
+    "message": "字幕の長さ"
+  },
+  "subtitleAudioCharacters": {
+    "message": "文字数"
+  },
+  "subtitleAudioSearch": {
+    "message": "字幕テキストを検索"
+  },
+  "subtitleAudioSelectPage": {
+    "message": "このページを選択"
+  },
+  "subtitleAudioSelectAll": {
+    "message": "検索結果をすべて選択"
+  },
+  "subtitleAudioSelected": {
+    "message": "{count} 行を選択中"
+  },
+  "subtitleAudioApply": {
+    "message": "音声を適用"
+  },
+  "subtitleAudioChooseVoice": {
+    "message": "音声を選択してください"
+  },
+  "subtitleAudioText": {
+    "message": "字幕テキスト"
+  },
+  "subtitleAudioTime": {
+    "message": "時間"
+  },
+  "subtitleAudioVoice": {
+    "message": "音声"
+  },
+  "subtitleAudioFemale": {
+    "message": "女性"
+  },
+  "subtitleAudioMale": {
+    "message": "男性"
+  },
+  "subtitleAudioPage": {
+    "message": "{page} / {total} ページ"
+  },
+  "subtitleAudioPrevious": {
+    "message": "前へ"
+  },
+  "subtitleAudioNext": {
+    "message": "次へ"
+  },
+  "subtitleAudioPreview": {
+    "message": "{index} 行目を試聴"
+  },
+  "subtitleAudioStopPreview": {
+    "message": "試聴を停止"
+  },
+  "subtitleAudioLanguage": {
+    "message": "対象言語"
+  },
+  "subtitleAudioVoiceType": {
+    "message": "音声タイプ"
+  },
+  "subtitleAudioFree": {
+    "message": "無料"
+  },
+  "subtitleAudioVideoSync": {
+    "message": "プレビューはエクスポートした音声に連動します。元の動画の音声はミュートされています。"
+  },
+  "subtitleAudioTimelineTitle": {
+    "message": "音声トラック"
+  },
+  "subtitleAudioLayoutOnly": {
+    "message": "字幕の配置 · 波形はエクスポート後に表示されます"
+  },
+  "subtitleAudioRealWave": {
+    "message": "エクスポートした音声の波形 · クリックまたはスライダーで再生位置を移動"
+  },
+  "subtitleAudioTracks": {
+    "message": "{count} 種類の音声 → 1 つの MP3"
+  },
+  "subtitleAudioTracksVideo": {
+    "message": "{count} 種類の音声 → 吹き替え動画"
+  },
+  "subtitleAudioSeek": {
+    "message": "エクスポートしたメディアの再生位置を移動"
+  },
+  "subtitleAudioNoTimeline": {
+    "message": "字幕をインポートするとタイミングが表示されます。"
+  },
+  "subtitleAudioGenerate": {
+    "message": "MP3 を生成"
+  },
+  "subtitleAudioGenerateVideo": {
+    "message": "吹き替え動画を生成"
+  },
+  "subtitleAudioRegenerate": {
+    "message": "再生成"
+  },
+  "subtitleAudioRegenerateVideo": {
+    "message": "動画を再生成"
+  },
+  "subtitleAudioRetry": {
+    "message": "失敗した生成を再試行"
+  },
+  "subtitleAudioCancel": {
+    "message": "キャンセル"
+  },
+  "subtitleAudioCancelling": {
+    "message": "キャンセル中…"
+  },
+  "subtitleAudioDownload": {
+    "message": "MP3 をダウンロード"
+  },
+  "subtitleAudioDownloadVideo": {
+    "message": "吹き替え動画をダウンロード"
+  },
+  "subtitleAudioWorking": {
+    "message": "音声を生成中"
+  },
+  "subtitleAudioEncoding": {
+    "message": "音声トラックを作成中"
+  },
+  "subtitleAudioFinalizing": {
+    "message": "MP3 を仕上げ中"
+  },
+  "subtitleAudioMuxing": {
+    "message": "吹き替え音声を動画に合成中"
+  },
+  "subtitleAudioFinished": {
+    "message": "MP3 の準備ができました"
+  },
+  "subtitleAudioFinishedVideo": {
+    "message": "吹き替え動画の準備ができました"
+  },
+  "subtitleAudioCancelled": {
+    "message": "生成をキャンセルしました。完了した音声クリップはキャッシュされ、再試行時に再利用されます。"
+  },
+  "subtitleAudioProgressNote": {
+    "message": "このページを開いたままにしてください。キャンセルしても、キャッシュ済みのクリップを使って再開できます。"
+  },
+  "subtitleAudioMissing": {
+    "message": "音声が未設定の行が {count} 行あります。行ごとに選択するか、「音声を適用」を使ってください。"
+  },
+  "subtitleAudioEmptyText": {
+    "message": "テキストが空の行が {count} 行あります。生成する前にテキストを入力してください。"
+  },
+  "subtitleAudioCacheNote": {
+    "message": "音声は選択したサービスで生成されます。字幕と生成したクリップはこのデバイスにキャッシュされ、音声と動画の合成はローカルで行われます。"
+  },
+  "subtitleAudioRestored": {
+    "message": "下書きを復元しました。"
+  },
+  "subtitleAudioSaveError": {
+    "message": "下書きを保存できませんでした。編集内容を失わないよう、このページを開いたままにしてください。"
+  },
+  "subtitleAudioFailed": {
+    "message": "完了できませんでした。完了した音声クリップは保持されているため、再試行すると続きから処理します。"
+  },
+  "subtitleAudioDetails": {
+    "message": "詳細"
+  },
+  "subtitleAudioBadFile": {
+    "message": "2 MiB 以下の UTF-8 形式の .srt ファイルを選択してください。"
+  },
+  "subtitleAudioEncodingError": {
+    "message": "このファイルは有効な UTF-8 ではありません。UTF-8 で保存し直してから、もう一度インポートしてください。"
+  },
+  "subtitleAudioImportFailed": {
+    "message": "字幕ファイルを読み込めませんでした。SRT のタイムスタンプとテキストを確認してください。"
+  },
+  "subtitleAudioInvalidVideo": {
+    "message": "この動画には読み取れる映像トラックがないか、長さを取得できません。"
+  },
+  "subtitleAudioVideoLimitError": {
+    "message": "この動画は 3 時間を超えているため、吹き替え動画をエクスポートできません。より短いファイルを選択してください。"
+  },
+  "subtitleAudioVideoStorageError": {
+    "message": "このコンピューターの空き容量が不足しています。この動画には約 {needed} GB が必要ですが、ブラウザーが使用できるのは {available} GB です。ディスクの空き容量を増やしてから再試行するか、より小さい動画を選択してください。"
+  },
+  "subtitleAudioVideoCodecError": {
+    "message": "このデバイスではこの動画コーデック（HEVC など）をコピーできません。破損したファイルを作成しないよう、エクスポートを中止しました。H.264 の MP4 でお試しください。"
+  },
+  "subtitleAudioVideoAacUnsupported": {
+    "message": "このブラウザーは AAC 音声のエンコードに対応していないため、吹き替え動画を書き出せません。吹き替え MP3 は書き出せます。"
+  },
+  "subtitleAudioVideoCopyUnsupported": {
+    "message": "この動画のコーデックは吹き替え MP4 として書き出せません。吹き替え MP3 は書き出せます。動画が必要な場合は H.264 の MP4 を使ってください。"
+  },
+  "subtitleAudioPreviewFailed": {
+    "message": "この行を試聴できませんでした。選択した音声とネットワーク接続を確認してください。"
+  },
+  "subtitleAudioPlayBlocked": {
+    "message": "音声の準備ができました。オーディオプレーヤーの再生ボタンを押してください。"
+  },
+  "subtitleAudioGeneralError": {
+    "message": "操作を完了できませんでした。ネットワーク接続を確認して、もう一度お試しください。"
+  },
+  "subtitleAudioLimitError": {
+    "message": "このプロジェクトは上限を超えています。5,000 行・3 時間以内に収め、各音声クリップは 60 秒未満にしてください。"
+  },
+  "subtitleAudioStorageError": {
+    "message": "このエクスポートに必要なローカルストレージが不足しています。空き容量を増やしてから再試行してください。"
+  },
+  "subtitleAudioAccountError": {
+    "message": "音声の生成には、有効なアカウントと利用可能な残量が必要です。アカウントを確認してから再試行してください。"
+  },
+  "subtitleAudioPaused": {
+    "message": "待機中"
+  },
+  "subtitleAudioGeneratingCue": {
+    "message": "生成中"
+  },
+  "subtitleAudioReadyCue": {
+    "message": "完了"
+  },
+  "subtitleAudioErrorCue": {
+    "message": "失敗"
+  },
+  "subtitleAudioVoiceReset": {
+    "message": "この設定では使用できない音声があります。ハイライトされた行の音声を選び直してください。"
+  },
+  "subtitleAudioConfirmReplace": {
+    "message": "現在の字幕の下書きを置き換えますか？"
+  },
+  "subtitleAudioClearDraft": {
+    "message": "この下書きの字幕をすべて削除しますか？"
+  },
+  "subtitleAudioOutputChanged": {
+    "message": "設定が変更されました。ダウンロード内容を更新するには、もう一度生成してください。"
+  },
+  "subtitleAudioBrowserError": {
+    "message": "このブラウザーでは音声処理を初期化できませんでした。最新のデスクトップ版ブラウザーでお試しください。"
+  },
+  "subtitleAudioOtherTabBusy": {
+    "message": "別のタブで字幕音声を生成中または試聴中です。その処理が終わるまで待つか、そのタブを閉じてから再試行してください。"
+  },
+  "uploadVideoLanguageLabel": {
+    "message": "動画の言語（選択すると認識精度が上がります）"
+  },
+  "uploadVideoLanguageAuto": {
+    "message": "自動検出"
+  },
+  "subtitleAudioPreparing": {
+    "message": "文の分割と翻訳中"
+  },
+  "subtitleAudioPrepareFailed": {
+    "message": "字幕の分割または翻訳に失敗しました。しばらくしてから再試行してください。"
+  },
+  "subtitleAudioSourceLanguage": {
+    "message": "字幕の言語"
+  },
+  "subtitleAudioSourceLanguageUnknown": {
+    "message": "この字幕の言語を判定できませんでした。字幕が書かれている言語を選んでから、もう一度生成してください。"
+  },
+  "subtitleAudioPreparedNote": {
+    "message": "オンライン吹き替えと同じルールで文に分割し、{language}に翻訳しました。下の訳文を直接編集できます。"
+  },
+  "subtitleAudioRestoreSource": {
+    "message": "原文に戻す"
+  },
+  "subtitleAudioRestoreSourceConfirm": {
+    "message": "原文に戻すと訳文の編集内容は失われ、次回の書き出し時に再度分割・翻訳されます。よろしいですか？"
+  },
+  "subtitleAudioLanguageChangedRetranslate": {
+    "message": "吹き替え言語が変わったため、リストを原文に戻しました。書き出し時に再度分割・翻訳します。"
+  },
+  "subtitleAudioCueTooLong": {
+    "message": "{index} 行目の字幕が長すぎます。短い行に分けてから再試行してください。"
+  },
+  "subtitleAudioBackgroundOption": {
+    "message": "背景音を合成"
+  },
+  "subtitleAudioBackgroundHint": {
+    "message": "この動画は認識用アップロード時に人の声を除いた背景音が分離されています。オンライン吹き替えと同様に吹き替えの下に重ねます。"
+  },
+  "subtitleAudioDownloadingBackground": {
+    "message": "背景音をダウンロード中"
+  },
+  "subtitleAudioBackgroundFailed": {
+    "message": "背景音をダウンロードできませんでした。しばらくしてから再試行するか、「背景音を合成」をオフにして書き出してください。"
+  },
+  "subtitleAudioPreparedSameLanguageNote": {
+    "message": "字幕が吹き替え言語と同じため、「同じ言語は翻訳しない」設定に従い文の分割のみ行いました。"
+  },
+  "dubbingToggleOn": {
+    "message": "吹き替えをオン"
+  },
+  "dubbingToggleOff": {
+    "message": "吹き替えをオフ"
+  },
+  "dubbingTogglePreparing": {
+    "message": "吹き替えを準備中です。しばらくお待ちください…"
+  },
+  "dubbingSwitchedOffNotice": {
+    "message": "吹き替えをオフにし、元の音声に戻しました"
+  },
+  "dubbingSwitchedOnNotice": {
+    "message": "吹き替えをオンにしました"
+  },
+  "toggleDubbingCommand": {
+    "message": "吹き替えのオン / オフ"
+  },
+  "spotifyPublicAudioShowNotFound": {
+    "message": "音声は暗号化されており、この番組には公開ポッドキャストフィードがありません（Spotify 独占配信の可能性があります）。"
+  },
+  "spotifyPublicAudioEpisodeNotMatched": {
+    "message": "音声は暗号化されており、番組の公開ポッドキャストフィードに一致するエピソードが見つかりませんでした。"
+  },
+  "spotifyPublicAudioLookupFailed": {
+    "message": "このエピソードの公開音声を取得できませんでした。しばらくしてから再度お試しください。"
+  }
+}

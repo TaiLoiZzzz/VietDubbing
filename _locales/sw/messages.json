@@ -1,0 +1,2315 @@
+{
+  "name": {
+    "message": "YouTube Dubbing – Tafsiri & Sauti"
+  },
+  "description": {
+    "message": "Tafsiri na sauti ya video kwa kubonyeza mara moja—elewa lugha za kigeni papo hapo, fikia maarifa ya kimataifa"
+  },
+  "metadataNotFound": {
+    "message": "Metadata ya video haipatikani, tafadhali onyesha upya na ujaribu tena"
+  },
+  "dubbingMediaNotFoundTitle": {
+    "message": "Hakuna video inayopatikana kwa uimbaji"
+  },
+  "dubbingMediaNotFoundText": {
+    "message": "Kwa sasa hakuna video au sauti inayoweza kutumika kwenye ukurasa huu. Subiri video imalize kupakia kisha ujaribu tena, au onyesha ukurasa upya."
+  },
+  "noSubtitlesFound": {
+    "message": "Video hii haina manukuu na haiauni tafsiri na sauti"
+  },
+  "liveVideoNotSupported": {
+    "message": "Video za moja kwa moja haziauni sauti kwa sasa"
+  },
+  "universalDubbingNotSupported": {
+    "message": "Sauti ya kawaida haiauni video hii katika toleo la sasa. Msaada umepangwa kwa toleo lijalo. Tafadhali wasiliana na huduma kwa wasiliani kwa maelezo."
+  },
+  "postLoginTranslationSettings": {
+    "message": "Kuingia kumefanikiwa. Bonyeza ikoni ya programu-jalizi kuchagua lugha ya tafsiri na orodha ya sauti."
+  },
+  "noSubtitlesWaitOptimization": {
+    "message": "Hakuna manukuu yanayopatikana. Tafadhali subiri programu-jalizi kutambua manukuu kwa video hii. Utapokea arifa ya barua pepe kwa anwani yako iliyosajiliwa mara tu utambuzi utakapokamilika."
+  },
+  "privateVideoNoSubtitles": {
+    "message": "Video hii haina manukuu na ni video ya faragha. Programu-jalizi haiwezi kutambua manukuu ya video hii chinichini. Tafadhali weka video iwe ya umma, au ongeza manukuu mwenyewe kisha ujaribu tena."
+  },
+  "trialMemberDurationLimit": {
+    "message": "Video hii haina manukuu. Kama mwanachama wa jaribio, video chini ya dakika 15 tu zinaauni utambuzi wa manukuu kwa sasa. Wanachama wa premium wanaauni video chini ya masaa 3."
+  },
+  "premiumMemberDurationLimit": {
+    "message": "Video hii haina manukuu na muda wa video unazidi masaa 3, tafsiri na sauti haziauniwi. Tafadhali chagua video fupi au video yenye manukuu."
+  },
+  "freeUserNoSubtitles": {
+    "message": "Video hii haina manukuu zilizojengwa ndani. Tafadhali jiandikishe uanachama wa programu-jalizi kwa utambuzi wa manukuu na kufurahia vipengele vya tafsiri na sauti."
+  },
+  "freeUserDailyLimit": {
+    "message": "Watumiaji wa bure wanaweza kutazama video hadi 5 kwa siku kupitia programu-jalizi. Panda daraja kwa uanachama kufungua manufaa ya kutazama bila kikomo."
+  },
+  "upgradeEntryUpgradeButton": {
+    "message": "Pandisha daraja"
+  },
+  "upgradeEntryLaterButton": {
+    "message": "Labda baadaye"
+  },
+  "aiSubtitlesRecognitionInBackground": {
+    "message": "Manukuu ya AI hayajapatikana bado. Programu-jalizi imeanza kuyatambua nyuma. Baada ya kusikia sentensi ya kwanza ya sauti, unaweza kufunga ukurasa na kusubiri arifa ya barua pepe; itakapokuwa tayari, kitufe cha sauti kitabadilika kuwa kijani na ubora wa tafsiri utakuwa bora zaidi."
+  },
+  "upgradeMembershipForBackgroundRecognition": {
+    "message": "Panda daraja kwa uanachama na programu-jalizi itatambua manukuu ya AI nyuma. Baada ya kupokea arifa ya barua pepe, rudi kutazama; kitufe cha sauti kitabadilika kuwa kijani na tafsiri zitakuwa sahihi zaidi."
+  },
+  "memberFreeVoiceAzureSuggestion": {
+    "message": "Kwa sasa unadubu kwa kutumia aina ya sauti ya bure. Sauti za Azure husikika asilia zaidi; wanachama sasa wanaweza kutumia Azure bila kikomo na bila kuongeza salio la ziada."
+  },
+  "memberAiSubtitlePlatformPrioritySuggestion": {
+    "message": "Kwa sasa manukuu yanayotumika yametambuliwa na AI ya kiendelezi inayoendesha chinichini. Ikiwa tafsiri haionekani sahihi, badilisha kipaumbele cha manukuu kiwe manukuu ya jukwaa kwenye Mipangilio ya Msingi."
+  },
+  "openBasicSettingsLink": {
+    "message": "Fungua Mipangilio ya Msingi"
+  },
+  "doNotShowAgainLink": {
+    "message": "Usionyeshe tena"
+  },
+  "loginAndUsePlugin": {
+    "message": "Tafadhali bonyeza ikoni ya programu-jalizi kuingia kwanza, kisha tumia programu-jalizi kwa uchezaji wa sauti."
+  },
+  "voiceSettingsMismatch": {
+    "message": "Aina ya sauti na mipangilio ya sauti hazilingani. Tafadhali nenda kwenye ukurasa wa mipangilio ili kuchagua tena na uhifadhi mipangilio ya sauti."
+  },
+  "contentMenusTitle": {
+    "message": "Anza Uchezaji wa Sauti"
+  },
+  "videoDetectedDomainTooltip": {
+    "message": "Sehemu iliyotambuliwa ya video ya sasa: {domain}"
+  },
+  "dropboxClickCcToTranscribe": {
+    "message": "Video hii haijaandikwa bado. Tafadhali bonyeza kitufe cha CC chini ya video ya Dropbox kuandika manukuu. Baada ya uandishi kukamilika, bonyeza kitufe cha sauti cha programu-jalizi kufasiri na kusema."
+  },
+  "iosInterceptorConflictTitle": {
+    "message": "Mgongano wa programu-jalizi umegundulika"
+  },
+  "iosInterceptorConflictMessage": {
+    "message": "Programu-jalizi nyingine ya kivinjari inazuia kuzuia maombi ya manukuu. Lemaza programu-jalizi zinazogongana, onyesha ukurasa upya, kisha jaribu tena."
+  },
+  "login": {
+    "message": "Ingia"
+  },
+  "logout": {
+    "message": "Toka"
+  },
+  "subscribe": {
+    "message": "Jiunge na VIP"
+  },
+  "save_settings": {
+    "message": "Hifadhi Mipangilio"
+  },
+  "saving": {
+    "message": "Inahifadhi..."
+  },
+  "saveSuccessTitle": {
+    "message": "Kuhifadhi Kumefanikiwa"
+  },
+  "saveSuccessText": {
+    "message": "Mipangilio yamehifadhiwa vizuri"
+  },
+  "saveFailedTitle": {
+    "message": "Kuhifadhi Kumeshindwa"
+  },
+  "saveFailedText": {
+    "message": "Imeshindwa kuhifadhi mipangilio, tafadhali jaribu tena"
+  },
+  "confirmButton": {
+    "message": "Endelea"
+  },
+  "cancelButton": {
+    "message": "Ghairi"
+  },
+  "back": {
+    "message": "Rudi"
+  },
+  "backToSettings": {
+    "message": "Rudi kwa mipangilio"
+  },
+  "backToVideoLibrary": {
+    "message": "Rudi kwenye maktaba ya video"
+  },
+  "source_languages": {
+    "message": "Lugha ya Chanzo:"
+  },
+  "target_languages": {
+    "message": "Lugha ya Lengo:"
+  },
+  "selectSourceLanguage": {
+    "message": "Chagua lugha ya chanzo"
+  },
+  "selectTargetLanguage": {
+    "message": "Chagua lugha ya lengo"
+  },
+  "searchSourceLanguage": {
+    "message": "Tafuta lugha ya chanzo..."
+  },
+  "searchTargetLanguage": {
+    "message": "Tafuta lugha ya lengo..."
+  },
+  "loading": {
+    "message": "Inapakia"
+  },
+  "sex": {
+    "message": "Jinsia:"
+  },
+  "voices": {
+    "message": "Sauti:"
+  },
+  "voicesType": {
+    "message": "Aina ya Sauti:"
+  },
+  "man": {
+    "message": "Mume"
+  },
+  "woman": {
+    "message": "Mke"
+  },
+  "free": {
+    "message": "bure"
+  },
+  "memberFree": {
+    "message": "Bure kwa wanachama"
+  },
+  "memberFreeRequireMembership": {
+    "message": "Aina hii ya sauti ni ya wanachama tu. Boresha ili kuitumia bila malipo."
+  },
+  "azureRequireMembership": {
+    "message": "Azure TTS ni ya wanachama tu. Boresha ili kufungua sauti za Azure za ubora wa juu."
+  },
+  "originalAudio": {
+    "message": "Sauti ya Asili"
+  },
+  "translatedAudio": {
+    "message": "Sauti ya Tafsiri"
+  },
+  "backgroundAudio": {
+    "message": "Sauti ya Nyuma"
+  },
+  "textToSpeech": {
+    "message": "Maandishi kwa Usemi:"
+  },
+  "textToSpeechToggle": {
+    "message": "Kitufe"
+  },
+  "showSubtitle": {
+    "message": "Manukuu:"
+  },
+  "subtitleSize": {
+    "message": "Ukubwa"
+  },
+  "subtitles": {
+    "message": "Manukuu"
+  },
+  "toggleSubtitles": {
+    "message": "Geuza manukuu"
+  },
+  "subtitleDisplayMode": {
+    "message": "Hali ya manukuu"
+  },
+  "subtitleModeTranslated": {
+    "message": "Tafsiri pekee"
+  },
+  "subtitleModeBilingual": {
+    "message": "Manukuu ya lugha mbili"
+  },
+  "subtitleModeOff": {
+    "message": "Manukuu yamezimwa"
+  },
+  "translateService": {
+    "message": "Tafsiri:"
+  },
+  "translationEngine": {
+    "message": "Injini ya Tafsiri"
+  },
+  "translationService": {
+    "message": "Huduma ya Tafsiri"
+  },
+  "translationServiceTitle": {
+    "message": "Huduma ya Tafsiri"
+  },
+  "advancedSettings": {
+    "message": "Mipangilio ya Kina"
+  },
+  "pauseVideo": {
+    "message": "Simamisha Video"
+  },
+  "iosOpenOriginVolume": {
+    "message": "Washa sauti asili"
+  },
+  "voicesAndSubtitles": {
+    "message": "Sauti na Manukuu"
+  },
+  "voicesAndSubtitlesTitle": {
+    "message": "Sauti na Manukuu"
+  },
+  "speakerList": {
+    "message": "Orodha ya Wasemaji"
+  },
+  "speakersTitle": {
+    "message": "Wasemaji"
+  },
+  "deleteSpeaker": {
+    "message": "Futa"
+  },
+  "editSpeaker": {
+    "message": "Hariri"
+  },
+  "speakerName": {
+    "message": "Jina la Msemaji"
+  },
+  "enterSpeakerName": {
+    "message": "Tafadhali ingiza jina la msemaji"
+  },
+  "enterVoice": {
+    "message": "Tafadhali ingiza jina la sauti"
+  },
+  "voice": {
+    "message": "Sauti"
+  },
+  "gender": {
+    "message": "Jinsia"
+  },
+  "male": {
+    "message": "Mume"
+  },
+  "female": {
+    "message": "Mke"
+  },
+  "edit": {
+    "message": "Hariri"
+  },
+  "delete": {
+    "message": "Futa"
+  },
+  "save": {
+    "message": "Hifadhi"
+  },
+  "cancel": {
+    "message": "Ghairi"
+  },
+  "confirmDeleteSpeaker": {
+    "message": "Je, una uhakika unataka kufuta msemaji huyu?"
+  },
+  "noSpeakers": {
+    "message": "Hakuna wasemaji"
+  },
+  "memberUser": {
+    "message": "PRO"
+  },
+  "accountBalance": {
+    "message": "Salio la Akaunti:"
+  },
+  "userAccountAriaLabel": {
+    "message": "Akaunti ya mtumiaji"
+  },
+  "membershipExpires": {
+    "message": "Muda wa uanachama"
+  },
+  "shortcutSettings": {
+    "message": "Mipangilio ya Njia za Mkato"
+  },
+  "subscriptionRecharge": {
+    "message": "Sajili & Jaza"
+  },
+  "membershipIcon": {
+    "message": "Ikoni ya Uanachama"
+  },
+  "browserShortcutSettingsTip": {
+    "message": "Tafadhali sanidi njia za mkato katika mipangilio ya programu-jalizi ya kivinjari"
+  },
+  "safariShortcutSettingsTip": {
+    "message": "Tafadhali weka njia za mkato katika Safari > Mapendeleo > Programu-jalizi"
+  },
+  "edgeShortcutSettingsTip": {
+    "message": "Inafungua ukurasa wa mipangilio ya njia za mkato za programu-jalizi ya Edge"
+  },
+  "firefoxShortcutSettingsTip": {
+    "message": "Inafungua ukurasa wa nyongeza za Firefox, tafadhali weka njia za mkato katika Programu-jalizi na Mandhari"
+  },
+  "dubbingSettings": {
+    "message": "Mipangilio ya Sauti"
+  },
+  "debugInfo": {
+    "message": "Taarifa za Utatuzi"
+  },
+  "sourceLanguage": {
+    "message": "Lugha ya Chanzo"
+  },
+  "targetLanguage": {
+    "message": "Lugha ya Lengo"
+  },
+  "vipRequiredTitle": {
+    "message": "Uanachama Unahitajika"
+  },
+  "vipRequiredText": {
+    "message": "Unahitaji kuwa mwanachama kutumia kipengele hiki"
+  },
+  "vipAndBalanceRequiredTitle": {
+    "message": "Uanachama na Salio Vinahitajika"
+  },
+  "vipAndBalanceRequiredText": {
+    "message": "Unahitaji kuwa mwanachama na kuwa na salio la kutosha kutumia kipengele hiki"
+  },
+  "balanceRequiredTitle": {
+    "message": "Salio Linahitajika"
+  },
+  "balanceRequiredText": {
+    "message": "Salio la akaunti yako haitoshi. Tafadhali jaza kutumia kipengele hiki"
+  },
+  "lowBalanceTitle": {
+    "message": "Tahadhari ya Salio Dogo"
+  },
+  "lowBalanceText": {
+    "message": "Salio la akaunti yako liko chini ya $1. Tunapendekeza kujaza hivi karibuni ili kuhakikisha huduma isikatizwe"
+  },
+  "insufficientBalance": {
+    "message": "Kwa sababu ya salio lisilotosha, huduma imeshushwa hadi Tafsiri ya Google. Kutumia tafsiri ya AI, tafadhali jaza mkopo wako."
+  },
+  "insufficientBalanceAlertMsg": {
+    "message": "Salio lako haitoshi. Tafadhali jaza salio lako kabla ya kutumia tafsiri ya AI na Azure TTS. Ikiwa hutaki kujaza, unaweza kubadilisha kurudi kwa Tafsiri ya Google na aina za sauti za bure."
+  },
+  "balanceRunningLow": {
+    "message": "Salio lako linakaribia kuisha. Ili kuepuka uzoefu mbaya wa kutazama, inashauriwa kujaza mapema."
+  },
+  "membershipRequired": {
+    "message": "Tafadhali panda daraja kwa uanachama kabla ya kutumia tafsiri ya OpenAI."
+  },
+  "membershipRequiredForAI": {
+    "message": "Tafadhali jaza uanachama wako kabla ya kutumia tafsiri ya AI. Ikiwa hutaki kujaza, unaweza pia kuchagua Tafsiri ya Google."
+  },
+  "insufficientMembership": {
+    "message": "Uanachama wako umeisha. Tafadhali jaza uanachama wako kabla ya kutumia tafsiri ya AI na Azure TTS. Ikiwa hutaki kujaza, unaweza pia kuchagua Tafsiri ya Google na aina za sauti za bure."
+  },
+  "insufficientBalanceAndMembership": {
+    "message": "Tafadhali jaza uanachama na salio lako kabla ya kutumia tafsiri ya AI na Azure TTS. Ikiwa hutaki kujaza, unaweza pia kuchagua Tafsiri ya Google na aina za sauti za bure."
+  },
+  "freeForVip": {
+    "message": "VIP Bure"
+  },
+  "freeOptionTipText": {
+    "message": "Ikiwa hutaki kujaza, unaweza kuchagua chaguo la bure, "
+  },
+  "translateEngineTipText": {
+    "message": "badilisha huduma ya tafsiri kuwa Google"
+  },
+  "voiceTypeTipText": {
+    "message": "badilisha aina ya sauti kuwa toleo la bure"
+  },
+  "vipFreeOptionTipText": {
+    "message": "Kama mwanachama, unaweza kutumia huduma za tafsiri zifuatazo bila malipo"
+  },
+  "vipTranslateEngineTipText": {
+    "message": "Badilisha huduma ya tafsiri kuwa huduma za bure za wanachama kama gemini, deepseek, gpt-3.5-turbo, au claude-3-haiku"
+  },
+  "pay": {
+    "message": "lipa"
+  },
+  "switchModelWarning": {
+    "message": "Kubadilisha sauti au modeli ya tafsiri wakati wa uchezaji wa video kutasababisha gharama za ziada kwa sababu ya rasilimali zilizopotea. Tunapendekeza kubadilisha katika video inayofuata. Ili kuendelea hata hivyo, bonyeza Endelea na Hifadhi."
+  },
+  "selectSpeaker": {
+    "message": "Chagua"
+  },
+  "speaker": {
+    "message": "Msemaji"
+  },
+  "rechargeLimit": {
+    "message": "Kiasi+Mwanachama"
+  },
+  "tooExpensive": {
+    "message": "Ghali"
+  },
+  "dropdownPlaceholder": {
+    "message": "Tafadhali chagua"
+  },
+  "dropdownNoOptions": {
+    "message": "Hakuna chaguo zinazopatikana"
+  },
+  "dropdownSearch": {
+    "message": "Tafuta..."
+  },
+  "swapVolumeSettingsCommand": {
+    "message": "Geuza mipangilio ya sauti kati ya sauti asili na tafsiri"
+  },
+  "cycleSubtitleModeCommand": {
+    "message": "Badilisha manukuu: lugha mbili → tafsiri tu → zima"
+  },
+  "trialMemberModelLimit": {
+    "message": "Wanachama wa jaribio wanaweza tu kutumia Gemini na Tafsiri ya Google. Kutumia modeli zingine, tafadhali jiandikishe kwa uanachama wetu."
+  },
+  "subtitlesRateLimitedByYouTube": {
+    "message": "Manukuu ya video hii kwa sasa yamepunguzwa kiwango na YouTube. Tafadhali jaribu tena baadaye."
+  },
+  "musicVideoNotSupported": {
+    "message": "Hii ni video ya muziki. Tafsiri na udubaji haziauniwi."
+  },
+  "hideUntilNextVisit": {
+    "message": "Ficha hadi ziara inayofuata"
+  },
+  "disableGlobally": {
+    "message": "Lemaza kimataifa"
+  },
+  "sidebarHideUntilNextVisit": {
+    "message": "Ficha hadi ziara ijayo"
+  },
+  "sidebarDisableForSite": {
+    "message": "Zima kwa tovuti hii"
+  },
+  "sidebarDisableGlobally": {
+    "message": "Zima kwa ujumla"
+  },
+  "sidebarReenableHint": {
+    "message": "Inaweza kuwashwa tena katika "
+  },
+  "sidebarSettings": {
+    "message": "Mipangilio"
+  },
+  "sidebarReenableHintSuffix": {
+    "message": " "
+  },
+  "notSupported": {
+    "message": "Haitegemezwi"
+  },
+  "multiVideoNotSupported": {
+    "message": "Ukurasa huu una video nyingi. Dubbing ya ulimwengu inasaidia kurasa zenye video moja tu wakati wa kutumia mtiririko wa HLS."
+  },
+  "mediaSourceNotDetected": {
+    "message": "Haiwezi kugundua chanzo cha video. Tovuti hii huenda isitegemezwe."
+  },
+  "uploadMediaForRecognition": {
+    "message": "Hakuna manukuu yaliyopatikana. Je, ungependa kupakia video kwa utambuzi wa manukuu wa AI?"
+  },
+  "startUpload": {
+    "message": "Anza kupakia"
+  },
+  "uploadingMedia": {
+    "message": "Inapakia midia..."
+  },
+  "downloading": {
+    "message": "Inapakua"
+  },
+  "uploading": {
+    "message": "Inapakia"
+  },
+  "completing": {
+    "message": "Inakamilisha"
+  },
+  "uploadComplete": {
+    "message": "Upakiaji umekamilika"
+  },
+  "waitingForRecognition": {
+    "message": "Video imepakiwa kwa mafanikio. Utambuzi wa manukuu wa AI unaendelea. Utapata arifa ya barua pepe inapokuwa tayari."
+  },
+  "uploadFailed": {
+    "message": "Upakiaji umeshindwa"
+  },
+  "corsNotSupported": {
+    "message": "Tovuti hii hairuhusu kupakua faili za midia. Dubbing ya ulimwengu haitegemezwi."
+  },
+  "mediaDownloadInterrupted": {
+    "message": "Upakuaji wa midia ulikatizwa na hitilafu ya mtandao (si kizuizi cha tovuti). Tafadhali jaribu kupakia tena."
+  },
+  "zoomRecordingDnrNotSupported": {
+    "message": "Kivinjari chako hakitumii utambuzi wa kupakia rekodi za Zoom. Tafadhali tumia Chrome/Edge."
+  },
+  "zoomRecordingDownloadForbidden403": {
+    "message": "Upakuaji wa rekodi ya Zoom ulikatazwa (403). Tafadhali cheza/onyesha upya ukurasa ili kupita uthibitishaji, kisha jaribu tena."
+  },
+  "liveStreamNotSupported": {
+    "message": "Matangazo ya moja kwa moja hayategemezwi kwa dubbing ya ulimwengu."
+  },
+  "noAudioTrackFound": {
+    "message": "Hakuna wimbo wa sauti uliogunduliwa. Video hii inaonekana kuwa video tu bila sauti na haiwezi kutumika kwa utambuzi wa uigizaji."
+  },
+  "universalDubbingMemberOnly": {
+    "message": "Dubbing ya ulimwengu inahitaji nguvu ya kompyuta ya GPU ya wingu (gharama kubwa), kwa VIP tu."
+  },
+  "videoDurationExceedsLimit": {
+    "message": "Video hii inazidi saa 3. Dubbing ya ulimwengu kwa sasa haitumiki kwa video zaidi ya saa 3."
+  },
+  "videoDrmProtected": {
+    "message": "Video hii inalindwa na DRM na haiwezi kutumika kwa kuigiza sauti."
+  },
+  "pleaseClickVideoToPlay": {
+    "message": "Tafadhali bofya video ili kuifungua, kisha tumia kipengele cha uimbaji."
+  },
+  "iosUniversalDubbingNotSupported": {
+    "message": "Kuigiza sauti kwa ujumla hakutumiki kwenye vifaa vya iOS. Tafadhali tumia kivinjari cha kompyuta."
+  },
+  "membershipRequiredTitle": {
+    "message": "Uanachama unahitajika"
+  },
+  "error": {
+    "message": "Kosa"
+  },
+  "unknownError": {
+    "message": "Kosa lisilojulikana limetokea. Tafadhali jaribu tena."
+  },
+  "doNotClosePage": {
+    "message": "Tafadhali usifunge au upakie upya ukurasa huu wakati wa kupakia, vinginevyo upakiaji utakatizwa."
+  },
+  "taskAlreadySubmitted": {
+    "message": "Video hii tayari inachakatwa kwa utambuzi wa manukuu ya AI. Tafadhali subiri arifa ya barua pepe."
+  },
+  "sampleAesNotSupported": {
+    "message": "Video hii inatumia usimbaji wa SAMPLE-AES ambao kwa sasa haukubaliki kupakua."
+  },
+  "hlsKeyFetchFailed": {
+    "message": "Imeshindwa kupata ufunguo wa kusimbua kwa video hii. Video inaweza kuwa imelindwa au seva ya ufunguo haipatikani."
+  },
+  "hlsDecryptionFailed": {
+    "message": "Imeshindwa kusimbua maudhui ya video. Ufunguo wa usimbaji unaweza kuwa si sahihi au muundo wa video hauendani."
+  },
+  "subtitleStyleOptionsTitle": {
+    "message": "Mipangilio ya mtindo wa manukuu"
+  },
+  "subtitleStyleOptionsDesc": {
+    "message": "Marekebisho yatahifadhiwa na kuanza kutumika mara moja."
+  },
+  "subtitleStyleSectionTitle": {
+    "message": "Mtindo wa manukuu"
+  },
+  "subtitleStylePreviewTitle": {
+    "message": "Onyesho la awali"
+  },
+  "subtitleStylePreviewTag": {
+    "message": "wakati halisi"
+  },
+  "subtitleStylePreviewText": {
+    "message": "Alifikiri kuwa kijana huyu alikuwa na uwezo mkubwa."
+  },
+  "subtitleStylePosition": {
+    "message": "Nafasi"
+  },
+  "subtitleStylePositionTop": {
+    "message": "Juu"
+  },
+  "subtitleStylePositionMiddle": {
+    "message": "Katikati"
+  },
+  "subtitleStylePositionBottom": {
+    "message": "Chini"
+  },
+  "subtitleStyleFontFamily": {
+    "message": "Fonti"
+  },
+  "subtitleStyleFontSize": {
+    "message": "Saizi ya fonti"
+  },
+  "subtitleStyleCustomOption": {
+    "message": "Geuza kukufaa"
+  },
+  "subtitleStyleCustomFont": {
+    "message": "Fonti maalum"
+  },
+  "subtitleStyleCustomFontPlaceholder": {
+    "message": "Kwa mfano: PingFang SC, Arial"
+  },
+  "subtitleStyleTextColor": {
+    "message": "Rangi ya herufi"
+  },
+  "subtitleStyleFontWeight": {
+    "message": "Uzito wa herufi"
+  },
+  "subtitleStyleBackgroundColor": {
+    "message": "Rangi ya mandharinyuma"
+  },
+  "subtitleStyleBackgroundOpacity": {
+    "message": "Kutokuwazi kwa mandharinyuma"
+  },
+  "subtitleStyleEdgeStyle": {
+    "message": "Mtindo wa ukingo"
+  },
+  "subtitleStyleEdgeNone": {
+    "message": "Hakuna"
+  },
+  "subtitleStyleEdgeShadow": {
+    "message": "Kivuli"
+  },
+  "subtitleStyleEdgeOutline": {
+    "message": "Mstari wa nje"
+  },
+  "subtitleStyleFontNone": {
+    "message": "Hakuna"
+  },
+  "subtitleStyleFontDefault": {
+    "message": "Chaguo-msingi"
+  },
+  "subtitleStyleFontPingFang": {
+    "message": "PingFang SC"
+  },
+  "subtitleStyleFontYaHei": {
+    "message": "Microsoft YaHei"
+  },
+  "subtitleStyleFontHeiti": {
+    "message": "STHeiti"
+  },
+  "subtitleStyleFontKaiti": {
+    "message": "Kaiti SC"
+  },
+  "subtitleStyleFontSongti": {
+    "message": "STSong"
+  },
+  "subtitleStyleFontFangsong": {
+    "message": "FangSong"
+  },
+  "subtitleStyleFontDongqingHeiti": {
+    "message": "Dongqing Heiti"
+  },
+  "subtitleStyleFontLantingHei": {
+    "message": "Lanting Hei"
+  },
+  "subtitleStyleFontHanyiHeiliu": {
+    "message": "Hanyi Heiliu"
+  },
+  "subtitleStyleFontHanyiZhonghei": {
+    "message": "Hanyi Zhonghei"
+  },
+  "subtitleStyleFontSTSong": {
+    "message": "Songti"
+  },
+  "subtitleStyleFontWawati": {
+    "message": "Wawati"
+  },
+  "subtitleStyleFontWeibei": {
+    "message": "Weibei"
+  },
+  "subtitleStyleFontXingkai": {
+    "message": "Xingkai"
+  },
+  "subtitleStyleFontYuanti": {
+    "message": "Yuanti"
+  },
+  "subtitleStyleFontArialUnicode": {
+    "message": "Arial Unicode MS"
+  },
+  "subtitleStyleFontArial": {
+    "message": "Arial"
+  },
+  "subtitleStyleFontCourierNew": {
+    "message": "Courier New"
+  },
+  "subtitleStyleFontGeorgia": {
+    "message": "Georgia"
+  },
+  "subtitleStyleFontTahoma": {
+    "message": "Tahoma"
+  },
+  "subtitleStyleFontTimesNewRoman": {
+    "message": "Times New Roman"
+  },
+  "subtitleStyleFontTrebuchetMS": {
+    "message": "Trebuchet MS"
+  },
+  "subtitleStyleFontVerdana": {
+    "message": "Verdana"
+  },
+  "subtitleStyleFontHelveticaNeue": {
+    "message": "Helvetica Neue"
+  },
+  "subtitleStyleFontHiraginoMincho": {
+    "message": "Hiragino Mincho ProN"
+  },
+  "subtitleStyleFontHiraginoKaku": {
+    "message": "Hiragino Kaku Gothic ProN"
+  },
+  "subtitleStyleFontKohinoor": {
+    "message": "Kohinoor Devanagari"
+  },
+  "subtitleStyleFontAppleSD": {
+    "message": "Apple SD Gothic Neo"
+  },
+  "subtitleStyleFontNanumGothic": {
+    "message": "Nanum Gothic"
+  },
+  "subtitleStyleFontCustom": {
+    "message": "Maalum"
+  },
+  "subtitleStyleColorWhite": {
+    "message": "Nyeupe"
+  },
+  "subtitleStyleColorYellow": {
+    "message": "njano"
+  },
+  "subtitleStyleColorOrange": {
+    "message": "rangi ya machungwa"
+  },
+  "subtitleStyleColorGray": {
+    "message": "kijivu"
+  },
+  "subtitleStyleColorGreen": {
+    "message": "kijani"
+  },
+  "subtitleStyleColorCyan": {
+    "message": "Siani"
+  },
+  "subtitleStyleColorBlue": {
+    "message": "Bluu"
+  },
+  "subtitleStyleColorMagenta": {
+    "message": "magenta"
+  },
+  "subtitleStyleColorRed": {
+    "message": "nyekundu"
+  },
+  "subtitleStyleColorBlack": {
+    "message": "nyeusi"
+  },
+  "subtitleStyleEditorViewLabel": {
+    "message": "Mwonekano wa kuhariri mtindo"
+  },
+  "subtitleStyleEditorViewTranslated": {
+    "message": "Tafsiri pekee"
+  },
+  "subtitleStyleEditorViewBilingual": {
+    "message": "Lugha mbili"
+  },
+  "subtitleStyleLayoutSectionTitle": {
+    "message": "Mpangilio wa lugha mbili"
+  },
+  "subtitleStyleOrder": {
+    "message": "Mpangilio wa manukuu"
+  },
+  "subtitleStyleOrderTranslatedFirst": {
+    "message": "Tafsiri juu"
+  },
+  "subtitleStyleOrderOriginalFirst": {
+    "message": "Asili juu"
+  },
+  "subtitleStyleLineGap": {
+    "message": "Nafasi kati ya mistari"
+  },
+  "subtitleStyleTextAlign": {
+    "message": "Mpangilio wa mlalo"
+  },
+  "subtitleStyleTextAlignLeft": {
+    "message": "Kushoto"
+  },
+  "subtitleStyleTextAlignCenter": {
+    "message": "Kati"
+  },
+  "subtitleStyleTextAlignRight": {
+    "message": "Kulia"
+  },
+  "subtitleStyleTranslatedSectionTitle": {
+    "message": "Mtindo wa tafsiri"
+  },
+  "subtitleStyleOriginalSectionTitle": {
+    "message": "Mtindo wa asili"
+  },
+  "subtitleStyleFollowTranslated": {
+    "message": "Fuata mtindo wa tafsiri"
+  },
+  "subtitleStyleUsesCurrentSettings": {
+    "message": "Inatumia mipangilio ya sasa"
+  },
+  "subtitleStyleOriginalSizePercent": {
+    "message": "Uwiano wa ukubwa wa fonti"
+  },
+  "subtitleStyleSharedBackgroundSectionTitle": {
+    "message": "Mandharinyuma ya pamoja"
+  },
+  "subtitleStyleRestoreDefaults": {
+    "message": "Rejesha chaguo-msingi"
+  },
+  "subtitleStylePreviewOriginalText": {
+    "message": "He thought this young man had great potential."
+  },
+  "subtitleStyleColorLightGray": {
+    "message": "Kijivu angavu"
+  },
+  "disabledSitesSectionTitle": {
+    "message": "Tovuti zilizozimwa"
+  },
+  "disabledSitesTitle": {
+    "message": "Usimamizi wa tovuti zilizozimwa"
+  },
+  "disabledSitesDescription": {
+    "message": "Kitufe kinachoelea hakitaonekana kwenye tovuti zifuatazo. Unaweza kuongeza au kuondoa tovuti zilizozimwa hapa."
+  },
+  "disabledSitesPlaceholder": {
+    "message": "Ingiza kikoa, mf. youtube.com"
+  },
+  "disabledSitesAdd": {
+    "message": "Ongeza"
+  },
+  "disabledSitesDomain": {
+    "message": "Kikoa"
+  },
+  "disabledSitesActions": {
+    "message": "Vitendo"
+  },
+  "disabledSitesDelete": {
+    "message": "Futa"
+  },
+  "disabledSitesEmpty": {
+    "message": "Hakuna tovuti zilizozimwa"
+  },
+  "preferencesSectionTitle": {
+    "message": "Mipangilio ya msingi"
+  },
+  "optionsNavPreferencesShort": {
+    "message": "Msingi"
+  },
+  "optionsNavSubtitleShort": {
+    "message": "Manukuu"
+  },
+  "optionsNavAiShort": {
+    "message": "AI"
+  },
+  "optionsNavSitesShort": {
+    "message": "Tovuti"
+  },
+  "preferenceStatusDisabled": {
+    "message": "Imezimwa"
+  },
+  "preferencesTitle": {
+    "message": "Mipangilio ya msingi"
+  },
+  "preferencesDescription": {
+    "message": "Dhibiti mapendeleo yako ya msingi hapa."
+  },
+  "emailNotificationLabel": {
+    "message": "Arifa za barua pepe"
+  },
+  "emailNotificationDescription": {
+    "message": "Nijulishe kwa barua pepe utambuzi wa manukuu ukikamilika."
+  },
+  "emailNotificationSaveFailed": {
+    "message": "Imeshindwa kuhifadhi. Tafadhali jaribu tena baadaye."
+  },
+  "skipTranslationWhenSameLanguageLabel": {
+    "message": "Ruka tafsiri kwa lugha ileile"
+  },
+  "skipTranslationWhenSameLanguageDescription": {
+    "message": "Ikiwashwa, ikiwa lugha ya manukuu inalingana na lugha lengwa, dubing itaanza moja kwa moja bila tafsiri."
+  },
+  "userSubtitleSegmentationEnabledLabel": {
+    "message": "Ugawaji mahiri wa manukuu ya mtumiaji"
+  },
+  "userSubtitleSegmentationEnabledDescription": {
+    "message": "Ikiwashwa, hugawa kiotomatiki manukuu yaliyohaririwa au kupakiwa ndani ya kifaa. Ikizimwa, huhifadhi mgawanyo wa awali."
+  },
+  "subtitlePriorityTitle": {
+    "message": "Kipaumbele cha Kutafsiri Manukuu"
+  },
+  "subtitlePriorityDescription": {
+    "message": "Chagua chanzo kipi cha manukuu kitakazopewa kipaumbele kwa tafsiri."
+  },
+  "subtitlePriorityAiSubtitle": {
+    "message": "Manukuu Yaliyotambuliwa na AI ya Programu-jalizi"
+  },
+  "subtitlePriorityAiSubtitleDesc": {
+    "message": "Toa kipaumbele kwa manukuu yaliyozalishwa na utambuzi wa sauti wa AI wa programu-jalizi kwa usahihi wa juu zaidi."
+  },
+  "subtitlePriorityPlatformSubtitle": {
+    "message": "Manukuu Yaliyojengwa ndani ya Jukwaa"
+  },
+  "subtitlePriorityPlatformSubtitleDesc": {
+    "message": "Toa kipaumbele kwa manukuu asili yanayotolewa na jukwaa la video."
+  },
+  "subtitlePriorityQuickLabel": {
+    "message": "Manukuu"
+  },
+  "subtitlePriorityQuickAi": {
+    "message": "AI"
+  },
+  "subtitlePriorityQuickPlatform": {
+    "message": "Jukwaa"
+  },
+  "panelTabVideoSummary": {
+    "message": "Muhtasari"
+  },
+  "panelTabSubtitleEdit": {
+    "message": "Manukuu"
+  },
+  "panelSummaryTitle": {
+    "message": "Muhtasari na muundo wa video"
+  },
+  "panelSummaryDesc": {
+    "message": "Tumia modeli za AI za hali ya juu kuelewa haraka maudhui ya video"
+  },
+  "panelSummaryGenerate": {
+    "message": "Tengeneza muhtasari"
+  },
+  "panelSummaryGenerating": {
+    "message": "Inatengeneza..."
+  },
+  "panelSummaryReGenerating": {
+    "message": "Inatengeneza upya..."
+  },
+  "panelSummarySectionSummary": {
+    "message": "Muhtasari"
+  },
+  "panelSummarySectionHighlights": {
+    "message": "Mambo muhimu"
+  },
+  "panelSummaryExpandAll": {
+    "message": "Panua yote"
+  },
+  "panelSummaryCollapseAll": {
+    "message": "Kunja yote"
+  },
+  "panelSummaryExpand": {
+    "message": "Panua"
+  },
+  "panelSummaryCollapse": {
+    "message": "Kunja"
+  },
+  "panelSummaryShare": {
+    "message": "Shiriki"
+  },
+  "panelSummaryCopy": {
+    "message": "Nakili"
+  },
+  "panelSummaryReGenerate": {
+    "message": "Tengeneza upya"
+  },
+  "panelSummaryCopySuccess": {
+    "message": "Imenakiliwa"
+  },
+  "panelSummaryPlay": {
+    "message": "Cheza"
+  },
+  "panelSummaryPause": {
+    "message": "Sitisha"
+  },
+  "panelSummaryPlayFailed": {
+    "message": "Imeshindwa kucheza, tafadhali jaribu tena"
+  },
+  "panelSummaryNoSubtitle": {
+    "message": "Hakuna manukuu yanayopatikana kwa video hii"
+  },
+  "panelSummaryError": {
+    "message": "Kutengeneza muhtasari kumeshindikana, tafadhali jaribu tena"
+  },
+  "panelSummaryErrorInvalidVideoId": {
+    "message": "Haiwezi kutambua video ya sasa, tafadhali onyesha upya ukurasa na ujaribu tena"
+  },
+  "panelSummaryErrorMemberRequired": {
+    "message": "Muhtasari wa video ni kipengele cha wanachama pekee, tafadhali jiandikishe ili kutumia"
+  },
+  "panelSummaryErrorNoSubtitles": {
+    "message": "Hakuna manukuu yanayopatikana kwa video hii, haiwezekani kutengeneza muhtasari"
+  },
+  "panelSummaryErrorServiceError": {
+    "message": "Huduma ya muhtasari haipatikani kwa muda, tafadhali jaribu tena baadaye"
+  },
+  "subtitleEditorManualInput": {
+    "message": "Ingizo la Mwongozo"
+  },
+  "subtitleEditorSwitchTip": {
+    "message": "Bofya hapa ili kubadilisha manukuu"
+  },
+  "subtitleEditorExport": {
+    "message": "Hamisha"
+  },
+  "subtitleEditorTrackFallback": {
+    "message": "Chanzo cha Manukuu"
+  },
+  "subtitleEditorMySubtitles": {
+    "message": "Manukuu Yangu"
+  },
+  "subtitleEditorNoSourceManual": {
+    "message": "Hakuna vyanzo vya manukuu vinavyopatikana (ingizo la mwongozo linapatikana)"
+  },
+  "subtitleEditorSaveInvalidVideo": {
+    "message": "Imeshindwa kutambua video ya sasa. Imeshindwa kuhifadhi."
+  },
+  "subtitleEditorSaveFailed": {
+    "message": "Imeshindwa kuhifadhi. Tafadhali jaribu tena baadaye."
+  },
+  "subtitleEditorValidationEmpty": {
+    "message": "Maudhui ya manukuu hayawezi kuwa tupu"
+  },
+  "subtitleEditorValidationBlockStructure": {
+    "message": "Kizuizi batili cha SRT. Mfuatano, muhuri wa muda na maudhui yanahitajika."
+  },
+  "subtitleEditorValidationSequenceFormat": {
+    "message": "Umbizo la nambari ya mlolongo wa SRT si sahihi"
+  },
+  "subtitleEditorValidationSequenceIncrement": {
+    "message": "Nambari za mfuatano wa SRT lazima zianzie 1 na ziongezwe kwa 1"
+  },
+  "subtitleEditorValidationTimeFormat": {
+    "message": "Umbizo la muda si sahihi. Tafadhali ikague na uisahihishe."
+  },
+  "subtitleEditorValidationEndAfterStart": {
+    "message": "Wakati wa mwisho lazima uwe mkubwa kuliko wakati wa kuanza"
+  },
+  "subtitleEditorValidationContentRequired": {
+    "message": "Kila manukuu lazima yawe na angalau mstari mmoja wa maandishi"
+  },
+  "subtitleEditorValidationSpeakerPrefix": {
+    "message": "Baadhi ya manukuu ni pamoja na lebo za spika. Manukuu yote lazima yatumie kiambishi awali cha [speaker]."
+  },
+  "localPlayerTemporaryImportMode": {
+    "message": "Hali ya kuagiza kwa muda"
+  },
+  "localPlayerLibraryTitle": {
+    "message": "Maktaba ya ndani ya video"
+  },
+  "localPlayerEntryButton": {
+    "message": "Video ya ndani"
+  },
+  "localPlayerPageTitle": {
+    "message": "Video ya ndani · YouTube Dubbing"
+  },
+  "localPlayerFolderAccessDescription": {
+    "message": "Kufungua folda huhifadhi vishikizo vya faili ili ufikiaji uweze kurejeshwa baada ya kuonyesha upya."
+  },
+  "localPlayerTemporaryImportDescription": {
+    "message": "Kivinjari hiki hakitumii File System Access API. Unaweza kuongeza video na manukuu kwa muda."
+  },
+  "localPlayerOpenFolder": {
+    "message": "Fungua folda"
+  },
+  "localPlayerAddVideo": {
+    "message": "Ongeza video"
+  },
+  "localPlayerAddSubtitle": {
+    "message": "Ongeza manukuu"
+  },
+  "localPlayerVideoList": {
+    "message": "Orodha ya video"
+  },
+  "localPlayerFolders": {
+    "message": "Folda"
+  },
+  "localPlayerFoldersDescription": {
+    "message": "Vinjari media iliyoletwa kwa folda."
+  },
+  "localPlayerAllVideos": {
+    "message": "Video zote"
+  },
+  "localPlayerAllVideosDescription": {
+    "message": "Tafuta na udhibiti kila video iliyoingizwa."
+  },
+  "localPlayerLibraryView": {
+    "message": "Mwonekano wa maktaba"
+  },
+  "localPlayerBackToFolders": {
+    "message": "Rudi kwenye folda"
+  },
+  "localPlayerFolderSearchPlaceholder": {
+    "message": "Tafuta folda, njia, au faili"
+  },
+  "localPlayerTotalFolders": {
+    "message": "Jumla ya folda {count}"
+  },
+  "localPlayerMatchedFolders": {
+    "message": "Inalingana {visibleCount} / jumla ya folda {totalCount}"
+  },
+  "localPlayerNoFolderMatchesTitle": {
+    "message": "Hakuna folda zinazolingana"
+  },
+  "localPlayerNoFolderMatchesText": {
+    "message": "Rekebisha utafutaji wa folda na ujaribu tena."
+  },
+  "localPlayerRescanAll": {
+    "message": "Changanua tena zote"
+  },
+  "localPlayerFolderMenuLabel": {
+    "message": "Vitendo vya folda"
+  },
+  "localPlayerOpenFolderMenu": {
+    "message": "Fungua folda"
+  },
+  "localPlayerRescanThisFolder": {
+    "message": "Changanua tena folda hii"
+  },
+  "localPlayerRemoveFromLibrary": {
+    "message": "Ondoa kwenye maktaba"
+  },
+  "localPlayerFolderVideoCount": {
+    "message": "{count} video"
+  },
+  "localPlayerFolderAssociatedSubtitleCount": {
+    "message": "{count} manukuu yanayohusiana"
+  },
+  "localPlayerFolderLastPlayed": {
+    "message": "Ilichezwa mwisho {time}"
+  },
+  "localPlayerFolderLastScanned": {
+    "message": "Ilichanganuliwa mwisho {time}"
+  },
+  "localPlayerRemoveFolderTitle": {
+    "message": "Je, ungependa kuondoa folda hii kwenye maktaba?"
+  },
+  "localPlayerRemoveFolderText": {
+    "message": "Hii huondoa rekodi za maktaba pekee za folda hii. Faili asili kwenye diski hazitafutwa."
+  },
+  "localPlayerFolderRemoved": {
+    "message": "Imeondolewa {folderName}"
+  },
+  "localPlayerRemoveFolderFailed": {
+    "message": "Imeshindwa kuondoa folda kwenye maktaba."
+  },
+  "localPlayerRescanFailed": {
+    "message": "Imeshindwa kuchanganua upya maktaba ya ndani."
+  },
+  "localPlayerRescanFolderUnavailable": {
+    "message": "Haiwezi kuchambua tena folda hii kwa sababu ufikiaji wa folda iliyohifadhiwa haupatikani."
+  },
+  "localPlayerCurrentDirectory": {
+    "message": "Saraka ya sasa"
+  },
+  "localPlayerNoNewFilesFound": {
+    "message": "Hakuna faili mpya zilizopatikana."
+  },
+  "localPlayerScanComplete": {
+    "message": "Uchanganuzi umekamilika: umeongeza video {addedVideoCount}, {addedSubtitleCount} manukuu, faili {updatedCount} zilizosasishwa."
+  },
+  "localPlayerNever": {
+    "message": "Kamwe"
+  },
+  "localPlayerSearchPlaceholder": {
+    "message": "Tafuta video au njia za faili"
+  },
+  "localPlayerFilterAll": {
+    "message": "Wote"
+  },
+  "localPlayerFilterWithSubtitle": {
+    "message": "Zenye manukuu"
+  },
+  "localPlayerFilterNoSubtitle": {
+    "message": "Bila manukuu"
+  },
+  "localPlayerSortLastPlayed": {
+    "message": "Video zilizochezwa hivi majuzi"
+  },
+  "localPlayerSortName": {
+    "message": "Jina la faili"
+  },
+  "localPlayerSortDuration": {
+    "message": "Muda wa video"
+  },
+  "localPlayerNoVideosTitle": {
+    "message": "Bado hakuna video za karibu"
+  },
+  "localPlayerNoMatchesTitle": {
+    "message": "Hakuna video zinazolingana"
+  },
+  "localPlayerNoVideosText": {
+    "message": "Fungua folda au uongeze video ili kudhibiti viungo vya manukuu na uandikaji wa sauti wa ndani hapa."
+  },
+  "localPlayerNoMatchesText": {
+    "message": "Rekebisha utafutaji, kichujio, au kupanga na ujaribu tena."
+  },
+  "localPlayerDeleteVideoLabel": {
+    "message": "Futa {fileName}"
+  },
+  "localPlayerRecognitionSubmitted": {
+    "message": "Kutambua manukuu"
+  },
+  "localPlayerPlay": {
+    "message": "Cheza video"
+  },
+  "localPlayerSubtitles": {
+    "message": "Manukuu"
+  },
+  "localPlayerStartDubbing": {
+    "message": "Anza kuiga sauti"
+  },
+  "localPlayerFloatingActionsLabel": {
+    "message": "Vitendo vya haraka vya video za karibu nawe"
+  },
+  "localPlayerOpenSidebar": {
+    "message": "Fungua utepe"
+  },
+  "localPlayerClose": {
+    "message": "Funga"
+  },
+  "localPlayerSameDirectorySubtitleSummary": {
+    "message": "Manukuu ya folda moja {sameCount} · Imeunganishwa {associatedCount}"
+  },
+  "localPlayerNoManageableSubtitles": {
+    "message": "Hakuna manukuu ya kudhibiti"
+  },
+  "localPlayerAssociateAndUseForDubbing": {
+    "message": "Unganisha manukuu na uitumie kwa uandishi wa sauti"
+  },
+  "localPlayerSetForDubbing": {
+    "message": "Tumia manukuu haya kwa uandishi wa sauti"
+  },
+  "localPlayerRemoveAssociation": {
+    "message": "Tenganisha manukuu"
+  },
+  "localPlayerRemoveAllAssociations": {
+    "message": "Tenganisha manukuu yote"
+  },
+  "localPlayerSelectVideoForSubtitleTitle": {
+    "message": "Chagua video ya kuunganisha kwa manukuu haya"
+  },
+  "localPlayerAssociate": {
+    "message": "Kichwa kidogo"
+  },
+  "localPlayerInitialStatus": {
+    "message": "Fungua folda, ongeza video, au udondoshe faili ili kuanza."
+  },
+  "localPlayerAscendingSortTitle": {
+    "message": "Kupanda; bofya ili kubadili kushuka"
+  },
+  "localPlayerDescendingSortTitle": {
+    "message": "Kushuka; bofya ili kubadili kupaa"
+  },
+  "localPlayerTotalVideos": {
+    "message": "Jumla ya video {count}"
+  },
+  "localPlayerMatchedVideos": {
+    "message": "Inalingana {visibleCount} / jumla ya video {totalCount}"
+  },
+  "localPlayerRouteVideoMissing": {
+    "message": "Video iliyobainishwa katika URL haiko katika maktaba ya sasa ya video ya karibu nawe."
+  },
+  "localPlayerFolderAccessUnsupported": {
+    "message": "Kivinjari hiki hakiwezi kufungua folda. Tumia Ongeza video/Ongeza manukuu kwa uingizaji wa muda."
+  },
+  "localPlayerImportComplete": {
+    "message": "Imeingiza {videoCount} video na {subtitleCount} manukuu."
+  },
+  "localPlayerOpenFolderFailed": {
+    "message": "Imeshindwa kufungua folda."
+  },
+  "localPlayerAddVideoFailed": {
+    "message": "Imeshindwa kuongeza video."
+  },
+  "localPlayerAddSubtitleFailed": {
+    "message": "Imeshindwa kuongeza manukuu."
+  },
+  "localPlayerAssociationSaved": {
+    "message": "Kiungo cha manukuu kimehifadhiwa."
+  },
+  "localPlayerAssociationSavedAndPreferred": {
+    "message": "Kichwa kidogo kimeunganishwa na kuwekwa kwa ajili ya uandikaji wa sauti."
+  },
+  "localPlayerPreferredSubtitleSaved": {
+    "message": "Manukuu yamewekwa kwa ajili ya uandikaji sauti."
+  },
+  "localPlayerAssociationRemoved": {
+    "message": "Kiungo cha manukuu kimeondolewa."
+  },
+  "localPlayerRebindSubtitleTitle": {
+    "message": "Je, ungependa kuweka upya manukuu haya?"
+  },
+  "localPlayerRebindSubtitleText": {
+    "message": "Manukuu haya tayari yanahusishwa na \"{fromVideo}\". Kuendelea kutaondoa uhusiano huo na kuuhusisha na \"{toVideo}\"."
+  },
+  "localPlayerRemoveAllAssociationsTitle": {
+    "message": "Tenganisha manukuu yote?"
+  },
+  "localPlayerRemoveAllAssociationsText": {
+    "message": "Viungo vya manukuu ya video hii pekee ndivyo vitaondolewa. Rekodi za faili za manukuu hazitafutwa."
+  },
+  "localPlayerAllAssociationsRemoved": {
+    "message": "Viungo vyote vya manukuu vimeondolewa."
+  },
+  "localPlayerDeleteVideoTitle": {
+    "message": "Ungependa kufuta video hii?"
+  },
+  "localPlayerDeleteVideoText": {
+    "message": "Hii huondoa viungo vya video na manukuu kutoka kwa maktaba ya karibu. Faili asili kwenye diski hazitafutwa."
+  },
+  "localPlayerDelete": {
+    "message": "Futa"
+  },
+  "localPlayerVideoDeleted": {
+    "message": "Imefutwa {fileName}"
+  },
+  "localPlayerDeleteVideoFailed": {
+    "message": "Imeshindwa kufuta video."
+  },
+  "localPlayerVideoFileAccessLost": {
+    "message": "Haiwezi kurejesha ufikiaji wa faili hii ya video. Tafadhali ongeza video tena."
+  },
+  "localPlayerVideoPlayerNotReady": {
+    "message": "Kicheza video bado hakiko tayari."
+  },
+  "localPlayerNowPlaying": {
+    "message": "Sasa inacheza {fileName}"
+  },
+  "localPlayerDubbingStarted": {
+    "message": "Uandikaji wa sauti wa ndani ulianza."
+  },
+  "localPlayerDubbingStartFailed": {
+    "message": "Imeshindwa kuanzisha uimbaji wa sauti wa ndani."
+  },
+  "localPlayerOpenSidebarFailed": {
+    "message": "Imeshindwa kufungua utepe."
+  },
+  "localPlayerVideoFileReadFailed": {
+    "message": "Haiwezi kusoma faili ya video ya ndani. Tafadhali ongeza video tena."
+  },
+  "localPlayerUploadCancelled": {
+    "message": "Upakiaji umeghairiwa."
+  },
+  "localPlayerSubtitleAssociatedBadge": {
+    "message": "{count} manukuu yaliyounganishwa"
+  },
+  "localPlayerNoSubtitleBadge": {
+    "message": "Hakuna manukuu yaliyounganishwa"
+  },
+  "localPlayerUsedForDubbing": {
+    "message": "Hutumika kwa uandishi wa sauti"
+  },
+  "localPlayerAssociated": {
+    "message": "Imeunganishwa"
+  },
+  "localPlayerAssociatedOutsideFolder": {
+    "message": "Imeunganishwa nje ya folda hii"
+  },
+  "localPlayerNotAssociated": {
+    "message": "Haijaunganishwa"
+  },
+  "localPlayerNativeSubtitle": {
+    "message": "Manukuu asili"
+  },
+  "localPlayerDubbingAlreadyStarted": {
+    "message": "Uandikaji wa sauti umeanza"
+  },
+  "localPlayerThumbnailBackfillComplete": {
+    "message": "Vijipicha vilivyozalishwa vya video {count}."
+  },
+  "localPlayerThumbnailGenerationFailed": {
+    "message": "Uzalishaji wa kijipicha haukufaulu: {displayName} ({message})"
+  },
+  "localPlayerFreeUserNoSubtitleMessage": {
+    "message": "Video hii ya karibu haina manukuu yaliyounganishwa. Watumiaji bila malipo bado hawawezi kutumia utambuzi wa manukuu ya usuli kwa video za karibu nawe. Boresha uanachama ili utumie utambuzi wa manukuu ya AI, au pakia faili ya manukuu wewe mwenyewe kabla ya kuanza uandikaji wa sauti."
+  },
+  "localPlayerNoSubtitleUploadTitle": {
+    "message": "Video hii haina manukuu"
+  },
+  "localPlayerNoSubtitleUploadText": {
+    "message": "Pakia video hii kwa utambuzi wa manukuu ya AI? Upakiaji hutumiwa kutambua manukuu pekee, video inafutwa mara tu baada ya kutambuliwa, na utaarifiwa kwa barua pepe."
+  },
+  "localPlayerNavigationLabel": {
+    "message": "Maktaba ya ndani ya video / Maandishi kwa Usemi"
+  },
+  "localPlayerCurrentPageNav": {
+    "message": "Uongezaji sauti"
+  },
+  "localPlayerTextDubbingNav": {
+    "message": "Maandishi kwa Usemi"
+  },
+  "localPlayerTextDubbingTitle": {
+    "message": "Maandishi kwa Usemi"
+  },
+  "localPlayerTextDubbingDescription": {
+    "message": "Maandishi kwa Usemi - Lugha ya Lengo"
+  },
+  "localPlayerTextDubbingVoiceType": {
+    "message": "Aina ya Sauti"
+  },
+  "localPlayerTextDubbingLanguage": {
+    "message": "Lugha ya Lengo"
+  },
+  "localPlayerTextDubbingGender": {
+    "message": "Jinsia"
+  },
+  "localPlayerTextDubbingVoice": {
+    "message": "Sauti"
+  },
+  "localPlayerTextDubbingInputLabel": {
+    "message": "Ingizo la Mwongozo"
+  },
+  "localPlayerTextDubbingInputPlaceholder": {
+    "message": "Ingizo la Mwongozo - Maandishi kwa Usemi"
+  },
+  "localPlayerTextDubbingLimitHint": {
+    "message": "Maandishi kwa Usemi: {chars} / {bytes}"
+  },
+  "localPlayerTextDubbingCounter": {
+    "message": "{chars} · {bytes}"
+  },
+  "localPlayerTextDubbingGenerate": {
+    "message": "Maandishi kwa Usemi MP3"
+  },
+  "localPlayerTextDubbingGenerating": {
+    "message": "Inahifadhi..."
+  },
+  "localPlayerTextDubbingGenerated": {
+    "message": "Maandishi kwa Usemi MP3 · {seconds}s"
+  },
+  "localPlayerTextDubbingFailed": {
+    "message": "Kuhifadhi Kumeshindwa"
+  },
+  "localPlayerTextDubbingNoVoice": {
+    "message": "Hakuna sauti inayopatikana kwa chaguo hili."
+  },
+  "localPlayerTextDubbingEmptyText": {
+    "message": "Maudhui ya manukuu hayawezi kuwa tupu"
+  },
+  "localPlayerTextDubbingTooLong": {
+    "message": "Maandishi ni marefu sana. Yafupishe kisha ujaribu tena."
+  },
+  "localPlayerTextDubbingDownload": {
+    "message": "Hamisha MP3"
+  },
+  "localPlayerTextDubbingClear": {
+    "message": "Ghairi"
+  },
+  "translationDomainGeneral": {
+    "message": "Jumla"
+  },
+  "translationDomainWeb3": {
+    "message": "Web3 na kripto"
+  },
+  "translationDomainTech": {
+    "message": "Teknolojia"
+  },
+  "translationDomainNews": {
+    "message": "Habari na vyombo vya habari"
+  },
+  "translationDomainProgramming": {
+    "message": "Kuprogramu"
+  },
+  "translationDomainEducation": {
+    "message": "Elimu"
+  },
+  "translationDomainFinance": {
+    "message": "Fedha"
+  },
+  "translationDomainLaw": {
+    "message": "Sheria"
+  },
+  "translationDomainAuto": {
+    "message": "Magari"
+  },
+  "translationDomainEcommerce": {
+    "message": "Biashara mtandaoni"
+  },
+  "translationDomainFashion": {
+    "message": "Mitindo"
+  },
+  "translationDomainFood": {
+    "message": "Chakula na upishi"
+  },
+  "translationDomainGardening": {
+    "message": "Bustani"
+  },
+  "translationDomainMedical": {
+    "message": "Tiba na afya"
+  },
+  "translationDomainMusic": {
+    "message": "Muziki"
+  },
+  "translationDomainPets": {
+    "message": "Wanyama vipenzi"
+  },
+  "translationDomainSports": {
+    "message": "Michezo"
+  },
+  "translationDomainTravel": {
+    "message": "Safari"
+  },
+  "translationDomainChess": {
+    "message": "Sataranji"
+  },
+  "translationDomainGaming": {
+    "message": "Michezo ya video"
+  },
+  "translationDomainGolf": {
+    "message": "Gofu"
+  },
+  "translationDomainMovies": {
+    "message": "Filamu na TV"
+  },
+  "translationDomainPhotography": {
+    "message": "Upigaji picha"
+  },
+  "translationPreferencesSectionTitle": {
+    "message": "Tafsiri ya AI"
+  },
+  "translationRulesEnabledLabel": {
+    "message": "Tumia faharasa na ubadilishaji wa maandishi katika tafsiri ya AI"
+  },
+  "translationRulesEnabledDescription": {
+    "message": "Ikiwashwa, tafsiri ya AI hutumia mipangilio iliyo hapa chini. Ikizimwa, mipangilio yako iliyopo huhifadhiwa."
+  },
+  "glossaryTitle": {
+    "message": "Faharasa"
+  },
+  "glossaryDescription": {
+    "message": "Weka tafsiri maalum za istilahi chanzi (kwa mfano, Stratagem). Istilahi zako zina kipaumbele kuliko faharasa iliyojengewa ndani."
+  },
+  "glossaryCreateButton": {
+    "message": "Ongeza istilahi binafsi"
+  },
+  "glossaryEditTitle": {
+    "message": "Hariri istilahi binafsi"
+  },
+  "glossaryEditorDescription": {
+    "message": "Ni istilahi binafsi pekee zinazoweza kuongezwa, kuhaririwa, kuwashwa au kufutwa."
+  },
+  "glossaryTableTitle": {
+    "message": "Istilahi za lugha ya sasa"
+  },
+  "glossaryCombinedEmpty": {
+    "message": "Bado hakuna istilahi binafsi za lugha hii."
+  },
+  "glossarySearchEmpty": {
+    "message": "Hakuna istilahi zinazolingana."
+  },
+  "glossarySearchPlaceholder": {
+    "message": "Tafuta istilahi chanzi"
+  },
+  "glossarySourcePlaceholder": {
+    "message": "Istilahi chanzi"
+  },
+  "glossaryTargetPlaceholder": {
+    "message": "Tafsiri inayohitajika"
+  },
+  "glossarySourceTerm": {
+    "message": "Istilahi chanzi"
+  },
+  "glossaryTargetTerm": {
+    "message": "Tafsiri"
+  },
+  "replacementTitle": {
+    "message": "Masahihisho ya makosa katika matini chanzo"
+  },
+  "replacementDescription": {
+    "message": "Sahihisha makosa ya mara kwa mara ya utambuzi wa manukuu (kwa mfano, cloud code -> Claude Code) kabla ya tafsiri ya AI."
+  },
+  "replacementCreateButton": {
+    "message": "Ongeza ubadilishaji binafsi"
+  },
+  "replacementEditTitle": {
+    "message": "Hariri ubadilishaji binafsi"
+  },
+  "replacementEditorDescription": {
+    "message": "Ubadilishaji binafsi wa maandishi pekee ndio hutumika kabla ya tafsiri ya AI."
+  },
+  "replacementFindPlaceholder": {
+    "message": "Maandishi yasiyo sahihi, kwa mfano cloud code"
+  },
+  "replacementReplacePlaceholder": {
+    "message": "Badilisha na, kwa mfano claude code"
+  },
+  "replacementFindText": {
+    "message": "Maandishi yasiyo sahihi"
+  },
+  "replacementReplaceText": {
+    "message": "Badilisha na"
+  },
+  "replacementEmpty": {
+    "message": "Bado hakuna kanuni za kusahihisha."
+  },
+  "replacementSearchEmpty": {
+    "message": "Hakuna ubadilishaji unaolingana."
+  },
+  "replacementSearchPlaceholder": {
+    "message": "Tafuta ubadilishaji"
+  },
+  "translatedReplacementTitle": {
+    "message": "Ubadilishaji katika matini iliyotafsiriwa"
+  },
+  "translatedReplacementDescription": {
+    "message": "Badilisha maneno au vifungu katika tafsiri iliyokamilika kwa kutumia kanuni binafsi."
+  },
+  "translatedReplacementCreateButton": {
+    "message": "Ongeza ubadilishaji katika tafsiri"
+  },
+  "translatedReplacementLanguage": {
+    "message": "Lugha lengwa"
+  },
+  "translatedReplacementFindText": {
+    "message": "Matini iliyotafsiriwa"
+  },
+  "translatedReplacementReplaceText": {
+    "message": "Badilisha na"
+  },
+  "translatedReplacementSearchPlaceholder": {
+    "message": "Tafuta katika matini iliyotafsiriwa"
+  },
+  "translatedReplacementEmpty": {
+    "message": "Bado hakuna kanuni za kubadilisha matini iliyotafsiriwa."
+  },
+  "translatedReplacementSearchEmpty": {
+    "message": "Hakuna ubadilishaji unaolingana katika matini iliyotafsiriwa."
+  },
+  "translatedReplacementCreateTitle": {
+    "message": "Ongeza ubadilishaji katika tafsiri"
+  },
+  "translatedReplacementEditTitle": {
+    "message": "Hariri ubadilishaji katika tafsiri"
+  },
+  "translatedReplacementEditorDescription": {
+    "message": "Tafsiri iliyokamilika pekee ndiyo hubadilishwa; matini chanzo na akiba ya tafsiri hubaki bila kubadilika."
+  },
+  "translatedReplacementFindPlaceholder": {
+    "message": "Neno au kifungu katika matini iliyotafsiriwa"
+  },
+  "translatedReplacementReplacePlaceholder": {
+    "message": "Neno au kifungu kitakachoonyeshwa badala yake"
+  },
+  "translatedReplacementEnabledDescription": {
+    "message": "Ikizimwa, kanuni huhifadhiwa lakini haitumiki kwa matini iliyotafsiriwa."
+  },
+  "preferenceAdd": {
+    "message": "Ongeza"
+  },
+  "preferenceDomain": {
+    "message": "Kikoa"
+  },
+  "preferenceLanguage": {
+    "message": "Lugha"
+  },
+  "preferenceEnabled": {
+    "message": "Imewashwa"
+  },
+  "preferenceActions": {
+    "message": "Vitendo"
+  },
+  "preferenceSource": {
+    "message": "Chanzo"
+  },
+  "preferenceSourceUser": {
+    "message": "Binafsi"
+  },
+  "preferenceSourceBuiltin": {
+    "message": "Iliyojengewa ndani"
+  },
+  "preferenceStatus": {
+    "message": "Hali"
+  },
+  "preferenceStatusEnabled": {
+    "message": "Imewashwa"
+  },
+  "preferenceEdit": {
+    "message": "Hariri"
+  },
+  "preferenceDelete": {
+    "message": "Futa"
+  },
+  "preferenceAllDomains": {
+    "message": "Vikoa vyote"
+  },
+  "preferenceSearch": {
+    "message": "Tafuta"
+  },
+  "preferenceClearSearch": {
+    "message": "Futa utafutaji"
+  },
+  "preferencePageLabel": {
+    "message": "Ukurasa wa {page}"
+  },
+  "preferencePreviousPage": {
+    "message": "Iliyotangulia"
+  },
+  "preferenceNextPage": {
+    "message": "Inayofuata"
+  },
+  "builtinGlossaryDomainsTitle": {
+    "message": "Vifurushi vya vikoa vilivyojengewa ndani"
+  },
+  "builtinGlossaryDomainCount": {
+    "message": "Istilahi {count} zilizojengewa ndani"
+  },
+  "builtinGlossaryEmptyHint": {
+    "message": "Hakuna faharasa iliyojengewa ndani kwa lugha lengwa ya sasa. Bado unaweza kuongeza istilahi binafsi."
+  },
+  "builtinGlossaryEnabledSummary": {
+    "message": "{enabled} / {total} zimewashwa"
+  },
+  "builtinGlossaryManageDomains": {
+    "message": "Dhibiti vikoa"
+  },
+  "builtinGlossaryManageDomainsTitle": {
+    "message": "Dhibiti vifurushi vya vikoa vilivyojengewa ndani"
+  },
+  "builtinGlossaryManageDomainsDescription": {
+    "message": "Washa au zima vikoa vya faharasa iliyojengewa ndani kwa lugha lengwa."
+  },
+  "builtinGlossaryDomainSearchPlaceholder": {
+    "message": "Tafuta vikoa"
+  },
+  "builtinGlossaryEnableAllDomains": {
+    "message": "Washa vyote"
+  },
+  "builtinGlossaryDisableAllDomains": {
+    "message": "Zima vyote"
+  },
+  "builtinGlossaryDomainSearchEmpty": {
+    "message": "Hakuna vikoa vinavyolingana."
+  },
+  "builtinGlossaryDomainTotal": {
+    "message": "Vikoa {count}"
+  },
+  "builtinGlossaryDomainDisabledStatus": {
+    "message": "Kikoa kimezimwa"
+  },
+  "builtinGlossaryBlockedStatus": {
+    "message": "Kimetengwa"
+  },
+  "builtinGlossaryReadOnlyHint": {
+    "message": "Kanuni iliyojengewa ndani"
+  },
+  "builtinTextReplacementManageDomainsTitle": {
+    "message": "Dhibiti nyanja zilizojengewa ndani za kusahihisha matini chanzo"
+  },
+  "builtinTextReplacementManageDomainsDescription": {
+    "message": "Washa au zima nyanja zilizojengewa ndani za kusahihisha matini chanzo."
+  },
+  "builtinTextReplacementDomainCount": {
+    "message": "Kanuni {count} zilizojengewa ndani"
+  },
+  "preferenceLoadFailed": {
+    "message": "Imeshindikana kupakia. Tafadhali ingia na ujaribu tena."
+  },
+  "preferenceActionFailed": {
+    "message": "Kitendo kimeshindikana. Tafadhali jaribu tena baadaye."
+  },
+  "pronunciationSettingsSectionTitle": {
+    "message": "Matamshi"
+  },
+  "pronunciationSettingsTitle": {
+    "message": "Mipangilio ya matamshi"
+  },
+  "pronunciationSettingsDescription": {
+    "message": "Weka matamshi ya kibinafsi kwa maandishi yaliyotafsiriwa. Sheria zinatumika kwa uandikaji wa ndani pekee."
+  },
+  "optionsNavPronunciationShort": {
+    "message": "Matamshi"
+  },
+  "pronunciationNewRule": {
+    "message": "Sheria mpya"
+  },
+  "pronunciationEditRule": {
+    "message": "Badilisha kanuni ya matamshi"
+  },
+  "pronunciationTargetLanguage": {
+    "message": "Lugha inayolengwa"
+  },
+  "pronunciationSearchPlaceholder": {
+    "message": "Tafuta maandishi yanayolingana"
+  },
+  "pronunciationStatus": {
+    "message": "Hali"
+  },
+  "pronunciationMatchText": {
+    "message": "Maandishi yanayolingana"
+  },
+  "pronunciationMatchPlaceholder": {
+    "message": "Kwa mfano: jambo"
+  },
+  "pronunciationTargetText": {
+    "message": "Sehemu iliyosahihishwa"
+  },
+  "pronunciationReading": {
+    "message": "Matamshi yaliyoainishwa"
+  },
+  "pronunciationLoading": {
+    "message": "Inapakia..."
+  },
+  "pronunciationEmpty": {
+    "message": "Hakuna sheria za matamshi ya kibinafsi zinazolingana na vichujio vya sasa."
+  },
+  "pronunciationEditorHint": {
+    "message": "Chagua sehemu inayoendelea kusahihisha, kisha ingiza matamshi yake."
+  },
+  "pronunciationSelectTarget": {
+    "message": "Chagua maandishi ili kusahihisha"
+  },
+  "pronunciationReselect": {
+    "message": "Chagua tena"
+  },
+  "pronunciationEnterMatchFirst": {
+    "message": "Weka maandishi yanayolingana kwanza"
+  },
+  "pronunciationSelectionSummary": {
+    "message": "Imechaguliwa: {text}; tukio {occurrence}"
+  },
+  "pronunciationSelectionRestoreFailed": {
+    "message": "Eneo lililohifadhiwa haliwezi kurejeshwa. Chagua maandishi tena kabla ya kuhifadhi."
+  },
+  "pronunciationSelectionInvalid": {
+    "message": "Chagua maandishi yanayoendelea."
+  },
+  "pronunciationModifier": {
+    "message": "Toni"
+  },
+  "pronunciationSelectModifier": {
+    "message": "Chagua"
+  },
+  "pronunciationSaving": {
+    "message": "Inahifadhi..."
+  },
+  "pronunciationDeleteConfirm": {
+    "message": "Ungependa kufuta sheria hii ya matamshi?"
+  },
+  "pronunciationOccurrence": {
+    "message": "tukio {occurrence}"
+  },
+  "pronunciationUnknownError": {
+    "message": "Kitendo kimeshindwa. Tafadhali jaribu tena baadaye."
+  },
+  "preferenceAllStatuses": {
+    "message": "Wote"
+  },
+  "preferenceCancel": {
+    "message": "Ghairi"
+  },
+  "preferenceDisabled": {
+    "message": "Imezimwa"
+  },
+  "preferenceSave": {
+    "message": "Hifadhi"
+  },
+  "pronunciationFineSelection": {
+    "message": "Uchaguzi sahihi"
+  },
+  "pronunciationMergeUnits": {
+    "message": "Unganisha matamshi yaliyo karibu"
+  },
+  "pronunciationPerUnitHint": {
+    "message": "Ingiza matamshi na toni kwa kila sehemu. Gawanya au unganisha sehemu kama inahitajika."
+  },
+  "pronunciationPrimarySelection": {
+    "message": "Uchaguzi wa busara"
+  },
+  "pronunciationSelectionGranularity": {
+    "message": "Ubora wa uteuzi"
+  },
+  "pronunciationSelectionTooLong": {
+    "message": "Sehemu iliyosahihishwa inaweza kuwa na herufi zisizozidi 128."
+  },
+  "pronunciationSplitAt": {
+    "message": "Gawanya kwa"
+  },
+  "pronunciationUnitReading": {
+    "message": "Matamshi kwa kila sehemu"
+  },
+  "pronunciationWholeReading": {
+    "message": "Matamshi yote"
+  },
+  "pronunciationWholeToneHint": {
+    "message": "Ingiza matamshi kamili ya toni. Igawanye ili kuchagua toni kwa kila sehemu."
+  },
+  "pronunciationPinyinSyllable": {
+    "message": "Silabi ya Pinyin"
+  },
+  "pronunciationPinyinPlaceholder": {
+    "message": "Weka silabi ya Pinyin"
+  },
+  "pronunciationNumberedTone": {
+    "message": "Toni {tone}"
+  },
+  "pronunciationNeutralTone": {
+    "message": "Toni ya upande wowote"
+  },
+  "googleDriveNoCaptionsTitle": {
+    "message": "Video hii ya Google Drive bado haina manukuu"
+  },
+  "googleDriveNoCaptionsIntro": {
+    "message": "Uigizaji sauti hutumia manukuu yaliyojengewa ndani ya Google Drive (CC). Washa kwanza manukuu ya video hii, kisha urudi:"
+  },
+  "googleDriveNoCaptionsStep1": {
+    "message": "Katika Google Drive, bofya kulia video na uchague “Maelezo ya faili” → “Dhibiti nyimbo za manukuu”."
+  },
+  "googleDriveNoCaptionsStep2": {
+    "message": "Ikiwa bado hakuna wimbo wa manukuu: Drive huunda manukuu kiotomatiki kwa lugha zinazotumika (ikiwemo Kiingereza, Kituruki, Kichina, Kihispania, Kijapani). Bofya “Unda manukuu ya kiotomatiki” ikionyeshwa, au pakia faili ya manukuu. Ni mmiliki au wahariri wa video pekee wanaoweza kudhibiti manukuu."
+  },
+  "googleDriveNoCaptionsStep3": {
+    "message": "Kuunda manukuu huchukua muda. Kitufe cha CC kwenye kicheza video kikiweza kubofywa, onyesha upya ukurasa na uanze uigizaji sauti tena."
+  },
+  "subtitleAudioLanguageMismatch": {
+    "message": "Lugha ya manukuu hailingani na lugha ya sauti. Manukuu: {subtitle}. Sauti: {voice}. Sauti inaweza kusoma maandishi ya lugha yake pekee, kwa hivyo kuunda kunaweza kushindwa au kusikika vibaya. Tafsiri manukuu kwanza, au badilisha lugha lengwa ilingane na manukuu. Unda hata hivyo?"
+  },
+  "subtitleAudioNav": {
+    "message": "Uongezaji sauti wa manukuu"
+  },
+  "subtitleAudioAiSubtitleBadge": {
+    "message": "Manukuu ya AI"
+  },
+  "subtitleAudioUserSubtitleBadge": {
+    "message": "Manukuu yaliyohaririwa"
+  },
+  "subtitleAudioBack": {
+    "message": "Uongezaji sauti"
+  },
+  "subtitleAudioProjectSubtitle": {
+    "message": "Manukuu: {name} · mistari: {count}"
+  },
+  "subtitleAudioReplaceSubtitles": {
+    "message": "Badilisha manukuu"
+  },
+  "subtitleAudioExportVideoOption": {
+    "message": "Video yenye sauti mpya"
+  },
+  "subtitleAudioExportVideoHint": {
+    "message": "Picha hupunguza kasi pale mstari unapohitaji muda zaidi, hivyo video inaweza kuwa ndefu kidogo."
+  },
+  "subtitleAudioExportMp3Option": {
+    "message": "MP3 yenye sauti mpya"
+  },
+  "subtitleAudioExportMp3Hint": {
+    "message": "Urefu wake ni sawa kabisa na video asili; iweke juu ya video au uipakie kama lugha nyingine ya sauti."
+  },
+  "subtitleAudioDownloadSrt": {
+    "message": "Pakua SRT"
+  },
+  "subtitleAudioEditAndExport": {
+    "message": "Hariri na uhamishe"
+  },
+  "subtitleAudioEditNeedsSubtitle": {
+    "message": "Video hii bado haina manukuu. Unganisha faili ya manukuu, au bofya \"Anza kuiga sauti\" mara moja ili manukuu ya AI yatengenezwe."
+  },
+  "subtitleAudioTitle": {
+    "message": "Ipe kila mstari sauti yake"
+  },
+  "subtitleAudioSubtitle": {
+    "message": "Ingiza faili ya SRT upate MP3 yenye sauti mpya inayofuata muda wa manukuu. Kwa video yenye sauti mpya, chagua video katika \"Uongezaji sauti\" kisha ubofye \"Hariri na uhamishe\"."
+  },
+  "subtitleAudioImportStep": {
+    "message": "Ingiza manukuu"
+  },
+  "subtitleAudioVoicesStep": {
+    "message": "Chagua sauti"
+  },
+  "subtitleAudioExportStep": {
+    "message": "Hamisha"
+  },
+  "subtitleAudioSubtitles": {
+    "message": "Manukuu"
+  },
+  "subtitleAudioCueList": {
+    "message": "Mistari na sauti"
+  },
+  "subtitleAudioSettings": {
+    "message": "Mipangilio ya sauti"
+  },
+  "subtitleAudioImport": {
+    "message": "Chagua faili ya SRT"
+  },
+  "subtitleAudioReplace": {
+    "message": "Badilisha"
+  },
+  "subtitleAudioRemove": {
+    "message": "Ondoa"
+  },
+  "subtitleAudioDrop": {
+    "message": "Dondosha faili yako ya SRT hapa"
+  },
+  "subtitleAudioDropNote": {
+    "message": "UTF-8 · hadi MiB 2, mistari 5,000, saa 3"
+  },
+  "subtitleAudioEmpty": {
+    "message": "Manukuu yako yataonekana hapa. Weka sauti kwa kila mstari au uitumie kwa mistari uliyochagua."
+  },
+  "subtitleAudioLines": {
+    "message": "Mistari"
+  },
+  "subtitleAudioDuration": {
+    "message": "Muda wa manukuu"
+  },
+  "subtitleAudioCharacters": {
+    "message": "Herufi"
+  },
+  "subtitleAudioSearch": {
+    "message": "Tafuta maandishi ya manukuu"
+  },
+  "subtitleAudioSelectPage": {
+    "message": "Chagua ukurasa huu"
+  },
+  "subtitleAudioSelectAll": {
+    "message": "Chagua matokeo yote"
+  },
+  "subtitleAudioSelected": {
+    "message": "Umechagua: {count}"
+  },
+  "subtitleAudioApply": {
+    "message": "Weka sauti"
+  },
+  "subtitleAudioChooseVoice": {
+    "message": "Chagua sauti"
+  },
+  "subtitleAudioText": {
+    "message": "Maandishi ya manukuu"
+  },
+  "subtitleAudioTime": {
+    "message": "Muda"
+  },
+  "subtitleAudioVoice": {
+    "message": "Sauti"
+  },
+  "subtitleAudioFemale": {
+    "message": "Sauti za kike"
+  },
+  "subtitleAudioMale": {
+    "message": "Sauti za kiume"
+  },
+  "subtitleAudioPage": {
+    "message": "Ukurasa {page} kati ya {total}"
+  },
+  "subtitleAudioPrevious": {
+    "message": "Iliyotangulia"
+  },
+  "subtitleAudioNext": {
+    "message": "Inayofuata"
+  },
+  "subtitleAudioPreview": {
+    "message": "Sikiliza mstari {index}"
+  },
+  "subtitleAudioStopPreview": {
+    "message": "Acha kusikiliza"
+  },
+  "subtitleAudioLanguage": {
+    "message": "Lugha ya lengo"
+  },
+  "subtitleAudioVoiceType": {
+    "message": "Aina ya sauti"
+  },
+  "subtitleAudioFree": {
+    "message": "Bure"
+  },
+  "subtitleAudioVideoSync": {
+    "message": "Onyesho la awali linafuata sauti itakayohamishwa. Sauti asili ya video imezimwa."
+  },
+  "subtitleAudioTimelineTitle": {
+    "message": "Wimbo wa sauti"
+  },
+  "subtitleAudioLayoutOnly": {
+    "message": "Nafasi za manukuu · mawimbi ya sauti yataonekana baada ya kuhamisha"
+  },
+  "subtitleAudioRealWave": {
+    "message": "Mawimbi ya sauti iliyohamishwa · bofya au tumia kitelezi kusogeza"
+  },
+  "subtitleAudioTracks": {
+    "message": "Sauti {count} → MP3 moja"
+  },
+  "subtitleAudioTracksVideo": {
+    "message": "Sauti {count} → video yenye sauti mpya"
+  },
+  "subtitleAudioSeek": {
+    "message": "Sogeza ndani ya media iliyohamishwa"
+  },
+  "subtitleAudioNoTimeline": {
+    "message": "Ingiza manukuu ili kuona muda wake."
+  },
+  "subtitleAudioGenerate": {
+    "message": "Tengeneza MP3"
+  },
+  "subtitleAudioGenerateVideo": {
+    "message": "Tengeneza video yenye sauti mpya"
+  },
+  "subtitleAudioRegenerate": {
+    "message": "Tengeneza tena"
+  },
+  "subtitleAudioRegenerateVideo": {
+    "message": "Tengeneza video tena"
+  },
+  "subtitleAudioRetry": {
+    "message": "Jaribu tena zilizoshindwa"
+  },
+  "subtitleAudioCancel": {
+    "message": "Ghairi"
+  },
+  "subtitleAudioCancelling": {
+    "message": "Inaghairi…"
+  },
+  "subtitleAudioDownload": {
+    "message": "Pakua MP3"
+  },
+  "subtitleAudioDownloadVideo": {
+    "message": "Pakua video yenye sauti mpya"
+  },
+  "subtitleAudioWorking": {
+    "message": "Inatengeneza sauti"
+  },
+  "subtitleAudioEncoding": {
+    "message": "Inaunda wimbo wa sauti"
+  },
+  "subtitleAudioFinalizing": {
+    "message": "Inakamilisha MP3"
+  },
+  "subtitleAudioMuxing": {
+    "message": "Inaweka sauti mpya kwenye video"
+  },
+  "subtitleAudioFinished": {
+    "message": "MP3 yako iko tayari"
+  },
+  "subtitleAudioFinishedVideo": {
+    "message": "Video yako yenye sauti mpya iko tayari"
+  },
+  "subtitleAudioCancelled": {
+    "message": "Utengenezaji umeghairiwa. Vipande vya sauti vilivyokamilika vimehifadhiwa ili ujaribu tena."
+  },
+  "subtitleAudioProgressNote": {
+    "message": "Usifunge ukurasa huu. Unaweza kughairi na kuendelea baadaye kwa kutumia vipande vilivyohifadhiwa."
+  },
+  "subtitleAudioMissing": {
+    "message": "Mistari isiyo na sauti: {count}. Chagua sauti kwa kila mstari au tumia Weka sauti."
+  },
+  "subtitleAudioEmptyText": {
+    "message": "Mistari isiyo na maandishi: {count}. Ongeza maandishi kabla ya kutengeneza."
+  },
+  "subtitleAudioCacheNote": {
+    "message": "Sauti hutengenezwa na huduma uliyochagua. Manukuu na vipande vilivyotengenezwa huhifadhiwa kwenye kifaa hiki; sauti na video huunganishwa papa hapa kwenye kifaa."
+  },
+  "subtitleAudioRestored": {
+    "message": "Rasimu imerejeshwa."
+  },
+  "subtitleAudioSaveError": {
+    "message": "Rasimu haikuweza kuhifadhiwa. Usifunge ukurasa huu ili mabadiliko yako yasipotee."
+  },
+  "subtitleAudioFailed": {
+    "message": "Imeshindwa kukamilisha. Vipande vya sauti vilivyokamilika vimehifadhiwa; jaribu tena ili kuendelea."
+  },
+  "subtitleAudioDetails": {
+    "message": "Maelezo"
+  },
+  "subtitleAudioBadFile": {
+    "message": "Chagua faili ya .srt ya UTF-8 (hadi MiB 2)."
+  },
+  "subtitleAudioEncodingError": {
+    "message": "Faili hii si UTF-8 halali. Ihifadhi kama UTF-8 kisha uiingize tena."
+  },
+  "subtitleAudioImportFailed": {
+    "message": "Faili ya manukuu haikuweza kusomwa. Kagua mihuri ya muda ya SRT na maandishi yake."
+  },
+  "subtitleAudioInvalidVideo": {
+    "message": "Video hii haina wimbo wa picha unaosomeka, au muda wake haupatikani."
+  },
+  "subtitleAudioVideoLimitError": {
+    "message": "Video hii ni ndefu kuliko saa 3, kwa hivyo haiwezi kuhamishwa kama video yenye sauti mpya. Chagua faili fupi zaidi."
+  },
+  "subtitleAudioVideoStorageError": {
+    "message": "Hakuna nafasi ya kutosha kwenye kompyuta hii kwa video hii: zinahitajika takriban GB {needed}, lakini kivinjari kina GB {available} pekee. Ongeza nafasi kwenye diski kisha ujaribu tena, au chagua video ndogo zaidi."
+  },
+  "subtitleAudioVideoCodecError": {
+    "message": "Kifaa hiki hakiwezi kunakili kodeki hiyo ya video (kwa mfano HEVC). Uhamishaji umesitishwa badala ya kutengeneza faili iliyoharibika. Jaribu MP4 ya H.264."
+  },
+  "subtitleAudioVideoAacUnsupported": {
+    "message": "Kivinjari hiki hakiwezi kusimba sauti ya AAC, kwa hivyo video iliyodabiwa haiwezi kuhamishwa. Bado unaweza kuhamisha MP3 iliyodabiwa."
+  },
+  "subtitleAudioVideoCopyUnsupported": {
+    "message": "Kodeki ya video hii haiwezi kuhamishwa kama MP4 iliyodabiwa. Bado unaweza kuhamisha MP3 iliyodabiwa; kwa video, tumia MP4 ya H.264."
+  },
+  "subtitleAudioPreviewFailed": {
+    "message": "Mstari huu haukuweza kusikilizwa. Kagua sauti uliyochagua na muunganisho wako."
+  },
+  "subtitleAudioPlayBlocked": {
+    "message": "Sauti iko tayari. Bonyeza Cheza kwenye kicheza sauti."
+  },
+  "subtitleAudioGeneralError": {
+    "message": "Kitendo hakikuweza kukamilika. Kagua muunganisho wako kisha ujaribu tena."
+  },
+  "subtitleAudioLimitError": {
+    "message": "Mradi huu unazidi vikomo vinavyotumika. Tumia mistari isiyozidi 5,000 / saa 3; kila kipande cha sauti kiwe chini ya sekunde 60."
+  },
+  "subtitleAudioStorageError": {
+    "message": "Hakuna hifadhi ya ndani ya kutosha kwa uhamishaji huu. Ongeza nafasi kisha ujaribu tena."
+  },
+  "subtitleAudioAccountError": {
+    "message": "Kutengeneza sauti kunahitaji akaunti halali yenye kiwango kilichobaki. Kagua akaunti yako, kisha ujaribu tena."
+  },
+  "subtitleAudioPaused": {
+    "message": "Inasubiri"
+  },
+  "subtitleAudioGeneratingCue": {
+    "message": "Inatengenezwa"
+  },
+  "subtitleAudioReadyCue": {
+    "message": "Tayari"
+  },
+  "subtitleAudioErrorCue": {
+    "message": "Imeshindwa"
+  },
+  "subtitleAudioVoiceReset": {
+    "message": "Baadhi ya sauti hazipatikani kwa mipangilio hii. Chagua sauti kwa mistari iliyoangaziwa."
+  },
+  "subtitleAudioConfirmReplace": {
+    "message": "Ungependa kubadilisha rasimu ya sasa ya manukuu?"
+  },
+  "subtitleAudioClearDraft": {
+    "message": "Ungependa kuondoa manukuu yote kwenye rasimu hii?"
+  },
+  "subtitleAudioOutputChanged": {
+    "message": "Mipangilio imebadilika. Tengeneza tena ili kusasisha faili ya kupakua."
+  },
+  "subtitleAudioBrowserError": {
+    "message": "Kivinjari hiki hakikuweza kuanzisha uchakataji wa sauti. Jaribu kivinjari cha kompyuta kilichosasishwa."
+  },
+  "subtitleAudioOtherTabBusy": {
+    "message": "Kichupo kingine kinatengeneza au kusikiliza sauti ya manukuu. Subiri kazi hiyo ikamilike, au funga kichupo hicho, kisha ujaribu tena."
+  },
+  "uploadVideoLanguageLabel": {
+    "message": "Lugha ya video (kuichagua huboresha usahihi wa utambuzi)"
+  },
+  "uploadVideoLanguageAuto": {
+    "message": "Tambua kiotomatiki"
+  },
+  "subtitleAudioPreparing": {
+    "message": "Inagawanya sentensi na kutafsiri"
+  },
+  "subtitleAudioPrepareFailed": {
+    "message": "Imeshindwa kugawanya au kutafsiri manukuu. Tafadhali jaribu tena baadaye."
+  },
+  "subtitleAudioSourceLanguage": {
+    "message": "Lugha ya manukuu"
+  },
+  "subtitleAudioSourceLanguageUnknown": {
+    "message": "Imeshindwa kutambua lugha ya manukuu haya. Chagua lugha ambayo yameandikwa, kisha uyatengeneze tena."
+  },
+  "subtitleAudioPreparedNote": {
+    "message": "Imegawanywa kwa sentensi na kutafsiriwa kwa {language} kama uigizaji sauti mtandaoni. Unaweza kuhariri tafsiri hapa chini."
+  },
+  "subtitleAudioRestoreSource": {
+    "message": "Rejesha asili"
+  },
+  "subtitleAudioRestoreSourceConfirm": {
+    "message": "Kurejesha maandishi asili kutaondoa mabadiliko yako ya tafsiri; uhamishaji ujao utagawanya na kutafsiri upya. Endelea?"
+  },
+  "subtitleAudioLanguageChangedRetranslate": {
+    "message": "Lugha ya uigizaji sauti imebadilika, kwa hiyo orodha imerudi kwenye maandishi asili. Itagawanywa na kutafsiriwa upya wakati wa kuhamisha."
+  },
+  "subtitleAudioCueTooLong": {
+    "message": "Mstari {index} ni mrefu mno. Ugawe katika mistari mifupi kisha ujaribu tena."
+  },
+  "subtitleAudioBackgroundOption": {
+    "message": "Changanya sauti ya usuli"
+  },
+  "subtitleAudioBackgroundHint": {
+    "message": "Sauti ya usuli ya video hii (bila sauti za watu) ilitenganishwa ilipopakiwa kwa utambuzi. Inachezwa chini ya uigizaji sauti, kama uigizaji sauti mtandaoni."
+  },
+  "subtitleAudioDownloadingBackground": {
+    "message": "Inapakua sauti ya usuli"
+  },
+  "subtitleAudioBackgroundFailed": {
+    "message": "Imeshindwa kupakua sauti ya usuli. Jaribu tena baadaye, au ondoa alama kwenye \"Changanya sauti ya usuli\" kisha uhamishe tena."
+  },
+  "subtitleAudioPreparedSameLanguageNote": {
+    "message": "Manukuu tayari yako katika lugha ya uigizaji sauti, kwa hiyo kwa mpangilio wa \"usitafsiri lugha ileile\" yamegawanywa kwa sentensi tu."
+  },
+  "dubbingToggleOn": {
+    "message": "Washa sauti ya tafsiri"
+  },
+  "dubbingToggleOff": {
+    "message": "Zima sauti ya tafsiri"
+  },
+  "dubbingTogglePreparing": {
+    "message": "Inaandaa sauti ya tafsiri, tafadhali subiri…"
+  },
+  "dubbingSwitchedOffNotice": {
+    "message": "Sauti ya tafsiri imezimwa, sauti asili imerejeshwa"
+  },
+  "dubbingSwitchedOnNotice": {
+    "message": "Sauti ya tafsiri imewashwa"
+  },
+  "toggleDubbingCommand": {
+    "message": "Washa / zima sauti ya tafsiri"
+  },
+  "spotifyPublicAudioShowNotFound": {
+    "message": "Sauti imesimbwa na kipindi hiki hakina mlisho wa podikasti wa umma (huenda ni maalum kwa Spotify)."
+  },
+  "spotifyPublicAudioEpisodeNotMatched": {
+    "message": "Sauti imesimbwa na hakuna kipindi kinacholingana kilichopatikana kwenye mlisho wa podikasti wa umma wa kipindi."
+  },
+  "spotifyPublicAudioLookupFailed": {
+    "message": "Imeshindwa kupata sauti ya umma ya kipindi hiki. Tafadhali jaribu tena baadaye."
+  }
+}

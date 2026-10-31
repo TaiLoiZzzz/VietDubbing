@@ -1,0 +1,2315 @@
+{
+  "name": {
+    "message": "YouTube Dubbing – Translate & Dub"
+  },
+  "description": {
+    "message": "Traducere și dublare video cu un singur clic—înțelege limbi străine instantaneu, accesează cunoștințe globale"
+  },
+  "metadataNotFound": {
+    "message": "Metadatele video nu au fost găsite, vă rugăm să reîmprospătați și să încercați din nou"
+  },
+  "dubbingMediaNotFoundTitle": {
+    "message": "Nu a fost găsit niciun videoclip pentru dublare"
+  },
+  "dubbingMediaNotFoundText": {
+    "message": "Momentan nu există niciun videoclip sau audio utilizabil pe această pagină. Așteptați ca videoclipul să se încarce complet și încercați din nou sau reîmprospătați pagina."
+  },
+  "noSubtitlesFound": {
+    "message": "Acest video nu are subtitrări și nu suportă traducere și dublare"
+  },
+  "liveVideoNotSupported": {
+    "message": "Videoclipurile live nu sunt acceptate în prezent pentru dublare"
+  },
+  "universalDubbingNotSupported": {
+    "message": "Dublarea universală nu este acceptată pentru acest video în versiunea curentă. Suportul este planificat pentru versiunea următoare. Vă rugăm să contactați serviciul clienți pentru detalii."
+  },
+  "postLoginTranslationSettings": {
+    "message": "Conectare reușită. Faceți clic pe pictograma extensiei pentru a selecta limba de traducere și lista de voci."
+  },
+  "noSubtitlesWaitOptimization": {
+    "message": "Nu sunt disponibile subtitrări. Vă rugăm să așteptați ca extensia să recunoască subtitrările pentru acest video. Veți primi o notificare prin e-mail la adresa înregistrată odată ce recunoașterea este finalizată."
+  },
+  "privateVideoNoSubtitles": {
+    "message": "Acest videoclip nu are subtitrări și este privat. Extensia nu poate recunoaște în fundal subtitrările pentru acest videoclip. Faceți videoclipul public sau adăugați subtitrări manual și încercați din nou."
+  },
+  "trialMemberDurationLimit": {
+    "message": "Acest video nu are subtitrări. Ca membru de probă, doar videoclipurile sub 15 minute sunt acceptate pentru recunoașterea subtitrărilor. Membrii premium suportă videoclipuri sub 3 ore."
+  },
+  "premiumMemberDurationLimit": {
+    "message": "Acest video nu are subtitrări și durata video depășește 3 ore, traducerea și dublarea nu sunt acceptate. Vă rugăm să selectați un video mai scurt sau un video cu subtitrări."
+  },
+  "freeUserNoSubtitles": {
+    "message": "Acest video nu are subtitrări încorporate. Vă rugăm să vă abonați la membership pentru recunoașterea subtitrărilor și pentru a beneficia de funcțiile de traducere și dublare."
+  },
+  "freeUserDailyLimit": {
+    "message": "Utilizatorii gratuiți pot viziona până la 5 videoclipuri pe zi prin extensie. Faceți upgrade la membership pentru a debloca vizionare nelimitată."
+  },
+  "upgradeEntryUpgradeButton": {
+    "message": "Fă upgrade"
+  },
+  "upgradeEntryLaterButton": {
+    "message": "Poate mai târziu"
+  },
+  "aiSubtitlesRecognitionInBackground": {
+    "message": "Subtitrările AI nu sunt încă disponibile. Extensia a început să le recunoască în fundal. După ce auziți prima propoziție dublată, puteți închide pagina și aștepta notificarea prin e-mail; când va fi gata, butonul de dublare va deveni verde și calitatea traducerii va fi mai bună."
+  },
+  "upgradeMembershipForBackgroundRecognition": {
+    "message": "Faceți upgrade la membership și extensia va recunoaște subtitrările AI în fundal. După ce primiți notificarea prin e-mail, reveniți pentru a viziona; butonul de dublare va deveni verde și traducerile vor fi mai precise."
+  },
+  "memberFreeVoiceAzureSuggestion": {
+    "message": "În prezent dublați cu tipul de voce gratuit. Vocile Azure sună mai natural; membrii pot folosi acum Azure fără limite și fără reîncărcare suplimentară de credite."
+  },
+  "memberAiSubtitlePlatformPrioritySuggestion": {
+    "message": "În prezent sunt folosite subtitrări recunoscute de AI-ul extensiei în fundal. Dacă traducerea pare greșită, schimbați prioritatea subtitrărilor la subtitrările platformei în setările de bază."
+  },
+  "openBasicSettingsLink": {
+    "message": "Deschide setările de bază"
+  },
+  "doNotShowAgainLink": {
+    "message": "Nu mai afișa"
+  },
+  "loginAndUsePlugin": {
+    "message": "Vă rugăm să faceți clic pe pictograma extensiei pentru a vă conecta mai întâi, apoi folosiți extensia pentru redarea cu dublaj."
+  },
+  "voiceSettingsMismatch": {
+    "message": "Tipul de voce și setările vocii nu se potrivesc. Accesați pagina de setări pentru a selecta din nou și salva setările vocii."
+  },
+  "contentMenusTitle": {
+    "message": "Începeți redarea cu dublaj"
+  },
+  "videoDetectedDomainTooltip": {
+    "message": "Domeniul detectat pentru videoclipul curent: {domain}"
+  },
+  "dropboxClickCcToTranscribe": {
+    "message": "Acest video nu a fost încă transcris. Vă rugăm să faceți clic pe butonul CC în partea de jos a video-ului Dropbox pentru a transcrie subtitrările. După finalizarea transcrierii, faceți clic pe butonul de dublare al extensiei pentru a traduce și dubla."
+  },
+  "iosInterceptorConflictTitle": {
+    "message": "Conflict de extensie detectat"
+  },
+  "iosInterceptorConflictMessage": {
+    "message": "O altă extensie de browser blochează interceptarea cererilor de subtitrare. Dezactivați extensiile conflictuale, reîmprospătați pagina, apoi încercați din nou."
+  },
+  "login": {
+    "message": "Conectare"
+  },
+  "logout": {
+    "message": "Deconectare"
+  },
+  "subscribe": {
+    "message": "Abonare"
+  },
+  "save_settings": {
+    "message": "Salvare setări"
+  },
+  "saving": {
+    "message": "Se salvează..."
+  },
+  "saveSuccessTitle": {
+    "message": "Salvare reușită"
+  },
+  "saveSuccessText": {
+    "message": "Setările au fost salvate cu succes"
+  },
+  "saveFailedTitle": {
+    "message": "Salvare eșuată"
+  },
+  "saveFailedText": {
+    "message": "Salvarea setărilor a eșuat, vă rugăm să încercați din nou"
+  },
+  "confirmButton": {
+    "message": "Continuă"
+  },
+  "cancelButton": {
+    "message": "Anulare"
+  },
+  "back": {
+    "message": "Înapoi"
+  },
+  "backToSettings": {
+    "message": "Înapoi la setări"
+  },
+  "backToVideoLibrary": {
+    "message": "Înapoi la biblioteca video"
+  },
+  "source_languages": {
+    "message": "Limba sursă:"
+  },
+  "target_languages": {
+    "message": "Limba țintă:"
+  },
+  "selectSourceLanguage": {
+    "message": "Selectați limba sursă"
+  },
+  "selectTargetLanguage": {
+    "message": "Selectați limba țintă"
+  },
+  "searchSourceLanguage": {
+    "message": "Căutați limba sursă..."
+  },
+  "searchTargetLanguage": {
+    "message": "Căutați limba țintă..."
+  },
+  "loading": {
+    "message": "se încarcă"
+  },
+  "sex": {
+    "message": "Gen:"
+  },
+  "voices": {
+    "message": "Voce:"
+  },
+  "voicesType": {
+    "message": "Tip voce:"
+  },
+  "man": {
+    "message": "Bărbat"
+  },
+  "woman": {
+    "message": "Femeie"
+  },
+  "free": {
+    "message": "gratuit"
+  },
+  "memberFree": {
+    "message": "Gratuit pentru membri"
+  },
+  "memberFreeRequireMembership": {
+    "message": "Acest tip de voce este disponibil doar pentru membri. Actualizează pentru a-l folosi gratuit."
+  },
+  "azureRequireMembership": {
+    "message": "Azure TTS este disponibil doar pentru membri. Actualizează pentru a debloca voci Azure de înaltă calitate."
+  },
+  "originalAudio": {
+    "message": "Original"
+  },
+  "translatedAudio": {
+    "message": "Tradus"
+  },
+  "backgroundAudio": {
+    "message": "Fundal"
+  },
+  "textToSpeech": {
+    "message": "Text în vorbire:"
+  },
+  "textToSpeechToggle": {
+    "message": "Minge flotantă"
+  },
+  "showSubtitle": {
+    "message": "subtitrări:"
+  },
+  "subtitleSize": {
+    "message": "Dimensiune"
+  },
+  "subtitles": {
+    "message": "Subtitrări"
+  },
+  "toggleSubtitles": {
+    "message": "Comutare subtitrări"
+  },
+  "subtitleDisplayMode": {
+    "message": "Mod subtitrări"
+  },
+  "subtitleModeTranslated": {
+    "message": "Doar traducere"
+  },
+  "subtitleModeBilingual": {
+    "message": "Subtitrări bilingve"
+  },
+  "subtitleModeOff": {
+    "message": "Subtitrări oprite"
+  },
+  "translateService": {
+    "message": "Traducere:"
+  },
+  "translationEngine": {
+    "message": "Motor de traducere"
+  },
+  "translationService": {
+    "message": "Serviciu de traducere"
+  },
+  "translationServiceTitle": {
+    "message": "Serviciu de traducere"
+  },
+  "advancedSettings": {
+    "message": "Setări avansate"
+  },
+  "pauseVideo": {
+    "message": "Pauză video"
+  },
+  "iosOpenOriginVolume": {
+    "message": "Activați audio original"
+  },
+  "voicesAndSubtitles": {
+    "message": "Voce și subtitrări"
+  },
+  "voicesAndSubtitlesTitle": {
+    "message": "Voce și subtitrări"
+  },
+  "speakerList": {
+    "message": "Lista vorbitorilor"
+  },
+  "speakersTitle": {
+    "message": "Vorbitori"
+  },
+  "deleteSpeaker": {
+    "message": "Ștergere"
+  },
+  "editSpeaker": {
+    "message": "Editare"
+  },
+  "speakerName": {
+    "message": "Nume vorbitor"
+  },
+  "enterSpeakerName": {
+    "message": "Introduceți numele vorbitorului"
+  },
+  "enterVoice": {
+    "message": "Introduceți numele vocii"
+  },
+  "voice": {
+    "message": "Voce"
+  },
+  "gender": {
+    "message": "Gen"
+  },
+  "male": {
+    "message": "Bărbat"
+  },
+  "female": {
+    "message": "Femeie"
+  },
+  "edit": {
+    "message": "Editare"
+  },
+  "delete": {
+    "message": "Ștergere"
+  },
+  "save": {
+    "message": "Salvare"
+  },
+  "cancel": {
+    "message": "Anulare"
+  },
+  "confirmDeleteSpeaker": {
+    "message": "Sigur doriți să ștergeți acest vorbitor?"
+  },
+  "noSpeakers": {
+    "message": "Niciun vorbitor"
+  },
+  "memberUser": {
+    "message": "PRO"
+  },
+  "accountBalance": {
+    "message": "Sold cont:"
+  },
+  "userAccountAriaLabel": {
+    "message": "Cont de utilizator"
+  },
+  "membershipExpires": {
+    "message": "Până la"
+  },
+  "shortcutSettings": {
+    "message": "Comenzi rapide"
+  },
+  "subscriptionRecharge": {
+    "message": "Abonare & Reîncarcare"
+  },
+  "membershipIcon": {
+    "message": "Pictogramă membership"
+  },
+  "browserShortcutSettingsTip": {
+    "message": "Vă rugăm să configurați comenzile rapide în setările extensiei browser"
+  },
+  "safariShortcutSettingsTip": {
+    "message": "Vă rugăm să setați comenzile rapide în Safari > Preferințe > Extensii"
+  },
+  "edgeShortcutSettingsTip": {
+    "message": "Se deschide pagina de setări pentru comenzile rapide ale extensiei Edge"
+  },
+  "firefoxShortcutSettingsTip": {
+    "message": "Se deschide pagina de add-on-uri Firefox, vă rugăm să setați comenzile rapide în Extensii și Teme"
+  },
+  "dubbingSettings": {
+    "message": "Setări dublare"
+  },
+  "debugInfo": {
+    "message": "Informații depanare"
+  },
+  "sourceLanguage": {
+    "message": "Limba sursă"
+  },
+  "targetLanguage": {
+    "message": "Limba țintă"
+  },
+  "vipRequiredTitle": {
+    "message": "Membership necesar"
+  },
+  "vipRequiredText": {
+    "message": "Trebuie să fiți membru pentru a utiliza această funcție"
+  },
+  "vipAndBalanceRequiredTitle": {
+    "message": "Membership și sold necesare"
+  },
+  "vipAndBalanceRequiredText": {
+    "message": "Trebuie să fiți membru și să aveți sold suficient pentru a utiliza această funcție"
+  },
+  "balanceRequiredTitle": {
+    "message": "Sold necesar"
+  },
+  "balanceRequiredText": {
+    "message": "Soldul contului dvs. este insuficient. Vă rugăm să reîncărcați pentru a utiliza această funcție"
+  },
+  "lowBalanceTitle": {
+    "message": "Alertă sold scăzut"
+  },
+  "lowBalanceText": {
+    "message": "Soldul contului dvs. este sub $1. Recomandăm reîncărcarea în curând pentru a asigura serviciul neîntrerupt"
+  },
+  "insufficientBalance": {
+    "message": "Din cauza soldului insuficient, serviciul a fost retrogradat la Google Translate. Pentru a utiliza traducerea AI, vă rugăm să reîncărcați creditul."
+  },
+  "insufficientBalanceAlertMsg": {
+    "message": "Soldul dvs. este insuficient. Vă rugăm să reîncărcați soldul înainte de a utiliza traducerea AI și Azure TTS. Dacă nu doriți să reîncărcați, puteți reveni la Google Translate și tipuri de voce gratuite."
+  },
+  "balanceRunningLow": {
+    "message": "Soldul dvs. se epuizează. Pentru a evita o experiență de vizionare slabă, se recomandă reîncărcarea în avans."
+  },
+  "membershipRequired": {
+    "message": "Vă rugăm să faceți upgrade la membership înainte de a utiliza traducerea OpenAI."
+  },
+  "membershipRequiredForAI": {
+    "message": "Vă rugăm să reîncărcați membership-ul înainte de a utiliza traducerea AI. Dacă nu doriți să reîncărcați, puteți alege Google Translate."
+  },
+  "insufficientMembership": {
+    "message": "Membership-ul dvs. a expirat. Vă rugăm să reîncărcați membership-ul înainte de a utiliza traducerea AI și Azure TTS. Dacă nu doriți să reîncărcați, puteți alege Google Translate și tipuri de voce gratuite."
+  },
+  "insufficientBalanceAndMembership": {
+    "message": "Vă rugăm să reîncărcați membership-ul și soldul înainte de a utiliza traducerea AI și Azure TTS. Dacă nu doriți să reîncărcați, puteți alege Google Translate și tipuri de voce gratuite."
+  },
+  "freeForVip": {
+    "message": "Gratuit VIP"
+  },
+  "freeOptionTipText": {
+    "message": "Dacă nu doriți să reîncărcați, puteți alege opțiunea gratuită, "
+  },
+  "translateEngineTipText": {
+    "message": "schimbați serviciul de traducere la Google"
+  },
+  "voiceTypeTipText": {
+    "message": "schimbați tipul de voce la versiunea gratuită"
+  },
+  "vipFreeOptionTipText": {
+    "message": "Ca membru, puteți utiliza gratuit următoarele servicii de traducere"
+  },
+  "vipTranslateEngineTipText": {
+    "message": "Schimbați serviciul de traducere la servicii gratuite pentru membri precum gemini, deepseek, gpt-3.5-turbo sau claude-3-haiku"
+  },
+  "pay": {
+    "message": "plată"
+  },
+  "switchModelWarning": {
+    "message": "Schimbarea vocii sau modelului de traducere în timpul redării video va genera taxe suplimentare din cauza resurselor irosite. Recomandăm schimbarea în videoclipul următor. Pentru a continua oricum, faceți clic pe Continuați și salvați."
+  },
+  "selectSpeaker": {
+    "message": "Selectare"
+  },
+  "speaker": {
+    "message": "Vorbitor"
+  },
+  "rechargeLimit": {
+    "message": "Credit+Membru"
+  },
+  "tooExpensive": {
+    "message": "Scump"
+  },
+  "dropdownPlaceholder": {
+    "message": "Vă rugăm să selectați"
+  },
+  "dropdownNoOptions": {
+    "message": "Nu există opțiuni disponibile"
+  },
+  "dropdownSearch": {
+    "message": "Căutare..."
+  },
+  "swapVolumeSettingsCommand": {
+    "message": "Comutare setări volum între audio original și dublu"
+  },
+  "cycleSubtitleModeCommand": {
+    "message": "Comută subtitrările: bilingve → doar traducere → dezactivate"
+  },
+  "trialMemberModelLimit": {
+    "message": "Membrii de probă pot utiliza doar Gemini și Google Translate. Pentru a utiliza alte modele, vă rugăm să vă abonați la membership-ul nostru."
+  },
+  "subtitlesRateLimitedByYouTube": {
+    "message": "Subtitrările pentru acest video sunt în prezent limitate de YouTube. Vă rugăm să încercați din nou mai târziu."
+  },
+  "musicVideoNotSupported": {
+    "message": "Acesta este un videoclip muzical. Traducerea și dublarea nu sunt acceptate."
+  },
+  "hideUntilNextVisit": {
+    "message": "Ascunde până la următoarea vizită"
+  },
+  "disableGlobally": {
+    "message": "Dezactivează global"
+  },
+  "sidebarHideUntilNextVisit": {
+    "message": "Ascunde până la următoarea vizită"
+  },
+  "sidebarDisableForSite": {
+    "message": "Dezactivează pentru acest site"
+  },
+  "sidebarDisableGlobally": {
+    "message": "Dezactivează global"
+  },
+  "sidebarReenableHint": {
+    "message": "Poate fi reactivat în "
+  },
+  "sidebarSettings": {
+    "message": "Setări"
+  },
+  "sidebarReenableHintSuffix": {
+    "message": " "
+  },
+  "notSupported": {
+    "message": "Neacceptat"
+  },
+  "multiVideoNotSupported": {
+    "message": "Această pagină are mai multe videoclipuri. Dublarea universală acceptă doar pagini cu un singur video când se utilizează fluxuri HLS."
+  },
+  "mediaSourceNotDetected": {
+    "message": "Nu s-a putut detecta sursa video. Acest site web poate să nu fie acceptat."
+  },
+  "uploadMediaForRecognition": {
+    "message": "Nu s-au găsit subtitrări. Doriți să încărcați videoclipul pentru recunoașterea subtitrărilor AI?"
+  },
+  "startUpload": {
+    "message": "Începe încărcarea"
+  },
+  "uploadingMedia": {
+    "message": "Se încarcă media..."
+  },
+  "downloading": {
+    "message": "Se descarcă"
+  },
+  "uploading": {
+    "message": "Se încarcă"
+  },
+  "completing": {
+    "message": "Se finalizează"
+  },
+  "uploadComplete": {
+    "message": "Încărcare completă"
+  },
+  "waitingForRecognition": {
+    "message": "Video încărcat cu succes. Recunoașterea subtitrărilor AI este în curs. Veți primi o notificare prin e-mail când este gata."
+  },
+  "uploadFailed": {
+    "message": "Încărcarea a eșuat"
+  },
+  "corsNotSupported": {
+    "message": "Acest site web nu permite descărcarea fișierelor media. Dublarea universală nu este acceptată."
+  },
+  "mediaDownloadInterrupted": {
+    "message": "Descărcarea conținutului a fost întreruptă de o eroare de rețea (nu este o restricție a site-ului). Încercați din nou încărcarea."
+  },
+  "zoomRecordingDnrNotSupported": {
+    "message": "Browserul dvs. nu acceptă recunoașterea încărcării înregistrărilor Zoom. Vă rugăm să utilizați Chrome/Edge."
+  },
+  "zoomRecordingDownloadForbidden403": {
+    "message": "Descărcarea înregistrării Zoom a fost interzisă (403). Vă rugăm să redați/reîmprospătați pagina pentru verificare, apoi încercați din nou."
+  },
+  "liveStreamNotSupported": {
+    "message": "Transmisiunile live nu sunt acceptate pentru dublarea universală."
+  },
+  "noAudioTrackFound": {
+    "message": "Nu s-a detectat nicio pistă audio. Acest videoclip pare a fi doar video fără audio și nu poate fi folosit pentru recunoașterea dublajului."
+  },
+  "universalDubbingMemberOnly": {
+    "message": "Dublarea universală necesită putere de calcul GPU în cloud (cost ridicat), doar pentru VIP."
+  },
+  "videoDurationExceedsLimit": {
+    "message": "Acest videoclip depășește 3 ore. Dublarea universală nu este acceptată în prezent pentru videoclipuri mai lungi de 3 ore."
+  },
+  "videoDrmProtected": {
+    "message": "Acest videoclip este protejat prin DRM și nu poate fi utilizat pentru dublare."
+  },
+  "pleaseClickVideoToPlay": {
+    "message": "Faceți clic pe videoclip pentru a-l deschide, apoi utilizați funcția de dublare."
+  },
+  "iosUniversalDubbingNotSupported": {
+    "message": "Dublarea universală nu este suportată pe dispozitivele iOS. Vă rugăm să utilizați un browser desktop."
+  },
+  "membershipRequiredTitle": {
+    "message": "Abonament necesar"
+  },
+  "error": {
+    "message": "Eroare"
+  },
+  "unknownError": {
+    "message": "A apărut o eroare necunoscută. Vă rugăm să încercați din nou."
+  },
+  "doNotClosePage": {
+    "message": "Vă rugăm să nu închideți sau să nu reîmprospătați această pagină în timpul încărcării, altfel încărcarea va fi întreruptă."
+  },
+  "taskAlreadySubmitted": {
+    "message": "Acest videoclip este deja în curs de procesare pentru recunoașterea subtitrărilor AI. Vă rugăm să așteptați notificarea prin e-mail."
+  },
+  "sampleAesNotSupported": {
+    "message": "Acest videoclip folosește criptare SAMPLE-AES care nu este acceptată în prezent pentru descărcare."
+  },
+  "hlsKeyFetchFailed": {
+    "message": "Nu s-a putut obține cheia de decriptare pentru acest videoclip. Videoclipul poate fi protejat sau serverul de chei nu este disponibil."
+  },
+  "hlsDecryptionFailed": {
+    "message": "Nu s-a putut decripta conținutul video. Cheia de criptare poate fi incorectă sau formatul video nu este compatibil."
+  },
+  "subtitleStyleOptionsTitle": {
+    "message": "Setări de stil de subtitrare"
+  },
+  "subtitleStyleOptionsDesc": {
+    "message": "Ajustările vor fi salvate și vor intra în vigoare imediat."
+  },
+  "subtitleStyleSectionTitle": {
+    "message": "Stilul de subtitrare"
+  },
+  "subtitleStylePreviewTitle": {
+    "message": "Previzualizare"
+  },
+  "subtitleStylePreviewTag": {
+    "message": "în timp real"
+  },
+  "subtitleStylePreviewText": {
+    "message": "Credea că acest tânăr avea mult potențial."
+  },
+  "subtitleStylePosition": {
+    "message": "Poziție"
+  },
+  "subtitleStylePositionTop": {
+    "message": "Sus"
+  },
+  "subtitleStylePositionMiddle": {
+    "message": "Mijloc"
+  },
+  "subtitleStylePositionBottom": {
+    "message": "Jos"
+  },
+  "subtitleStyleFontFamily": {
+    "message": "Font"
+  },
+  "subtitleStyleFontSize": {
+    "message": "Dimensiunea fontului"
+  },
+  "subtitleStyleCustomOption": {
+    "message": "Personalizat"
+  },
+  "subtitleStyleCustomFont": {
+    "message": "Font personalizat"
+  },
+  "subtitleStyleCustomFontPlaceholder": {
+    "message": "De exemplu: PingFang SC, Arial"
+  },
+  "subtitleStyleTextColor": {
+    "message": "Culoarea fontului"
+  },
+  "subtitleStyleFontWeight": {
+    "message": "Greutatea fontului"
+  },
+  "subtitleStyleBackgroundColor": {
+    "message": "Culoarea de fundal"
+  },
+  "subtitleStyleBackgroundOpacity": {
+    "message": "Opacitatea fundalului"
+  },
+  "subtitleStyleEdgeStyle": {
+    "message": "Stil margine"
+  },
+  "subtitleStyleEdgeNone": {
+    "message": "Fără"
+  },
+  "subtitleStyleEdgeShadow": {
+    "message": "Umbră"
+  },
+  "subtitleStyleEdgeOutline": {
+    "message": "Contur"
+  },
+  "subtitleStyleFontNone": {
+    "message": "Fără"
+  },
+  "subtitleStyleFontDefault": {
+    "message": "Implicit"
+  },
+  "subtitleStyleFontPingFang": {
+    "message": "PingFang SC"
+  },
+  "subtitleStyleFontYaHei": {
+    "message": "Microsoft YaHei"
+  },
+  "subtitleStyleFontHeiti": {
+    "message": "STHeiti"
+  },
+  "subtitleStyleFontKaiti": {
+    "message": "Kaiti SC"
+  },
+  "subtitleStyleFontSongti": {
+    "message": "STSong"
+  },
+  "subtitleStyleFontFangsong": {
+    "message": "FangSong"
+  },
+  "subtitleStyleFontDongqingHeiti": {
+    "message": "Dongqing Heiti"
+  },
+  "subtitleStyleFontLantingHei": {
+    "message": "Lanting Hei"
+  },
+  "subtitleStyleFontHanyiHeiliu": {
+    "message": "Hanyi Heiliu"
+  },
+  "subtitleStyleFontHanyiZhonghei": {
+    "message": "Hanyi Zhonghei"
+  },
+  "subtitleStyleFontSTSong": {
+    "message": "Songti"
+  },
+  "subtitleStyleFontWawati": {
+    "message": "Wawati"
+  },
+  "subtitleStyleFontWeibei": {
+    "message": "Weibei"
+  },
+  "subtitleStyleFontXingkai": {
+    "message": "Xingkai"
+  },
+  "subtitleStyleFontYuanti": {
+    "message": "Yuanti"
+  },
+  "subtitleStyleFontArialUnicode": {
+    "message": "Arial Unicode MS"
+  },
+  "subtitleStyleFontArial": {
+    "message": "Arial"
+  },
+  "subtitleStyleFontCourierNew": {
+    "message": "Courier New"
+  },
+  "subtitleStyleFontGeorgia": {
+    "message": "Georgia"
+  },
+  "subtitleStyleFontTahoma": {
+    "message": "Tahoma"
+  },
+  "subtitleStyleFontTimesNewRoman": {
+    "message": "Times New Roman"
+  },
+  "subtitleStyleFontTrebuchetMS": {
+    "message": "Trebuchet MS"
+  },
+  "subtitleStyleFontVerdana": {
+    "message": "Verdana"
+  },
+  "subtitleStyleFontHelveticaNeue": {
+    "message": "Helvetica Neue"
+  },
+  "subtitleStyleFontHiraginoMincho": {
+    "message": "Hiragino Mincho ProN"
+  },
+  "subtitleStyleFontHiraginoKaku": {
+    "message": "Hiragino Kaku Gothic ProN"
+  },
+  "subtitleStyleFontKohinoor": {
+    "message": "Kohinoor Devanagari"
+  },
+  "subtitleStyleFontAppleSD": {
+    "message": "Apple SD Gothic Neo"
+  },
+  "subtitleStyleFontNanumGothic": {
+    "message": "Nanum Gothic"
+  },
+  "subtitleStyleFontCustom": {
+    "message": "Personalizat"
+  },
+  "subtitleStyleColorWhite": {
+    "message": "Alb"
+  },
+  "subtitleStyleColorYellow": {
+    "message": "galben"
+  },
+  "subtitleStyleColorOrange": {
+    "message": "culoare portocalie"
+  },
+  "subtitleStyleColorGray": {
+    "message": "gri"
+  },
+  "subtitleStyleColorGreen": {
+    "message": "verde"
+  },
+  "subtitleStyleColorCyan": {
+    "message": "Cian"
+  },
+  "subtitleStyleColorBlue": {
+    "message": "Albastru"
+  },
+  "subtitleStyleColorMagenta": {
+    "message": "magenta"
+  },
+  "subtitleStyleColorRed": {
+    "message": "roșu"
+  },
+  "subtitleStyleColorBlack": {
+    "message": "negru"
+  },
+  "subtitleStyleEditorViewLabel": {
+    "message": "Vizualizare pentru editarea stilului"
+  },
+  "subtitleStyleEditorViewTranslated": {
+    "message": "Doar traducere"
+  },
+  "subtitleStyleEditorViewBilingual": {
+    "message": "Bilingv"
+  },
+  "subtitleStyleLayoutSectionTitle": {
+    "message": "Aspect bilingv"
+  },
+  "subtitleStyleOrder": {
+    "message": "Ordinea subtitrărilor"
+  },
+  "subtitleStyleOrderTranslatedFirst": {
+    "message": "Traducerea sus"
+  },
+  "subtitleStyleOrderOriginalFirst": {
+    "message": "Originalul sus"
+  },
+  "subtitleStyleLineGap": {
+    "message": "Spațierea liniilor"
+  },
+  "subtitleStyleTextAlign": {
+    "message": "Aliniere orizontală"
+  },
+  "subtitleStyleTextAlignLeft": {
+    "message": "Stânga"
+  },
+  "subtitleStyleTextAlignCenter": {
+    "message": "Centru"
+  },
+  "subtitleStyleTextAlignRight": {
+    "message": "Dreapta"
+  },
+  "subtitleStyleTranslatedSectionTitle": {
+    "message": "Stilul traducerii"
+  },
+  "subtitleStyleOriginalSectionTitle": {
+    "message": "Stil original"
+  },
+  "subtitleStyleFollowTranslated": {
+    "message": "Urmează stilul traducerii"
+  },
+  "subtitleStyleUsesCurrentSettings": {
+    "message": "Folosește setările actuale"
+  },
+  "subtitleStyleOriginalSizePercent": {
+    "message": "Raportul dimensiunii fontului"
+  },
+  "subtitleStyleSharedBackgroundSectionTitle": {
+    "message": "Fundal comun"
+  },
+  "subtitleStyleRestoreDefaults": {
+    "message": "Restabilește valorile implicite"
+  },
+  "subtitleStylePreviewOriginalText": {
+    "message": "He thought this young man had great potential."
+  },
+  "subtitleStyleColorLightGray": {
+    "message": "Gri deschis"
+  },
+  "disabledSitesSectionTitle": {
+    "message": "Site-uri dezactivate"
+  },
+  "disabledSitesTitle": {
+    "message": "Gestionare site-uri dezactivate"
+  },
+  "disabledSitesDescription": {
+    "message": "Butonul plutitor nu va apărea pe următoarele site-uri. Puteți adăuga sau elimina site-uri dezactivate aici."
+  },
+  "disabledSitesPlaceholder": {
+    "message": "Introduceți domeniul, ex. youtube.com"
+  },
+  "disabledSitesAdd": {
+    "message": "Adăugare"
+  },
+  "disabledSitesDomain": {
+    "message": "Domeniu"
+  },
+  "disabledSitesActions": {
+    "message": "Acțiuni"
+  },
+  "disabledSitesDelete": {
+    "message": "Ștergere"
+  },
+  "disabledSitesEmpty": {
+    "message": "Niciun site dezactivat"
+  },
+  "preferencesSectionTitle": {
+    "message": "Setări de bază"
+  },
+  "optionsNavPreferencesShort": {
+    "message": "Bază"
+  },
+  "optionsNavSubtitleShort": {
+    "message": "Subtitrări"
+  },
+  "optionsNavAiShort": {
+    "message": "AI"
+  },
+  "optionsNavSitesShort": {
+    "message": "Site-uri"
+  },
+  "preferenceStatusDisabled": {
+    "message": "Dezactivat"
+  },
+  "preferencesTitle": {
+    "message": "Setări de bază"
+  },
+  "preferencesDescription": {
+    "message": "Gestionează aici preferințele tale de bază."
+  },
+  "emailNotificationLabel": {
+    "message": "Notificări prin e-mail"
+  },
+  "emailNotificationDescription": {
+    "message": "Anunță-mă prin e-mail când recunoașterea subtitrărilor este finalizată."
+  },
+  "emailNotificationSaveFailed": {
+    "message": "Salvarea a eșuat. Încearcă din nou mai târziu."
+  },
+  "skipTranslationWhenSameLanguageLabel": {
+    "message": "Omite traducerea pentru aceeași limbă"
+  },
+  "skipTranslationWhenSameLanguageDescription": {
+    "message": "Când este activat și limba subtitrărilor coincide cu limba țintă, dublajul începe direct fără traducere."
+  },
+  "userSubtitleSegmentationEnabledLabel": {
+    "message": "Segmentarea inteligentă a subtitrărilor utilizatorului"
+  },
+  "userSubtitleSegmentationEnabledDescription": {
+    "message": "Când este activată, segmentează automat subtitrările editate sau încărcate local. Când este dezactivată, păstrează împărțirea originală."
+  },
+  "subtitlePriorityTitle": {
+    "message": "Prioritatea traducerii subtitrărilor"
+  },
+  "subtitlePriorityDescription": {
+    "message": "Alege ce sursă de subtitrări să fie prioritizată pentru traducere."
+  },
+  "subtitlePriorityAiSubtitle": {
+    "message": "Subtitrări recunoscute de AI-ul pluginului"
+  },
+  "subtitlePriorityAiSubtitleDesc": {
+    "message": "Prioritizează subtitrările generate de recunoașterea vocală AI a pluginului pentru o precizie mai mare."
+  },
+  "subtitlePriorityPlatformSubtitle": {
+    "message": "Subtitrări integrate ale platformei"
+  },
+  "subtitlePriorityPlatformSubtitleDesc": {
+    "message": "Prioritizează subtitrările originale furnizate de platforma video."
+  },
+  "subtitlePriorityQuickLabel": {
+    "message": "Subtitrări"
+  },
+  "subtitlePriorityQuickAi": {
+    "message": "AI"
+  },
+  "subtitlePriorityQuickPlatform": {
+    "message": "Platformă"
+  },
+  "panelTabVideoSummary": {
+    "message": "Rezumat"
+  },
+  "panelTabSubtitleEdit": {
+    "message": "Subtitrări"
+  },
+  "panelSummaryTitle": {
+    "message": "Rezumatul și structura videoului"
+  },
+  "panelSummaryDesc": {
+    "message": "Folosiți modele AI avansate pentru a înțelege rapid conținutul video"
+  },
+  "panelSummaryGenerate": {
+    "message": "Generează rezumat"
+  },
+  "panelSummaryGenerating": {
+    "message": "Se generează..."
+  },
+  "panelSummaryReGenerating": {
+    "message": "Se regenerează..."
+  },
+  "panelSummarySectionSummary": {
+    "message": "Rezumat"
+  },
+  "panelSummarySectionHighlights": {
+    "message": "Puncte cheie"
+  },
+  "panelSummaryExpandAll": {
+    "message": "Extinde tot"
+  },
+  "panelSummaryCollapseAll": {
+    "message": "Restrânge tot"
+  },
+  "panelSummaryExpand": {
+    "message": "Extinde"
+  },
+  "panelSummaryCollapse": {
+    "message": "Restrânge"
+  },
+  "panelSummaryShare": {
+    "message": "Partajează"
+  },
+  "panelSummaryCopy": {
+    "message": "Copiază"
+  },
+  "panelSummaryReGenerate": {
+    "message": "Regenerează"
+  },
+  "panelSummaryCopySuccess": {
+    "message": "Copiat"
+  },
+  "panelSummaryPlay": {
+    "message": "Redă"
+  },
+  "panelSummaryPause": {
+    "message": "Pauză"
+  },
+  "panelSummaryPlayFailed": {
+    "message": "Redarea a eșuat, încearcă din nou"
+  },
+  "panelSummaryNoSubtitle": {
+    "message": "Nu sunt disponibile subtitrări pentru acest videoclip"
+  },
+  "panelSummaryError": {
+    "message": "Generarea rezumatului a eșuat, vă rugăm încercați din nou"
+  },
+  "panelSummaryErrorInvalidVideoId": {
+    "message": "Nu se poate identifica videoclipul curent, vă rugăm reîmprospătați pagina și încercați din nou"
+  },
+  "panelSummaryErrorMemberRequired": {
+    "message": "Rezumatul video este o funcție exclusivă pentru membri, vă rugăm să vă abonați pentru a o utiliza"
+  },
+  "panelSummaryErrorNoSubtitles": {
+    "message": "Nu sunt disponibile subtitrări pentru acest videoclip, nu se poate genera rezumatul"
+  },
+  "panelSummaryErrorServiceError": {
+    "message": "Serviciul de rezumat este temporar indisponibil, vă rugăm încercați din nou mai târziu"
+  },
+  "subtitleEditorManualInput": {
+    "message": "Intrare manuală"
+  },
+  "subtitleEditorSwitchTip": {
+    "message": "Faceți clic aici pentru a schimba subtitrarea"
+  },
+  "subtitleEditorExport": {
+    "message": "Exportă"
+  },
+  "subtitleEditorTrackFallback": {
+    "message": "Sursa subtitrare"
+  },
+  "subtitleEditorMySubtitles": {
+    "message": "Subtitrarile mele"
+  },
+  "subtitleEditorNoSourceManual": {
+    "message": "Nu sunt disponibile surse de subtitrare (intrare manuală disponibilă)"
+  },
+  "subtitleEditorSaveInvalidVideo": {
+    "message": "Nu se poate identifica videoclipul curent. Salvarea nu a reușit."
+  },
+  "subtitleEditorSaveFailed": {
+    "message": "Salvarea nu a reușit. Vă rugăm să încercați din nou mai târziu."
+  },
+  "subtitleEditorValidationEmpty": {
+    "message": "Conținutul subtitrarilor nu poate fi gol"
+  },
+  "subtitleEditorValidationBlockStructure": {
+    "message": "Bloc SRT nevalid. Secvența, marcajul de timp și conținutul sunt necesare."
+  },
+  "subtitleEditorValidationSequenceFormat": {
+    "message": "Format de număr de secvență SRT nevalid"
+  },
+  "subtitleEditorValidationSequenceIncrement": {
+    "message": "Numerele de secvență SRT trebuie să înceapă de la 1 și să crească cu 1"
+  },
+  "subtitleEditorValidationTimeFormat": {
+    "message": "Format de oră nevalid. Vă rugăm să o revizuiți și să o corectați."
+  },
+  "subtitleEditorValidationEndAfterStart": {
+    "message": "Ora de încheiere trebuie să fie mai mare decât ora de început"
+  },
+  "subtitleEditorValidationContentRequired": {
+    "message": "Fiecare subtitrare trebuie să conțină cel puțin un rând de text"
+  },
+  "subtitleEditorValidationSpeakerPrefix": {
+    "message": "Unele subtitrări includ etichete pentru difuzor. Toate subtitrările trebuie să utilizeze prefixul [speaker]."
+  },
+  "localPlayerTemporaryImportMode": {
+    "message": "Mod de import temporar"
+  },
+  "localPlayerLibraryTitle": {
+    "message": "Biblioteca video locală"
+  },
+  "localPlayerEntryButton": {
+    "message": "Video local"
+  },
+  "localPlayerPageTitle": {
+    "message": "Video local · YouTube Dubbing"
+  },
+  "localPlayerFolderAccessDescription": {
+    "message": "Deschiderea unui folder salvează mânerele fișierelor, astfel încât accesul poate fi restabilit după reîmprospătare."
+  },
+  "localPlayerTemporaryImportDescription": {
+    "message": "Acest browser nu acceptă File System Access API. Puteți adăuga temporar videoclipuri și subtitrări."
+  },
+  "localPlayerOpenFolder": {
+    "message": "Deschideți folderul"
+  },
+  "localPlayerAddVideo": {
+    "message": "Adăugați videoclip"
+  },
+  "localPlayerAddSubtitle": {
+    "message": "Adăugați subtitrare"
+  },
+  "localPlayerVideoList": {
+    "message": "Lista video"
+  },
+  "localPlayerFolders": {
+    "message": "Foldere"
+  },
+  "localPlayerFoldersDescription": {
+    "message": "Răsfoiți media importate după folder."
+  },
+  "localPlayerAllVideos": {
+    "message": "Toate videoclipurile"
+  },
+  "localPlayerAllVideosDescription": {
+    "message": "Căutați și gestionați fiecare videoclip importat."
+  },
+  "localPlayerLibraryView": {
+    "message": "Vizualizare bibliotecă"
+  },
+  "localPlayerBackToFolders": {
+    "message": "Înapoi la dosare"
+  },
+  "localPlayerFolderSearchPlaceholder": {
+    "message": "Căutați dosare, căi sau fișiere"
+  },
+  "localPlayerTotalFolders": {
+    "message": "Total {count} dosare"
+  },
+  "localPlayerMatchedFolders": {
+    "message": "{visibleCount} potrivite / total {totalCount} dosare"
+  },
+  "localPlayerNoFolderMatchesTitle": {
+    "message": "Niciun folder care se potrivește"
+  },
+  "localPlayerNoFolderMatchesText": {
+    "message": "Ajustați căutarea în folder și încercați din nou."
+  },
+  "localPlayerRescanAll": {
+    "message": "Rescanați toate"
+  },
+  "localPlayerFolderMenuLabel": {
+    "message": "Acțiuni ale folderului"
+  },
+  "localPlayerOpenFolderMenu": {
+    "message": "Deschide folderul"
+  },
+  "localPlayerRescanThisFolder": {
+    "message": "Rescanați acest folder"
+  },
+  "localPlayerRemoveFromLibrary": {
+    "message": "Eliminați din bibliotecă"
+  },
+  "localPlayerFolderVideoCount": {
+    "message": "{count} videoclipuri"
+  },
+  "localPlayerFolderAssociatedSubtitleCount": {
+    "message": "{count} subtitrări asociate"
+  },
+  "localPlayerFolderLastPlayed": {
+    "message": "Ultima redare {time}"
+  },
+  "localPlayerFolderLastScanned": {
+    "message": "Ultima scanare {time}"
+  },
+  "localPlayerRemoveFolderTitle": {
+    "message": "Eliminați acest folder din bibliotecă?"
+  },
+  "localPlayerRemoveFolderText": {
+    "message": "Aceasta elimină numai înregistrările din bibliotecă pentru acest folder. Fișierele originale de pe disc nu vor fi șterse."
+  },
+  "localPlayerFolderRemoved": {
+    "message": "Eliminat {folderName}"
+  },
+  "localPlayerRemoveFolderFailed": {
+    "message": "Nu s-a putut elimina folderul din bibliotecă."
+  },
+  "localPlayerRescanFailed": {
+    "message": "Nu s-a re-scanat biblioteca locală."
+  },
+  "localPlayerRescanFolderUnavailable": {
+    "message": "Nu se poate rescana acest dosar deoarece accesul la folderul salvat nu este disponibil."
+  },
+  "localPlayerCurrentDirectory": {
+    "message": "Directorul curent"
+  },
+  "localPlayerNoNewFilesFound": {
+    "message": "Nu s-au găsit fișiere noi."
+  },
+  "localPlayerScanComplete": {
+    "message": "Scanare finalizată: {addedVideoCount} videoclipuri adăugate, {addedSubtitleCount} subtitrări, {updatedCount} fișiere actualizate."
+  },
+  "localPlayerNever": {
+    "message": "Niciodată"
+  },
+  "localPlayerSearchPlaceholder": {
+    "message": "Căutați videoclipuri sau căi ale fișierelor"
+  },
+  "localPlayerFilterAll": {
+    "message": "Toate"
+  },
+  "localPlayerFilterWithSubtitle": {
+    "message": "Cu subtitrări"
+  },
+  "localPlayerFilterNoSubtitle": {
+    "message": "Fără subtitrări"
+  },
+  "localPlayerSortLastPlayed": {
+    "message": "Videoclipuri redate recent"
+  },
+  "localPlayerSortName": {
+    "message": "Nume fișier"
+  },
+  "localPlayerSortDuration": {
+    "message": "Durata videoclipului"
+  },
+  "localPlayerNoVideosTitle": {
+    "message": "Niciun videoclip local încă"
+  },
+  "localPlayerNoMatchesTitle": {
+    "message": "Niciun videoclip care se potrivește"
+  },
+  "localPlayerNoVideosText": {
+    "message": "Deschideți un dosar sau adăugați videoclipuri pentru a gestiona linkurile de subtitrare și dublarea vocală locală aici."
+  },
+  "localPlayerNoMatchesText": {
+    "message": "Ajustați căutarea, filtrarea sau sortarea și încercați din nou."
+  },
+  "localPlayerDeleteVideoLabel": {
+    "message": "Ștergeți {fileName}"
+  },
+  "localPlayerRecognitionSubmitted": {
+    "message": "Recunoașterea subtitrarilor"
+  },
+  "localPlayerPlay": {
+    "message": "Redați videoclipul"
+  },
+  "localPlayerSubtitles": {
+    "message": "Subtitrări"
+  },
+  "localPlayerStartDubbing": {
+    "message": "Începe dublarea vocală"
+  },
+  "localPlayerFloatingActionsLabel": {
+    "message": "Acțiuni rapide video locale"
+  },
+  "localPlayerOpenSidebar": {
+    "message": "Deschideți bara laterală"
+  },
+  "localPlayerClose": {
+    "message": "Închide"
+  },
+  "localPlayerSameDirectorySubtitleSummary": {
+    "message": "Subtitrări din același folder {sameCount} · Conectat {associatedCount}"
+  },
+  "localPlayerNoManageableSubtitles": {
+    "message": "Fără subtitrări de gestionat"
+  },
+  "localPlayerAssociateAndUseForDubbing": {
+    "message": "Conectați subtitrarea și utilizați-o pentru dublarea vocală"
+  },
+  "localPlayerSetForDubbing": {
+    "message": "Utilizați această subtitrare pentru dublarea vocală"
+  },
+  "localPlayerRemoveAssociation": {
+    "message": "Deconectați subtitrarea"
+  },
+  "localPlayerRemoveAllAssociations": {
+    "message": "Deconectați toate subtitrarile"
+  },
+  "localPlayerSelectVideoForSubtitleTitle": {
+    "message": "Selectați un videoclip pentru a trimite la această subtitrare"
+  },
+  "localPlayerAssociate": {
+    "message": "Link subtitrare"
+  },
+  "localPlayerInitialStatus": {
+    "message": "Deschideți un folder, adăugați videoclipuri sau plasați fișiere pentru a începe."
+  },
+  "localPlayerAscendingSortTitle": {
+    "message": "Crescător; faceți clic pentru a comuta la descendent"
+  },
+  "localPlayerDescendingSortTitle": {
+    "message": "Descendent; faceți clic pentru a comuta la ascendent"
+  },
+  "localPlayerTotalVideos": {
+    "message": "În total {count} videoclipuri"
+  },
+  "localPlayerMatchedVideos": {
+    "message": "Videoclipuri potrivite {visibleCount} / total {totalCount}"
+  },
+  "localPlayerRouteVideoMissing": {
+    "message": "Videoclipul specificat în URL nu se află în biblioteca video locală curentă."
+  },
+  "localPlayerFolderAccessUnsupported": {
+    "message": "Acest browser nu poate deschide foldere. Utilizați Adăugați videoclip/Adăugați subtitrare pentru un import temporar."
+  },
+  "localPlayerImportComplete": {
+    "message": "Videoclipuri {videoCount} importate și subtitrări {subtitleCount}."
+  },
+  "localPlayerOpenFolderFailed": {
+    "message": "Nu s-a putut deschide folderul."
+  },
+  "localPlayerAddVideoFailed": {
+    "message": "Nu s-a putut adăuga videoclipul."
+  },
+  "localPlayerAddSubtitleFailed": {
+    "message": "Nu s-a putut adăuga subtitrarea."
+  },
+  "localPlayerAssociationSaved": {
+    "message": "Link de subtitrare salvat."
+  },
+  "localPlayerAssociationSavedAndPreferred": {
+    "message": "Subtitrare legată și setată pentru dublare vocală."
+  },
+  "localPlayerPreferredSubtitleSaved": {
+    "message": "Setat de subtitrare pentru dublarea vocală."
+  },
+  "localPlayerAssociationRemoved": {
+    "message": "Linkul de subtitrare a fost eliminat."
+  },
+  "localPlayerRebindSubtitleTitle": {
+    "message": "Relegați acest subtitrare?"
+  },
+  "localPlayerRebindSubtitleText": {
+    "message": "Acest subtitlu este deja asociat cu „{fromVideo}\". Continuând va elimina asocierea și o va asocia cu „{toVideo}\"."
+  },
+  "localPlayerRemoveAllAssociationsTitle": {
+    "message": "Deconectați toate subtitrarile?"
+  },
+  "localPlayerRemoveAllAssociationsText": {
+    "message": "Numai linkurile de subtitrare pentru acest videoclip vor fi eliminate. Înregistrările fișierelor cu subtitrare nu vor fi șterse."
+  },
+  "localPlayerAllAssociationsRemoved": {
+    "message": "Toate linkurile de subtitrare au fost eliminate."
+  },
+  "localPlayerDeleteVideoTitle": {
+    "message": "Ștergeți acest videoclip?"
+  },
+  "localPlayerDeleteVideoText": {
+    "message": "Acest lucru elimină linkurile video și subtitrare din biblioteca locală. Fișierele originale de pe disc nu vor fi șterse."
+  },
+  "localPlayerDelete": {
+    "message": "Ștergeți"
+  },
+  "localPlayerVideoDeleted": {
+    "message": "Șters {fileName}"
+  },
+  "localPlayerDeleteVideoFailed": {
+    "message": "Nu s-a șters videoclipul."
+  },
+  "localPlayerVideoFileAccessLost": {
+    "message": "Nu se poate restabili accesul la acest fișier video. Vă rugăm să adăugați din nou videoclipul."
+  },
+  "localPlayerVideoPlayerNotReady": {
+    "message": "Playerul video nu este încă pregătit."
+  },
+  "localPlayerNowPlaying": {
+    "message": "Se redă acum {fileName}"
+  },
+  "localPlayerDubbingStarted": {
+    "message": "A început dublarea vocală locală."
+  },
+  "localPlayerDubbingStartFailed": {
+    "message": "Nu s-a pornit dublarea vocală locală."
+  },
+  "localPlayerOpenSidebarFailed": {
+    "message": "Nu s-a deschis bara laterală."
+  },
+  "localPlayerVideoFileReadFailed": {
+    "message": "Nu se poate citi fișierul video local. Vă rugăm să adăugați din nou videoclipul."
+  },
+  "localPlayerUploadCancelled": {
+    "message": "Încărcarea a fost anulată."
+  },
+  "localPlayerSubtitleAssociatedBadge": {
+    "message": "{count} subtitrări legate"
+  },
+  "localPlayerNoSubtitleBadge": {
+    "message": "Fără subtitrări legate"
+  },
+  "localPlayerUsedForDubbing": {
+    "message": "Folosit pentru dublarea vocii"
+  },
+  "localPlayerAssociated": {
+    "message": "Conectat"
+  },
+  "localPlayerAssociatedOutsideFolder": {
+    "message": "Conectat în afara acestui folder"
+  },
+  "localPlayerNotAssociated": {
+    "message": "Nu este legat"
+  },
+  "localPlayerNativeSubtitle": {
+    "message": "Subtitrări originale"
+  },
+  "localPlayerDubbingAlreadyStarted": {
+    "message": "A început dublarea vocală"
+  },
+  "localPlayerThumbnailBackfillComplete": {
+    "message": "Miniaturi generate pentru videoclipurile {count}."
+  },
+  "localPlayerThumbnailGenerationFailed": {
+    "message": "Generarea miniaturilor a eșuat: {displayName} ({message})"
+  },
+  "localPlayerFreeUserNoSubtitleMessage": {
+    "message": "Acest videoclip local nu are o subtitrare legată. Utilizatorii gratuit nu pot utiliza încă recunoașterea subtitrarilor în fundal pentru videoclipurile locale. Actualizați calitatea de membru pentru a utiliza recunoașterea subtitrarilor AI sau încărcați manual un fișier de subtitrare înainte de a începe dublarea vocală."
+  },
+  "localPlayerNoSubtitleUploadTitle": {
+    "message": "Acest videoclip nu are subtitrări"
+  },
+  "localPlayerNoSubtitleUploadText": {
+    "message": "Încărcați acest videoclip pentru recunoașterea subtitrarilor AI? Încărcarea este folosită numai pentru a recunoaște subtitrări, videoclipul este șters imediat după recunoaștere și veți fi notificat prin e-mail."
+  },
+  "localPlayerNavigationLabel": {
+    "message": "Biblioteca video locală / Text în vorbire"
+  },
+  "localPlayerCurrentPageNav": {
+    "message": "Dublaj video"
+  },
+  "localPlayerTextDubbingNav": {
+    "message": "Text în vorbire"
+  },
+  "localPlayerTextDubbingTitle": {
+    "message": "Text în vorbire"
+  },
+  "localPlayerTextDubbingDescription": {
+    "message": "Text în vorbire - Limba țintă"
+  },
+  "localPlayerTextDubbingVoiceType": {
+    "message": "Tip voce"
+  },
+  "localPlayerTextDubbingLanguage": {
+    "message": "Limba țintă"
+  },
+  "localPlayerTextDubbingGender": {
+    "message": "Gen"
+  },
+  "localPlayerTextDubbingVoice": {
+    "message": "Voce"
+  },
+  "localPlayerTextDubbingInputLabel": {
+    "message": "Intrare manuală"
+  },
+  "localPlayerTextDubbingInputPlaceholder": {
+    "message": "Intrare manuală - Text în vorbire"
+  },
+  "localPlayerTextDubbingLimitHint": {
+    "message": "Text în vorbire: {chars} / {bytes}"
+  },
+  "localPlayerTextDubbingCounter": {
+    "message": "{chars} · {bytes}"
+  },
+  "localPlayerTextDubbingGenerate": {
+    "message": "Text în vorbire MP3"
+  },
+  "localPlayerTextDubbingGenerating": {
+    "message": "Se salvează..."
+  },
+  "localPlayerTextDubbingGenerated": {
+    "message": "Text în vorbire MP3 · {seconds}s"
+  },
+  "localPlayerTextDubbingFailed": {
+    "message": "Salvare eșuată"
+  },
+  "localPlayerTextDubbingNoVoice": {
+    "message": "Nu este disponibilă nicio voce pentru această selecție."
+  },
+  "localPlayerTextDubbingEmptyText": {
+    "message": "Conținutul subtitrarilor nu poate fi gol"
+  },
+  "localPlayerTextDubbingTooLong": {
+    "message": "Textul este prea lung. Scurtați-l și încercați din nou."
+  },
+  "localPlayerTextDubbingDownload": {
+    "message": "Exportă MP3"
+  },
+  "localPlayerTextDubbingClear": {
+    "message": "Anulare"
+  },
+  "translationDomainGeneral": {
+    "message": "General"
+  },
+  "translationDomainWeb3": {
+    "message": "Web3 și cripto"
+  },
+  "translationDomainTech": {
+    "message": "Tehnologie"
+  },
+  "translationDomainNews": {
+    "message": "Știri și media"
+  },
+  "translationDomainProgramming": {
+    "message": "Programare"
+  },
+  "translationDomainEducation": {
+    "message": "Educație"
+  },
+  "translationDomainFinance": {
+    "message": "Finanțe"
+  },
+  "translationDomainLaw": {
+    "message": "Drept"
+  },
+  "translationDomainAuto": {
+    "message": "Automotive"
+  },
+  "translationDomainEcommerce": {
+    "message": "E-commerce"
+  },
+  "translationDomainFashion": {
+    "message": "Modă"
+  },
+  "translationDomainFood": {
+    "message": "Mâncare și gătit"
+  },
+  "translationDomainGardening": {
+    "message": "Grădinărit"
+  },
+  "translationDomainMedical": {
+    "message": "Medicină și sănătate"
+  },
+  "translationDomainMusic": {
+    "message": "Muzică"
+  },
+  "translationDomainPets": {
+    "message": "Animale de companie"
+  },
+  "translationDomainSports": {
+    "message": "Sport"
+  },
+  "translationDomainTravel": {
+    "message": "Călătorii"
+  },
+  "translationDomainChess": {
+    "message": "Șah"
+  },
+  "translationDomainGaming": {
+    "message": "Jocuri"
+  },
+  "translationDomainGolf": {
+    "message": "Golf"
+  },
+  "translationDomainMovies": {
+    "message": "Filme și TV"
+  },
+  "translationDomainPhotography": {
+    "message": "Fotografie"
+  },
+  "translationPreferencesSectionTitle": {
+    "message": "Traducere cu AI"
+  },
+  "translationRulesEnabledLabel": {
+    "message": "Aplică glosarul și înlocuirile de text în traducerea cu AI"
+  },
+  "translationRulesEnabledDescription": {
+    "message": "Când este activată, traducerea cu AI folosește setările de mai jos. Când este dezactivată, setările existente se păstrează."
+  },
+  "glossaryTitle": {
+    "message": "Glosar"
+  },
+  "glossaryDescription": {
+    "message": "Stabilește traduceri fixe pentru termenii sursă (de exemplu, Stratagem). Termenii tăi au prioritate față de glosarul integrat."
+  },
+  "glossaryCreateButton": {
+    "message": "Adaugă termen personal"
+  },
+  "glossaryEditTitle": {
+    "message": "Editează termenul personal"
+  },
+  "glossaryEditorDescription": {
+    "message": "Doar termenii personali pot fi adăugați, editați, activați sau șterși."
+  },
+  "glossaryTableTitle": {
+    "message": "Termeni pentru limba curentă"
+  },
+  "glossaryCombinedEmpty": {
+    "message": "Nu există încă termeni personali pentru această limbă."
+  },
+  "glossarySearchEmpty": {
+    "message": "Nu s-au găsit termeni potriviți."
+  },
+  "glossarySearchPlaceholder": {
+    "message": "Caută termeni sursă"
+  },
+  "glossarySourcePlaceholder": {
+    "message": "Termen sursă"
+  },
+  "glossaryTargetPlaceholder": {
+    "message": "Traducere obligatorie"
+  },
+  "glossarySourceTerm": {
+    "message": "Termen sursă"
+  },
+  "glossaryTargetTerm": {
+    "message": "Traducere"
+  },
+  "replacementTitle": {
+    "message": "Corectarea erorilor din textul sursă"
+  },
+  "replacementDescription": {
+    "message": "Corectează erorile recurente de recunoaștere a subtitrărilor (de exemplu, cloud code -> Claude Code) înainte de traducerea cu AI."
+  },
+  "replacementCreateButton": {
+    "message": "Adaugă înlocuire personală"
+  },
+  "replacementEditTitle": {
+    "message": "Editează înlocuirea personală"
+  },
+  "replacementEditorDescription": {
+    "message": "Doar înlocuirile de text personale se aplică înainte de traducerea cu AI."
+  },
+  "replacementFindPlaceholder": {
+    "message": "Text greșit, de exemplu, cloud code"
+  },
+  "replacementReplacePlaceholder": {
+    "message": "Înlocuiește cu, de exemplu, claude code"
+  },
+  "replacementFindText": {
+    "message": "Text greșit"
+  },
+  "replacementReplaceText": {
+    "message": "Înlocuiește cu"
+  },
+  "replacementEmpty": {
+    "message": "Nu există încă reguli de corectare."
+  },
+  "replacementSearchEmpty": {
+    "message": "Nu s-au găsit înlocuiri potrivite."
+  },
+  "replacementSearchPlaceholder": {
+    "message": "Caută înlocuiri"
+  },
+  "translatedReplacementTitle": {
+    "message": "Înlocuiri în textul tradus"
+  },
+  "translatedReplacementDescription": {
+    "message": "Înlocuiește cuvinte sau expresii din traducerea finalizată folosind reguli personale."
+  },
+  "translatedReplacementCreateButton": {
+    "message": "Adaugă o înlocuire în traducere"
+  },
+  "translatedReplacementLanguage": {
+    "message": "Limba țintă"
+  },
+  "translatedReplacementFindText": {
+    "message": "Text tradus"
+  },
+  "translatedReplacementReplaceText": {
+    "message": "Înlocuiește cu"
+  },
+  "translatedReplacementSearchPlaceholder": {
+    "message": "Caută în textul tradus"
+  },
+  "translatedReplacementEmpty": {
+    "message": "Nu există încă reguli de înlocuire pentru textul tradus."
+  },
+  "translatedReplacementSearchEmpty": {
+    "message": "Nu s-au găsit înlocuiri corespunzătoare."
+  },
+  "translatedReplacementCreateTitle": {
+    "message": "Adaugă o înlocuire în traducere"
+  },
+  "translatedReplacementEditTitle": {
+    "message": "Editează înlocuirea din traducere"
+  },
+  "translatedReplacementEditorDescription": {
+    "message": "Se modifică doar traducerea finalizată; textul sursă și memoria cache a traducerilor rămân neschimbate."
+  },
+  "translatedReplacementFindPlaceholder": {
+    "message": "Cuvânt sau expresie din textul tradus"
+  },
+  "translatedReplacementReplacePlaceholder": {
+    "message": "Cuvântul sau expresia care va fi afișată în loc"
+  },
+  "translatedReplacementEnabledDescription": {
+    "message": "Când este dezactivată, regula se păstrează, dar nu se aplică textului tradus."
+  },
+  "preferenceAdd": {
+    "message": "Adaugă"
+  },
+  "preferenceDomain": {
+    "message": "Domeniu"
+  },
+  "preferenceLanguage": {
+    "message": "Limbă"
+  },
+  "preferenceEnabled": {
+    "message": "Activat"
+  },
+  "preferenceActions": {
+    "message": "Acțiuni"
+  },
+  "preferenceSource": {
+    "message": "Sursă"
+  },
+  "preferenceSourceUser": {
+    "message": "Propriu"
+  },
+  "preferenceSourceBuiltin": {
+    "message": "Integrat"
+  },
+  "preferenceStatus": {
+    "message": "Stare"
+  },
+  "preferenceStatusEnabled": {
+    "message": "Activat"
+  },
+  "preferenceEdit": {
+    "message": "Editează"
+  },
+  "preferenceDelete": {
+    "message": "Șterge"
+  },
+  "preferenceAllDomains": {
+    "message": "Toate domeniile"
+  },
+  "preferenceSearch": {
+    "message": "Caută"
+  },
+  "preferenceClearSearch": {
+    "message": "Șterge căutarea"
+  },
+  "preferencePageLabel": {
+    "message": "Pagina {page}"
+  },
+  "preferencePreviousPage": {
+    "message": "Anterior"
+  },
+  "preferenceNextPage": {
+    "message": "Următor"
+  },
+  "builtinGlossaryDomainsTitle": {
+    "message": "Seturi de domenii integrate"
+  },
+  "builtinGlossaryDomainCount": {
+    "message": "{count} termeni integrați"
+  },
+  "builtinGlossaryEmptyHint": {
+    "message": "Nu există un glosar integrat pentru limba țintă curentă. Poți adăuga în continuare termeni personali."
+  },
+  "builtinGlossaryEnabledSummary": {
+    "message": "{enabled} / {total} activate"
+  },
+  "builtinGlossaryManageDomains": {
+    "message": "Gestionează domeniile"
+  },
+  "builtinGlossaryManageDomainsTitle": {
+    "message": "Gestionează seturile de domenii integrate"
+  },
+  "builtinGlossaryManageDomainsDescription": {
+    "message": "Activează sau dezactivează domeniile glosarului integrat pentru limba țintă."
+  },
+  "builtinGlossaryDomainSearchPlaceholder": {
+    "message": "Caută domenii"
+  },
+  "builtinGlossaryEnableAllDomains": {
+    "message": "Activează toate"
+  },
+  "builtinGlossaryDisableAllDomains": {
+    "message": "Dezactivează toate"
+  },
+  "builtinGlossaryDomainSearchEmpty": {
+    "message": "Nu s-au găsit domenii potrivite."
+  },
+  "builtinGlossaryDomainTotal": {
+    "message": "{count} domenii"
+  },
+  "builtinGlossaryDomainDisabledStatus": {
+    "message": "Domeniu dezactivat"
+  },
+  "builtinGlossaryBlockedStatus": {
+    "message": "Exclus"
+  },
+  "builtinGlossaryReadOnlyHint": {
+    "message": "Regulă integrată"
+  },
+  "builtinTextReplacementManageDomainsTitle": {
+    "message": "Gestionează domeniile integrate de corectare a textului sursă"
+  },
+  "builtinTextReplacementManageDomainsDescription": {
+    "message": "Activează sau dezactivează domeniile integrate de corectare a textului sursă."
+  },
+  "builtinTextReplacementDomainCount": {
+    "message": "{count} reguli integrate"
+  },
+  "preferenceLoadFailed": {
+    "message": "Încărcarea a eșuat. Autentifică-te și încearcă din nou."
+  },
+  "preferenceActionFailed": {
+    "message": "Acțiunea a eșuat. Încearcă din nou mai târziu."
+  },
+  "pronunciationSettingsSectionTitle": {
+    "message": "Pronunţie"
+  },
+  "pronunciationSettingsTitle": {
+    "message": "Setări de pronunție"
+  },
+  "pronunciationSettingsDescription": {
+    "message": "Setați pronunții personale pentru textul tradus. Regulile se aplică numai pentru dublarea locală."
+  },
+  "optionsNavPronunciationShort": {
+    "message": "Pronunţie"
+  },
+  "pronunciationNewRule": {
+    "message": "Regulă nouă"
+  },
+  "pronunciationEditRule": {
+    "message": "Editați regula de pronunție"
+  },
+  "pronunciationTargetLanguage": {
+    "message": "Limba țintă"
+  },
+  "pronunciationSearchPlaceholder": {
+    "message": "Căutați textul potrivit"
+  },
+  "pronunciationStatus": {
+    "message": "Stare"
+  },
+  "pronunciationMatchText": {
+    "message": "Text potrivit"
+  },
+  "pronunciationMatchPlaceholder": {
+    "message": "De exemplu: salut"
+  },
+  "pronunciationTargetText": {
+    "message": "Piesa corectata"
+  },
+  "pronunciationReading": {
+    "message": "Pronunţie specificată"
+  },
+  "pronunciationLoading": {
+    "message": "Se încarcă…"
+  },
+  "pronunciationEmpty": {
+    "message": "Nicio regulă de pronunție personală nu se potrivește cu filtrele curente."
+  },
+  "pronunciationEditorHint": {
+    "message": "Selectați partea continuă de corectat, apoi introduceți pronunția acesteia."
+  },
+  "pronunciationSelectTarget": {
+    "message": "Selectați textul de corectat"
+  },
+  "pronunciationReselect": {
+    "message": "Selectați din nou"
+  },
+  "pronunciationEnterMatchFirst": {
+    "message": "Introduceți mai întâi textul potrivit"
+  },
+  "pronunciationSelectionSummary": {
+    "message": "Selectat: {text}; apariție {occurrence}"
+  },
+  "pronunciationSelectionRestoreFailed": {
+    "message": "Locația salvată nu poate fi restaurată. Selectați din nou textul înainte de a salva."
+  },
+  "pronunciationSelectionInvalid": {
+    "message": "Selectați text continuu."
+  },
+  "pronunciationModifier": {
+    "message": "Ton"
+  },
+  "pronunciationSelectModifier": {
+    "message": "Selectați"
+  },
+  "pronunciationSaving": {
+    "message": "Se salvează…"
+  },
+  "pronunciationDeleteConfirm": {
+    "message": "Ștergeți această regulă de pronunție?"
+  },
+  "pronunciationOccurrence": {
+    "message": "apariție {occurrence}"
+  },
+  "pronunciationUnknownError": {
+    "message": "Acțiunea eșuată. Vă rugăm să încercați din nou mai târziu."
+  },
+  "preferenceAllStatuses": {
+    "message": "Toate"
+  },
+  "preferenceCancel": {
+    "message": "Anulează"
+  },
+  "preferenceDisabled": {
+    "message": "Dezactivat"
+  },
+  "preferenceSave": {
+    "message": "Salvați"
+  },
+  "pronunciationFineSelection": {
+    "message": "Selecție precisă"
+  },
+  "pronunciationMergeUnits": {
+    "message": "Îmbina pronunțiile adiacente"
+  },
+  "pronunciationPerUnitHint": {
+    "message": "Introduceți o pronunție și un ton pentru fiecare parte. Împărțiți sau îmbinați părți după cum este necesar."
+  },
+  "pronunciationPrimarySelection": {
+    "message": "Selecție inteligentă"
+  },
+  "pronunciationSelectionGranularity": {
+    "message": "Granularitatea selecției"
+  },
+  "pronunciationSelectionTooLong": {
+    "message": "Partea corectată poate conține cel mult 128 de caractere."
+  },
+  "pronunciationSplitAt": {
+    "message": "Împarte la"
+  },
+  "pronunciationUnitReading": {
+    "message": "Pronunție pe parte"
+  },
+  "pronunciationWholeReading": {
+    "message": "Toată pronunția"
+  },
+  "pronunciationWholeToneHint": {
+    "message": "Introduceți pronunția completă tonificată. Împărțiți-l pentru a alege un ton pentru fiecare parte."
+  },
+  "pronunciationPinyinSyllable": {
+    "message": "silabă pinyin"
+  },
+  "pronunciationPinyinPlaceholder": {
+    "message": "Introduceți o silabă pinyin"
+  },
+  "pronunciationNumberedTone": {
+    "message": "Ton {tone}"
+  },
+  "pronunciationNeutralTone": {
+    "message": "Ton neutru"
+  },
+  "googleDriveNoCaptionsTitle": {
+    "message": "Acest videoclip din Google Drive nu are încă subtitrări"
+  },
+  "googleDriveNoCaptionsIntro": {
+    "message": "Dublajul folosește subtitrările integrate din Google Drive (CC). Activează mai întâi subtitrările pentru acest videoclip, apoi revino:"
+  },
+  "googleDriveNoCaptionsStep1": {
+    "message": "În Google Drive, dă clic dreapta pe videoclip și alege „Informații despre fișier” → „Gestionează pistele de subtitrări”."
+  },
+  "googleDriveNoCaptionsStep2": {
+    "message": "Dacă nu există încă nicio pistă de subtitrări: Drive generează automat subtitrări pentru limbile acceptate (inclusiv engleză, turcă, chineză, spaniolă, japoneză). Dă clic pe „Generează subtitrări automate” dacă apare sau încarcă un fișier de subtitrări. Doar proprietarul sau editorii videoclipului pot gestiona subtitrările."
+  },
+  "googleDriveNoCaptionsStep3": {
+    "message": "Generarea subtitrărilor durează puțin. Când butonul CC din player devine activ, reîmprospătează pagina și pornește din nou dublajul."
+  },
+  "subtitleAudioLanguageMismatch": {
+    "message": "Limba subtitrărilor nu se potrivește cu limba vocilor. Subtitrări: {subtitle}. Voci: {voice}. O voce poate citi doar text în propria limbă, așa că generarea poate eșua sau poate suna greșit. Traduceți mai întâi subtitrările sau schimbați limba țintă pentru a se potrivi cu ele. Generați oricum?"
+  },
+  "subtitleAudioNav": {
+    "message": "Dublaj subtitrări"
+  },
+  "subtitleAudioAiSubtitleBadge": {
+    "message": "Subtitrări AI"
+  },
+  "subtitleAudioUserSubtitleBadge": {
+    "message": "Subtitrări editate"
+  },
+  "subtitleAudioBack": {
+    "message": "Dublaj video"
+  },
+  "subtitleAudioProjectSubtitle": {
+    "message": "Subtitrări: {name} · replici: {count}"
+  },
+  "subtitleAudioReplaceSubtitles": {
+    "message": "Înlocuiți subtitrările"
+  },
+  "subtitleAudioExportVideoOption": {
+    "message": "Video dublat"
+  },
+  "subtitleAudioExportVideoHint": {
+    "message": "Imaginea încetinește acolo unde o replică are nevoie de mai mult timp, așa că videoclipul poate ieși puțin mai lung."
+  },
+  "subtitleAudioExportMp3Option": {
+    "message": "MP3 dublat"
+  },
+  "subtitleAudioExportMp3Hint": {
+    "message": "Are exact durata videoclipului original; suprapuneți-l peste videoclip sau încărcați-l ca pistă audio într-o altă limbă."
+  },
+  "subtitleAudioDownloadSrt": {
+    "message": "Descărcați SRT"
+  },
+  "subtitleAudioEditAndExport": {
+    "message": "Editați și exportați"
+  },
+  "subtitleAudioEditNeedsSubtitle": {
+    "message": "Acest videoclip nu are încă subtitrări. Asociați un fișier de subtitrare sau folosiți o dată „Începe dublarea vocală” pentru ca AI-ul să genereze subtitrările."
+  },
+  "subtitleAudioTitle": {
+    "message": "O voce pentru fiecare replică"
+  },
+  "subtitleAudioSubtitle": {
+    "message": "Importați un fișier SRT pentru a obține un MP3 dublat care urmează sincronizarea subtitrărilor. Pentru un video dublat, alegeți videoclipul în „Dublaj video” și apăsați „Editați și exportați”."
+  },
+  "subtitleAudioImportStep": {
+    "message": "Import subtitrări"
+  },
+  "subtitleAudioVoicesStep": {
+    "message": "Alegere voci"
+  },
+  "subtitleAudioExportStep": {
+    "message": "Exportare"
+  },
+  "subtitleAudioSubtitles": {
+    "message": "Subtitrări"
+  },
+  "subtitleAudioCueList": {
+    "message": "Replici și voci"
+  },
+  "subtitleAudioSettings": {
+    "message": "Setări voce"
+  },
+  "subtitleAudioImport": {
+    "message": "Alegeți fișierul SRT"
+  },
+  "subtitleAudioReplace": {
+    "message": "Înlocuiți"
+  },
+  "subtitleAudioRemove": {
+    "message": "Eliminați"
+  },
+  "subtitleAudioDrop": {
+    "message": "Plasați aici fișierul SRT"
+  },
+  "subtitleAudioDropNote": {
+    "message": "UTF-8 · maximum 2 MiB, 5.000 de replici și 3 ore"
+  },
+  "subtitleAudioEmpty": {
+    "message": "Subtitrările vor apărea aici. Atribuiți o voce fiecărei replici sau aplicați una unei selecții."
+  },
+  "subtitleAudioLines": {
+    "message": "Replici"
+  },
+  "subtitleAudioDuration": {
+    "message": "Durata subtitrărilor"
+  },
+  "subtitleAudioCharacters": {
+    "message": "Caractere"
+  },
+  "subtitleAudioSearch": {
+    "message": "Căutați în subtitrări"
+  },
+  "subtitleAudioSelectPage": {
+    "message": "Selectați pagina"
+  },
+  "subtitleAudioSelectAll": {
+    "message": "Selectați toate rezultatele"
+  },
+  "subtitleAudioSelected": {
+    "message": "Selectate: {count}"
+  },
+  "subtitleAudioApply": {
+    "message": "Aplicați vocea"
+  },
+  "subtitleAudioChooseVoice": {
+    "message": "Alegeți o voce"
+  },
+  "subtitleAudioText": {
+    "message": "Textul subtitrării"
+  },
+  "subtitleAudioTime": {
+    "message": "Timp"
+  },
+  "subtitleAudioVoice": {
+    "message": "Voce"
+  },
+  "subtitleAudioFemale": {
+    "message": "Feminine"
+  },
+  "subtitleAudioMale": {
+    "message": "Masculine"
+  },
+  "subtitleAudioPage": {
+    "message": "Pagina {page} din {total}"
+  },
+  "subtitleAudioPrevious": {
+    "message": "Anterior"
+  },
+  "subtitleAudioNext": {
+    "message": "Următor"
+  },
+  "subtitleAudioPreview": {
+    "message": "Ascultați replica {index}"
+  },
+  "subtitleAudioStopPreview": {
+    "message": "Opriți redarea"
+  },
+  "subtitleAudioLanguage": {
+    "message": "Limba țintă"
+  },
+  "subtitleAudioVoiceType": {
+    "message": "Tip voce"
+  },
+  "subtitleAudioFree": {
+    "message": "Gratuite"
+  },
+  "subtitleAudioVideoSync": {
+    "message": "Previzualizarea urmează coloana sonoră exportată. Sunetul original al videoclipului este dezactivat."
+  },
+  "subtitleAudioTimelineTitle": {
+    "message": "Pistă audio"
+  },
+  "subtitleAudioLayoutOnly": {
+    "message": "Pozițiile subtitrărilor · forma de undă e disponibilă după export"
+  },
+  "subtitleAudioRealWave": {
+    "message": "Forma de undă a audio-ului exportat · faceți clic sau folosiți glisorul pentru a naviga"
+  },
+  "subtitleAudioTracks": {
+    "message": "Voci: {count} → un MP3"
+  },
+  "subtitleAudioTracksVideo": {
+    "message": "Voci: {count} → video dublat"
+  },
+  "subtitleAudioSeek": {
+    "message": "Navigați în fișierul exportat"
+  },
+  "subtitleAudioNoTimeline": {
+    "message": "Importați subtitrări pentru a vedea sincronizarea lor."
+  },
+  "subtitleAudioGenerate": {
+    "message": "Generați MP3"
+  },
+  "subtitleAudioGenerateVideo": {
+    "message": "Generați video dublat"
+  },
+  "subtitleAudioRegenerate": {
+    "message": "Generați din nou"
+  },
+  "subtitleAudioRegenerateVideo": {
+    "message": "Generați din nou videoclipul"
+  },
+  "subtitleAudioRetry": {
+    "message": "Reîncercați generarea"
+  },
+  "subtitleAudioCancel": {
+    "message": "Anulați"
+  },
+  "subtitleAudioCancelling": {
+    "message": "Se anulează…"
+  },
+  "subtitleAudioDownload": {
+    "message": "Descărcați MP3"
+  },
+  "subtitleAudioDownloadVideo": {
+    "message": "Descărcați video dublat"
+  },
+  "subtitleAudioWorking": {
+    "message": "Se generează vocile"
+  },
+  "subtitleAudioEncoding": {
+    "message": "Se construiește pista audio"
+  },
+  "subtitleAudioFinalizing": {
+    "message": "Se finalizează MP3-ul"
+  },
+  "subtitleAudioMuxing": {
+    "message": "Se adaugă coloana sonoră dublată la videoclip"
+  },
+  "subtitleAudioFinished": {
+    "message": "MP3-ul dvs. este gata"
+  },
+  "subtitleAudioFinishedVideo": {
+    "message": "Videoclipul dublat este gata"
+  },
+  "subtitleAudioCancelled": {
+    "message": "Generare anulată. Fragmentele vocale finalizate sunt păstrate în cache pentru reîncercare."
+  },
+  "subtitleAudioProgressNote": {
+    "message": "Păstrați această pagină deschisă. Puteți anula și relua folosind fragmentele din cache."
+  },
+  "subtitleAudioMissing": {
+    "message": "Replici fără voce: {count}. Alegeți câte o voce pentru fiecare replică sau folosiți „Aplicați vocea”."
+  },
+  "subtitleAudioEmptyText": {
+    "message": "Replici fără text: {count}. Adăugați text înainte de generare."
+  },
+  "subtitleAudioCacheNote": {
+    "message": "Vocile sunt generate de serviciul selectat. Subtitrările și fragmentele generate sunt păstrate în cache pe acest dispozitiv; audio și video sunt asamblate local."
+  },
+  "subtitleAudioRestored": {
+    "message": "Ciornă restaurată."
+  },
+  "subtitleAudioSaveError": {
+    "message": "Ciorna nu a putut fi salvată. Păstrați pagina deschisă pentru a nu pierde modificările."
+  },
+  "subtitleAudioFailed": {
+    "message": "Nu s-a putut finaliza. Fragmentele vocale finalizate sunt păstrate; reîncercați pentru a continua."
+  },
+  "subtitleAudioDetails": {
+    "message": "Detalii"
+  },
+  "subtitleAudioBadFile": {
+    "message": "Alegeți un fișier .srt în UTF-8 (maximum 2 MiB)."
+  },
+  "subtitleAudioEncodingError": {
+    "message": "Acest fișier nu este UTF-8 valid. Salvați-l ca UTF-8 și importați-l din nou."
+  },
+  "subtitleAudioImportFailed": {
+    "message": "Fișierul de subtitrare nu a putut fi citit. Verificați marcajele de timp și textul SRT."
+  },
+  "subtitleAudioInvalidVideo": {
+    "message": "Acest videoclip nu are o pistă de imagine lizibilă sau durata lui nu este disponibilă."
+  },
+  "subtitleAudioVideoLimitError": {
+    "message": "Acest videoclip depășește 3 ore, deci nu se poate exporta un video dublat. Alegeți un fișier mai scurt."
+  },
+  "subtitleAudioVideoStorageError": {
+    "message": "Spațiu liber insuficient pe acest computer pentru acest videoclip: sunt necesari aproximativ {needed} GB, iar browserul are la dispoziție {available} GB. Eliberați spațiu pe disc și încercați din nou sau alegeți un videoclip mai mic."
+  },
+  "subtitleAudioVideoCodecError": {
+    "message": "Acest dispozitiv nu poate copia acest codec video (de exemplu, HEVC). Exportul a fost oprit pentru a nu genera un fișier deteriorat. Încercați un MP4 H.264."
+  },
+  "subtitleAudioVideoAacUnsupported": {
+    "message": "Acest browser nu poate codifica audio AAC, așa că nu se poate exporta un videoclip dublat. Exportul MP3-ului dublat funcționează în continuare."
+  },
+  "subtitleAudioVideoCopyUnsupported": {
+    "message": "Codecul acestui videoclip nu poate fi exportat ca MP4 dublat. Exportul MP3-ului dublat funcționează în continuare; pentru video, folosește un MP4 H.264."
+  },
+  "subtitleAudioPreviewFailed": {
+    "message": "Această replică nu a putut fi ascultată. Verificați vocea selectată și conexiunea."
+  },
+  "subtitleAudioPlayBlocked": {
+    "message": "Audio-ul este gata. Apăsați Redare în playerul audio."
+  },
+  "subtitleAudioGeneralError": {
+    "message": "Operațiunea nu a putut fi finalizată. Verificați conexiunea și încercați din nou."
+  },
+  "subtitleAudioLimitError": {
+    "message": "Acest proiect depășește limitele acceptate: maximum 5.000 de replici și 3 ore, iar fiecare fragment vocal trebuie să dureze sub 60 de secunde."
+  },
+  "subtitleAudioStorageError": {
+    "message": "Spațiu de stocare local insuficient pentru acest export. Eliberați spațiu și reîncercați."
+  },
+  "subtitleAudioAccountError": {
+    "message": "Generarea vocilor necesită un cont valid și o cotă disponibilă. Verificați contul, apoi reîncercați."
+  },
+  "subtitleAudioPaused": {
+    "message": "În așteptare"
+  },
+  "subtitleAudioGeneratingCue": {
+    "message": "Se generează"
+  },
+  "subtitleAudioReadyCue": {
+    "message": "Gata"
+  },
+  "subtitleAudioErrorCue": {
+    "message": "Eșuat"
+  },
+  "subtitleAudioVoiceReset": {
+    "message": "Unele voci nu sunt disponibile cu aceste setări. Alegeți voci pentru replicile evidențiate."
+  },
+  "subtitleAudioConfirmReplace": {
+    "message": "Înlocuiți ciorna actuală de subtitrări?"
+  },
+  "subtitleAudioClearDraft": {
+    "message": "Eliminați toate subtitrările din această ciornă?"
+  },
+  "subtitleAudioOutputChanged": {
+    "message": "Setările s-au schimbat. Generați din nou pentru a actualiza descărcarea."
+  },
+  "subtitleAudioBrowserError": {
+    "message": "Acest browser nu a putut inițializa procesarea audio. Încercați un browser desktop actualizat."
+  },
+  "subtitleAudioOtherTabBusy": {
+    "message": "O altă filă generează sau redă audio-ul subtitrărilor. Așteptați să se termine sau închideți acea filă, apoi încercați din nou."
+  },
+  "uploadVideoLanguageLabel": {
+    "message": "Limba videoclipului (alegerea ei îmbunătățește precizia recunoașterii)"
+  },
+  "uploadVideoLanguageAuto": {
+    "message": "Detectare automată"
+  },
+  "subtitleAudioPreparing": {
+    "message": "Se împarte în propoziții și se traduce"
+  },
+  "subtitleAudioPrepareFailed": {
+    "message": "Subtitrările nu au putut fi împărțite sau traduse. Încercați din nou mai târziu."
+  },
+  "subtitleAudioSourceLanguage": {
+    "message": "Limba subtitrărilor"
+  },
+  "subtitleAudioSourceLanguageUnknown": {
+    "message": "Limba acestor subtitrări nu a putut fi detectată. Alegeți limba în care sunt scrise, apoi generați din nou."
+  },
+  "subtitleAudioPreparedNote": {
+    "message": "Împărțit în propoziții și tradus în {language} la fel ca la dublajul online. Puteți edita traducerile mai jos."
+  },
+  "subtitleAudioRestoreSource": {
+    "message": "Restaurează originalul"
+  },
+  "subtitleAudioRestoreSourceConfirm": {
+    "message": "Restaurarea originalului elimină modificările traducerilor; următorul export va împărți și traduce din nou. Continuați?"
+  },
+  "subtitleAudioLanguageChangedRetranslate": {
+    "message": "Limba dublajului s-a schimbat, așa că lista afișează din nou textul original. Va fi împărțit și tradus din nou la export."
+  },
+  "subtitleAudioCueTooLong": {
+    "message": "Rândul {index} este prea lung. Împărțiți-l în rânduri mai scurte și încercați din nou."
+  },
+  "subtitleAudioBackgroundOption": {
+    "message": "Mixează sunetul de fundal"
+  },
+  "subtitleAudioBackgroundHint": {
+    "message": "Sunetul de fundal al acestui videoclip (fără voci) a fost separat la încărcarea pentru recunoaștere. Se aude sub dublaj, ca la dublajul online."
+  },
+  "subtitleAudioDownloadingBackground": {
+    "message": "Se descarcă sunetul de fundal"
+  },
+  "subtitleAudioBackgroundFailed": {
+    "message": "Sunetul de fundal nu a putut fi descărcat. Încercați mai târziu sau debifați „Mixează sunetul de fundal” și exportați din nou."
+  },
+  "subtitleAudioPreparedSameLanguageNote": {
+    "message": "Subtitrările sunt deja în limba dublajului, așa că, conform setării „nu traduce aceeași limbă”, au fost doar împărțite în propoziții."
+  },
+  "dubbingToggleOn": {
+    "message": "Activează dublajul"
+  },
+  "dubbingToggleOff": {
+    "message": "Dezactivează dublajul"
+  },
+  "dubbingTogglePreparing": {
+    "message": "Se pregătește dublajul, așteaptă…"
+  },
+  "dubbingSwitchedOffNotice": {
+    "message": "Dublaj dezactivat, sunetul original a fost restabilit"
+  },
+  "dubbingSwitchedOnNotice": {
+    "message": "Dublaj activat"
+  },
+  "toggleDubbingCommand": {
+    "message": "Activează / dezactivează dublajul"
+  },
+  "spotifyPublicAudioShowNotFound": {
+    "message": "Audio este criptat, iar această emisiune nu are un flux de podcast public (poate fi exclusivitate Spotify)."
+  },
+  "spotifyPublicAudioEpisodeNotMatched": {
+    "message": "Audio este criptat și nu s-a găsit niciun episod corespunzător în fluxul de podcast public al emisiunii."
+  },
+  "spotifyPublicAudioLookupFailed": {
+    "message": "Nu s-a putut obține audio public pentru acest episod. Încercați din nou mai târziu."
+  }
+}
