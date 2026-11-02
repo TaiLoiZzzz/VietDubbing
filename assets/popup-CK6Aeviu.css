@@ -1,1 +1,28 @@
 [data-v-85535e24] .relative{width:100%}.volume-slider[data-v-a793dff7]{position:relative;width:100%;height:16px}.slider-input[data-v-a793dff7]{position:absolute;top:0;left:0;width:100%;height:100%;opacity:0;cursor:pointer;z-index:10}.slider-container[data-v-a793dff7],.slider-bg[data-v-a793dff7],.slider-progress[data-v-a793dff7]{position:absolute;top:0;left:0;width:100%;height:100%}.slider-bg svg[data-v-a793dff7],.slider-progress svg[data-v-a793dff7]{width:100%;height:100%}.slider-handle[data-v-a793dff7]{position:absolute;top:50%;width:8px;height:8px;background-color:#fff;border-radius:50%;transform:translate(-50%,-50%);box-shadow:0 1px 3px #0000004d;pointer-events:none;z-index:6}[data-v-b3f7fc2f] .relative{width:100%}.subtitle-size-slider[data-v-b939ba87]{position:relative;width:100%;height:16px}.slider-input[data-v-b939ba87]{position:absolute;top:0;left:0;width:100%;height:100%;opacity:0;cursor:pointer;z-index:10}.slider-container[data-v-b939ba87],.slider-bg[data-v-b939ba87],.slider-progress[data-v-b939ba87]{position:absolute;top:0;left:0;width:100%;height:100%}.slider-bg svg[data-v-b939ba87],.slider-progress svg[data-v-b939ba87]{width:100%;height:100%}.slider-handle[data-v-b939ba87]{position:absolute;top:50%;width:8px;height:8px;background-color:#fff;border-radius:50%;transform:translate(-50%,-50%);box-shadow:0 1px 3px #0000004d;pointer-events:none;z-index:6}.speaker-item[data-v-06318c76]{width:calc(50% - .5rem);min-width:calc(50% - .5rem);height:48px;padding:12px;display:flex;justify-content:space-between;align-items:center;flex:0 0 auto;border-radius:12px;border:1px solid rgba(0,0,0,.1);background:#fff}.custom-select-trigger[data-v-06318c76]{width:100%;height:24px;padding:0;display:flex;justify-content:space-between;align-items:center}.relative[data-v-06318c76]{display:flex;align-items:center;flex:1;margin-right:8px;min-width:80px}button[data-v-06318c76]{display:flex;align-items:center;justify-content:center;min-width:24px;min-height:24px;flex-shrink:0}.custom-dropdown[data-v-06318c76]{max-height:15rem;z-index:50;min-width:120px}
+/* Red & White Theme Polishing */
+html,body{background-color:#fff!important;color:#111827!important;min-width:384px;min-height:420px}
+.bg-violet-500,.bg-purple-600{background-color:#dc2626!important}
+.text-violet-700,.text-purple-600{color:#dc2626!important}
+.border-violet-200,.border-purple-200{border-color:#fca5a5!important}
+.bg-violet-50,.bg-purple-50{background-color:#fef2f2!important}
+.slider-progress svg path{stroke:#dc2626!important}
+header{border-bottom:1px solid #f3f4f6;padding-bottom:8px;margin-bottom:10px}
+header .flex.gap-2.items-center > div:first-child svg{display:none!important}
+header .flex.gap-2.items-center > div:first-child{width:26px!important;height:26px!important;background:url('/images/logo.png') center/contain no-repeat!important;display:inline-block!important}
+
+/* Disable link pointer and click on header logo/title */
+header .flex.gap-2.items-center {
+  cursor: default !important;
+  pointer-events: none !important;
+}
+
+/* Hide Login button, VIP button, and Subscribe button in popup header */
+header .w-20.h-8,
+header .flex.gap-3.items-center > div[style*="linear-gradient"],
+header .flex.gap-3.items-center > div.px-2.py-1,
+header .flex.gap-3.items-center > div[aria-label*="account"],
+header .flex.gap-3.items-center > div[aria-label*="Account"],
+header .flex.gap-3.items-center > div[aria-label*="tài khoản"],
+header .flex.gap-3.items-center > div[aria-label*="Tài khoản"] {
+  display: none !important;
+}
