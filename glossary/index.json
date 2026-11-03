@@ -1,0 +1,72 @@
+[
+  {
+    "id": "ai_ml",
+    "name": "Trí tuệ Nhân tạo & Khoa học Dữ liệu (AI / ML / Data Science)",
+    "description": "Machine Learning, Deep Learning, LLMs, NLP, Computer Vision, Data Science",
+    "file": "ai_ml.json",
+    "termsCount": 254
+  },
+  {
+    "id": "software_engineering",
+    "name": "Lập trình & Kỹ thuật Phần mềm (Software Engineering / DevOps)",
+    "description": "Architecture, Clean Code, Web Dev, Backend, Cloud, CI/CD, Containerization",
+    "file": "software_engineering.json",
+    "termsCount": 1931
+  },
+  {
+    "id": "cybersecurity_networks",
+    "name": "An ninh mạng & Mạng máy tính (Cybersecurity / Networking)",
+    "description": "Network Protocols, Cryptography, Exploits, Threat Detection, Infrastructure",
+    "file": "cybersecurity_networks.json",
+    "termsCount": 166
+  },
+  {
+    "id": "medicine_biotech",
+    "name": "Y học, Dược học & Công nghệ Sinh học (Medicine / Biotech)",
+    "description": "Molecular Biology, Genetics, Pharmacology, Immunology, Clinical Trials",
+    "file": "medicine_biotech.json",
+    "termsCount": 147
+  },
+  {
+    "id": "finance_economics",
+    "name": "Kinh tế, Tài chính & Đầu tư (Finance / Economics)",
+    "description": "Corporate Finance, Asset Management, Markets, Macroeconomics, Valuation",
+    "file": "finance_economics.json",
+    "termsCount": 142
+  },
+  {
+    "id": "math_statistics",
+    "name": "Toán học & Xác suất Thống kê (Mathematics / Statistics)",
+    "description": "Linear Algebra, Calculus, Probability, Optimization, Inferential Stats",
+    "file": "math_statistics.json",
+    "termsCount": 133
+  },
+  {
+    "id": "physics_astronomy",
+    "name": "Vật lý & Thiên văn học (Physics / Astronomy)",
+    "description": "Quantum Mechanics, Relativity, Thermodynamics, Astrophysics, Cosmology",
+    "file": "physics_astronomy.json",
+    "termsCount": 110
+  },
+  {
+    "id": "electronics_robotics",
+    "name": "Kỹ thuật Điện tử & Robotics (Electronics / Robotics / IoT)",
+    "description": "Circuits, Microcontrollers, Semiconductors, Sensors, Control Systems",
+    "file": "electronics_robotics.json",
+    "termsCount": 115
+  },
+  {
+    "id": "marketing_business",
+    "name": "Quản trị Kinh doanh & Digital Marketing (Business / Marketing)",
+    "description": "Product Strategy, Growth, E-commerce, Analytics, Funnels, Branding",
+    "file": "marketing_business.json",
+    "termsCount": 107
+  },
+  {
+    "id": "psychology_neuroscience",
+    "name": "Tâm lý học & Khoa học Thần kinh (Psychology / Neuroscience)",
+    "description": "Cognitive Psychology, Neurobiology, Behavioral Economics, Mental Health",
+    "file": "psychology_neuroscience.json",
+    "termsCount": 109
+  }
+]

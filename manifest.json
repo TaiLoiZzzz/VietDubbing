@@ -1,2 +1,341 @@
 {
-"manifest_version":3,"name":"__MSG_name__","description":"__MSG_description__","version":"5.0.0","icons":{"16":"icon/16.png","32":"icon/32.png","48":"icon/48.png","96":"icon/96.png","128":"icon/128.png"},"default_locale":"en","content_security_policy":{"extension_pages":"script-src 'self' 'wasm-unsafe-eval'; object-src 'self'"},"web_accessible_resources":[{"resources":["images/*"],"matches":["*://*/*"]},{"resources":["injectScript.js"],"matches":["*://*/*"]},{"resources":["iosInjectScript.js"],"matches":["*://*/*"]},{"resources":["content-scripts/sidebar.css"],"matches":["*://*/*"]}],"commands":{"swap-volume-settings":{"suggested_key":{"default":"Alt+S","mac":"Alt+S"},"description":"__MSG_swapVolumeSettingsCommand__"},"cycle-subtitle-mode":{"suggested_key":{"default":"Alt+C","mac":"Alt+C"},"description":"__MSG_cycleSubtitleModeCommand__"},"toggle-dubbing":{"suggested_key":{"default":"Alt+D","mac":"Alt+D"},"description":"__MSG_toggleDubbingCommand__"}},"permissions":["storage","contextMenus","activeTab","webRequest","webNavigation","declarativeNetRequest"],"host_permissions":["<all_urls>"],"background":{"service_worker":"background.js"},"action":{"default_title":"VietDub AI - Thuyết Minh YouTube","default_popup":"popup.html"},"options_ui":{"open_in_tab":true,"page":"options.html"},"content_scripts":[{"matches":["*://*/*"],"all_frames":true,"exclude_globs":["*://*.translate.goog/*","*://*.translate.google.*/*","*://*.translate.googleusercontent.com/*","*://translate.goog/*","*://translate.google.*/*","*://translate.googleusercontent.com/*"],"exclude_matches":["*://*.apple.com/iphone-18-pro","*://*.apple.com/iphone-18-pro/*","*://*.bear.app/*","*://*.chatgpt.com/*","*://*.google.com/*","*://*.linux.do/*","*://*.notion.com/*","*://*.readdy.ai/*","*://*.translate.goog/*","*://*/*.avif","*://*/*.bmp","*://*/*.gif","*://*/*.ico","*://*/*.jpeg","*://*/*.jpg","*://*/*.png","*://*/*.svg","*://*/*.tif","*://*/*.tiff","*://*/*.webp","*://*/*.xml","*://*/*.yaml","*://*/*.yml","*://apple.com/iphone-18-pro","*://apple.com/iphone-18-pro/*","*://bear.app/*","*://chatgpt.com/*","*://discord.com/*","*://java2ai.com/docs/*","*://linux.do/*","*://notion.com/*","*://readdy.ai/*","*://repository.modelio.org/*","*://translate.goog/*","*://translate.google.com/*","*://translate.googleusercontent.com/*"],"css":["content-scripts/content.css"],"js":["content-scripts/content.js"]},{"matches":["*://drive.google.com/*"],"run_at":"document_end","css":["content-scripts/googleDriveButton.css"],"js":["content-scripts/googleDriveButton.js"]},{"matches":["https://kinescope.io/*"],"all_frames":true,"run_at":"document_start","js":["content-scripts/kinescopeEarlyCapture.js"],"world":"MAIN"},{"matches":["https://medality.com/collection/*","https://medality.com/course/*"],"run_at":"document_idle","css":["content-scripts/medality.css"],"js":["content-scripts/medality.js"]},{"matches":["https://player.vimeo.com/video/*"],"all_frames":true,"run_at":"document_idle","js":["content-scripts/medalityFrame.js"]},{"matches":["*://*/*"],"all_frames":true,"exclude_globs":["*://*.translate.goog/*","*://*.translate.google.*/*","*://*.translate.googleusercontent.com/*","*://translate.goog/*","*://translate.google.*/*","*://translate.googleusercontent.com/*"],"exclude_matches":["*://*.apple.com/iphone-18-pro","*://*.apple.com/iphone-18-pro/*","*://*.bear.app/*","*://*.chatgpt.com/*","*://*.google.com/*","*://*.linux.do/*","*://*.notion.com/*","*://*.readdy.ai/*","*://*.translate.goog/*","*://*/*.avif","*://*/*.bmp","*://*/*.gif","*://*/*.ico","*://*/*.jpeg","*://*/*.jpg","*://*/*.png","*://*/*.svg","*://*/*.tif","*://*/*.tiff","*://*/*.webp","*://*/*.xml","*://*/*.yaml","*://*/*.yml","*://apple.com/iphone-18-pro","*://apple.com/iphone-18-pro/*","*://bear.app/*","*://chatgpt.com/*","*://discord.com/*","*://java2ai.com/docs/*","*://linux.do/*","*://notion.com/*","*://readdy.ai/*","*://repository.modelio.org/*","*://translate.goog/*","*://translate.google.com/*","*://translate.googleusercontent.com/*"],"run_at":"document_start","js":["content-scripts/metadata.js"]},{"matches":["https://plannerly.com/courses/*/lesson/*"],"run_at":"document_idle","css":["content-scripts/plannerly.css"],"js":["content-scripts/plannerly.js"]},{"matches":["https://www.youtube.com/embed/*"],"all_frames":true,"run_at":"document_idle","js":["content-scripts/plannerlyFrame.js"]},{"matches":["*://*/*"],"exclude_globs":["*://*.translate.goog/*","*://*.translate.google.*/*","*://*.translate.googleusercontent.com/*","*://translate.goog/*","*://translate.google.*/*","*://translate.googleusercontent.com/*"],"exclude_matches":["*://*.apple.com/iphone-18-pro","*://*.apple.com/iphone-18-pro/*","*://*.bear.app/*","*://*.chatgpt.com/*","*://*.linux.do/*","*://*.notion.com/*","*://*.readdy.ai/*","*://*.translate.goog/*","*://*/*.avif","*://*/*.bmp","*://*/*.gif","*://*/*.ico","*://*/*.jpeg","*://*/*.jpg","*://*/*.png","*://*/*.svg","*://*/*.tif","*://*/*.tiff","*://*/*.webp","*://*/*.xml","*://*/*.yaml","*://*/*.yml","*://apple.com/iphone-18-pro","*://apple.com/iphone-18-pro/*","*://bear.app/*","*://chatgpt.com/*","*://discord.com/*","*://java2ai.com/docs/*","*://linux.do/*","*://notion.com/*","*://readdy.ai/*","*://repository.modelio.org/*","*://translate.goog/*","*://translate.google.com/*","*://translate.googleusercontent.com/*"],"js":["content-scripts/sidebar.js"]}]}
+  "manifest_version": 3,
+  "name": "__MSG_name__",
+  "description": "__MSG_description__",
+  "version": "5.0.0",
+  "icons": {
+    "16": "icon/16.png",
+    "32": "icon/32.png",
+    "48": "icon/48.png",
+    "96": "icon/96.png",
+    "128": "icon/128.png"
+  },
+  "default_locale": "en",
+  "content_security_policy": {
+    "extension_pages": "script-src 'self' 'wasm-unsafe-eval'; object-src 'self'"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "images/*"
+      ],
+      "matches": [
+        "*://*/*"
+      ]
+    },
+    {
+      "resources": [
+        "injectScript.js"
+      ],
+      "matches": [
+        "*://*/*"
+      ]
+    },
+    {
+      "resources": [
+        "iosInjectScript.js"
+      ],
+      "matches": [
+        "*://*/*"
+      ]
+    },
+    {
+      "resources": [
+        "content-scripts/sidebar.css"
+      ],
+      "matches": [
+        "*://*/*"
+      ]
+    },
+    {
+      "resources": [
+        "glossary/*"
+      ],
+      "matches": [
+        "*://*/*"
+      ]
+    }
+  ],
+  "commands": {
+    "swap-volume-settings": {
+      "suggested_key": {
+        "default": "Alt+S",
+        "mac": "Alt+S"
+      },
+      "description": "__MSG_swapVolumeSettingsCommand__"
+    },
+    "cycle-subtitle-mode": {
+      "suggested_key": {
+        "default": "Alt+C",
+        "mac": "Alt+C"
+      },
+      "description": "__MSG_cycleSubtitleModeCommand__"
+    },
+    "toggle-dubbing": {
+      "suggested_key": {
+        "default": "Alt+D",
+        "mac": "Alt+D"
+      },
+      "description": "__MSG_toggleDubbingCommand__"
+    }
+  },
+  "permissions": [
+    "storage",
+    "contextMenus",
+    "activeTab",
+    "webRequest",
+    "webNavigation",
+    "declarativeNetRequest"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "VietDub AI - Thuyết Minh YouTube",
+    "default_popup": "popup.html"
+  },
+  "options_ui": {
+    "open_in_tab": true,
+    "page": "options.html"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*/*"
+      ],
+      "all_frames": true,
+      "exclude_globs": [
+        "*://*.translate.goog/*",
+        "*://*.translate.google.*/*",
+        "*://*.translate.googleusercontent.com/*",
+        "*://translate.goog/*",
+        "*://translate.google.*/*",
+        "*://translate.googleusercontent.com/*"
+      ],
+      "exclude_matches": [
+        "*://*.apple.com/iphone-18-pro",
+        "*://*.apple.com/iphone-18-pro/*",
+        "*://*.bear.app/*",
+        "*://*.chatgpt.com/*",
+        "*://*.google.com/*",
+        "*://*.linux.do/*",
+        "*://*.notion.com/*",
+        "*://*.readdy.ai/*",
+        "*://*.translate.goog/*",
+        "*://*/*.avif",
+        "*://*/*.bmp",
+        "*://*/*.gif",
+        "*://*/*.ico",
+        "*://*/*.jpeg",
+        "*://*/*.jpg",
+        "*://*/*.png",
+        "*://*/*.svg",
+        "*://*/*.tif",
+        "*://*/*.tiff",
+        "*://*/*.webp",
+        "*://*/*.xml",
+        "*://*/*.yaml",
+        "*://*/*.yml",
+        "*://apple.com/iphone-18-pro",
+        "*://apple.com/iphone-18-pro/*",
+        "*://bear.app/*",
+        "*://chatgpt.com/*",
+        "*://discord.com/*",
+        "*://java2ai.com/docs/*",
+        "*://linux.do/*",
+        "*://notion.com/*",
+        "*://readdy.ai/*",
+        "*://repository.modelio.org/*",
+        "*://translate.goog/*",
+        "*://translate.google.com/*",
+        "*://translate.googleusercontent.com/*"
+      ],
+      "css": [
+        "content-scripts/content.css"
+      ],
+      "js": [
+        "content-scripts/content.js"
+      ]
+    },
+    {
+      "matches": [
+        "*://drive.google.com/*"
+      ],
+      "run_at": "document_end",
+      "css": [
+        "content-scripts/googleDriveButton.css"
+      ],
+      "js": [
+        "content-scripts/googleDriveButton.js"
+      ]
+    },
+    {
+      "matches": [
+        "https://kinescope.io/*"
+      ],
+      "all_frames": true,
+      "run_at": "document_start",
+      "js": [
+        "content-scripts/kinescopeEarlyCapture.js"
+      ],
+      "world": "MAIN"
+    },
+    {
+      "matches": [
+        "https://medality.com/collection/*",
+        "https://medality.com/course/*"
+      ],
+      "run_at": "document_idle",
+      "css": [
+        "content-scripts/medality.css"
+      ],
+      "js": [
+        "content-scripts/medality.js"
+      ]
+    },
+    {
+      "matches": [
+        "https://player.vimeo.com/video/*"
+      ],
+      "all_frames": true,
+      "run_at": "document_idle",
+      "js": [
+        "content-scripts/medalityFrame.js"
+      ]
+    },
+    {
+      "matches": [
+        "*://*/*"
+      ],
+      "all_frames": true,
+      "exclude_globs": [
+        "*://*.translate.goog/*",
+        "*://*.translate.google.*/*",
+        "*://*.translate.googleusercontent.com/*",
+        "*://translate.goog/*",
+        "*://translate.google.*/*",
+        "*://translate.googleusercontent.com/*"
+      ],
+      "exclude_matches": [
+        "*://*.apple.com/iphone-18-pro",
+        "*://*.apple.com/iphone-18-pro/*",
+        "*://*.bear.app/*",
+        "*://*.chatgpt.com/*",
+        "*://*.google.com/*",
+        "*://*.linux.do/*",
+        "*://*.notion.com/*",
+        "*://*.readdy.ai/*",
+        "*://*.translate.goog/*",
+        "*://*/*.avif",
+        "*://*/*.bmp",
+        "*://*/*.gif",
+        "*://*/*.ico",
+        "*://*/*.jpeg",
+        "*://*/*.jpg",
+        "*://*/*.png",
+        "*://*/*.svg",
+        "*://*/*.tif",
+        "*://*/*.tiff",
+        "*://*/*.webp",
+        "*://*/*.xml",
+        "*://*/*.yaml",
+        "*://*/*.yml",
+        "*://apple.com/iphone-18-pro",
+        "*://apple.com/iphone-18-pro/*",
+        "*://bear.app/*",
+        "*://chatgpt.com/*",
+        "*://discord.com/*",
+        "*://java2ai.com/docs/*",
+        "*://linux.do/*",
+        "*://notion.com/*",
+        "*://readdy.ai/*",
+        "*://repository.modelio.org/*",
+        "*://translate.goog/*",
+        "*://translate.google.com/*",
+        "*://translate.googleusercontent.com/*"
+      ],
+      "run_at": "document_start",
+      "js": [
+        "content-scripts/metadata.js"
+      ]
+    },
+    {
+      "matches": [
+        "https://plannerly.com/courses/*/lesson/*"
+      ],
+      "run_at": "document_idle",
+      "css": [
+        "content-scripts/plannerly.css"
+      ],
+      "js": [
+        "content-scripts/plannerly.js"
+      ]
+    },
+    {
+      "matches": [
+        "https://www.youtube.com/embed/*"
+      ],
+      "all_frames": true,
+      "run_at": "document_idle",
+      "js": [
+        "content-scripts/plannerlyFrame.js"
+      ]
+    },
+    {
+      "matches": [
+        "*://*/*"
+      ],
+      "exclude_globs": [
+        "*://*.translate.goog/*",
+        "*://*.translate.google.*/*",
+        "*://*.translate.googleusercontent.com/*",
+        "*://translate.goog/*",
+        "*://translate.google.*/*",
+        "*://translate.googleusercontent.com/*"
+      ],
+      "exclude_matches": [
+        "*://*.apple.com/iphone-18-pro",
+        "*://*.apple.com/iphone-18-pro/*",
+        "*://*.bear.app/*",
+        "*://*.chatgpt.com/*",
+        "*://*.linux.do/*",
+        "*://*.notion.com/*",
+        "*://*.readdy.ai/*",
+        "*://*.translate.goog/*",
+        "*://*/*.avif",
+        "*://*/*.bmp",
+        "*://*/*.gif",
+        "*://*/*.ico",
+        "*://*/*.jpeg",
+        "*://*/*.jpg",
+        "*://*/*.png",
+        "*://*/*.svg",
+        "*://*/*.tif",
+        "*://*/*.tiff",
+        "*://*/*.webp",
+        "*://*/*.xml",
+        "*://*/*.yaml",
+        "*://*/*.yml",
+        "*://apple.com/iphone-18-pro",
+        "*://apple.com/iphone-18-pro/*",
+        "*://bear.app/*",
+        "*://chatgpt.com/*",
+        "*://discord.com/*",
+        "*://java2ai.com/docs/*",
+        "*://linux.do/*",
+        "*://notion.com/*",
+        "*://readdy.ai/*",
+        "*://repository.modelio.org/*",
+        "*://translate.goog/*",
+        "*://translate.google.com/*",
+        "*://translate.googleusercontent.com/*"
+      ],
+      "js": [
+        "content-scripts/sidebar.js"
+      ]
+    }
+  ]
+}
