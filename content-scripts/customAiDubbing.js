@@ -476,28 +476,24 @@ ${JSON.stringify(cleanJsonList, null, 2)}`;
       };
     }
 
-    // E. Hook vào dubbingEngine setter để tự động triệt tiêu chế độ Ducking (tắt tiếng video khi nói)
-    if (!player._hasDubbingEnginePropertyHook) {
-      player._hasDubbingEnginePropertyHook = true;
-      let _engine = player.dubbingEngine;
-      try {
-        Object.defineProperty(player, "dubbingEngine", {
-          configurable: true,
-          enumerable: true,
-          get: () => _engine,
-          set: (newEng) => {
-            _engine = newEng;
-            if (newEng && player._customAiActive) {
-              neutralizeDucking(newEng);
-            }
+    // E. Hook vào startRealtimeDubbing để đảm bảo videoId hợp lệ, nạp phụ đề AI và vô hiệu hóa Ducking
+    if (!player._origStartRealtimeDubbing && typeof player.startRealtimeDubbing === "function") {
+      player._origStartRealtimeDubbing = player.startRealtimeDubbing.bind(player);
+      player.startRealtimeDubbing = async function (meta, med, isMem, hasMem, rate) {
+        if (player._customAiActive && window._vietdubCustomSubtitles) {
+          if (!meta) meta = {};
+          meta.subtitles = window._vietdubCustomSubtitles;
+          meta.originSubtitles = window._vietdubCustomSubtitles;
+          if (typeof player.getVid === "function" && med) {
+            meta.videoId = player.getVid(med);
           }
-        });
-      } catch (e) {
-        console.warn("[VietDub AI] Không thể defineProperty dubbingEngine:", e);
-      }
-      if (_engine && player._customAiActive) {
-        neutralizeDucking(_engine);
-      }
+        }
+        const res = await player._origStartRealtimeDubbing(meta, med, isMem, hasMem, rate);
+        if (player._customAiActive && player.dubbingEngine) {
+          neutralizeDucking(player.dubbingEngine);
+        }
+        return res;
+      };
     }
 
     // F. Chặn shouldSkipTranslationForMetadata (không bao giờ bỏ qua dịch sang tiếng Việt)
@@ -522,53 +518,60 @@ ${JSON.stringify(cleanJsonList, null, 2)}`;
       return Math.max(0, Math.min(1, orig / 100));
     };
 
-    // Ghi đè bộ điều khiển âm lượng video
-    engine.initVideoVolumeControl = function () {
-      return {
-        updateVideoOriginVolume: () => {
-          if (this.media) {
-            const tv = getTargetVol();
-            this.media.muted = (tv === 0);
-            this.media.volume = tv;
-          }
-        },
-        closeVideoOriginVolume: () => {
-          // TUYỆT ĐỐI KHÔNG MUTE KHI NÓI - DUY TRÌ ÂM LƯỢNG GỐC SONG SONG
-          if (this.media) {
-            const tv = getTargetVol();
-            this.media.muted = (tv === 0);
-            this.media.volume = tv;
-          }
-        },
-        openVideoOriginVolume: () => {
-          // TUYỆT ĐỐI KHÔNG NHẢY VỌT LÊN 100% - GIỮ ĐÚNG ÂM LƯỢNG NGƯỜI DÙNG CHỌN
-          if (this.media) {
-            const tv = getTargetVol();
-            this.media.muted = (tv === 0);
-            this.media.volume = tv;
-          }
-        },
-        terminate: () => {}
-      };
+    // 1. Tắt bộ điều khiển volume cũ nếu có
+    if (engine.videoVolumeControl) {
+      try {
+        if (typeof engine.videoVolumeControl.terminate === "function") {
+          engine.videoVolumeControl.terminate();
+        }
+      } catch (e) {}
+    }
+
+    // 2. Ghi đè bộ điều khiển âm lượng video: Giữ âm lượng video không bao giờ bị tắt tiếng khi thuyết minh
+    engine.videoVolumeControl = {
+      updateVideoOriginVolume: () => {
+        if (engine.media) {
+          const tv = getTargetVol();
+          engine.media.muted = (tv === 0);
+          engine.media.volume = tv;
+        }
+      },
+      closeVideoOriginVolume: () => {
+        // TUYỆT ĐỐI KHÔNG MUTE KHI NÓI - DUY TRÌ ÂM LƯỢNG GỐC SONG SONG
+        if (engine.media) {
+          const tv = getTargetVol();
+          engine.media.muted = (tv === 0);
+          engine.media.volume = tv;
+        }
+      },
+      openVideoOriginVolume: () => {
+        // TUYỆT ĐỐI KHÔNG NHẢY VỌT LÊN 100% - GIỮ ĐÚNG ÂM LƯỢNG NGƯỜI DÙNG CHỌN
+        if (engine.media) {
+          const tv = getTargetVol();
+          engine.media.muted = (tv === 0);
+          engine.media.volume = tv;
+        }
+      },
+      terminate: () => {}
     };
 
-    engine.videoVolumeControl = engine.initVideoVolumeControl();
+    engine.initVideoVolumeControl = function () {
+      return engine.videoVolumeControl;
+    };
 
-    // Vô hiệu hóa track origin ducking cues nếu có
-    if (engine.media && engine.media.textTracks) {
-      for (let i = 0; i < engine.media.textTracks.length; i++) {
-        const tr = engine.media.textTracks[i];
-        if (tr.label && tr.label.startsWith("youtube-dubbing-origin-")) {
-          tr.mode = "disabled";
-          if (tr.cues) {
-            while (tr.cues.length > 0) {
-              try { tr.removeCue(tr.cues[0]); } catch (e) { break; }
-            }
+    // 3. Vô hiệu hóa track origin ducking cues an toàn (tránh lỗi DOMException trong Chrome)
+    try {
+      if (engine.media && engine.media.textTracks) {
+        for (let i = 0; i < engine.media.textTracks.length; i++) {
+          const tr = engine.media.textTracks[i];
+          if (tr && tr.label && tr.label.startsWith("youtube-dubbing-origin-")) {
+            tr.mode = "disabled";
           }
         }
       }
-    }
+    } catch (e) {}
 
+    // 4. Áp dụng âm lượng thẻ video gốc ngay
     if (engine.media) {
       const tv = getTargetVol();
       engine.media.muted = (tv === 0);
@@ -672,6 +675,10 @@ ${JSON.stringify(cleanJsonList, null, 2)}`;
     if (!meta && window.metaDataStorage && typeof player.getVid === "function") {
       const vid = player.getVid(media);
       if (vid) meta = window.metaDataStorage.getMetadata(vid);
+    }
+    if (!meta && player.metadataStorage && typeof player.getVid === "function") {
+      const vid = player.getVid(media);
+      if (vid) meta = player.metadataStorage.getMetadata(vid);
     }
     if (!meta) {
       throw new Error("Không lấy được thông tin video từ YouTube. Vui lòng thử lại sau vài giây.");
@@ -953,27 +960,17 @@ ${JSON.stringify(cleanJsonList, null, 2)}`;
         installCustomAiHooks(player);
         player._customAiActive = true;
 
-        if (!player.metadata) player.metadata = {};
-
-        // 1. DỪNG ENGINE CŨ TRƯỚC TIÊN (không xóa bản dịch mới)
-        if (player.dubbingEngine) {
-          try {
-            await player.dubbingEngine.destroy(false);
-          } catch (e) {}
-          player.dubbingEngine = null;
-          player.isDubbingStarted = false;
-        }
-
         // Tự động tắt phụ đề CC gốc của YouTube nếu đang bật (tránh bị đè chữ tiếng Anh của YouTube)
         const ytpSubtitlesBtn = document.querySelector(".ytp-subtitles-button");
         if (ytpSubtitlesBtn && ytpSubtitlesBtn.getAttribute("aria-pressed") === "true") {
           ytpSubtitlesBtn.click();
         }
 
-        // 2. Chuẩn hóa toàn bộ mảng JSON nạp vào với cơ chế Getter/Setter bảo vệ bản dịch
+        // 1. Chuẩn hóa toàn bộ mảng JSON nạp vào:
+        // Đặt THUẦN TIẾNG VIỆT vào TẤT CẢ các trường: text, aiTranslation, googleTranslation, translation
+        // Tuyệt đối không giữ lại tiếng Anh để tránh YouTube Player hay Edge TTS đọc/hiển thị tiếng Anh!
         const finalSubs = parsed.map((item, idx) => {
           const trans = (item.aiTranslation || item.translation || item.text || "").trim();
-          const orig = (item.text || trans).trim();
           const start = Number(item.start) || 0;
           const end = Number(item.end) || (start + 2);
           const dur = Number(item.dur) || Math.max(0.5, end - start);
@@ -983,7 +980,8 @@ ${JSON.stringify(cleanJsonList, null, 2)}`;
             start: Number(start.toFixed(2)),
             end: Number(end.toFixed(2)),
             dur: Number(dur.toFixed(2)),
-            text: orig, // Giữ câu gốc để hiển thị song ngữ nếu cần
+            text: trans, // Gán luôn text bằng tiếng Việt để Edge TTS & Subtitle render thuần tiếng Việt 100%
+            translation: trans,
             isCustomAi: true
           };
 
@@ -1020,31 +1018,78 @@ ${JSON.stringify(cleanJsonList, null, 2)}`;
           delete s.segments;
         });
 
-        // 3. Nạp thẳng mảng phụ đề thuần Việt 100% vào metadata
-        player.metadata.subtitles = finalSubs;
+        // 2. Kích hoạt cờ AI và lưu phụ đề vào window._vietdubCustomSubtitles
         window._vietdubCustomSubtitles = finalSubs;
+
+        // 3. Lấy videoId thực tế từ thẻ video & YouTube Player
+        const vid = typeof player.getVid === "function" ? player.getVid(media) : null;
+
+        // 4. Chuẩn bị metadata hoàn chỉnh với videoId chính xác
+        let meta = player.metadata;
+        if (!meta || !meta.videoId) {
+          if (typeof player.getMetadata === "function") {
+            try {
+              meta = await Promise.race([
+                player.getMetadata(media),
+                new Promise((_, reject) => setTimeout(() => reject(new Error("Timeout")), 1000))
+              ]);
+            } catch (e) {}
+          }
+          if (!meta && window.metaDataStorage && vid) {
+            meta = window.metaDataStorage.getMetadata(vid);
+          }
+          if (!meta && player.metadataStorage && vid) {
+            meta = player.metadataStorage.getMetadata(vid);
+          }
+        }
+        if (!meta) {
+          meta = {
+            videoId: vid || "custom_video",
+            title: document.title || "Video",
+            duration: media.duration || 0,
+            subtitleLevel: 1,
+            originSubtitles: [],
+            subtitles: []
+          };
+        }
+        if (vid) meta.videoId = vid;
+        meta.subtitles = finalSubs;
+        meta.originSubtitles = finalSubs;
+        player.metadata = meta;
+
+        // Đồng bộ vào metadataStorage nếu có
+        try {
+          if (vid) {
+            if (window.metaDataStorage) window.metaDataStorage.saveMetadata(vid, meta);
+            if (player.metadataStorage) player.metadataStorage.saveMetadata(vid, meta);
+          }
+        } catch (e) {}
 
         // Cập nhật âm lượng đã chọn
         const origVal = Number(sliderOrig.value);
         const transVal = Number(sliderTrans.value);
         applyVolumeSettings(origVal, transVal);
 
-        showStatus(modal, `Đã nạp ${finalSubs.length} câu dịch thuần Việt! Đang khởi tạo Edge-TTS...`, "success");
+        showStatus(modal, `Đã nạp ${finalSubs.length} câu dịch thuần Việt! Đang khởi động lồng tiếng...`, "success");
 
-        // 4. Khởi động Dubbing Engine với bản dịch AI mới
+        // 5. DỪNG ENGINE CŨ TRƯỚC TIÊN (không xóa bản dịch mới)
+        if (player.dubbingEngine) {
+          try {
+            await player.dubbingEngine.destroy(false);
+          } catch (e) {}
+          player.dubbingEngine = undefined;
+        }
+        player.isDubbingStarted = false;
+
+        // 6. Khởi động Dubbing Engine với bản dịch AI mới
         setTimeout(async () => {
           closeModal();
           try {
-            player.isDubbingStarted = true;
-            if (typeof player.changePlayBtnState === "function") {
-              player.changePlayBtnState(player.metadata.subtitleLevel || 1);
-            }
-
-            // Ưu tiên chạy startRealtimeDubbing trực tiếp để tránh qua Vg Google Translate
-            if (typeof player.startRealtimeDubbing === "function") {
-              await player.startRealtimeDubbing(player.metadata, media, true, true, 1);
-            } else if (typeof player.start === "function") {
+            // Thử khởi động bằng player.start() trước (chạy đầy đủ các bước chuẩn bị của extension)
+            if (typeof player.start === "function") {
               await player.start();
+            } else if (typeof player.startRealtimeDubbing === "function") {
+              await player.startRealtimeDubbing(player.metadata, media, true, true, media.playbackRate || 1);
             }
 
             // Triệt tiêu ngay cơ chế Ducking của engine mới tạo và thiết lập âm lượng video song song
@@ -1055,9 +1100,20 @@ ${JSON.stringify(cleanJsonList, null, 2)}`;
 
             console.log("[VietDub AI] Đã kích hoạt lồng tiếng AI thuần Việt chạy SONG SONG với âm lượng tiếng gốc:", origVal);
           } catch (e) {
-            console.error("[VietDub AI] Lỗi khi kích hoạt lồng tiếng:", e);
+            console.error("[VietDub AI] player.start gặp lỗi, thử fallback startRealtimeDubbing:", e);
+            try {
+              if (typeof player.startRealtimeDubbing === "function") {
+                await player.startRealtimeDubbing(player.metadata, media, true, true, media.playbackRate || 1);
+                if (player.dubbingEngine) {
+                  neutralizeDucking(player.dubbingEngine);
+                }
+                applyVolumeSettings(origVal, transVal);
+              }
+            } catch (err2) {
+              console.error("[VietDub AI] Fallback startRealtimeDubbing thất bại:", err2);
+            }
           }
-        }, 600);
+        }, 400);
 
       } catch (err) {
         showStatus(modal, `Lỗi đọc JSON: ${err.message}`, "error");
